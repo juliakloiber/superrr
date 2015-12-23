@@ -9,3 +9,11 @@
   padding-top: 0px;
 }
 
+.jumbotron {
+  height: 400px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+}
