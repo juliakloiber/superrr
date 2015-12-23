@@ -4,7 +4,6 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1326.724px" height="377.584px" viewBox="0 0 1326.724 377.584" enable-background="new 0 0 1326.724 377.584"
 	 xml:space="preserve">
-<rect x="1.357" y="298.05" fill="#FFFFFF" width="1326.366" height="76.314"/>
 <rect x="1144.603" y="-2.228" width="182.945" height="301.002"/>
 <rect x="962.56" y="-2.228" width="182.945" height="301.002"/>
 <rect x="584.981" y="-2.82" fill="#5057AF" width="194.661" height="301.002"/>
@@ -12,6 +11,7 @@
 <rect x="390.32" y="-2.82" fill="#45B964" width="194.661" height="301.002"/>
 <rect x="195.66" y="-2.82" fill="#45B9B3" width="194.66" height="301.002"/>
 <rect x="1" y="-2.82" fill="#B550BD" width="194.66" height="301.002"/>
+<rect x="1.357" y="298.05" fill="#FFFFFF" width="1326.366" height="76.314"/>
 <g>
 	<path d="M87.565,234.447c-13.084,0-25.928-2.181-38.529-5.089v-19.386c12.844,5.332,26.655,8.724,40.712,8.724
 		c17.932,0,36.106-8.239,36.106-28.595c0-18.659-13.57-25.687-27.867-33.684l-14.782-8.239
