@@ -1,4 +1,4 @@
-~~SUPERRR~~
+Welcome!
 
 Superrr is a meetup for women*. 
 Host one in your city and send us a pull request!
