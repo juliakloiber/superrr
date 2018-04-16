@@ -1,0 +1,221 @@
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+.section {
+
+  &.fit-to-content-mobile {
+    height: 100vh;
+  }
+
+  &.city-teaser{
+    padding: 75px 0;
+  }
+
+}
+
+/*********************
+PAGE & SECTIONS
+*********************/
+a, p, li {
+  font-size: 1.6rem;
+}
+blockquote{
+  font-size: 4rem;
+}
+p {
+  line-height: 1.6em;
+}
+
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+
+h1, .h1 {
+  font-size: 3rem;
+}
+
+h2, .h2 {
+  font-size: 2.25rem;
+}
+
+h3, .h3 {
+  font-size: 2rem;
+}
+
+h4, .h4 {
+  font-size: 1.25rem;
+}
+
+h5, .h5 {
+  font-size: 0.846rem;
+}
+
+.text-block{
+
+  margin: 100px auto;
+  padding: 100px;
+}
+
+.content-wrap{
+  width: 800px;
+
+  &.shrinked{
+    width: 650px;
+  }
+
+}
+
+/*********************
+HEADER STYLES
+*********************/
+.header {
+  &.frontpage {
+    .logo-inner {
+      padding-left: 3vw;
+    }
+  }
+}
+
+/*********************
+MAIN NAV
+*********************/
+
+ul.main-nav {
+  li {
+
+  }
+}
+
+/*********************
+HOME
+*********************/
+.city-teaser-wrap{
+  display: flex;
+  div{
+    flex:1;
+  }
+}
+/*********************
+CITY
+*********************/
+
+.batch-wrap{
+  padding: 0px 50px 50px 50px;
+  &.city{
+    padding: 70px 50px 0 50px;
+  }
+}
+
+.city-wrap{
+  padding: 50px 50px 50px 0px;
+  text-align: left;
+}
+
+.event-info-wrap{
+
+  width: 70%;
+
+  .event-intro{
+    font-size: 3rem;
+  }
+  .event-date{
+    font-size: 4.25rem;
+  }
+  .event-tags{
+    font-size: 2rem;
+  }
+}
+
+.event-info-wrap{
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  text-align: left;
+  padding-bottom: 0;
+}
+
+.join-event{
+  text-align: left;
+  padding: 50px 0;
+}
+
+.event-content{
+  text-align: left;
+}
+
+.more-btn{
+  font-size: 2.25rem !important;
+}
+
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section{
+
+}
+
+/*********************
+CITY
+*********************/
+
+.event-info-wrap {
+
+}
+.event-date{
+  font-size: 4rem;
+}
+
+
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+  .newsletter-wrap {
+    padding-top: 150px;
+  }
+
+  .social {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    display: inline-block;
+    padding: 0;
+  }
+  .impressum-link{
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+    left:auto;
+    transform: translateX(0%);
+  }
+  .newsletter-wrap{
+    form{
+      h2{
+        font-size: 4em;
+        margin-bottom: 25px;
+      }
+      input[type="email"],input[type="text"]{
+        font-size: 3em;
+        width: 100%;
+        height: 75px;
+      }
+      .error-message, .success-message, .mc-status{
+        font-size: 2.25em;
+      }
+      .button {
+        font-size: 1.75em;
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="section right city-teaser col-xs-24 background-image background-{{ include.index }}">
+        <div class="row city-teaser-wrap">
+            <div class="col-xs-24 col-md-12 col-md-push-11">
+                <div class="batch-wrap fade-in">
+                    <a href="{{ city.link }}" class="batch-inner">
+                        <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
+                    </a>
+
+                </div>
+            </div>
+            <div class="col-xs-24 col-md-11 col-md-pull-11">
+                <div class="event-info-wrap">
+                    <div class="event-intro font-paelzer-grot-medium fade-in">{{ include.city }}</div>
+                    <div class="event-date font-paelzer-grot-medium fade-in">
+                        {{ include.event_date }}<br/>{{ include.event_year }}
+                    </div>
+                    <div class="event-tags fade-in">{{ include.tags }}</div>
+                    {% if include.deeplink != "false" %}
+                        <a class="event-link more-btn blue-hover" href="{{ city.link }}">
+                            <span class="more-btn-inner"><span>Rrread more!</span></span>
+                        </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

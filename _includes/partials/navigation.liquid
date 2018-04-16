@@ -1,0 +1,13 @@
+<div class="row">
+        <ul class="main-nav {{ include.page_type }} fade-in">
+            <div class="main-nav-inner">
+                {% assign base_dir = page.url | split:'/'  %}
+                {% assign base_dir = base_dir  %}
+                <li {% if base_dir[1] == 'about' %} class="current" {% endif %} ><a class="bg-hover" href="/about">ABOUT</a></li>
+                <li {% if base_dir[1] == 'code-of-conduct' %} class="current" {% endif %}><a class="bg-hover"  href="/code-of-conduct">CODE OF CONDUCT</a></li>
+                <li {% if base_dir[1] == 'contact' %} class="current" {% endif %}><a class="bg-hover" href="mailto:{{ site.contact_email }}">CONTACT</a></li>
+
+            </div>
+        </ul>
+        <!--<div class="nav-toggle"><span></span></div>-->
+</div>

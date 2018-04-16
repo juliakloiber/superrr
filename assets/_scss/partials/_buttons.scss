@@ -1,0 +1,133 @@
+@import 'variables';
+
+.more-btn{
+
+  font-family: $font-paelzer-grot-medium;
+  display: block;
+  padding-bottom: 30px;
+
+  @keyframes animate-up {
+    0% {
+      transform: translate(-50%,0%);
+    }
+    50% {
+      transform: translate(-50%,-25%);
+    }
+    100% {
+      transform: translate(-50%,0%);
+    }
+  }
+
+
+  .more-btn-inner{
+    position: relative;
+
+    span{
+      display: inline-block;
+    }
+
+    &:after{
+      background-image: url($baseurl + '/assets/img/static/icons/arrow-up.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      content: '';
+      position: relative;
+      width: 46px;
+      height: 68px;
+      display: block;
+      left:50%;
+      top: 30px;
+      transform: translateX(-50%);
+      animation: animate-up 1s ease-in-out infinite;
+    }
+
+  }
+
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+  .more-btn{
+
+    padding-bottom: 0;
+
+    @keyframes animate {
+      0% {
+        transform: translateX(0%);
+      }
+      50% {
+        transform: translateX(25%);
+      }
+      100% {
+        transform: translateX(0%);
+      }
+    }
+
+    &:before{
+      background-image: url($baseurl + '/assets/img/static/icons/arrow.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      content: '';
+      position: relative;
+      width: 68px;
+      height: 46px;
+      display: inline-block;
+      top:12px;
+      animation: animate 1s ease-in-out infinite;
+    }
+
+    .more-btn-inner{
+
+      padding-left: 20px;
+
+      &:after{
+        display: none;
+        animation: none;
+      }
+    }
+
+
+
+    &:hover{
+
+      span{
+        color: $third-color;
+      }
+
+      &:before{
+        background-image: url($baseurl + '/assets/img/static/icons/arrow-color.svg');
+      }
+
+    }
+
+    &.blue-hover{
+      &:hover{
+        span{
+          color: $primary-color;
+        }
+        &:before{
+          background-image: url($baseurl + '/assets/img/static/icons/arrow-blue.svg');
+        }
+      }
+    }
+
+  }
+
+} // end of media query
+
+@media only screen and (min-width: 1600px) {
+  .more-btn{
+    &:before{
+      top:8px;
+    }
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .more-btn{
+    &:before{
+      top:10px;
+    }
+  }
+}

@@ -1,82 +1,57 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title : Superrr welcome!
+type: frontpage
+---
+<div class="row">
+    <div class="section fullheight header-spacer">
 
-<head>
-<title>Superrr</title>
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="style.css?v=1" type="text/css" />
-
-</head>
-
-<body>
-
-<div class="container">
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-      <img class="img-responsive" src="img/superrr005-01.svg" alt="Superrr" >
     </div>
-  </div>
+</div>
+<div class="scroll-hint-wrap">
+    <div class="scroll-hint up-and-down">SCRRROLL</div>
+</div>
+<div class="row">
+    <!-- include navigation -->
+    <div class="section col-xs-24 home">
+        {% include partials/navigation.liquid page_type='frontpage' contact_email=site.contact_email %}
+        <div class="content-wrap intro-wrap content-block fade-in">
+            <p class="intro-text">Superrr is a community of women* in the arts, in science, tech, journalism, activism and more. Women who challenge the status quo by the work they do – through starting new programs and organisations, running campaigns, creating community spaces or developing and building things that try to make the world a better place.
 
-    <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr05.svg" alt="Superrr" >
-    </div>
-  </div>
+                We strive for diversity, fairness and equality. We believe that we can best achieve that by working together and by empowering and supporting one another.
 
-    <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr000.svg" alt="Superrr" >
-    </div>
-  </div>
+                We meet on a regular basis to come together, exchange new ideas and scheme on new collaborations. We combine our forces to fight for a free society in which everyone can live up to their potentials.
 
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr00.svg" alt="Superrr" >
-    </div>
-  </div>
+                The Superrr meetup series was started in 2015 in Berlin. The meetups are invite only. To stay up to date about projects and events add your email address below.
 
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr01.svg" alt="Superrr" >
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr02.svg" alt="Superrr" >
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr03.svg" alt="Superrr" >
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <img class="img-responsive" src="img/superrr04.svg" alt="Superrr" >
-    </div>
-  </div>
-
-
-
-
-  <div class="row">
-    <div class="col-xs-10 col-xs-offset-1">
-        <br><br>
-        <center>
-        <p style="font-family: Georgia"> ~ Cool Women. A Bar. Drinks. ~
-          <br>  ~ No Agenda. No Men*. No Bullshit. ~ </p><br>
-          <p style="font-family: Georgia" "text-align:left;"> ~ Host a #superrr in your city! Send us a <a href="https://github.com/zararah/superrr">pull request</a>. ~</p><br>
-          <p style="font-family: Georgia; font-size:9pt;">* gender labels are, of course, subject to your own desire for identification (or not!)</p><br>
-        </center>
+            </p>
+            <a class="more-btn intro-btn" href="/about">
+                <span class="more-btn-inner"><span>Learn more about Superrr.</span></span>
+            </a>
         </div>
     </div>
-  </div>
+    <!-- include cities -->
+    {% assign cities = site.cities | sort: 'order' %}
+    {% for city in cities %}
+        {% assign tags = city.tags | join:' ' %}
+        {% assign tags = "" | append:tags %}
 
-</body>
-</html>
+        {% assign index = forloop.index0 %}
+
+        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if thecycle == 'odd' %}
+            {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+        {% else %}
+    {% include sections/city-teaser-right.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+        {% endif %}
+
+    {% endfor %}
+</div>
+<!-- newsletter/social -->
+{% include partials/social.liquid %}
+<script>
+    var is_frontpage = true;
+</script>
+
+
+

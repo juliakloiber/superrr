@@ -1,0 +1,29 @@
+
+
+/*********************
+PAGE & SECTIONS
+*********************/
+
+a, p, li {
+  font-size: 1.4rem;
+}
+blockquote{
+  font-size: 4rem;
+}
+p {
+  line-height: 1.6em;
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section {
+
+  &.first {
+    padding-top: 50px;
+  }
+}
+

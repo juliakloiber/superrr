@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="section fit-to-content-mobile footer background-image-footer">
+        <div class="row newsletter-wrap fade-in">
+            <div class="col-xs-24 col-sm-16 col-sm-push-4 col-md-12 col-md-push-6 col-lg-10 col-lg-push-7">
+                {% include partials/mailchimp-signup.liquid %}
+            </div>
+        </div>
+
+        <div class="social">
+            <div class="touch">
+                <span>GET IN TOUCH</span><br/>
+            </div>
+            <ul class="fade-in">
+                {% if site.superrr_twitter != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_twitter }}">TWITTER</a></li>{% endif %}
+                {% if site.superrr_insta != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_insta }}">INSTAGRAM</a></li>{% endif %}
+                {% if site.superrr_facebook != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_facebook}}">FACEBOOK</a></li>{% endif %}
+                <li><a class="bg-hover" href="mailto:{{ site.contact_email }}">E-MAIL</a></li>
+            </ul>
+        </div>
+        <div class="impressum-link">
+            <a class="bg-hover" href="/impressum">IMPRESSUM</a>
+        </div>
+    </div>
+</div>

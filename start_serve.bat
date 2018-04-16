@@ -1,0 +1,1 @@
+start cmd /K bundle exec jekyll serve --watch

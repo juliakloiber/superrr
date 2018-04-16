@@ -1,0 +1,49 @@
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section {
+
+  &.first {
+    padding-top: 100px;
+  }
+}
+
+/*********************
+HOME
+*********************/
+.intro-text, .more-btn{
+  font-size: 2rem !important;
+}
+
+
+/*********************
+CITY
+*********************/
+
+.batch-wrap{
+  padding: 175px;
+  &.city{
+    padding: 50px 50px 0 200px;
+  }
+}
+
+.event-info-wrap{
+
+  width: 70%;
+
+  .event-intro{
+    font-size: 4.25rem;
+  }
+  .event-date{
+    font-size: 6.5rem;
+  }
+  .event-tags{
+
+  }
+}
+.more-btn{
+  font-size: 3.25rem !important;
+}

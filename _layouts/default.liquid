@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Superrr - No Agenda. No Men*. No Bullshit.">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/main.css?v={{ site.cachebust }}">
+    {% include favicon.liquid %}
+    {% include opengraph.liquid %}
+</head>
+<body>
+{% assign page_type = '' %}
+{% if page.type != ''%}
+    {% assign page_type = page.type %}
+{% endif %}
+{% include header.liquid page_type=page_type %}
+
+<div class="page-wrap col-xs-24">
+    {{ content }}
+</div>
+{% include footer.liquid %}

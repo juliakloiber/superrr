@@ -1,0 +1,135 @@
+/*********************
+HEADER STYLES
+*********************/
+.header{
+  .logo{
+    font-size: 7vw;
+    .logo-inner{
+      padding-left: 2vw;
+    }
+  }
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section {
+  &.first {
+    padding-top: 50px;
+  }
+}
+
+/*********************
+PAGE & SECTIONS
+*********************/
+a, p, li {
+  font-size: 1.75rem;
+  line-height: 1.75em;
+}
+blockquote{
+  font-size: 3.75rem;
+}
+
+.page-wrap{
+
+  .page-wrap{
+    p{
+      margin-bottom: 50px;
+    }
+  }
+
+  ol, ul{
+    li{
+      padding-left: 50px;
+    }
+  }
+
+}
+
+.text-block{
+  margin: 70px auto;
+  padding: 50px;
+}
+
+.content-wrap{
+  width: 85%;
+}
+
+/*********************
+MAIN NAV
+*********************/
+
+ul.main-nav {
+  li {
+    padding-right: 30px;
+    display: inline-block;
+    a{
+      font-size: 1.75rem;
+      padding: 4px 10px 4px 10px;
+    }
+  }
+}
+
+/*********************
+HOME
+*********************/
+.intro-text, .more-btn{
+  font-size: 1.75rem !important;
+  a{
+    font-size: 1.75rem !important;
+
+  }
+}
+
+/*********************
+CITY
+*********************/
+
+.city-wrap{
+  padding: 20px 50px;
+}
+
+
+.batch-wrap{
+  padding: 100px;
+  &.city{
+    padding: 20px 100px;
+  }
+}
+
+.event-info-wrap{
+  .event-intro{
+    font-size: 3.5rem;
+  }
+  .event-date{
+    font-size: 5rem;
+  }
+  .event-tags{
+    font-size: 3rem;
+  }
+}
+
+.more-btn{
+  font-size: 3.5rem !important;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+  .newsletter-wrap{
+    form{
+      input[type="email"],input[type="text"]{
+        margin-bottom: 25px;
+      }
+      .button {
+        padding: 15px 50px 15px 50px;
+        width: auto;
+      }
+    }
+  }
+}

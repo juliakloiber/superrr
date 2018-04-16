@@ -1,0 +1,261 @@
+/******************************************************************
+Generic helper classes
+******************************************************************/
+
+/* removes dotted lines around links*/
+a, a:active, a:focus {
+  outline: none;
+}
+
+*:not(input):not(textarea) {
+  -webkit-touch-callout: none; /* disable the IOS popup when long-press on a link */
+}
+
+*::selection {
+  background: $selection-background-color;
+  color: $selection-color;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px white inset !important;
+}
+
+.hidden{
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible{
+  visibility: hidden;
+}
+
+.no-padding{
+  padding: 0 !important;
+}
+
+.no-padding-left{
+  padding-left: 0 !important;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.lowercase{
+  text-transform: lowercase;
+}
+
+.fullwidth{
+  width:100%
+}
+.fullheight{
+  min-height: 100vh;
+}
+
+.centered{
+  text-align: center !important;
+}
+
+.align-left{
+  text-align: left !important;
+}
+
+.align-right{
+  text-align: right !important;
+}
+
+.relative{
+  position: relative;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.regular{
+  font-weight: 400;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.inactive {
+  cursor: default;
+}
+
+.grey{
+  color: $grey;
+}
+
+.black{
+  color: $black;
+}
+.white{
+  color: $white;
+}
+
+.blue{
+  color: $primary-color;
+}
+.red{
+  color: $secondary-color;
+}
+
+.bg-black{
+  background-color: $black;
+}
+.bg-white{
+  background-color: $white;
+}
+
+.bg-grey{
+  background-color: $grey;
+}
+
+.bg-blue{
+  background-color: $primary-color;
+}
+.bg-red{
+  background-color: $secondary-color;
+}
+
+.img-responsive{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.img-responsive-height{
+  width: auto;
+  height: 100%;
+  display: block;
+}
+
+.greyscale{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.flex{
+  display: flex;
+
+  &.same-height{
+    div{
+      flex:1;
+    }
+  }
+
+}
+
+/*********************
+classes for viewportChecker fadein
+*********************/
+
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+@-webkit-keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 20px, 0);
+    transform: translate3d(0, 20px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+
+/*********************
+animations
+*********************/
+
+@keyframes up-and-down {
+  0% {
+    transform: translateY(0%) rotate(-90deg);
+  }
+  50% {
+    transform: translateY(-30%) rotate(-90deg);
+  }
+  100% {
+    transform: translateY(0%) rotate(-90deg);
+  }
+}
+
+.up-and-down{
+  animation: up-and-down 1.5s ease-in-out infinite;
+}

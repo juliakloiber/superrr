@@ -1,0 +1,42 @@
+.nav-toggle {
+  cursor: pointer;
+  padding: 10px 30px 16px 0px;
+  display: inline-block;
+  position: absolute;
+  top:14px;
+  right:10px;
+  z-index: 20;
+}
+
+.nav-toggle span, .nav-toggle span:before, .nav-toggle span:after {
+  cursor: pointer;
+  border-radius: 1px;
+  height: 2px;
+  width: 24px;
+  position: absolute;
+  display: block;
+  content: '';
+  background-color: $primary-color;
+}
+.nav-toggle span:before {
+  top: -9px;
+}
+.nav-toggle span:after {
+  bottom: -9px;
+}
+
+.nav-toggle span, .nav-toggle span:before, .nav-toggle span:after {
+  transition: all 300ms ease-in-out;
+}
+.nav-toggle.active span {
+  background-color: transparent;
+}
+.nav-toggle.active span:before, .nav-toggle.active span:after {
+  top: 0;
+}
+.nav-toggle.active span:before {
+  transform: rotate(135deg);
+}
+.nav-toggle.active span:after {
+  transform: rotate(-135deg);
+}

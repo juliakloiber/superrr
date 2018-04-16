@@ -1,0 +1,29 @@
+/*********************
+HEADER STYLES
+*********************/
+.header{
+  .logo{
+    font-size: 6vw;
+  }
+}
+
+/*********************
+PAGE & SECTIONS
+*********************/
+
+.content-wrap{
+  width: 1000px;
+
+  &.shrinked{
+    width: 750px;
+  }
+
+}
+
+/*********************
+CITY
+*********************/
+
+.event-date{
+  font-size: 4.7rem;
+}

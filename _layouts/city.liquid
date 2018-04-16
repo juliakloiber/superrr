@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Superrr - No Agenda. No Men*. No Bullshit.">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/main.css?v={{ site.cachebust }}">
+    {% include favicon.liquid %}
+    {% include opengraph.liquid %}
+</head>
+<body>
+{% include header.liquid %}
+<div class="page-wrap col-xs-24">
+
+    {% assign tags = page.tags | join:' ' %}
+    {% assign tags = "" | append:tags %}
+    {% include partials/city.liquid hosts=page.hosts participants=page.participants img=page.img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags %}
+
+    <!-- newsletter/social -->
+    {% include partials/social.liquid %}
+
+</div>
+{% include footer.liquid %}

@@ -1,5 +1,59 @@
-name: "superrr"
-description: "superrr"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-url: "http://superrr.ninja"
-github.owner: "juliakloiber"
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "superrr.ninja"
+description: "Superrr is a community of women* in the arts, in science, tech, journalism, activism and more."
+lang: "de_DE"
+cachebust: "1.2"
+
+contact_email: superrr.berlin@gmail.com
+superrr_twitter: "http://twitter.com/superrrnetwork"
+superrr_facebook: ""
+superrr_insta: "https://www.instagram.com/superrrnetwork/"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-bootstrap-sass
+  - jekyll-autoprefixer
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - commands.txt
+  - start_serve.bat
+  - start_watch.bat
+
+# Collections
+collections:
+    cities:
+        output: true
+        permalink: /city/:path/
+
+
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          assets/_scss
+  #style:            :compressed

@@ -1,0 +1,56 @@
+@import 'sprite';
+@import 'mixins';
+
+$sprite: map-get($icons, sprite) !default;
+
+$baseFontSize: 16px !default;
+
+.accordion-closed{
+  &:before {
+    @include sprite(accordion-closed);
+    content: '';
+    float: left;
+  }
+}
+
+.accordion-opened{
+  &:before {
+    @include sprite(accordion-opened);
+    content: '';
+    float: left;
+  }
+}
+
+.arrow-down{
+  &:before {
+    @include sprite(arrow-down);
+    content: '';
+    float: left;
+  }
+}
+
+.arrow-right{
+  &:before {
+    @include sprite(arrow-right);
+    content: '';
+    float: left;
+  }
+}
+
+.arrow-up{
+  &:before {
+    @include sprite(arrow-up);
+    content: '';
+    float: left;
+  }
+}
+
+.link-arrow{
+  &:before {
+    @include sprite(link-arrow);
+    content: '';
+    float: left;
+  }
+}
+
+

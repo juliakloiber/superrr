@@ -1,0 +1,204 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+//define jekyll constants here to use em in _scss includes
+$baseurl: "{{ site.baseurl }}";
+
+// normalize: http://necolas.github.io/normalize.css/
+@import "partials/normalize";
+
+// Sass variables
+@import "partials/variables";
+
+// typography
+@import "partials/typography";
+
+// Sass functions
+@import "partials/functions";
+
+// import mixins
+@import "partials/mixins";
+
+// import helpers
+@import "partials/helpers";
+
+// import buttons
+@import "partials/buttons";
+
+// the grid - we use a bootstrap with 24 cols
+@import "partials/bootstrap-grid24";
+
+// modules
+@import "modules/nav-toggle";
+
+//spritesheet
+@import "../svg-build/sass/style";
+
+
+/*********************
+BASE (MOBILE) SIZE
+This are the mobile styles. It's what people see on their phones. If
+you set a great foundation, you won't need to add too many styles in
+the other stylesheets. Remember, keep it light: Speed is Important.
+*********************/
+
+// styles in base.scss
+@import "breakpoints/base";
+
+/*********************
+IPHONE 6
+This is for devices like the Galaxy Note or something that's
+larger than an iPhone but smaller than a tablet. Let's call them
+tweeners.
+*********************/
+@media only screen and (min-width: 375px) {
+
+  // styles in 375up.scss
+  @import "breakpoints/375up";
+
+} // end of media query
+
+/*********************
+IPHONE 6 PLUS
+This is for devices like the Galaxy Note or something that's
+larger than an iPhone but smaller than a tablet. Let's call them
+tweeners.
+*********************/
+@media only screen and (min-width: 414px) {
+
+  // styles in 414up.scss
+  @import "breakpoints/414up";
+
+} // end of media query
+
+/*********************
+IPAD portrait (col-sm)
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 768px) {
+
+  // styles in 768up.scss
+  @import "breakpoints/768up";
+
+} // end of media query
+
+/*********************
+IPAD landscape (col-md)
+*********************/
+@media only screen and (min-width: 1024px) {
+
+  // styles in 1024up.scss
+  @import "breakpoints/1024up";
+
+} // end of media query
+
+/*********************
+DESKTOP
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 1030px) {
+
+  // styles in 1030up.scss
+  @import "breakpoints/1030up";
+
+} // end of media query
+
+/*********************
+for now our breakpoint for burger menu
+*********************/
+@media only screen and (min-width: 1150px) {
+
+  // styles in 1150up.scss
+  @import "breakpoints/1150up";
+
+} // end of media query
+
+/*********************
+LARGE VIEWING SIZE (col-lg)
+This is for the larger monitors and possibly full screen viewers.
+*********************/
+@media only screen and (min-width: 1200px) {
+
+  // styles in 1200up.scss
+  @import "breakpoints/1200up";
+
+} // end of media query
+
+@media only screen and (min-width: 1300px) {
+
+  // styles in 1300up.scss
+  @import "breakpoints/1300up";
+
+} // end of media query
+
+@media only screen and (min-width: 1400px) {
+
+  // styles in 1400up.scss
+  @import "breakpoints/1400up";
+
+} // end of media query
+
+/*********************
+EVEN LARGER VIEWING SIZE
+This is for the xlarger monitors and possibly full screen viewers.
+*********************/
+@media only screen and (min-width: 1600px) {
+
+  // styles in 1600up.scss
+  @import "breakpoints/1600up";
+
+} // end of media query
+
+/*********************
+EVEN LARGER VIEWING SIZE (col-xlg)
+*********************/
+@media only screen and (min-width: 1920px) {
+
+  // styles in 1920up.scss
+  @import "breakpoints/1920up";
+
+} // end of media query
+
+/*********************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*********************/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+
+  // styles in 2x.scss
+  @import "breakpoints/2x";
+
+} // end of media query
+
+/*********************
+PRINT STYLESHEET
+Feel free to customize this. Remember to add things that won't make
+sense to print at the bottom. Things like nav, ads, and forms should
+be set to display none.
+*********************/
+@media print {
+
+  // styles in print.scss
+  @import "breakpoints/print";
+
+}
+
+#focusser-0 {
+  display: none;
+}
+
+#app {
+  height: 800px;
+  content: '';
+  margin-top: 90px;
+  position: relative;
+}

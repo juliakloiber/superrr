@@ -1,0 +1,25 @@
+
+        <!-- js libs -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.viewportchecker.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/greensock/TweenMax.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/greensock/TimelineMax.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/scrollmagic/ScrollMagic.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/scrollmagic/plugins/animation.gsap.min.js"></script>
+
+        <!-- js custom -->
+        <script src="{{ site.baseurl }}/assets/js/main.js?v={{ site.cachebust }}"></script>
+
+        <script>
+            jQuery(document).ready(function($) {
+                window.controller = new Controller($);
+                window.controller.init();
+            });
+        </script>
+
+
+
+</body>
+</html>

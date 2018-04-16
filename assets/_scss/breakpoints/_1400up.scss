@@ -1,0 +1,108 @@
+/*********************
+HEADER STYLES
+*********************/
+.header{
+  .logo{
+    font-size: 4vw;
+  }
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section {
+
+  &.first {
+    padding-top: 75px;
+  }
+
+  &.city-teaser{
+    padding: 0;
+  }
+
+}
+
+/*********************
+PAGE & SECTIONS
+*********************/
+
+a, p, li {
+  font-size: 1.7rem;
+}
+blockquote{
+
+}
+p {
+
+}
+
+/*********************
+HOME
+*********************/
+.intro-text{
+  font-size: 1.75rem !important;
+}
+.more-btn{
+  font-size: 2.25rem !important;
+}
+
+/*********************
+CITY
+*********************/
+
+.batch-wrap{
+  padding: 100px;
+  &.city{
+    padding: 50px 0 0 100px;
+  }
+}
+
+.city-wrap{
+  padding: 50px 100px 50px 0px;
+}
+
+.event-info-wrap{
+
+  width: 70%;
+
+  .event-intro{
+    font-size: 3.5rem;
+  }
+  .event-date{
+    font-size: 5rem;
+  }
+  .event-tags{
+    font-size: 2.5rem;
+  }
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+
+  .newsletter-wrap{
+    form{
+      h2{
+
+      }
+      input[type="email"],input[type="text"]{
+        height: 100px;
+      }
+      .error-message, .success-message, .mc-status{
+
+      }
+      .button {
+
+      }
+    }
+  }
+}
+
+
+

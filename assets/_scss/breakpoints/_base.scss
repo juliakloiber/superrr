@@ -1,0 +1,844 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Base Mobile Stylesheet
+
+Be light and don't over style since everything here will be
+loaded by mobile devices. You want to keep it as minimal as
+possible. This is called at the top of the main stylsheet
+and will be used across all viewports.
+
+******************************************************************/
+
+/*********************
+GENERAL STYLES
+*********************/
+
+html{
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: auto;
+  min-height: 100%;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.no-events{
+  pointer-events: none;
+}
+.no-cursor{
+  cursor: default;
+}
+
+body {
+
+  @include custom-cursor();
+
+  height: 100%;
+  font-family: $font-callingcode-regular;
+  font-size: 100%;
+  line-height: 1.5;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0px;
+
+  overflow: hidden;
+  opacity: 0;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    background-color: $white;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background-color: $third-color;
+
+    &:hover{
+      background-color: $third-color;
+      @include custom-cursor-hover();
+    }
+
+  }
+  &::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: transparent;
+  }
+
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section{
+
+  position: relative;
+  display: block;
+
+  &.home{
+    padding-top: 50px;
+  }
+
+  &.fullwidth{
+    width:100%
+  }
+  &.fullheight{
+    height: 100vh;
+  }
+  &.fit-to-content-mobile{
+    height: auto;
+  }
+  &.city-teaser{
+    height: auto;
+  }
+
+  &.min-fullheight{
+    min-height: 100vh;
+    height: auto;
+  }
+
+  &.fullheight.fit-to-mobile{
+    min-height: 100%;
+    margin-bottom: 50px;
+  }
+
+  &.background-0{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $primary-color;
+  }
+
+  &.background-1{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $secondary-color;
+  }
+
+  &.background-2{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $primary-color;
+  }
+
+  &.background-3{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $secondary-color;
+  }
+
+  &.background-4{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $primary-color;
+  }
+
+  &.footer{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-footer.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $primary-color;
+  }
+
+}
+
+/*********************
+LINK STYLES
+*********************/
+
+a, a:visited {
+  color: $link-color;
+  text-decoration: none;
+
+  /* on hover */
+  &:hover, &:focus {
+    color: $link-hover;
+    @include custom-cursor-hover();
+  }
+
+  /* on click */
+  &:active {
+    color: $link-hover;
+    @include custom-cursor-hover();
+  }
+
+  /* mobile tap color */
+  &:link {
+    /*
+    this highlights links on iPhones/iPads.
+    so it basically works like the :hover selector
+    for mobile devices.
+    */
+    -webkit-tap-highlight-color : transparent;
+  }
+}
+
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  text-rendering: optimizelegibility;
+  margin: 0 0 0.5em 0;
+  font-weight: normal;
+  font-family: $font-paelzer-grot-medium;
+}
+
+h1, .h1 {
+  font-size: 2.5rem;
+  line-height: 1.3em;
+}
+
+h2, .h2 {
+  font-size: 2.25rem;
+  line-height: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+h3, .h3 {
+  font-size: 1.75rem;
+  line-height: 1.3;
+  margin-bottom: 0.5em;
+}
+
+h4, .h4 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25em;
+}
+
+h5, .h5 {
+  font-size: 0.846rem;
+  line-height: 2.09em;
+  letter-spacing: 2px;
+  margin-bottom: 0.25em;
+}
+
+
+/*********************
+*********************/
+
+a, p, li {
+  font-size: 1.25rem;
+}
+blockquote{
+  font-size: 2.75rem;
+  margin: 2rem;
+  font-family: $font-paelzer-grot-medium;
+  color: $secondary-color;
+  text-align: center;
+}
+
+p {
+
+  margin-bottom: 2em;
+  margin-top: 0;
+  line-height: 1.75em;
+
+  &:last-of-type{
+    margin-bottom: 0;
+  }
+
+}
+
+.page-wrap{
+  background-color: transparent;
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+
+  min-height: 100%;
+
+  ol,ul{
+    margin: 30px 0;
+
+    li{
+      margin-bottom: 10px;
+
+      ul,ol{
+        margin: 25px 0;
+      }
+    }
+
+  }
+
+  ul{
+
+    list-style-type: none;
+
+    li{
+
+      position: relative;
+
+      &:before{
+
+        background-image: url($baseurl + '/assets/img/static/icons/arrow.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        content: '';
+        position: absolute;
+        width: 32px;
+        height: 22px;
+        display: inline-block;
+        top:10px;
+        left:0;
+      }
+
+
+    }
+  }
+
+  ol{
+
+    counter-reset: counter;
+
+    li{
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 10px;
+
+      &:before {
+        position: absolute;
+        left:0;
+        color: $third-color;
+        content: counter(counter);
+        counter-increment: counter;
+        font-size: 1.5em;
+      }
+
+    }
+
+  }
+
+}
+
+
+
+/*********************
+HEADER STYLES
+*********************/
+.header-wrap{
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+.header-spacer{
+  height: 100vh;
+}
+.header{
+
+  height: 12vh;
+  width: 100%;
+  /*background-color: $primary-color;*/
+  position: relative;
+
+  background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: $primary-color;
+
+  &.frontpage{
+
+    height: 100vh;
+
+    .logo{
+      font-size: 19vw;
+      top: 40%;
+      .logo-inner{
+        transform: scaleY(8.6) skewX(-15deg);
+      }
+    }
+
+  }
+
+  .logo{
+    display: inline-block;
+    font-family: $font-paelzer-grot-medium;
+    font-size: 12vw;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    .logo-inner{
+      padding-left: 4vw;
+      transform: skewX(-15deg);
+    }
+
+  }
+}
+
+#trigger{
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+}
+
+/*********************
+MAIN NAV
+*********************/
+
+ul.main-nav{
+
+  @include transition(max-height .25s ease-in);
+  overflow: hidden;
+
+  position: relative;
+  width: 100%;
+
+  margin: 0;
+  display: inline-block;
+  line-height: 1;
+
+  text-align: center;
+
+  &.frontpage{
+    background-color: $white;
+  }
+
+  .main-nav-inner{
+    display: inline-block;
+    padding: 20px 0 10px 0;
+  }
+
+  li{
+    display: inline-block;
+    padding-left: 0 !important;
+    padding-right: 0px;
+
+    &:last-of-type{
+      padding-right: 0;
+    }
+
+    &:before{
+      display: none;
+    }
+
+    a{
+      font-size: 1.1rem;
+      font-weight: bold;
+      padding: 4px 5px 4px 5px;
+      &:hover{
+        background-color: $link-background-hover;
+      }
+
+    }
+
+    &.current{
+      a{
+        background-color: $link-background-hover;
+      }
+    }
+
+  }
+
+}
+
+a.bg-hover{
+  padding: 0 2px;
+  @include transition(background-color .1s ease-out);
+  background-color: transparent;
+
+  &:hover{
+    background-color: $link-background-hover;
+    @include custom-cursor-hover();
+  }
+}
+
+.batch-inner{
+  &:hover{
+    @include custom-cursor-hover();
+  }
+}
+.batch-svg{
+  pointer-events: none;
+}
+
+
+/*********************
+PAGE & SECTIONS
+*********************/
+
+.page-wrap{
+  width: 100%;
+  position: relative;
+}
+
+.content-wrap{
+  width: 95%;
+  margin: 0 auto;
+}
+
+/*********************
+CONTENT
+*********************/
+
+.content-block{
+  padding: 50px 0;
+}
+
+.fade-in{
+  opacity: 0;
+}
+
+.content-image-wrap{
+  margin-bottom: 200px;
+
+  img{
+    width: 100%;
+    height: auto;
+  }
+
+  .caption{
+    font-size: 1em;
+  }
+
+}
+
+.video-wrap{
+  margin: 50px 0;
+  width: 100%;
+}
+
+
+.scroll-hint-wrap{
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 10;
+  top:0;
+  left:0;
+
+  .scroll-hint{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-90deg);
+    z-index: 2;
+    pointer-events: none;
+    font-size: 1.5em;
+    transform-origin: left;
+
+    &.gone{
+      bottom: -150px !important;
+    }
+
+    @include transition(bottom .25s ease);
+
+  }
+
+}
+body{
+  &.safari.mobile{
+    .scroll-hint-wrap{
+      .scroll-hint{
+       /* bottom: 60px; */
+      }
+    }
+  }
+}
+
+
+
+.intro-wrap{
+  padding: 50px 0 70px 0;
+}
+.intro-text{
+
+  text-align: center;
+}
+.intro-text{
+  font-size: 1.25rem !important;
+  a{
+    @include transition(background-color .2s ease);
+    background-color: $link-background-hover;
+    &:hover{
+      background-color: $third-color;
+      @include custom-cursor-hover();
+    }
+  }
+}
+.more-btn{
+  font-size: 2.25rem !important;
+}
+.intro-btn{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: block;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.text-wrap{
+  h1,h2,h3,h4,h5{
+    text-transform: uppercase;
+  }
+  p{
+    text-align: left;
+  }
+
+  a{
+    @include transition(background-color .2s ease);
+    background-color: $link-background-hover;
+    &:hover{
+      background-color: $third-color;
+      @include custom-cursor-hover();
+    }
+  }
+
+  padding: 50px 0;
+}
+
+/*********************
+CITY
+*********************/
+
+.batch-wrap{
+  padding: 40px;
+  &.city{
+    padding: 20px;
+  }
+}
+.event-info-wrap{
+  position: relative;
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.event-intro{
+  font-size: 2.25rem;
+  margin-bottom: 5px;
+}
+.event-date{
+  font-size: 3.5rem;
+  line-height: 1;
+  margin-bottom: 15px;
+}
+.event-tags{
+  font-size: 1.75rem;
+  color: $white;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  line-height: 1;
+}
+
+.event-link{
+  display: inline-block;
+}
+
+.event-content{
+  margin-bottom: 15px;
+}
+
+.event-hosts{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.event-participants, .event-hosts{
+  a{
+    @include transition(background-color .2s ease);
+    background-color: $link-background-hover;
+    &:hover{
+      background-color: $third-color;
+      @include custom-cursor-hover();
+    }
+  }
+}
+.event-participants{
+  margin-bottom: 50px;
+}
+
+.join-event{
+  text-align: center;
+  padding: 50px 0;
+}
+
+.city-wrap{
+  padding: 20px;
+  text-align: center;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer{
+
+
+  .newsletter-wrap{
+    padding-top: 50px;
+
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+      color: $input-placeholder-color;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+      color: $input-placeholder-color;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+      color: $input-placeholder-color;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+      color: $input-placeholder-color;
+    }
+
+    form{
+
+      .field-wrap{
+        text-align: center;
+      }
+
+      h2{
+        text-align: center;
+        margin-bottom: 15px;
+        font-size: 2.25em;
+
+      }
+      input[type="email"],input[type="text"]{
+        width: 90%;
+        border: 0;
+        height: 60px;
+        text-align: center;
+        font-size: 2.25em;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+
+        &:focus{
+          outline: none;
+        }
+
+        &.error{
+          border-color: 3px solid $secondary-color;
+        }
+
+      }
+
+      #mc-embedded-subscribe{
+
+      }
+
+      .error-message, .success-message, .mc-status{
+        margin-bottom: 25px;
+        text-align: center;
+        font-size: 1.25em;
+        a{
+          font-size: inherit;
+        }
+      }
+      .error-message{
+        color: $secondary-color;
+        a{
+          font-size: inherit;
+          color: $secondary-color;
+        }
+      }
+
+      .button-wrap{
+        text-align: center;
+      }
+      .button {
+
+        @include transition(all .1s ease);
+
+        background-color: $secondary-color;
+        border: 1px solid $secondary-color;
+        display: inline-block;
+        font-size: 1.75em;
+        line-height: 1.2;
+        padding: 10px 30px 10px 30px;
+        width: auto;
+        outline: none;
+        transform: scale(1);
+
+        &:hover, &:active, &:focus{
+          background-color: $third-color;
+          border-color: $third-color;
+          text-decoration: none;
+          outline: none;
+          @include custom-cursor-hover();
+        }
+
+      }
+
+    }
+
+  }
+
+  .social{
+    position: relative;
+    bottom:0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    display: inline-block;
+    padding: 100px 0;
+    list-style: none;
+
+    a{
+      font-size: 1.75rem;
+      line-height: 1.25em;
+      &:hover{
+        background-color: $link-background-hover;
+      }
+    }
+
+    .touch{
+      font-size: 2.25rem;
+      padding-bottom: 10px;
+      text-align: center;
+    }
+
+    ul{
+
+      margin-top: 0 !important;
+      margin-bottom: 25px !important;
+
+      li{
+
+        padding-left: 0 !important;
+        margin-bottom: 0 !important;
+
+
+
+
+
+        &:before{
+          display: none;
+        }
+        text-align: center;
+
+      }
+    }
+
+  }
+
+  .impressum-link{
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    bottom: 25px;
+  }
+
+}
