@@ -586,11 +586,15 @@ document.addEventListener('blur', function (event) {
 // Check all fields on submit
 document.addEventListener('submit', function (event) {
 
+    // Prevent form from submitting
+    event.preventDefault();
+
     // Only run on forms flagged for validation
     if (!event.target.classList.contains('validate')) return;
 
-    // Prevent form from submitting
-    event.preventDefault();
+
+
+
 
     // Get all of the form elements
     var fields = event.target.elements;

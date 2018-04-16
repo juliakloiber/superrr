@@ -19,7 +19,7 @@
         ref = this;
 
         Logger.useDefaults();
-        //Logger.setLevel(Logger.OFF);
+        Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
