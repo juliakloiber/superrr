@@ -25,7 +25,7 @@
                 <div class="city-wrap">
                     <div class="event-intro font-paelzer-grot-medium">next meetup</div>
                     <div class="event-date font-paelzer-grot-medium">
-                        {{include.date | date: "%d %b %Y"}}
+                        {{ include.event_date }} {{ include.event_year }}
                     </div>
                     <div class="event-tags">{{ include.tags }}</div>
                     <div class="event-content">
