@@ -21,5 +21,3 @@ deeplink: "false"
 Join us for a drink, bite and hang out with great like-minded ladies. Bring a friend to diversify our crowd! Women* from various backgrounds (art, science, tech, music … whatever floats your boat!) meet and chat, exchange ideas and have a nice evening together. No agenda. 
 
 Please feel free to bring a +1 to extend the group.
-
-If you want to join please drop me an email.
