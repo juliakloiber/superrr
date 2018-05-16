@@ -14,7 +14,6 @@ hosts:
 - name: 'Racha Ghamlouch'
   url: 'https://twitter.com/__racha'
   
-deeplink: "false"
 ---
 
 #TECH #MEDIA #EDUCATION
