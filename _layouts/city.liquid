@@ -16,7 +16,7 @@
 
     {% assign tags = page.tags | join:' ' %}
     {% assign tags = "" | append:tags %}
-    {% include partials/city.liquid hosts=page.hosts participants=page.participants img=page.img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags %}
+    {% include partials/city.liquid hosts=page.hosts participants=page.participants img=page.img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
 
     <!-- newsletter/social -->
     {% include partials/social.liquid %}
