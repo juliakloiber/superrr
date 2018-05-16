@@ -1,6 +1,6 @@
 ---
 title: "Superrr Beirut"
-order: 2
+order: 1
 city: "Beirut"
 layout: city
 img: "/assets/img/static/batches/Superrr-Beirut.svg"
