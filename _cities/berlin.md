@@ -8,7 +8,7 @@ event_date: "June 5th"
 event_year: "2018"
 tags: "#art #science #activism"
 link: '/city/berlin'
-email: mail@superrr.ninja
+email: superrr.berlin@gmail.com
 
 hosts:
 - name: 'Zara Rahman'
