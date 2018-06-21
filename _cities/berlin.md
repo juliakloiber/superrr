@@ -4,7 +4,7 @@ order: 2
 city: "Berlin"
 layout: city
 img: "/assets/img/static/batches/Superrr-Berlin.svg"
-event_date: "June 5th"
+event_date: "July 4th"
 event_year: "2018"
 tags: "#art #science #activism"
 link: '/city/berlin'
