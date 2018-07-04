@@ -99,12 +99,10 @@ LAYOUT & GRID STYLES
     height: auto;
   }
   &.city-teaser{
-    height: 100vh;
+    height: auto;
     position: relative;
     .city-teaser-wrap{
       position: relative;
-      top: 50%;
-      transform: translateY(-50%);
     }
   }
 
