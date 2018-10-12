@@ -4,7 +4,7 @@ order: 2
 city: "Beirut"
 layout: city
 img: "/assets/img/static/batches/Superrr-Beirut.svg"
-event_date: "November, 6th"
+event_date: "October, 30th"
 event_year: "2018"
 tags: "#tech #media #education"
 link: '/city/beirut'
