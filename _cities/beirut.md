@@ -4,8 +4,8 @@ order: 2
 city: "Beirut"
 layout: city
 img: "/assets/img/static/batches/Superrr-Beirut.svg"
-event_date: "October, 30th"
-event_year: "2018"
+event_date: "January, 15th"
+event_year: "2019"
 tags: "#tech #media #education"
 link: '/city/beirut'
 email: superrr.beirut@gmail.com
