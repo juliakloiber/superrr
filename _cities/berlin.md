@@ -4,7 +4,7 @@ order: 1
 city: "Berlin"
 layout: city
 img: "/assets/img/static/batches/Superrr-Berlin.svg"
-event_date: "February 20th"
+event_date: "February 27th"
 event_year: "2019"
 tags: "#art #science #activism"
 link: '/city/berlin'
@@ -22,6 +22,9 @@ hosts:
 
 - name: 'Elisa Lindinger'
   url: 'https://twitter.com/elizab0t'
+  
+- name: 'Cathleen Berger'
+  url: 'https://twitter.com/cberger'
 
 
 [//]: #participants:
