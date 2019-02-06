@@ -678,15 +678,22 @@ body{
 FELLOW TEASER
 *********************/
 .fellow-project-name{
-  background-color: #ff4100;
+
+  .fellow-project-name-inner{
+    background-color: #ff4100;
+    line-height: 1.5em;
+    display: inline;
+    padding: 0 10px;
+  }
+
+
   color: black;
-  padding: 0 10px;
   font-size: 2.25rem;
   margin-bottom: 50px;
   font-family: $font-paelzer-grot-medium;
   text-transform: uppercase;
   display: inline-block;
-  line-height: 1.2;
+
 }
 .fellow-name{
   color: black;
@@ -804,7 +811,7 @@ CITY/FELLOW
     font-family: $font-paelzer-grot-medium;
 
     a{
-      padding: 4px;
+      padding: 2px;
       @include transition(background-color .1s ease-out);
       background-color: $link-background-hover;
 
