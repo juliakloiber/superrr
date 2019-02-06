@@ -360,7 +360,27 @@ p {
 
 }
 
+.fellows .pagination{
 
+  padding: 50px 0;
+  display: block;
+  text-transform: uppercase;
+
+  a{
+    font-size: 1.5rem;
+  }
+
+  .prev{
+    float: left;
+    display: inline-block;
+  }
+
+  .next{
+    float: right;
+    display: inline-block;
+  }
+
+}
 
 /*********************
 HEADER STYLES

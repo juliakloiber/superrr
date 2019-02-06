@@ -34,6 +34,35 @@
                     <div class="event-content fellows fade-in">
                         {{ content }}
                     </div>
+                    <div class="pagination">
+
+                        {% capture the_collection %}{{ page.collection }}{% endcapture %}
+
+                        {% if page.collection %}
+                            {% assign document = site[the_collection] %}
+                        {% endif %}
+
+                        {% for links in document %}
+                            {% if links.title == page.title %}
+                                {% unless forloop.first %}
+                                {% assign prevurl = prev.url %}
+                                {% assign prevtitle = prev.title %}
+                                {% endunless %}
+                                {% unless forloop.last %}
+                                {% assign next = document[forloop.index] %}
+                                {% assign nexttitle = next.title %}
+                                {% assign nexturl = next.url %}
+                                {% endunless %}
+                            {% endif %}
+                            {% assign prev = links %}
+                        {% endfor %}
+
+                        {% if prevurl %}<a class="previous" href="{{ prevurl }}">Previous</a>{% endif %}
+                        {% if nexturl %}<a class="next" href="{{ nexturl }}">Next</a>{% endif %}
+
+                    </div>
+
+
                 </div>
             </div>
         </div>

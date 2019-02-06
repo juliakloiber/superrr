@@ -29,7 +29,7 @@ members:
 
 <p><span class="uppercase font-callingcode-regular">Clara Juliano</span> is a designer and illustrator at Coding Rights. She investigates participatory and codesign processes as platforms for debates on gender issues. With an aptitude for participative, collaborative and human centered design projects, she aims for politically engaged design practices.</p>
 
-<p>This project is developed in partnership between <a href="https://www.codingrights.org/">Coding Rights</a> and the <a href="http://codesign.mit.edu/">MIT Codesign Studio</a>. </p>
+<p>This project is developed in partnership between <a href="https://www.codingrights.org/" target="_blank">Coding Rights</a> and the <a href="http://codesign.mit.edu/" target="_blank">MIT Codesign Studio</a>. </p>
 
 <p>Concept and Coordination: Joana Varon (Executive Directress of Coding Rights) and Sasha Costanza-Chock (Associate Professor of Civic Media at MIT).<br>
 Illustration and design: Clara Juliano (Designer at Coding Rights)</p>
