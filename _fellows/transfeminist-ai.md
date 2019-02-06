@@ -1,14 +1,14 @@
 ---
-title: "Transfeminist AI - Feminist Tech Fellow"
+title: "The Oracle for transfeminist technologies - Feminist Tech Fellow"
 order: 2
 layout: fellow
 img: "/assets/img/static/batches/ftf.svg"
 profile_img: "/assets/img/static/batches/clara.svg"
 link: '/fellow/transfeminist-ai'
 name: "Clara Juliano"
-project: "Transfeminist AI"
+project: "The Oracle for transfeminist technologies"
 project_link: "http://www.transfeministech.codingrights.org/"
-description: "The Oracle for transfeminist technologies aims to make the deabates on algorithmic bias, the role of AI, and other crucial conversations accessible to wider audiences  through a speculative codesign game."
+description: "A card deck that aims to make the deabates on algorithmic bias, the role of AI, and other crucial conversations accessible to wider audiences through a speculative codesign game."
 
 members:
 - name: 'Clara Juliano'
