@@ -25,6 +25,9 @@ LAYOUT & GRID STYLES
 /*********************
 PAGE & SECTIONS
 *********************/
+h1, .h1 {
+  font-size: 2.75rem;
+}
 a, p, li {
   font-size: 1.75rem;
   line-height: 1.75em;
@@ -129,6 +132,24 @@ FOOTER STYLES
       .button {
         padding: 15px 50px 15px 50px;
         width: auto;
+      }
+    }
+  }
+  ul.footer-links{
+
+    bottom: 0;
+    text-align: right;
+    margin-bottom: 20px;
+    display: inline-block;
+    right: 25px;
+    width: auto;
+
+    li{
+      padding-left: 0;
+      display: inline;
+
+      a{
+        font-size: 1.25rem;
       }
     }
   }

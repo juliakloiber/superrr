@@ -164,6 +164,35 @@ LAYOUT & GRID STYLES
     background-color: $primary-color;
   }
 
+  &.fellows{
+
+    background-color: #fafafa;
+
+    &.background-0{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG1-ftf.jpg');
+    }
+
+    &.background-1{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG2-ftf.jpg');
+    }
+
+    &.background-2{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG3-ftf.jpg');
+    }
+
+    &.background-3{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG4-ftf.jpg');
+    }
+
+    &.background-4{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG5-ftf.jpg');
+    }
+
+    &.footer{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG-footer-ftf.jpg');
+    }
+  }
+
 }
 
 /*********************
@@ -209,8 +238,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 2.5rem;
-  line-height: 1.3em;
+  font-size: 1.75rem;
+  line-height: 1.1em;
+  margin-bottom: 1.5em;
 }
 
 h2, .h2 {
@@ -253,14 +283,9 @@ blockquote{
 }
 
 p {
-
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   margin-top: 0;
-  line-height: 1.75em;
-
-  &:last-of-type{
-    margin-bottom: 0;
-  }
+  line-height: 1.5em;
 
 }
 
@@ -343,7 +368,7 @@ HEADER STYLES
 .header-wrap{
   position: fixed;
   width: 100%;
-  z-index: 2;
+  z-index: 10;
 }
 .header-spacer{
   height: 100vh;
@@ -355,11 +380,17 @@ HEADER STYLES
   /*background-color: $primary-color;*/
   position: relative;
 
+  &.fellows{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG-header-ftf.jpg');
+    .logo {
+      font-size: 12vw;
+    }
+  }
+
   background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: $primary-color;
 
   &.frontpage{
 
@@ -397,6 +428,7 @@ HEADER STYLES
   position: absolute;
   width: 100%;
 }
+
 
 /*********************
 MAIN NAV
@@ -440,7 +472,6 @@ ul.main-nav{
 
     a{
       font-size: 1.1rem;
-      font-weight: bold;
       padding: 4px 5px 4px 5px;
       &:hover{
         background-color: $link-background-hover;
@@ -459,7 +490,7 @@ ul.main-nav{
 }
 
 a.bg-hover{
-  padding: 0 2px;
+  padding: 2px 4px;
   @include transition(background-color .1s ease-out);
   background-color: transparent;
 
@@ -473,6 +504,17 @@ a.bg-hover{
   &:hover{
     @include custom-cursor-hover();
   }
+  width: 100%;
+  display: block;
+  position: relative;
+
+  img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
 }
 .batch-svg{
   pointer-events: none;
@@ -498,7 +540,7 @@ CONTENT
 *********************/
 
 .content-block{
-  padding: 50px 0;
+  padding: 70px 0;
 }
 
 .fade-in{
@@ -537,13 +579,17 @@ CONTENT
 
   .scroll-hint{
     position: absolute;
-    bottom: 10px;
+    bottom: 70px;
     left: 50%;
     transform: translateX(-50%) rotate(-90deg);
     z-index: 2;
     pointer-events: none;
-    font-size: 1.5em;
+    font-size: 1.25em;
     transform-origin: left;
+
+    &.fellows{
+      color: white;
+    }
 
     &.gone{
       bottom: -150px !important;
@@ -567,7 +613,7 @@ body{
 
 
 .intro-wrap{
-  padding: 50px 0 70px 0;
+  padding: 50px 0 100px 0;
 }
 .intro-text{
 
@@ -607,23 +653,118 @@ body{
   a{
     @include transition(background-color .2s ease);
     background-color: $link-background-hover;
+    padding: 2px 4px;
+    white-space: nowrap;
+
     &:hover{
       background-color: $third-color;
       @include custom-cursor-hover();
     }
   }
 
-  padding: 50px 0;
+  ol,ul{
+    li{
+      padding-left: 45px;
+      &::before
+      {
+        top: 3px;
+      }
+    }
+  }
+}
+
+
+/*********************
+FELLOW TEASER
+*********************/
+.fellow-project-name{
+  background-color: #ff4100;
+  color: black;
+  padding: 0 10px;
+  font-size: 2.25rem;
+  margin-bottom: 50px;
+  font-family: $font-paelzer-grot-medium;
+  text-transform: uppercase;
+  display: inline-block;
+  line-height: 1.2;
+}
+.fellow-name{
+  color: black;
+  font-size: 2.25rem;
+  line-height: 1.2;
+  margin-bottom: 25px;
+}
+.fellow-overlay{
+  position: absolute;
+}
+.event-content{
+  text-align: left;
+}
+.fellow-link{
+
+  margin-bottom: 20px;
+
+  a{
+    color: black;
+    background-color: $link-background-hover;
+    text-transform: uppercase;
+    padding: 4px 10px 4px 10px;
+
+    &:hover{
+      text-decoration: none;
+      color: black;
+    }
+    font-size: 1.7rem;
+    line-height: 1.2;
+  }
+}
+.fellow-content{
+
+  font-family: $font-paelzer-grot-medium;
+
+  a{
+    color: white;
+    &:hover{
+      color: white;
+      text-decoration: underline;
+    }
+  }
 }
 
 /*********************
-CITY
+CITY/FELLOW
 *********************/
 
+.right{
+  .batch-wrap{
+    &.fellows{
+      .batch-svg{
+        transform: translate(-50%,-50%);
+        left: 50%;
+        top:-15%;
+      }
+    }
+  }
+}
 .batch-wrap{
   padding: 40px;
   &.city{
     padding: 20px;
+  }
+  &.fellows{
+    padding-bottom:10px;
+    .batch-svg{
+      position: absolute;
+      z-index: 2;
+      width: 40%;
+      transform: translate(-50%,-50%);
+      left:50%;
+      top:-15%;
+    }
+    img{
+      position: relative;
+      z-index: 1;
+    }
   }
 }
 .event-info-wrap{
@@ -653,13 +794,37 @@ CITY
   display: inline-block;
 }
 
+.fellow-spacer{
+  height: 4vh;
+  background-color: white;
+}
 .event-content{
   margin-bottom: 15px;
+  &.fellows{
+    font-family: $font-paelzer-grot-medium;
+
+    a{
+      padding: 4px;
+      @include transition(background-color .1s ease-out);
+      background-color: $link-background-hover;
+
+      &:hover{
+        background-color: $link-background-hover;
+        @include custom-cursor-hover();
+      }
+    }
+
+  }
 }
 
 .event-hosts{
   text-transform: uppercase;
   text-align: center;
+
+  &.fellows{
+    text-align: left;
+  }
+
 }
 
 .event-participants, .event-hosts{
@@ -684,6 +849,9 @@ CITY
 .city-wrap{
   padding: 20px;
   text-align: center;
+  &.fellows{
+    text-align: left;
+  }
 }
 
 /*********************
@@ -838,11 +1006,32 @@ FOOTER STYLES
 
   }
 
-  .impressum-link{
+  ul.footer-links{
+
+    width: 100%;
     position: absolute;
-    left:50%;
-    transform: translateX(-50%);
     bottom: 25px;
+    text-align: center;
+
+    li{
+      display: block;
+      &:before{
+        display: none;
+      }
+      margin-bottom: 0;
+    }
+
   }
 
+}
+
+.marquee {
+  position: relative;
+  animation: marquee 90s linear infinite;
+  display: block;
+}
+
+@keyframes marquee {
+  0%   { text-indent: 0em }
+  100% { text-indent: -50em }
 }

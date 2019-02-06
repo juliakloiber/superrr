@@ -3,10 +3,14 @@
             <div class="main-nav-inner">
                 {% assign base_dir = page.url | split:'/'  %}
                 {% assign base_dir = base_dir  %}
-                <li {% if base_dir[1] == 'about' %} class="current" {% endif %} ><a class="bg-hover" href="/about">ABOUT</a></li>
-                <li {% if base_dir[1] == 'code-of-conduct' %} class="current" {% endif %}><a class="bg-hover"  href="/code-of-conduct">CODE OF CONDUCT</a></li>
-                <li {% if base_dir[1] == 'contact' %} class="current" {% endif %}><a class="bg-hover" href="mailto:{{ site.contact_email }}">CONTACT</a></li>
-
+                {% if include.page_type == 'fellows' %}
+                    <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
+                    <li {% if base_dir[1] == '/' %} class="current" {% endif %} ><a class="bg-hover" href="/">SUPERRR</a></li>
+                {% else %}
+                    <!-- superrr -->
+                    <li {% if base_dir[1] == 'about' %} class="current" {% endif %} ><a class="bg-hover" href="/about">ABOUT</a></li>
+                    <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
+                {% endif %}
             </div>
         </ul>
         <!--<div class="nav-toggle"><span></span></div>-->

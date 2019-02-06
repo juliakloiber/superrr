@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="section fit-to-content-mobile footer background-image-footer">
+    <div class="section fit-to-content-mobile footer background-image-footer {{ include.page_type }}">
         <div class="row newsletter-wrap fade-in">
             <div class="col-xs-24 col-sm-16 col-sm-push-4 col-md-12 col-md-push-6 col-lg-10 col-lg-push-7">
                 {% include partials/mailchimp-signup.liquid %}
@@ -17,8 +17,13 @@
                 <li><a class="bg-hover" href="mailto:{{ site.contact_email }}">E-MAIL</a></li>
             </ul>
         </div>
-        <div class="impressum-link">
-            <a class="bg-hover" href="/impressum">IMPRESSUM</a>
-        </div>
+        <ul class="footer-links">
+            <li>
+                <a class="bg-hover" href="/code-of-conduct">CODE OF CONDUCT</a>
+            </li>
+            <li>
+                <a class="bg-hover" href="/impressum">IMPRESSUM</a>
+            </li>
+        </ul>
     </div>
 </div>

@@ -4,6 +4,10 @@ LAYOUT & GRID STYLES
 
 /* see partials/_bootstrap-grid24.scss */
 
+h1, .h1 {
+  font-size: 2.75rem;
+}
+
 .section {
 
   &.first {
@@ -25,6 +29,11 @@ CITY
 
 .batch-wrap{
   padding: 175px;
+
+  &.fellows{
+    padding: 200px;
+  }
+
   &.city{
     padding: 50px 50px 0 200px;
   }

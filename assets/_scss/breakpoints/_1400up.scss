@@ -32,12 +32,37 @@ PAGE & SECTIONS
 a, p, li {
   font-size: 1.7rem;
 }
+
 blockquote{
 
 }
 p {
 
 }
+
+/*********************
+FELLOWS
+*********************/
+
+.fellows{
+  a, p, li {
+    font-size: 1.5rem;
+    line-height: 1.5;
+  }
+}
+
+.fellow-name, .fellow-project-name{
+  font-size: 3.25rem;
+}
+
+.batch-wrap {
+  &.fellows {
+    .batch-svg {
+      width: 40%;
+    }
+  }
+}
+
 
 /*********************
 HOME

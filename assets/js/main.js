@@ -19,7 +19,7 @@
         ref = this;
 
         Logger.useDefaults();
-        Logger.setLevel(Logger.OFF);
+        //Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
@@ -53,6 +53,14 @@
         });
 
         //$body.fitVids();
+        if(ref.viewport().width >= 1024){
+            $(".sticky").stickr({
+                duration: 0,
+                offsetTop: 30,
+                offsetBottom: 30
+            });
+        }
+
 
         $('.fade-in').viewportChecker({
             classToAdd: 'animated fadeInUp',
@@ -61,31 +69,42 @@
 
         $('.batch-inner').mouseover(function() {
 
-            var doc = $(this).find('.batch-svg')[0].getSVGDocument();
-            var superrr = doc.getElementById("super");
-            var $parent = $(this).closest('.section');
+            if($(this).find('.batch-svg').length > 0){
+                var doc = $(this).find('.batch-svg')[0].getSVGDocument();
+                var superrr = doc.getElementById("super");
+                var $parent = $(this).closest('.section');
 
 
-            if($parent.hasClass('left')){
-                TweenMax.to(superrr, 15, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
-            } else {
-                TweenMax.to(superrr, 15, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                if(superrr){
+                    if($parent.hasClass('left')){
+                        TweenMax.to(superrr, 15, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    } else {
+                        TweenMax.to(superrr, 15, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    }
+                }
+
+
+                /*
+                 var timeline = new TimelineMax({delay:0, paused:false, repeat:-1})
+                 .set(superrr, {perspective:800, transformOrigin:"50% 50%", transformStyle:"preserve-3d"})
+                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scale:0, skewX:-15, skewY:-15, rotation:45, ease:Sine.easeIn})
+                 .fromTo(superrr, 0.7, {scale:0, skewX:-15, skewY:-15, rotation:-45, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeOut})
+                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeIn})
+                 .fromTo(superrr, 0.7, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:360, ease:Sine.easeOut})
+                 */
             }
 
-            /*
-            var timeline = new TimelineMax({delay:0, paused:false, repeat:-1})
-                .set(superrr, {perspective:800, transformOrigin:"50% 50%", transformStyle:"preserve-3d"})
-                .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scale:0, skewX:-15, skewY:-15, rotation:45, ease:Sine.easeIn})
-                .fromTo(superrr, 0.7, {scale:0, skewX:-15, skewY:-15, rotation:-45, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeOut})
-                .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeIn})
-                .fromTo(superrr, 0.7, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:360, ease:Sine.easeOut})
-            */
 
         }).mouseout(function() {
 
-            var doc = $(this).find('.batch-svg')[0].getSVGDocument();
-            var superrr = doc.getElementById("super");
-            TweenMax.to(superrr, 0.3, {rotation:"0", scale:1, skewX:0, skewY:0, transformOrigin:"50% 50%", ease:Bounce.easeOut},'ani')
+
+            if($(this).find('.batch-svg').length > 0){
+                var doc = $(this).find('.batch-svg')[0].getSVGDocument();
+                var superrr = doc.getElementById("super");
+                if(superrr){
+                    TweenMax.to(superrr, 0.3, {rotation:"0", scale:1, skewX:0, skewY:0, transformOrigin:"50% 50%", ease:Bounce.easeOut},'ani')
+                }
+            }
 
         });
 
@@ -94,36 +113,33 @@
         ref.initBatches();
         ref.resize();
 
-
-        var $black = $logoInner.find('.black');
-        if($black.length > 0){
-            var $black_txt_array = $black.text().split('');
-            $black.empty();
-            for(var a=0; a< $black_txt_array.length; ++a){
-                var char = $black_txt_array[a];
-                $black.html($black.html()+'<span>' + char + '</span>');
+        var $block1 = $logoInner.find('.block1');
+        if($block1.length > 0){
+            var $block1_txt_array = $block1.text().split('');
+            $block1.empty();
+            for(var a=0; a< $block1_txt_array.length; ++a){
+                var char = $block1_txt_array[a];
+                $block1.html($block1.html()+'<span>' + char + '</span>');
             }
         }
 
 
-        var $white = $logoInner.find('.white');
-        if($white.length > 0){
-            var $white_txt_array = $white.text().split('');
-            $white.empty();
-            for(a=0; a< $white_txt_array.length; ++a){
-                char = $white_txt_array[a];
-                $white.html($white.html()+'<span>' + char + '</span>');
+        var $block2 = $logoInner.find('.block2');
+        if($block2.length > 0){
+            var $block2_txt_array = $block2.text().split('');
+            $block2.empty();
+            for(a=0; a< $block2_txt_array.length; ++a){
+                char = $block2_txt_array[a];
+                $block2.html($block2.html()+'<span>' + char + '</span>');
             }
         }
 
-        var $spansBlack = $($black.find('span'));
-        var $spansWhite = $($white.find('span'));
-        if($black.length > 0 && $white.length > 0){
-            var timeline = new TimelineMax({delay:0, paused:false})
-                .to($body, 0.5, {opacity:1, ease:Sine.easeOut})
-                .staggerFrom($spansBlack, 0.05, {delay:.25,opacity:0, ease:Sine.easeIn}, .25)
-                .staggerFrom($spansWhite, 0.05, {delay:.25, opacity:0, ease:Sine.easeIn}, .25);
-        }
+        var $spansblock1 = $($block1.find('span'));
+        var $spansblock2 = $($block2.find('span'));
+        var timeline = new TimelineMax({delay:0, paused:false})
+            .to($body, 0.5, {opacity:1, ease:Sine.easeOut})
+            .staggerFrom($spansblock1, 0.05, {delay:.25,opacity:0, ease:Sine.easeIn}, .25)
+            .staggerFrom($spansblock2, 0.05, {delay:.25, opacity:0, ease:Sine.easeIn}, .25);
 
     };
 
@@ -131,7 +147,6 @@
      mobile menu toggle
      *********************/
     Controller.prototype.setupSuperrrAnimation = function(){
-
 
         if(isFrontpage){
 
@@ -160,7 +175,7 @@
             var sm_bg_controller = new ScrollMagic.Controller();
             var timeline = new TimelineMax({delay:0})
                 .set($(this), {backgroundPosition: '0% 0%'})
-                .to($(this), 3, {backgroundPosition: '0% 100%'},'transform')
+                .to($(this), 5, {backgroundPosition: '0% 50%'},'transform')
                 .addPause();
             var sm_bg_scene = new ScrollMagic.Scene({triggerElement: $(this)[0], triggerHook: 'onEnter', duration: '100%', offset: 0})
                 .setTween(timeline)
@@ -185,6 +200,12 @@
         Logger.log("setHeaderAnimation -> " + isFrontpage);
 
         if(isFrontpage){
+
+            var fs = '19vw';
+            if($('.header').hasClass('fellows')){
+                fs = '12vw';
+            }
+
             //header animation only on frontpage
             sm_controller = new ScrollMagic.Controller();
             superrrTimeline = new TimelineMax({delay:0})
@@ -192,8 +213,8 @@
                 .set($logo, {className:'+=no-events'})
                 .fromTo($header, 8, {height: '100vh', backgroundPosition: '0% 0%'},{height: '12vh', backgroundPosition: '0% 100%'},'transform')
                 .fromTo($headerSpacer, 8, {height: '100vh'}, {height: '12vh'},'transform')
-                .fromTo($scrollHintWrap, 8, {height: '100vh'}, {height: '12vh'},'transform')
-                .fromTo($logo, 8, {fontSize: '19vw', top:'40%'}, {fontSize: ref.getTargetFontsize(), top:'50%'},'transform')
+                .fromTo($scrollHintWrap, 8, {height: '100vh'}, {height: '0vh'},'transform')
+                .fromTo($logo, 8, {fontSize: fs, top:'40%'}, {fontSize: ref.getTargetFontsize(), top:'50%'},'transform')
                 .fromTo($logoInner, 8, {skewX: ref.getTargetSkew(), scaleY: ref.getFontScale(), paddingLeft:ref.getPaddingLeft(), ease:Sine.easeOut}, {skewX: -15, scaleY: 1, paddingLeft:'2vw', ease:Sine.easeOut},'transform')
                 .set($logo, {className:'-=no-events'})
                 .set($headerWrap, {className:'+=no-cursor'})
@@ -327,19 +348,22 @@
 
         for(var i = 0, length = batches.length; i < length; i++) {
             var batch = batches[i];
-            var doc = batch.getSVGDocument();
+            if(batch){
+                var doc = batch.getSVGDocument();
 
-            var $parent = $(batch).closest('.section');
-            if(doc){
-                var name = doc.getElementById("name");
-                var superrr = doc.getElementById("super");
+                var $parent = $(batch).closest('.section');
+                if(doc){
+                    var name = doc.getElementById("name");
+                    var superrr = doc.getElementById("super");
 
-                if($parent.hasClass('left')){
-                    TweenMax.to(name, 30, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
-                } else {
-                    TweenMax.to(name, 30, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    if($parent.hasClass('left')){
+                        TweenMax.to(name, 30, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    } else {
+                        TweenMax.to(name, 30, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    }
                 }
             }
+
         }
     };
 

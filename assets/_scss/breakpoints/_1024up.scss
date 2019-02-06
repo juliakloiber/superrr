@@ -32,7 +32,7 @@ H1, H2, H3, H4, H5 STYLES
 
 
 h1, .h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 h2, .h2 {
@@ -99,12 +99,35 @@ HOME
 /*********************
 CITY
 *********************/
-
+.right{
+  .batch-wrap{
+    &.fellows{
+      .batch-svg{
+        transform: translate(-50%,-50%);
+        left: 0;
+        top:0;
+        right: auto;
+      }
+    }
+  }
+}
 .batch-wrap{
   padding: 0px 50px 50px 50px;
   &.city{
     padding: 70px 50px 0 50px;
   }
+  &.fellows {
+    .batch-svg {
+      position: absolute;
+      z-index: 2;
+      width: 25%;
+      transform: translate(50%, -50%);
+      right: 0;
+      left:auto;
+      top:0;
+    }
+  }
+
 }
 
 .city-wrap{
@@ -136,18 +159,26 @@ CITY
   text-align: left;
   padding: 0;
 }
+.left{
+  .event-info-wrap{
+    left: 0%;
+    transform: translate(0%,-50%);
+  }
+}
 
 .join-event{
   text-align: left;
   padding: 50px 0;
 }
 
-.event-content{
-  text-align: left;
-}
-
 .more-btn{
   font-size: 2.25rem !important;
+}
+
+.scroll-hint-wrap {
+  .scroll-hint {
+    bottom: 10px;
+  }
 }
 
 
@@ -170,6 +201,12 @@ CITY
 }
 .event-date{
   font-size: 4rem;
+}
+.event-hosts{
+  &.fellows{
+    text-align: center;
+  }
+
 }
 
 

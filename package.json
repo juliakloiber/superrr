@@ -3,10 +3,11 @@
   "scripts": {},
   "devDependencies": {
     "gulp-size": "^2.1.0",
-    "gulp-svg-sprite": "^1.3.7",
+    "gulp-svg-sprite": "^1.4.0",
     "gulp-util": "^3.0.8"
   },
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "svg-sprite": "^1.4.0"
   }
 }

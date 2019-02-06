@@ -87,19 +87,21 @@
       }
     }
 
+    &.fellow{
+      &:hover{
 
+        span{
+          color: $fellow-color;
+        }
 
-    &:hover{
+        &:before{
+          background-image: url($baseurl + '/assets/img/static/icons/arrow-fellow.svg');
+        }
 
-      span{
-        color: $third-color;
       }
-
-      &:before{
-        background-image: url($baseurl + '/assets/img/static/icons/arrow-color.svg');
-      }
-
     }
+
+
 
     &.blue-hover{
       &:hover{
@@ -127,7 +129,7 @@
 @media only screen and (min-width: 1920px) {
   .more-btn{
     &:before{
-      top:10px;
+      top:6px;
     }
   }
 }

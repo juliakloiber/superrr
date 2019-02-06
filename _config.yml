@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "superrr.ninja"
+title: "Superrr network"
 description: "Superrr is a community of women* in the arts, in science, tech, journalism, activism and more."
 lang: "de_DE"
-cachebust: "1.2"
+
+title_ftf: "Feminist Tech Fellows"
+description_ftf: "Demanding inclusive and radically diverse digital futures."
 
 contact_email: superrr.berlin@gmail.com
 superrr_twitter: "http://twitter.com/superrrnetwork"
@@ -42,12 +44,17 @@ exclude:
   - commands.txt
   - start_serve.bat
   - start_watch.bat
+  - node_modules
+  - package.json
 
 # Collections
 collections:
     cities:
         output: true
         permalink: /city/:path/
+    fellows:
+        output: true
+        permalink: /fellow/:path/
 
 
 

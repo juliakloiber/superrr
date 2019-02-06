@@ -1,11 +1,19 @@
 <div id="trigger"></div>
 <header class="header-wrap">
     <div class="header {{ include.page_type }}">
-        <a class="logo" href="/">
-            <div class="logo-inner">
-                <span class="black">SUPER</span><span class="white" >RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR</span>
-            </div>
-        </a>
+        {% if include.page_type == 'fellows' %}
+            <a class="logo" href="/feministtech">
+                <div class="logo-inner">
+                    <span class="marquee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS&nbsp;<span class="white">FEMINIST&nbsp;TECH</span>&nbsp;FELLOWS</span>
+                </div>
+            </a>
+        {% else %}
+            <a class="logo" href="/">
+                <div class="logo-inner">
+                    <span class="black block1">SUPER</span><span class="white block2" >RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR</span>
+                </div>
+            </a>
+        {% endif %}
     </div>
 </header>
 

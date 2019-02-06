@@ -1,0 +1,39 @@
+<!-- hero -->
+<div class="row">
+    <div class="section left min-fullheight col-xs-24 fellows">
+
+        <div class="row fit-to-content-mobile same-height">
+            <div class="col-xs-24 col-md-12 col-lg-10 sticky">
+                <div class="batch-wrap city fellows">
+                    <div class="batch-inner">
+                        <img class="img-responsive" src="{{ site.baseurl }}{{ include.profile_img }}" />
+                    </div>
+                </div>
+                <div class="batch-wrap city fellows">
+                    {% if include.members|length > 0 %}
+                        <p class="event-hosts fellows">
+                            {% for member in include.members %}
+                                {% if member.url|length > 0 %}
+                                    <a class="" href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% if forloop.last == false %},{% endif %}
+                                {% else %}
+                                    <span>{{ member.name }}</span>{% if forloop.last == false %},{% endif %}
+                                {% endif %}
+
+                            {% endfor %}
+                        </p>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="col-xs-24 col-md-12 col-lg-10 col-lg-push-2">
+                <div class="city-wrap fellows">
+                    <div class="fellow-project-name font-paelzer-grot-medium fade-in">
+                        {{ include.project }}
+                    </div>
+                    <div class="event-content fellows fade-in">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

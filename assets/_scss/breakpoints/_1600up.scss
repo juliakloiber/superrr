@@ -3,6 +3,9 @@ CITY
 *********************/
 .batch-wrap{
   padding: 125px;
+  &.fellows{
+    padding: 145px 125px 125px 125px;
+  }
 }
 .city-wrap{
   padding: 50px 150px 50px 0px;
