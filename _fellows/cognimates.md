@@ -8,7 +8,7 @@ name: "Sarah T. Vu"
 project: "Cognimates"
 project_link: "https://mitmedialab.github.io/cognimates-website/about/"
 link: '/fellow/cognimates'
-description: "Cognimates is an open-source platform where parents and children participate in creative programming activities where they learn how to build games, program robots, and train their own machine learning models."
+description: "An open-source platform that strives to democratize AI and wants to allow more people to create with it. Parents and children participate in creative programming activities where they learn how to build games, program robots, and train their own machine learning models."
 
 members:
 - name: 'Sarah T. Vu'
