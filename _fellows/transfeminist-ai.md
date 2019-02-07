@@ -25,8 +25,6 @@ members:
 
 <p>The Feminist Tech Fellowship will support us to elaborate both the card deck used in the game and to brainstorm around a prototype repository of ideas for transfeminist technologies that emerge while people envision speculative futures by playing the deck. The repository will be set in a futuristic scenery, where these technologies are already established and broadly available, therefore accessible to shift realities. We hope that this narrative will help us foresee a better future where AIs are co-designed with people who are too often excluded from or targeted by technology in today's world.</p>
 
-<p><a href="http://www.transfeministech.codingrights.org/" target="_blank">Official website</a></p>
-
 <p><span class="uppercase font-callingcode-regular">Clara Juliano</span> is a designer and illustrator at Coding Rights. She investigates participatory and codesign processes as platforms for debates on gender issues. With an aptitude for participative, collaborative and human centered design projects, she aims for politically engaged design practices.</p>
 
 <p>This project is developed in partnership between <a href="https://www.codingrights.org/" target="_blank">Coding Rights</a> and the <a href="http://codesign.mit.edu/" target="_blank">MIT Codesign Studio</a>. </p>
