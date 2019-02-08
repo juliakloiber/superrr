@@ -2,6 +2,12 @@
 BLOG
 *********************/
 
+.content-wrap{
+  &.blog{
+    max-width: 50vw;
+  }
+}
+
 .blog-post{
   .post-headline{
     font-size: 6rem;

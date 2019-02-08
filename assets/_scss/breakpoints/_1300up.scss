@@ -23,6 +23,12 @@ ul.main-nav{
 BLOG
 *********************/
 
+.content-wrap{
+  &.blog{
+    max-width: 60vw;
+  }
+}
+
 .blog-post{
   .post-headline{
     font-size: 4.5rem;
