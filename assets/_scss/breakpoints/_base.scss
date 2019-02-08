@@ -716,18 +716,19 @@ BLOG
   background-color: $background-color-fellow;
 }
 .blog-post{
-  .post-headline, .post-headline a{
+  .post-headline{
     transform: translateX(-3px);
     font-size: 2em;
     white-space: normal;
     line-height: 0.9;
     padding: 0;
-
+    display: block;
+    font-family: $font-paelzer-grot-medium;
   }
   .post-headline{
     margin-bottom: 20px;
   }
-  .post-headline a {
+  a.post-headline {
     &:hover{
       color: $fellow-color;
     }
