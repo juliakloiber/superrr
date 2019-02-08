@@ -166,7 +166,7 @@ LAYOUT & GRID STYLES
 
   &.fellows{
 
-    background-color: #fafafa;
+    background-color: $background-color-fellow;
 
     &.background-0{
       background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG1-ftf.jpg');
@@ -360,7 +360,18 @@ p {
 
 }
 
-.fellows .pagination{
+.image{
+  padding-bottom: 25px;
+  display: table;
+
+  .caption{
+    margin-top: 5px;
+    float: right;
+  }
+}
+
+
+.pagination{
 
   padding: 50px 0;
   display: block;
@@ -495,6 +506,11 @@ ul.main-nav{
       padding: 4px 5px 4px 5px;
       &:hover{
         background-color: $link-background-hover;
+      }
+
+      &.inactive{
+        opacity: 0.5;
+        pointer-events: none;
       }
 
     }
@@ -693,6 +709,51 @@ body{
   }
 }
 
+/*********************
+BLOG
+*********************/
+.blog{
+  background-color: $background-color-fellow;
+}
+.blog-post{
+  .post-headline, .post-headline a{
+    transform: translateX(-3px);
+    font-size: 1.5em;
+    white-space: normal;
+    line-height: 0.9;
+    padding: 0;
+
+  }
+  .post-headline{
+    margin-bottom: 20px;
+  }
+  .post-headline a {
+    &:hover{
+      color: $fellow-color;
+    }
+  }
+
+  .post-content{
+    font-family: $font-paelzer-grot-medium;
+  }
+
+  .post-info{
+    margin-bottom: 0;
+  }
+
+  .more-btn{
+    padding-bottom: 0;
+    .more-btn-inner{
+      &::after{
+        display: none;
+      }
+    }
+  }
+
+
+  margin-bottom: 50px;
+
+}
 
 /*********************
 FELLOW TEASER

@@ -119,6 +119,19 @@ CITY
   font-size: 3.5rem !important;
 }
 
+
+/*********************
+BLOG
+*********************/
+
+.blog-post{
+  transform: translateX(-5px);
+  .post-headline, .post-headline a{
+    font-size: 2em;
+  }
+  margin-bottom: 100px;
+}
+
 /*********************
 FOOTER STYLES
 *********************/

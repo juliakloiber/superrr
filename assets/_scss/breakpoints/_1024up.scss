@@ -64,6 +64,13 @@ h5, .h5 {
     width: 650px;
   }
 
+  &.blog{
+    width: 85%;
+    max-width: 50vw;
+    padding-left: 60px;
+    margin: 50px 0 100px 0;
+  }
+
 }
 
 /*********************
@@ -209,7 +216,21 @@ CITY
 
 }
 
+/*********************
+BLOG
+*********************/
 
+.blog-post{
+  .post-headline, .post-headline a{
+    font-size: 4rem;
+    transform: translateX(-6px);
+  }
+  .post-headline{
+    margin-bottom: 40px;
+  }
+
+  margin-bottom: 150px;
+}
 
 /*********************
 FOOTER STYLES

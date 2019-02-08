@@ -11,11 +11,7 @@
     {% include opengraph-ftf.liquid %}
 </head>
 <body>
-{% assign page_type = '' %}
-{% if page.type != ''%}
-    {% assign page_type = page.type %}
-{% endif %}
-{% include header.liquid page_type=page_type %}
+{% include header.liquid page_type='fellows' %}
 
 <div class="page-wrap col-xs-24">
     {{ content }}
