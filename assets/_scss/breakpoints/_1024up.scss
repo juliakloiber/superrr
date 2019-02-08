@@ -69,6 +69,10 @@ h5, .h5 {
     max-width: 50vw;
     padding-left: 60px;
     margin: 50px 0 100px 0;
+    &.single{
+      margin: 0 auto;
+      padding-left: 0;
+    }
   }
 
 }
