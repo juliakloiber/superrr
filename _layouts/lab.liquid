@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Superrr - Lab">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ "/assets/main.css?v=2.2" | relative_url }}">
+    {% include favicon-superrr.liquid %}
+    {% include opengraph-superrr.liquid %}
+</head>
+<body>
+{% include header.liquid page_type='lab' %}
+
+<div class="page-wrap col-xs-24">
+    {{ content }}
+</div>
+{% include footer.liquid %}
