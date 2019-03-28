@@ -1029,6 +1029,10 @@ FOOTER STYLES
         font-size: 2.25em;
         text-transform: uppercase;
         margin-bottom: 10px;
+        -webkit-border-radius: 0;
+        border-radius: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
 
         &:focus{
           outline: none;
@@ -1076,6 +1080,10 @@ FOOTER STYLES
         width: auto;
         outline: none;
         transform: scale(1);
+        -webkit-border-radius: 0;
+        border-radius: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
 
         &:hover, &:active, &:focus{
           background-color: $third-color;
