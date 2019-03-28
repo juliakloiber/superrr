@@ -1,0 +1,21 @@
+{% if include.page_type == "ftf"%}
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:url" content="http://feministtech.org" />
+    <meta property="og:site_name" content="Feminist Tech Fellows" />
+    <meta property="og:image" content="{{ "/assets/img/static/superrr-ftf.jpg" | relative_url }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@superrrnetwork" />
+    <meta name="twitter:creator" content="@superrrnetwork" />
+{% elsif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:url" content="https://superrr.net" />
+    <meta property="og:site_name" content="SUPERRR Network" />
+    <meta property="og:image" content="{{ "/assets/img/static/superrr-og.jpg" | relative_url }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@superrrnetwork" />
+    <meta name="twitter:creator" content="@superrrnetwork" />
+{% endif %}

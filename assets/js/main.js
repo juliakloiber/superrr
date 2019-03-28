@@ -398,6 +398,7 @@
         *********************/
         $(document.body).on('touchmove', ref.onScroll); // for mobile
         $(window).on('scroll', ref.onScroll);
+        ref.onScroll();
 
         /*********************
         scroll to #id

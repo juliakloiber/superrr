@@ -193,6 +193,16 @@ LAYOUT & GRID STYLES
     }
   }
 
+  &.lab{
+
+    background-color: $background-color-lab;
+
+    &.footer{
+      background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-footer-lab.jpg');
+    }
+  }
+
+
 }
 
 /*********************
@@ -328,7 +338,7 @@ p {
         width: 32px;
         height: 22px;
         display: inline-block;
-        top:10px;
+        transform: translateY(7px);
         left:0;
       }
 
@@ -413,6 +423,13 @@ HEADER STYLES
 
   &.fellows{
     background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG-header-ftf.jpg');
+    .logo {
+      font-size: 12vw;
+    }
+  }
+
+  &.lab{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-header-lab.jpg');
     .logo {
       font-size: 12vw;
     }
@@ -709,6 +726,16 @@ body{
   }
 }
 
+.page-wrap.lab{
+  .text-wrap{
+    a {
+      background-color: $link-background-hover-lab;
+      &:hover {
+        background-color: $link-background-hover-lab;
+      }
+    }
+  }
+}
 /*********************
 BLOG
 *********************/
@@ -948,6 +975,22 @@ FOOTER STYLES
 *********************/
 
 .footer{
+
+
+  &.lab{
+    .newsletter-wrap{
+      form{
+        .button{
+          background-color: darken($link-background-hover-lab,10%);
+          border: 1px solid darken($link-background-hover-lab,10%);
+          &:hover, &:active, &:focus {
+            background-color: $link-background-hover-lab;
+            border-color: $link-background-hover-lab;
+          }
+        }
+      }
+    }
+  }
 
 
   .newsletter-wrap{
