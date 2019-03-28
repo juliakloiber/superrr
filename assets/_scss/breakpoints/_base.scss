@@ -981,11 +981,11 @@ FOOTER STYLES
     .newsletter-wrap{
       form{
         .button{
-          background-color: darken($link-background-hover-lab,10%);
-          border: 1px solid darken($link-background-hover-lab,10%);
+          background-color: $link-background-hover-lab;
+          border: 1px solid $link-background-hover-lab;
           &:hover, &:active, &:focus {
-            background-color: $link-background-hover-lab;
-            border-color: $link-background-hover-lab;
+            background-color: darken($link-background-hover-lab,10%);
+            border-color: darken($link-background-hover-lab,10%);
           }
         }
       }
