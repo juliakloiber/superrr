@@ -6,7 +6,7 @@ title: For more democratic design processes!
 
 The Oracle for Transfeminist Technologies is to me way more than a graphic design or illustration project. As a researcher, the Oracle for Transfeminist Technologies is also part of an on-going methodological investigation, and has a lot to contribute with emerging research practices and different forms of knowledge construction in design research, as it suggests an active political approach for research and practice in this area. It's an opportunity to further explore engaged and participatory design processes, while creating spaces for debate around emerging and urgent issues. I want to invite you for a quick journey through this process, and explore the Oracle from a different, designerly perspective. 
 
-![The codesign process can act as a platform for establishing conditions for action and change.](/assets/img/blog/oracle_quote.png)
+<img src="/assets/img/blog/oracle_quote.gif" alt="The codesign process can act as a platform for establishing conditions for action and change." style="width: 900px">
 
 Throughout my trajectory as a designer, I've come to understand the discipline of design and its practices as inherently political. 
 
