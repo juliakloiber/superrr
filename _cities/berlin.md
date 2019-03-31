@@ -4,21 +4,16 @@ order: 1
 city: "Berlin"
 layout: city
 img: "/assets/img/static/batches/Superrr-Berlin.svg"
-event_date: "February 27th"
+event_date: "May 29th"
 event_year: "2019"
 tags: "#art #science #activism"
 link: '/city/berlin'
 email: superrr.berlin@gmail.com
 
 hosts:
-- name: 'Zara Rahman'
-  url: 'https://twitter.com/zararah'
 
 - name: 'Julia Kloiber'
   url: 'https://twitter.com/j_kloiber'
-
-- name: 'Fiona Krakenbürger'
-  url: 'https://twitter.com/fotografiona'
 
 - name: 'Elisa Lindinger'
   url: 'https://twitter.com/elizab0t'
