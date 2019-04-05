@@ -761,6 +761,17 @@ BLOG
     }
   }
 
+  .text-wrap{
+    a{
+      white-space: normal;
+    }
+  }
+
+  p img, img{
+    width: 100% !important;
+    height: auto;
+  }
+
   .post-content{
     font-family: $font-paelzer-grot-medium;
   }
