@@ -1,21 +1,21 @@
-{% if include.page_type != 'lab' %}
 <div class="row">
-        <ul class="main-nav {{ include.page_type }} fade-in">
-            <div class="main-nav-inner">
-                {% assign base_dir = page.url | split:'/'  %}
-                {% assign base_dir = base_dir  %}
-                {% if include.page_type == 'fellows' %}
-                    <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
-                    <li {% if base_dir[1] == '/' %} class="current" {% endif %}><a class="bg-hover" href="/">SUPERRR</a></li>
-                    <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/blog">BLOG</a></li>
-                {% else %}
-                    <!-- superrr -->
-                    <li {% if base_dir[1] == 'about' %} class="current" {% endif %} ><a class="bg-hover" href="/about">ABOUT</a></li>
-                    <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
-                    <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/blog">BLOG</a></li>
-                {% endif %}
-            </div>
-        </ul>
-        <!--<div class="nav-toggle"><span></span></div>-->
+    <ul class="main-nav {{ include.page_type }} fade-in">
+        <div class="main-nav-inner">
+            {% assign base_dir = page.url | split:'/'  %}
+            {% assign base_dir = base_dir  %}
+            {% if include.page_type == 'frontpage' %}
+                <!-- superrr -->
+                <li {% if base_dir[1] == 'about' %} class="current" {% endif %} ><a class="bg-hover" href="/about">ABOUT</a></li>
+                <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
+                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/lab">LAB</a></li>
+                <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/blog">BLOG</a></li>
+            {% else %}
+                <li {% if base_dir[1] == '/' %} class="current" {% endif %} ><a class="bg-hover" href="/">COMMUNITY</a></li>
+                <li {% if base_dir[1] == 'feministtech' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech">FEMINIST TECH FELLOWS</a></li>
+                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/lab">LAB</a></li>
+                <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/blog">BLOG</a></li>
+            {% endif %}
+        </div>
+    </ul>
+    <!--<div class="nav-toggle"><span></span></div>-->
 </div>
-{% endif %}
