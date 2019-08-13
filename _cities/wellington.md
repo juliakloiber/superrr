@@ -3,7 +3,7 @@ title: "Superrr CCCamp"
 order: 4
 city: "CCCamp"
 layout: city
-img: "\assets\img\static\batches\Superrr-CCCamp.svg"
+img: "/assets/img/static/batches/Superrr-CCCamp.svg"
 event_date: "August 24th"
 event_year: "2019"
 tags: "#art #science #activism"
