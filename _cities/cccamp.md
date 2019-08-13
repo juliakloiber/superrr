@@ -1,6 +1,6 @@
 ---
 title: "Superrr CCCamp"
-order: 4
+order: 0
 city: "CCCamp"
 layout: city
 img: "/assets/img/static/batches/Superrr-CCCamp.svg"
@@ -24,10 +24,10 @@ hosts:
 [//]: #  twitterlink: 'http://twitter.com'
 
 ---
-Come by, grab a drink, hang out with like-minded women* and bring a friend to diversify our crowd! Women* from various backgrounds (art, science, tech, music ... whatever floats your boat!) meet at a bar to chat, exchange ideas and to just have a nice evening together.
-No agenda. No men*. No bullshit. ;)
+We are at CCCamp! Come by, grab a drink, hang out with like-minded women* and bring a friend to diversify our crowd! Women* from various backgrounds (art, science, tech, music ... whatever floats your boat!) meet at a bar to chat, exchange ideas and to just have a nice evening together. 
 
-Please feel free to bring a +1 to extend the group.
+For more details about time and meetup spot: drop Frederike or Elisa a message!
+
 
 
 
