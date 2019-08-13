@@ -8,7 +8,7 @@ event_date: "August 24th"
 event_year: "2019"
 tags: "#art #science #activism"
 link: '/city/cccamp'
-email: superrr.berlin@gmail.com
+email: elisa@superrr.net
 
 hosts:
 
