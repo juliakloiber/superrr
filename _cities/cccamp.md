@@ -7,7 +7,7 @@ img: "/assets/img/static/batches/Superrr-CCCamp.svg"
 event_date: "August 24th"
 event_year: "2019"
 tags: "#art #science #activism"
-link: '/city/berlin'
+link: '/city/cccamp'
 email: superrr.berlin@gmail.com
 
 hosts:
