@@ -4,7 +4,7 @@ order: 0
 city: "CCCamp"
 layout: city
 img: "/assets/img/static/batches/Superrr-CCCamp.svg"
-event_date: "August 24th"
+event_date: "August 23rd"
 event_year: "2019"
 tags: "#art #science #activism"
 link: '/city/cccamp'
