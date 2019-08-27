@@ -296,7 +296,6 @@ p {
   margin-bottom: 1em;
   margin-top: 0;
   line-height: 1.5em;
-
 }
 
 .page-wrap{
@@ -380,6 +379,15 @@ p {
   }
 }
 
+.landing{
+  .landing-batch{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+  }
+}
 
 .pagination{
 
@@ -485,7 +493,7 @@ MAIN NAV
 ul.main-nav{
 
   @include transition(max-height .25s ease-in);
-  overflow: hidden;
+  /*overflow: hidden;*/
 
   position: relative;
   width: 100%;
@@ -493,6 +501,7 @@ ul.main-nav{
   margin: 0;
   display: inline-block;
   line-height: 1;
+  z-index: 5;
 
   text-align: center;
 
@@ -530,6 +539,11 @@ ul.main-nav{
         pointer-events: none;
       }
 
+    }
+
+    ul.submenu{
+      background-color: white;
+      position: absolute;
     }
 
     &.current{
@@ -666,7 +680,7 @@ body{
 
 
 .intro-wrap{
-  padding: 50px 0 100px 0;
+  padding: 100px 0 100px 0;
 }
 .intro-text{
 
@@ -735,6 +749,19 @@ body{
       }
     }
   }
+  ul.main-nav{
+    li {
+      a {
+        &:hover {
+          background-color: $link-background-hover-lab;
+        }
+      }
+    }
+    li.current a {
+      background-color: $link-background-hover-lab;
+    }
+  }
+
 }
 /*********************
 BLOG
@@ -993,10 +1020,10 @@ FOOTER STYLES
       form{
         .button{
           background-color: $link-background-hover-lab;
-          border: 1px solid $link-background-hover-lab;
+          border: 0px solid $link-background-hover-lab;
           &:hover, &:active, &:focus {
-            background-color: darken($link-background-hover-lab,10%);
-            border-color: darken($link-background-hover-lab,10%);
+            background-color: $link-background-hover-lab;
+            border-color: $link-background-hover-lab;
           }
         }
       }
@@ -1082,8 +1109,8 @@ FOOTER STYLES
 
         @include transition(all .1s ease);
 
-        background-color: $secondary-color;
-        border: 1px solid $secondary-color;
+        background-color: $link-background-hover;
+        border: 1px solid $link-background-hover;
         display: inline-block;
         font-size: 1.75em;
         line-height: 1.2;

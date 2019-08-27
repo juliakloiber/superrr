@@ -12,14 +12,14 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontpage, sm_controller, sm_scene;
+        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene;
     function Controller(jQuery){
 
         $ = jQuery;
         ref = this;
 
         Logger.useDefaults();
-        Logger.setLevel(Logger.OFF);
+        //Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
@@ -27,13 +27,17 @@
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
 
 
-        isFrontpage = window.is_frontpage;
+        hasLargeHeader = window.is_large_header_page;
+        isFrontPage = window.is_front_page;
 
     };
 
     Controller.prototype.init = function(){
 
-        Logger.log("Startup page. isFrontpage: " + isFrontpage);
+        Logger.log("Startup page.");
+        Logger.log("isFrontPage -> " + isFrontPage);
+        Logger.log("hasLargeHeader -> " + hasLargeHeader);
+
 
         $body = $('body');
         $headerWrap = $('.header-wrap');
@@ -125,6 +129,7 @@
 
 
         var $block2 = $logoInner.find('.block2');
+
         if($block2.length > 0){
             var $block2_txt_array = $block2.text().split('');
             $block2.empty();
@@ -148,7 +153,7 @@
      *********************/
     Controller.prototype.setupSuperrrAnimation = function(){
 
-        if(isFrontpage){
+        if(hasLargeHeader){
 
             ref.setHeaderAnimation();
 
@@ -197,9 +202,9 @@
 
     Controller.prototype.setHeaderAnimation = function(){
 
-        Logger.log("setHeaderAnimation -> " + isFrontpage);
+        Logger.log("setHeaderAnimation -> " + hasLargeHeader);
 
-        if(isFrontpage){
+        if(hasLargeHeader){
 
             var fs = '19vw';
             if($('.header').hasClass('fellows')){
@@ -485,7 +490,7 @@
     resize event handler
     *********************/
     Controller.prototype.resize = function(){
-        if(!isFrontpage){
+        if(!hasLargeHeader){
             TweenMax.set($pageWrap,{paddingTop: $header.height()+'px'});
         }
         ref.setupSuperrrAnimation();
