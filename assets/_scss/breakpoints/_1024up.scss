@@ -13,6 +13,16 @@ LAYOUT & GRID STYLES
 
 }
 
+.intro-wrap{
+  padding: 100px 0 100px 0;
+}
+.text-content{
+  padding-bottom: 100px;
+  &:last-of-type{
+    padding-bottom: 0;
+  }
+}
+
 /*********************
 PAGE & SECTIONS
 *********************/
@@ -199,8 +209,10 @@ LAYOUT & GRID STYLES
 
 /* see partials/_bootstrap-grid24.scss */
 
-.section{
-
+.section {
+  &.home {
+    padding-top: 50px;
+  }
 }
 
 /*********************

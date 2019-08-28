@@ -86,7 +86,7 @@ LAYOUT & GRID STYLES
   display: block;
 
   &.home{
-    padding-top: 50px;
+    padding-top: 20px;
   }
 
   &.fullwidth{
@@ -609,6 +609,9 @@ CONTENT
 .content-block{
   padding: 70px 0;
 }
+.image-block{
+  padding-top: 70px;
+}
 
 .fade-in{
   opacity: 0;
@@ -680,7 +683,7 @@ body{
 
 
 .intro-wrap{
-  padding: 100px 0 100px 0;
+  padding: 50px 0 100px 0;
 }
 .intro-text{
 
@@ -721,7 +724,7 @@ body{
     @include transition(background-color .2s ease);
     background-color: $link-background-hover;
     padding: 2px 4px;
-    white-space: nowrap;
+    white-space: normal;
 
     &:hover{
       background-color: $third-color;
@@ -737,6 +740,12 @@ body{
         top: 3px;
       }
     }
+  }
+}
+.text-content{
+  padding-bottom: 50px;
+  &:last-of-type{
+    padding-bottom: 0;
   }
 }
 
@@ -886,6 +895,24 @@ FELLOW TEASER
 }
 
 /*********************
+PROJECTS
+*********************/
+
+.projects-wrap{
+  .project-teaser{
+
+    margin-bottom: 100px;
+
+    a{
+      background-color: transparent !important;
+    }
+    .project-text{
+      margin-top: 1em;
+    }
+  }
+}
+
+/*********************
 CITY/FELLOW
 *********************/
 
@@ -946,6 +973,7 @@ CITY/FELLOW
 
 .event-link{
   display: inline-block;
+  line-height: 1;
 }
 
 .fellow-spacer{
