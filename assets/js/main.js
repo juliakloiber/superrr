@@ -351,6 +351,12 @@
 
         Logger.log("batches -> " + batches);
 
+        $('.landing-teaser').mouseover(function() {
+            TweenMax.fromTo($(this).find('.landing-batch'), 1, {rotation:"0", transformOrigin:"50% 50%"}, {rotation:"360", transformOrigin:"50% 50%"});
+        }).mouseout(function() {
+
+        });
+
         for(var i = 0, length = batches.length; i < length; i++) {
             var batch = batches[i];
             if(batch){
@@ -362,9 +368,9 @@
                     var superrr = doc.getElementById("super");
 
                     if($parent.hasClass('left')){
-                        TweenMax.to(name, 30, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                        TweenMax.to(name, 300, {rotation:"3600", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
                     } else {
-                        TweenMax.to(name, 30, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                        TweenMax.to(name, 300, {rotation:"-3600", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
                     }
                 }
             }
