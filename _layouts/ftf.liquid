@@ -11,9 +11,17 @@
     {% include opengraph-ftf.liquid %}
 </head>
 <body>
-{% include header.liquid page_type='fellows' %}
-
-<div class="page-wrap col-xs-24">
-    {{ content }}
+<div class="loader">
+    <span>SUPERRR.NET</span>
 </div>
+<div id="barba-wrapper">
+    <div class="barba-container">
+        {% include header.liquid page_type='fellows' %}
+
+        <div class="page-wrap col-xs-24">
+            {{ content }}
+        </div>
+    </div>
+</div>
+
 {% include footer.liquid %}

@@ -12,7 +12,7 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene;
+        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized;
     function Controller(jQuery){
 
         $ = jQuery;
@@ -26,17 +26,83 @@
         if(ref.isMobileDevice()) name+="-mobile";
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
 
+        Barba.Pjax.start();
+        Barba.Prefetch.init();
 
-        hasLargeHeader = window.is_large_header_page;
-        isFrontPage = window.is_front_page;
+        var transitionAnimation = Barba.BaseTransition.extend({
+            start: function () {
+                Promise.all([this.newContainerLoading, this.startTransition()]).then(
+                    this.fadeIn.bind(this)
+                );
+            },
+
+            startTransition: function () {
+                var $el = $(this.oldContainer);
+
+                console.log("$el", $el);
+
+                TweenMax.set('.loader', { y: '-100%'});
+                var transitionPromise = new Promise(function (resolve) {
+
+
+                    var outTransition = new TimelineMax();
+                    outTransition
+                        .to('.loader', 0.5, {
+                            y: '0%',
+                            ease: Expo.easeOut,
+                            onComplete: function () {
+                                resolve()
+                            }
+                        })
+
+                })
+
+
+                return transitionPromise
+            },
+
+            fadeIn: function () {
+                $(window).scrollTop(0);
+
+                var _this = this;
+                var $el = $(this.newContainer);
+
+                TweenMax.set($(this.oldContainer), { display: 'none' })
+                TweenMax.set($el, { visibility: 'visible', opacity: 0 })
+                TweenMax.to($el, 0.5, {
+                    opacity: 1,
+                    onComplete: function () {
+                        _this.done();
+                        console.log('done');
+                        ref.init();
+                        TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
+                    }
+                })
+            }
+        })
+
+        Barba.Pjax.getTransition = function () {
+            /**
+             * Here you can use your own logic!
+             * For example you can use different Transition based on the current page or link...
+             */
+            return transitionAnimation
+        }
 
     };
 
     Controller.prototype.init = function(){
 
+        if($('.header-spacer').length > 0){
+            hasLargeHeader = true;
+        } else hasLargeHeader = false;
+
+        isFrontPage = window.is_front_page;
+
         Logger.log("Startup page.");
         Logger.log("isFrontPage -> " + isFrontPage);
         Logger.log("hasLargeHeader -> " + hasLargeHeader);
+        Logger.log("header spacer -> " + $('.header-spacer').length);
 
 
         $body = $('body');
@@ -112,7 +178,7 @@
 
         });
 
-        ref.addEventHandlers();
+        if(!initialized) ref.addEventHandlers();
         ref.setupSuperrrAnimation();
         ref.initBatches();
         ref.resize();
@@ -145,6 +211,8 @@
             .to($body, 0.5, {opacity:1, ease:Sine.easeOut})
             .staggerFrom($spansblock1, 0.05, {delay:.25,opacity:0, ease:Sine.easeIn}, .25)
             .staggerFrom($spansblock2, 0.05, {delay:.25, opacity:0, ease:Sine.easeIn}, .25);
+
+        initialized = true;
 
     };
 
@@ -209,6 +277,12 @@
             var fs = '19vw';
             if($('.header').hasClass('fellows')){
                 fs = '12vw';
+            }
+
+            ;
+            if(superrrTimeline){
+                Logger.log("KILL superrrTimeline -> " + superrrTimeline);
+                superrrTimeline.kill();
             }
 
             //header animation only on frontpage

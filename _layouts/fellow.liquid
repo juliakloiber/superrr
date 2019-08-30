@@ -11,15 +11,23 @@
     {% include opengraph-ftf.liquid %}
 </head>
 <body>
-{% include header.liquid page_type='fellows' %}
-<div class="page-wrap fellows col-xs-24">
-
-    {% assign tags = page.tags | join:' ' %}
-    {% assign tags = "" | append:tags %}
-    {% include partials/fellow.liquid title=page.title project=page.project members=page.members name=page.name participants=page.participants img=page.img profile_img=page.profile_img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
-
-    <!-- newsletter/social -->
-    {% include partials/social.liquid page_type="fellows" %}
-
+<div class="loader">
+    <span>SUPERRR.NET</span>
 </div>
+<div id="barba-wrapper">
+    <div class="barba-container">
+        {% include header.liquid page_type='fellows' %}
+        <div class="page-wrap fellows col-xs-24">
+
+            {% assign tags = page.tags | join:' ' %}
+            {% assign tags = "" | append:tags %}
+            {% include partials/fellow.liquid title=page.title project=page.project members=page.members name=page.name participants=page.participants img=page.img profile_img=page.profile_img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
+
+            <!-- newsletter/social -->
+            {% include partials/social.liquid page_type="fellows" %}
+
+        </div>
+    </div>
+</div>
+
 {% include footer.liquid %}
