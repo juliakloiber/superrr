@@ -12,7 +12,7 @@ description: "The feminist tech fellows are artists, writers, activists, technol
 
 ---
 <h1>Implicit Development Environments Research Group</h1>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+<p>A research project funded by the Ford Foundation, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?</p>
 <p><a href="https://www.fordfoundation.org/ideas/equals-change-blog/posts/announcing-13m-in-funding-for-digital-infrastructure-research/" target="_blank">More info.</a></p>
 
 

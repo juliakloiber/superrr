@@ -215,6 +215,19 @@ LAYOUT & GRID STYLES
   }
 }
 
+.landing-teaser{
+  height:100vh;
+}
+
+.landing-impressum{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 20px;
+  left: auto;
+  right: 25px;
+  transform: translateX(0%);
+}
+
 /*********************
 CITY
 *********************/

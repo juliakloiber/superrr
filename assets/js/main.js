@@ -347,9 +347,8 @@
     };
 
     Controller.prototype.animateBatches = function(){
-        var batches = document.getElementsByClassName("batch-svg");
 
-        Logger.log("batches -> " + batches);
+        var batches = document.getElementsByClassName("batch-svg");
 
         $('.landing-teaser').mouseover(function() {
             TweenMax.fromTo($(this).find('.landing-batch'), 1, {rotation:"0", transformOrigin:"50% 50%"}, {rotation:"360", transformOrigin:"50% 50%"});
@@ -363,9 +362,16 @@
                 var doc = batch.getSVGDocument();
 
                 var $parent = $(batch).closest('.section');
+
+                Logger.log("$parenttt -> " + $parent);
+
+
                 if(doc){
                     var name = doc.getElementById("name");
                     var superrr = doc.getElementById("super");
+
+                    Logger.log("name -> " + name);
+                    Logger.log("superrr fff -> " + superrr);
 
                     if($parent.hasClass('left')){
                         TweenMax.to(name, 300, {rotation:"3600", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
@@ -373,6 +379,7 @@
                         TweenMax.to(name, 300, {rotation:"-3600", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
                     }
                 }
+
             }
 
         }

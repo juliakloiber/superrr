@@ -15,9 +15,15 @@
 {% if page.type != ''%}
     {% assign page_type = page.type %}
 {% endif %}
-{% include header.liquid page_type=page_type %}
+{% if page.id != 'home' %}
+    {% include header.liquid page_type=page_type %}
+{% endif %}
+
 
 <div class="page-wrap col-xs-24 {{ page_type }}">
     {{ content }}
 </div>
 {% include footer.liquid%}
+
+
+

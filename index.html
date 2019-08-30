@@ -2,31 +2,31 @@
 layout: default
 title : Superrr welcome!
 type: landing
+id: home
 ---
 <div class="row">
     <div class="section landing left">
-        <a href="/lab" class="landing-teaser">
+        <a href="/lab">
             <!-- lab -->
-            <div class="col-xs-24 col-md-12 no-padding">
+            <div class="col-xs-24 col-md-12 no-padding landing-teaser-left landing-teaser">
                 <div class="landing-batch">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/landing/batch-lab.svg" type="image/svg+xml" ></object>
+                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/landing-lab.svg" type="image/svg+xml" ></object>
                 </div>
-                <img class="img-responsive" src="{{ site.baseurl }}/assets/img/static/landing/superrr-lab.jpg"/>
             </div>
         </a>
-        <a href="/community" class="landing-teaser">
+        <a href="/community">
             <!-- community -->
-            <div class="col-xs-24 col-md-12 no-padding">
+            <div class="col-xs-24 col-md-12 no-padding landing-teaser-right landing-teaser ">
                 <div class="landing-batch">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/landing/batch-community.svg" type="image/svg+xml" ></object>
+                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/landing-community.svg" type="image/svg+xml" ></object>
                 </div>
-                <img class="img-responsive" src="{{ site.baseurl }}/assets/img/static/landing/superrr-community.jpg"/>
             </div>
         </a>
     </div>
+
+    <a class="bg-hover landing-impressum" href="/impressum">IMPRESSUM</a>
+
 </div>
-<!-- newsletter/social -->
-{% include partials/social.liquid %}
 <script>
     var is_front_page = true;
 </script>

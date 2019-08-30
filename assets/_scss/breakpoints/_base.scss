@@ -89,6 +89,10 @@ LAYOUT & GRID STYLES
     padding-top: 20px;
   }
 
+  &.landing{
+    height: 100vh;
+  }
+
   &.fullwidth{
     width:100%
   }
@@ -388,6 +392,25 @@ p {
     transform: translate(-50%,-50%);
     width: 40%;
   }
+}
+.landing-teaser{
+  background-size: cover;
+  height: 50vh;
+}
+.landing-teaser-left{
+  background-image: url($baseurl + '/assets/img/static/landing/superrr-lab.jpg');
+
+}
+.landing-teaser-right{
+  background-image: url($baseurl + '/assets/img/static/landing/superrr-community.jpg');
+}
+
+.landing-impressum{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1rem;
 }
 
 .pagination{
