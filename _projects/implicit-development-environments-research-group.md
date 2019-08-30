@@ -6,7 +6,7 @@ layout: project
 img: ""
 external_link: ""
 link: '/project/implicit-development-environments-research-group'
-description: "A research project funded by the <a href=https://www.fordfoundation.org/">Ford Foundation</a>, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"
+description: "A research project funded by the <a href="https://www.fordfoundation.org/">Ford Foundation</a>, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"
 
 
 
