@@ -19,7 +19,7 @@
         ref = this;
 
         Logger.useDefaults();
-        //Logger.setLevel(Logger.OFF);
+        Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
@@ -38,8 +38,6 @@
 
             startTransition: function () {
                 var $el = $(this.oldContainer);
-
-                console.log("$el", $el);
 
                 TweenMax.set('.loader', { y: '-100%'});
                 var transitionPromise = new Promise(function (resolve) {
@@ -73,7 +71,6 @@
                     opacity: 1,
                     onComplete: function () {
                         _this.done();
-                        console.log('done');
                         ref.init();
                         TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
                     }
