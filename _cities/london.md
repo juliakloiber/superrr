@@ -1,14 +1,14 @@
 ---
 title: "Superrr London"
 order: 0
-city: "CCCamp"
+city: "London"
 layout: city
 img: "/assets/img/static/batches/Superrr-London.svg"
 event_date: "February 26th"
 event_year: "2020"
 tags: "#art #science #journalism #activism"
 link: '/city/london'
-email: elisa@superrr.net
+email: london@superrr.com
 
 hosts:
 
