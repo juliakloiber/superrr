@@ -24,8 +24,10 @@ hosts:
 [//]: #  twitterlink: 'http://twitter.com'
 
 ---
-Come by, grab a drink, hang out with like-minded women* and bring a friend to diversify our crowd! Women* from various backgrounds (art, science, tech, music ... whatever floats your boat!) meet at a bar to chat, exchange ideas and to just have a nice evening together.
-No agenda. No men*. No bullshit. ;)
+
+Superrr is a community of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more.
+
+Come by, grab a drink, hang out with like-minded folks and bring a friend to diversify our crowd! People from various backgrounds (art, science, tech, music ... whatever floats your boat!) meet at a bar to chat, exchange ideas and to just have a nice evening together.
 
 Please feel free to bring a +1 to extend the group.
 
