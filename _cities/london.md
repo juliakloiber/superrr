@@ -30,8 +30,6 @@ Superrr is a community of female, trans and non-binary people in the arts, in sc
 
 We strive for diversity, fairness and equality. We believe that we can best achieve that by working together and by empowering and supporting one another. We meet on a regular basis to have a good time, exchange new ideas and scheme on new collaborations.
 
-No agenda. No men*. No bullshit. ;) 
-
 Invite only. 
 
 If you are interested in joining, please drop us an email
