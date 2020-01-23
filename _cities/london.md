@@ -32,8 +32,6 @@ We strive for diversity, fairness and equality. We believe that we can best achi
 
 Invite only. 
 
-If you are interested in joining, please drop us an email
-
 
 
 
