@@ -8,7 +8,7 @@ event_date: "February 26th"
 event_year: "2020"
 tags: "#art #science #journalism #activism"
 link: '/city/london'
-email: london@superrr.com
+email: london@superrr.net
 
 hosts:
 
