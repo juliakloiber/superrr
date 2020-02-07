@@ -1,5 +1,5 @@
 ---
-title: "Ding Magazine – A magazine about the future"
+title: "Ding Magazine - A magazine about the future"
 header_type: lab
 order: 3
 layout: project
