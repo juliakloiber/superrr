@@ -21,7 +21,7 @@ From Hong Kong, to Sudan and Venezuela – Movements and communities across the 
 The goal of this course is to get an overview over past and present examples of how technology was used for civic disobedience. We will invite international guest speakers and get insights into their practice. In the second part of the course will work on speculative futures and come up with new tools and concepts.
 </p>
 
-<img class="img-responsive" src="/assets/img/static/projects/disobedience.jpg">
+<img class="img-responsive" src="/assets/img/static/projects/disobedience2.jpg">
 
 
 <p><a href="https://schoolofdisobedience.net/">schoolofdisobedience.net</a></p>
