@@ -87,10 +87,10 @@ probably best not to use it. I mean, were you going to anyway? */
 }
 
 @mixin custom-cursor() {
-  cursor:url($baseurl + '/assets/img/static/icons/mouse-follower.svg') 0 0, auto;
+  /*cursor:url($baseurl + '/assets/img/static/icons/mouse-follower.svg') 0 0, auto;*/
 }
 @mixin custom-cursor-hover() {
-  cursor:url($baseurl + '/assets/img/static/icons/mouse-follower-hover.svg') 0 0, auto;
+  /*cursor:url($baseurl + '/assets/img/static/icons/mouse-follower-hover.svg') 0 0, auto;*/
 }
 
 

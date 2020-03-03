@@ -11,12 +11,10 @@ Do whatever you want to...GOSH!
 ******************************************************************/
 
 @font-face {
-  font-family: 'CallingCode-Regular';
-  src: url($baseurl + '/assets/fonts/358056_0_0.eot');
-  src: url($baseurl + '/assets/fonts/358056_0_0.eot?#iefix') format('embedded-opentype'),
-  url($baseurl + '/assets/fonts/358056_0_0.woff2') format('woff2'),
-  url($baseurl + '/assets/fonts/358056_0_0.woff') format('woff'),
-  url($baseurl + '/assets/fonts/358056_0_0.ttf') format('truetype');
+  font-family: 'Whyte Book';
+  src: url($baseurl + '/assets/fonts/Whyte-Book.woff2') format('woff2'),
+  url($baseurl + '/assets/fonts/Whyte-Book.woff') format('woff'),
+  url($baseurl + '/assets/fonts/Whyte-Book.ttf') format('truetype');
 }
 
 @font-face {
@@ -32,12 +30,12 @@ Do whatever you want to...GOSH!
 
 
 
-$font-callingcode-regular:    'CallingCode-Regular', sans-serif;
+$font-regular:    'Whyte Book', sans-serif;
 $font-paelzer-grot-medium:    'RT Paelzer Grot Medium DEMO', sans-serif;
 
 
-.font-callingcode-regular{
-  font-family: $font-callingcode-regular;
+.font-regular{
+  font-family: $font-regular;
 }
 .font-paelzer-grot-medium{
   font-family: $font-paelzer-grot-medium;

@@ -26,8 +26,8 @@
         if(ref.isMobileDevice()) name+="-mobile";
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
 
-        Barba.Pjax.start();
-        Barba.Prefetch.init();
+        //Barba.Pjax.start();
+        //Barba.Prefetch.init();
 
         var transitionAnimation = Barba.BaseTransition.extend({
             start: function () {
@@ -38,15 +38,14 @@
 
             startTransition: function () {
                 var $el = $(this.oldContainer);
-
-                TweenMax.set('.loader', { y: '-100%'});
+                //TweenMax.set('.loader', { y: '-100%'});
                 var transitionPromise = new Promise(function (resolve) {
-
+                    resolve();
 
                     var outTransition = new TimelineMax();
                     outTransition
-                        .to('.loader', 0.5, {
-                            y: '0%',
+                        .to($el, 1, {
+                            opacity: 0,
                             ease: Expo.easeOut,
                             onComplete: function () {
                                 resolve()
@@ -65,14 +64,14 @@
                 var _this = this;
                 var $el = $(this.newContainer);
 
-                TweenMax.set($(this.oldContainer), { display: 'none' })
+                //TweenMax.set($(this.oldContainer), { display: 'none' })
                 TweenMax.set($el, { visibility: 'visible', opacity: 0 })
                 TweenMax.to($el, 0.5, {
                     opacity: 1,
                     onComplete: function () {
                         _this.done();
                         ref.init();
-                        TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
+                        //TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
                     }
                 })
             }

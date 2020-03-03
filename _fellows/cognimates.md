@@ -26,7 +26,7 @@ members:
 
 <p><a href="https://mitmedialab.github.io/cognimates-website/about/" target="_blank">Official website</a></p>
 
-<p><span class="uppercase font-callingcode-regular">Sarah</span> is an undergraduate student at MIT majoring in Computer Science. She is interested in Computer Science and Education, and more specifically, how the intersection of the two fields can help democratize knowledge and help alleviate the opportunity gap in America. In addition to her work on Cognimates, she is a swim coach, mentor, and Director of Curriculum at Amphibious Achievement, a student-led organization that serves over 70 local, under-resourced high school students in the greater Boston area. </p>
+<p><span class="uppercase font-regular">Sarah</span> is an undergraduate student at MIT majoring in Computer Science. She is interested in Computer Science and Education, and more specifically, how the intersection of the two fields can help democratize knowledge and help alleviate the opportunity gap in America. In addition to her work on Cognimates, she is a swim coach, mentor, and Director of Curriculum at Amphibious Achievement, a student-led organization that serves over 70 local, under-resourced high school students in the greater Boston area. </p>
 
 
 
