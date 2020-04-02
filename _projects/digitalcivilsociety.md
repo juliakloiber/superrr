@@ -12,9 +12,10 @@ Together with several civil society organisations that work on digital issues, w
 
 
 ---
-<h1>Campaign: Learning from the crisis: strengthening digital civil society!</h1>
+<h1>Learning from the crisis: strengthening digital civil society!</h1>
 <p>
-Our motivation: In times of corona, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
+<p>Our motivation:</p>
+<p>In times of corona, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
 </p>
 
 <p>
@@ -22,11 +23,11 @@ We want to direct public attention towards these communities and help them get t
 </p>
 
 <p>
-Our key recommendations:
-1. Civil society needs to be included in the discussion when digital policy is discussed.
-2. We need new methods of support and funding that are tailored to the needs of digital civil society.
-3. We need new ramifications for public procurement so that they benefit society in a more sustainable way: Open Data, Open Access and Open Source are a basic requirement for public contracts.
-4. Digital infrastructure is critical infrastructure. We need a commitment for long-time support that also covers maintenance of widely-used software, libraries and protocols. 
+<p>Our key recommendations:</p>
+<p>I Civil society needs to be included in the discussion when digital policy is discussed.</p>
+<p>II We need new methods of support and funding that are tailored to the needs of digital civil society.</p>
+<p>III We need new ramifications for public procurement so that they benefit society in a more sustainable way: Open Data, Open Access and Open Source are a basic requirement for public contracts.</p>
+<p>IV Digital infrastructure is critical infrastructure. We need a commitment for long-time support that also covers maintenance of widely-used software, libraries and protocols.</p>
  
 </p>
 
