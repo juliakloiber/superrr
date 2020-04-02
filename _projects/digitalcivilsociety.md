@@ -3,7 +3,7 @@ title: "Campaign: Learning from the crisis: strengthening digital civil society!
 header_type: lab
 order: 1
 layout: project
-img: "/assets/img/static/projects/civil.jpg"
+img: "/assets/img/static/projects/civil.png"
 external_link: ""
 link: '/project/digitalcivilsociety'
 description: "Today we launched our campaign “Learning from the crisis: strengthening digital civil society!” 
