@@ -19,6 +19,8 @@ description: "A research project funded by the Ford Foundation, that investigate
 
 <p>Operationalizing our learnings from the research, our purpose is to formulate recommendations on how funders, public procurement, software managers, researchers and community leaders alike can make sure that critical needs for establishing and maintaining digital infrastructure will be better met in the future.</p>
 
+<p>Project partner: Katharina Meyer </p>
+
 <p><a href="https://www.fordfoundation.org/ideas/equals-change-blog/posts/announcing-13m-in-funding-for-digital-infrastructure-research/" target="_blank">More info.</a></p>
 
 
