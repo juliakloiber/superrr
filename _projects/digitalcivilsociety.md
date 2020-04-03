@@ -6,8 +6,7 @@ layout: project
 img: "/assets/img/static/projects/civil.png"
 external_link: ""
 link: '/project/digitalcivilsociety'
-description: "Today we launched our campaign “Learning from the crisis: strengthening digital civil society!” 
-Together with several civil society organisations that work on digital issues, we formulated a number of recommendations for German politics – or any politician, really."
+description: "“Learning from the crisis: strengthening digital civil society!” – We initiated an open letter that got signed by more than 30 organizations. We demand better government support for civil society organizations that build crucial digital infrastructure and make knowledge accessible."
 
 
 
@@ -15,7 +14,7 @@ Together with several civil society organisations that work on digital issues, w
 <h1>Learning from the crisis: strengthening digital civil society!</h1>
 <p>
 <p>Our motivation:</p>
-<p>In times of corona, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
+<p>In crisis situations like the COVID-19 pandemic, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
 </p>
 
 <p>
