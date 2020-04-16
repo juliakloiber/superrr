@@ -12,7 +12,7 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized;
+        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $footerWrap, $contentWrap;
     function Controller(jQuery){
 
         $ = jQuery;
@@ -25,65 +25,6 @@
         var name = browser.name.toLowerCase();
         if(ref.isMobileDevice()) name+="-mobile";
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
-
-        //Barba.Pjax.start();
-        //Barba.Prefetch.init();
-
-        var transitionAnimation = Barba.BaseTransition.extend({
-            start: function () {
-                Promise.all([this.newContainerLoading, this.startTransition()]).then(
-                    this.fadeIn.bind(this)
-                );
-            },
-
-            startTransition: function () {
-                var $el = $(this.oldContainer);
-                //TweenMax.set('.loader', { y: '-100%'});
-                var transitionPromise = new Promise(function (resolve) {
-                    resolve();
-
-                    var outTransition = new TimelineMax();
-                    outTransition
-                        .to($el, 1, {
-                            opacity: 0,
-                            ease: Expo.easeOut,
-                            onComplete: function () {
-                                resolve()
-                            }
-                        })
-
-                })
-
-
-                return transitionPromise
-            },
-
-            fadeIn: function () {
-                $(window).scrollTop(0);
-
-                var _this = this;
-                var $el = $(this.newContainer);
-
-                //TweenMax.set($(this.oldContainer), { display: 'none' })
-                TweenMax.set($el, { visibility: 'visible', opacity: 0 })
-                TweenMax.to($el, 0.5, {
-                    opacity: 1,
-                    onComplete: function () {
-                        _this.done();
-                        ref.init();
-                        //TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
-                    }
-                })
-            }
-        })
-
-        Barba.Pjax.getTransition = function () {
-            /**
-             * Here you can use your own logic!
-             * For example you can use different Transition based on the current page or link...
-             */
-            return transitionAnimation
-        }
 
     };
 
@@ -210,7 +151,34 @@
 
         initialized = true;
 
+        $naviagtionLeftWrap = $('.navigation-left-wrap');
+        $contentWrap = $('.content-wrap');
+        $footerWrap = $('.footer-wrap');
+        $('.nav-close-btn').click(function(){
+            ref.closeLeftNavigation();
+        });
+        $('.navigation-left-open-wrap').click(function(){
+            if($naviagtionLeftWrap.hasClass('closed')){
+                ref.openLeftNavigation();
+            } else {
+                ref.closeLeftNavigation();
+            }
+        });
     };
+
+    Controller.prototype.openLeftNavigation = function(){
+        //open navigation
+        $naviagtionLeftWrap.removeClass('closed');
+        $contentWrap.addClass('nav-open');
+        $footerWrap.addClass('nav-open');
+    }
+
+    Controller.prototype.closeLeftNavigation = function(){
+        //close navigation
+        $naviagtionLeftWrap.addClass('closed');
+        $contentWrap.removeClass('nav-open');
+        $footerWrap.removeClass('nav-open');
+    }
 
     /*********************
      mobile menu toggle
@@ -274,8 +242,6 @@
             if($('.header').hasClass('fellows')){
                 fs = '12vw';
             }
-
-            ;
             if(superrrTimeline){
                 Logger.log("KILL superrrTimeline -> " + superrrTimeline);
                 superrrTimeline.kill();

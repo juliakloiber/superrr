@@ -30,7 +30,6 @@ h1, .h1 {
 }
 a, p, li {
   font-size: 1.75rem;
-  line-height: 1.75em;
 }
 blockquote{
   font-size: 3.75rem;
@@ -64,14 +63,15 @@ blockquote{
 /*********************
 MAIN NAV
 *********************/
-
-ul.main-nav {
-  li {
-    padding-right: 30px;
-    display: inline-block;
-    a{
-      font-size: 1.75rem;
-      padding: 4px 10px 4px 10px;
+.navigation-wrap{
+  ul.main-nav {
+    li {
+      padding-right: 30px;
+      display: inline-block;
+      a{
+        font-size: 1.75rem;
+        padding: 4px 10px 4px 10px;
+      }
     }
   }
 }

@@ -12,6 +12,164 @@ and will be used across all viewports.
 ******************************************************************/
 
 /*********************
+FONTSIZES
+*********************/
+
+$fontsize-120: 7.5rem !important;
+$fontsize-70: 4.375rem !important;
+$fontsize-50: 3.125rem !important;
+$fontsize-40: 2.5rem !important;
+$fontsize-28: 1.75rem !important;
+$fontsize-24: 1.5rem !important;
+$fontsize-22: 1.375rem !important;
+
+.fontsize-120 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-120;
+  }
+  font-size: $fontsize-120;
+}
+
+.fontsize-70 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-70;
+  }
+  font-size: $fontsize-70;
+}
+
+
+.fontsize-50 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-50;
+  }
+  font-size: $fontsize-50;
+}
+.fontsize-40 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-40;
+  }
+  font-size: $fontsize-40;
+}
+.fontsize-28 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-28;
+  }
+  font-size: $fontsize-28;
+}
+.fontsize-24 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-24;
+  }
+  font-size: $fontsize-24;
+}
+
+/*********************
+END FONTSIZES
+*********************/
+
+/*********************
 GENERAL STYLES
 *********************/
 
@@ -488,14 +646,14 @@ HEADER STYLES
     }
   }
 
-  &.lab{
-    background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-header-lab.jpg');
+  &.old{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
     .logo {
       font-size: 12vw;
     }
   }
 
-  background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
+  background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-header-lab.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -541,72 +699,207 @@ HEADER STYLES
 /*********************
 MAIN NAV
 *********************/
+.navigation-left-wrap{
 
-ul.main-nav{
+  @include transition(transform .25s ease);
 
-  @include transition(max-height .25s ease-in);
-  /*overflow: hidden;*/
-
-  position: relative;
-  width: 100%;
-
-  margin: 0;
-  display: inline-block;
-  line-height: 1;
-  z-index: 5;
-
-  text-align: center;
-
-  &.frontpage{
-    background-color: $white;
+  .nav-open-btn{
+    pointer-events: none;
+    visibility: hidden;
   }
 
-  .main-nav-inner{
-    display: inline-block;
-    padding: 20px 0 10px 0;
+  .nav-open-info{
+    span.open{
+      display:none;
+    }
   }
 
-  li{
+  &.closed{
+    transform: translateX(-320px);
+    @include transition(transform .25s ease);
+
+    .nav-open-btn{
+      pointer-events: auto;
+      visibility: visible;
+    }
+
+    .nav-open-info{
+      span.open{
+        display:block;
+      }
+    }
+
+  }
+
+  .navigation-left-wrap-inner{
+    padding: 2.5rem;
+  }
+
+  width: 320px;
+  height: 100%;
+  position: fixed;
+  z-index: 2;
+
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 84%, rgba(244,244,244,1) 100%);
+
+  ul.main-nav{
+
+    @include transition(max-height .25s ease-in);
+    /*overflow: hidden;*/
+
+    position: relative;
+    width: 100%;
+
+    margin: 0;
     display: inline-block;
-    padding-left: 0 !important;
-    padding-right: 0px;
+    line-height: 1;
+    z-index: 5;
 
-    &:last-of-type{
-      padding-right: 0;
+    text-align: left;
+
+    &.frontpage{
+      background-color: $white;
     }
 
-    &:before{
-      display: none;
-    }
+    li{
+      display: block;
+      padding-left: 0 !important;
+      padding-right: 0px;
+      margin-bottom: 0 !important;
 
-    a{
-      font-size: 1.1rem;
-      padding: 4px 5px 4px 5px;
-      &:hover{
-        background-color: $link-background-hover;
+      &:last-of-type{
+        padding-right: 0;
       }
 
-      &.inactive{
-        opacity: 0.5;
-        pointer-events: none;
+      &:before{
+        display: none;
       }
 
-    }
-
-    ul.submenu{
-      background-color: white;
-      position: absolute;
-    }
-
-    &.current{
       a{
-        background-color: $link-background-hover;
+        letter-spacing: -0.1rem;
       }
+
+      &.current{
+        a{
+          background-color: $link-background-hover;
+        }
+      }
+
     }
 
+  }
+}
+
+.content-wrap, .footer-wrap{
+  @include transition(transform .25s ease);
+  &.nav-open{
+    transform: translateX(320px);
+    @include transition(transform .25s ease);
+  }
+}
+.navigation-left-open-wrap{
+  padding-top: 2rem;
+  position: absolute;
+  top: 7px;
+  left: 320px;
+  padding-left: 2rem;
+  cursor: pointer;
+
+  .nav-open-btn{
+    background-image: url($baseurl + '/assets/img/static/icons/nav-arrow.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 68px;
+    height: 46px;
+    margin-bottom: 2rem;
+  }
+
+  .nav-open-info{
+    transform: rotate(-90deg) translateY(-26px);
+    transform-origin: center;
+    display: block;
   }
 
 }
+.nav-close-btn{
+  cursor: pointer;
+  background-image: url($baseurl + '/assets/img/static/icons/nav-close.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 46px;
+  height: 46px;
+  margin-bottom: 2rem;
+}
+
+.navigation-wrap{
+  ul.main-nav{
+
+    @include transition(max-height .25s ease-in);
+    /*overflow: hidden;*/
+
+    position: relative;
+    width: 100%;
+
+    margin: 0;
+    display: inline-block;
+    line-height: 1;
+    z-index: 5;
+
+    text-align: left;
+
+    &.frontpage{
+      background-color: $white;
+    }
+
+    .main-nav-inner{
+      display: inline-block;
+      padding: 20px 0 10px 0;
+    }
+
+    li{
+      display: block;
+      padding-left: 0 !important;
+      padding-right: 0px;
+      font-size: 2rem;
+
+      &:last-of-type{
+        padding-right: 0;
+      }
+
+      &:before{
+        display: none;
+      }
+
+      a{
+        padding: 4px 5px 4px 5px;
+        &:hover{
+          background-color: $link-background-hover;
+        }
+
+        &.inactive{
+          opacity: 0.5;
+          pointer-events: none;
+        }
+
+      }
+
+      ul.submenu{
+        background-color: white;
+        position: absolute;
+      }
+
+      &.current{
+        a{
+          background-color: $link-background-hover;
+        }
+      }
+
+    }
+
+  }
+}
+
 
 a.bg-hover{
   padding: 2px 4px;
@@ -810,16 +1103,18 @@ body{
       }
     }
   }
-  ul.main-nav{
-    li {
-      a {
-        &:hover {
-          background-color: $link-background-hover-lab;
+  .navigation-wrap{
+    ul.main-nav{
+      li {
+        a {
+          &:hover {
+            background-color: $link-background-hover-lab;
+          }
         }
       }
-    }
-    li.current a {
-      background-color: $link-background-hover-lab;
+      li.current a {
+        background-color: $link-background-hover-lab;
+      }
     }
   }
 

@@ -1,6 +1,5 @@
-<div class="row">
+<div class="navigation-wrap">
     <ul class="main-nav {{ include.page_type }}">
-        <div class="main-nav-inner">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
             {% if include.nav_type == 'ftf' %}
@@ -11,7 +10,5 @@
                 <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/lab">LAB</a></li>
                 <li {% if base_dir[1] == 'community' %} class="current" {% endif %}><a class="bg-hover" href="/community">COMMUNITY</a></li>
             {% endif %}
-        </div>
     </ul>
-    <!--<div class="nav-toggle"><span></span></div>-->
 </div>

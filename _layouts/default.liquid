@@ -11,21 +11,16 @@
     {% include opengraph-superrr.liquid %}
 </head>
 <body>
-<div class="loader">
-    <span>SUPERRR.NET</span>
-</div>
-<div id="barba-wrapper">
-    <div class="barba-container">
-        {% assign page_type = '' %}
-        {% if page.type != ''%}
-            {% assign page_type = page.type %}
-        {% endif %}
-        {% if page.id != 'home' %}
-            {% include header.liquid page_type=page_type %}
-        {% endif %}
-        <div class="page-wrap col-xs-24 {{ page_type }}">
-            {{ content }}
-        </div>
+{% assign page_type = '' %}
+{% if page.type != ''%}
+    {% assign page_type = page.type %}
+{% endif %}
+{% if page.id != 'home' %}
+    {% include header.liquid page_type=page_type %}
+{% endif %}
+<div class="row page-wrap-outter">
+    <div class="page-wrap col-xs-24 {{ page_type }}">
+        {{ content }}
     </div>
 </div>
 

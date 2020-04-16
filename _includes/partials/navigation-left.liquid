@@ -1,0 +1,20 @@
+<!-- include navigation-left -->
+<div class="navigation-left-wrap closed">
+    <div class="navigation-left-open-wrap">
+        <div class="nav-open-btn"></div>
+        <div class="nav-open-info">
+            <span class="open">MENUE</span>
+        </div>
+    </div>
+    <div class="navigation-left-wrap-inner">
+        <div class="nav-close-btn"></div>
+        <ul class="main-nav {{ include.page_type }}">
+            {% assign base_dir = page.url | split:'/'  %}
+            {% assign base_dir = base_dir  %}
+            <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a class="fontsize-50" href="/about">ABOUT</a></li>
+            <li {% if base_dir[1] == 'projects' %} class="current" {% endif %}><a class="fontsize-50" href="/projects">PROJECTS</a></li>
+            <li {% if base_dir[1] == 'talks' %} class="current" {% endif %}><a class="fontsize-50" href="/talks">TALKS</a></li>
+            <li {% if base_dir[1] == 'news' %} class="current" {% endif %}><a class="fontsize-50" href="/news">NEWS</a></li>
+        </ul>
+    </div>
+</div>
