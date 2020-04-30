@@ -1,5 +1,5 @@
-.content-wrap{
-  width: 85%;
+.content-wrap-inner{
+  width: 88%;
 }
 
 h1, .h1 {
@@ -18,8 +18,12 @@ MAIN NAV
     transform: translateX(-375px);
   }
   width: 375px;
+  .community-batch-wrap{
+    width: 70%;
+    margin-top: 2rem;
+  }
 }
-.content-wrap, .footer-wrap{
+.navigation-left-victim{
   &.nav-open{
     transform: translateX(375px);
   }
@@ -33,5 +37,11 @@ MAIN NAV
         padding: 4px 5px 4px 5px;
       }
     }
+  }
+}
+
+.ftf-wrap{
+  .content-wrap{
+    width: 85%;
   }
 }

@@ -1,7 +1,9 @@
 ---
+type: fellows
 layout: post
 author: Julia Friesel
 title: Why we built our own period tracker
+description: If you're reading this and you have a menstrual cycle, there's a pretty good chance you've used a cycle tracking app before
 ---
 
 If you're reading this and you have a menstrual cycle, there's a pretty good chance you've used a cycle tracking app before – like millions of people do every day. And yet, there is a shocking lack in the diversity of how these apps are designed. Most cycle trackers are full of regressive notions of femininity, pink is still the color of choice. Maybe someday I will understand what flowers and butterflies have to do with blood flowing out of my vagina each month. Even beyond the reinforcement of gender stereotypes, the data handling policies of most of these apps is questionable. The <a href="https://www.eff.org/wp/pregnancy-panopticon">Electronic Frontier Foundation</a> reported in 2017 how many of these applications do not secure user data appropriately when transmitting it to their servers and what happens to the data once it gets there is often <a href="https://chupadados.codingrights.org/en/menstruapps-como-transformar-sua-menstruacao-em-dinheiro-para-os-outros/">quite obscure to the users</a>.

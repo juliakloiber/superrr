@@ -26,11 +26,13 @@ $baseurl: "{{ site.baseurl }}";
 // import buttons
 @import "partials/buttons";
 
-// the grid - we use a bootstrap with 24 cols
-@import "partials/bootstrap-grid24";
+// bootstrap
+@import "bootstrap/bootstrap";
 
 // modules
 @import "modules/nav-toggle";
+@import "modules/slick";
+@import "modules/slick-theme";
 
 //spritesheet
 @import "../svg-build/sass/style";
@@ -82,6 +84,13 @@ you can add resource intensive styles.
 
   // styles in 768up.scss
   @import "breakpoints/768up";
+
+} // end of media query
+
+@media only screen and (min-width: 960px) {
+
+  // styles in 960up.scss
+  @import "breakpoints/960up";
 
 } // end of media query
 

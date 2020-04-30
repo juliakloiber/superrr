@@ -3,7 +3,8 @@ title: "Implicit Development Environments Research Group"
 header_type: lab
 order: 1
 layout: project
-img: ""
+teaser_img: ""
+hero_img: ""
 external_link: ""
 link: '/project/implicit-development-environments-research-group'
 description: "A research project funded by the Ford Foundation, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"

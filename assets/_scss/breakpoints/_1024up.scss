@@ -26,25 +26,17 @@ LAYOUT & GRID STYLES
 /*********************
 PAGE & SECTIONS
 *********************/
-a, p, li {
-  font-size: 1.6rem;
-  line-height: 1.6em;
-}
-blockquote{
-  font-size: 4rem;
-}
 
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
 ******************************************************************/
 
-
 h1, .h1 {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 
 h2, .h2 {
-  font-size: 2.25rem;
+  font-size: 3rem;
 }
 
 h3, .h3 {
@@ -52,12 +44,17 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 h5, .h5 {
+  font-size: 1rem;
+}
+
+h6, .h6 {
   font-size: 0.846rem;
 }
+
 
 .text-block{
 
@@ -65,8 +62,7 @@ h5, .h5 {
   padding: 100px;
 }
 
-.content-wrap{
-  width: 800px;
+.content-wrap-inner{
 
   &.shrinked{
     width: 650px;
@@ -190,10 +186,6 @@ CITY
   padding: 50px 0;
 }
 
-.more-btn{
-  font-size: 2.25rem !important;
-}
-
 .scroll-hint-wrap {
   .scroll-hint {
     bottom: 10px;
@@ -258,22 +250,6 @@ CITY
 }
 
 /*********************
-BLOG
-*********************/
-
-.blog-post{
-  .post-headline, .post-headline a{
-    font-size: 4rem;
-    transform: translateX(-6px);
-  }
-  .post-headline{
-    margin-bottom: 40px;
-  }
-
-  margin-bottom: 150px;
-}
-
-/*********************
 FOOTER STYLES
 *********************/
 
@@ -316,5 +292,11 @@ FOOTER STYLES
         font-size: 1.75em;
       }
     }
+  }
+}
+
+.ftf-wrap{
+  .content-wrap{
+    width: 800px;
   }
 }

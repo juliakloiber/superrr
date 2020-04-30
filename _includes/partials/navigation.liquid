@@ -4,10 +4,10 @@
             {% assign base_dir = base_dir  %}
             {% if include.nav_type == 'ftf' %}
                 <!-- feminist tech fellowship -->
-                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/lab">LAB</a></li>
-                <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/blog">BLOG</a></li>
+                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/">LAB</a></li>
+                <li {% if base_dir[2] == 'blog' %} class="current" {% endif %}><a class="bg-hover" href="/feministtech/blog">BLOG</a></li>
             {% else %}
-                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/lab">LAB</a></li>
+                <li {% if base_dir[1] == 'lab' %} class="current" {% endif %}><a class="bg-hover" href="/">LAB</a></li>
                 <li {% if base_dir[1] == 'community' %} class="current" {% endif %}><a class="bg-hover" href="/community">COMMUNITY</a></li>
             {% endif %}
     </ul>

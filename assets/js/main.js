@@ -12,14 +12,15 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $footerWrap, $contentWrap;
+        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
     function Controller(jQuery){
 
         $ = jQuery;
         ref = this;
+        lastScrollTop = 0;
 
         Logger.useDefaults();
-        Logger.setLevel(Logger.OFF);
+        //Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
@@ -52,6 +53,7 @@
         $scrollHintWrap = $('.scroll-hint-wrap');
         $scrollHint = $('.scroll-hint');
         $pageWrap = $('.page-wrap');
+        $naviToggle = $('.navigation-left-open-wrap');
 
         $navToggle = $('.nav-toggle');
         $navToggle.click(function(e){
@@ -60,6 +62,7 @@
         });
 
         //$body.fitVids();
+
         if(ref.viewport().width >= 1024){
             $(".sticky").stickr({
                 duration: 0,
@@ -67,7 +70,6 @@
                 offsetBottom: 30
             });
         }
-
 
         $('.fade-in').viewportChecker({
             classToAdd: 'animated fadeInUp',
@@ -152,8 +154,7 @@
         initialized = true;
 
         $naviagtionLeftWrap = $('.navigation-left-wrap');
-        $contentWrap = $('.content-wrap');
-        $footerWrap = $('.footer-wrap');
+        $naviagtionLeftVictims = $('.navigation-left-victim');
         $('.nav-close-btn').click(function(){
             ref.closeLeftNavigation();
         });
@@ -164,20 +165,67 @@
                 ref.closeLeftNavigation();
             }
         });
+
+        // Save and restore `scrollLeft`.
+        window.onpageshow = (event) => {
+            document.querySelectorAll(".card-holder").forEach((cardHolder) => {
+                var key = cardHolder.dataset.category + "-scrollLeft";
+
+                cardHolder.scrollLeft = localStorage.getItem(key);
+
+                Logger.log("cardHolder.scrollLeft -> " + cardHolder.scrollLeft);
+
+                var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+                $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+                // Save scrollLeft.
+                cardHolder.onscroll = (event) => {
+                    localStorage.setItem(key, cardHolder.scrollLeft)
+                }
+            })
+        }
+        document.querySelectorAll(".card-holder").forEach((cardHolder) => {
+            // Scroll cards into view.
+            cardHolder.querySelectorAll('.card').forEach((card) => {
+                card.onclick = (event) => {
+                    var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
+                    var currentOffset = cardHolder.scrollLeft;
+                    var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+                    $('.cards-navigation').find('.card-dot').each(function(){
+                        $(this).removeClass('active');
+                    });
+                    $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+                    var rect = card.getBoundingClientRect()
+
+                    if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+                        return true
+                    }
+
+                    Logger.log("cardHolder? ", cardHolder);
+
+                    cardHolder.scrollTo({
+                        top: 0,
+                        left: targetOffset,
+                        behavior: "smooth"
+                    })
+
+                    return false
+                }
+            })
+        });
     };
 
     Controller.prototype.openLeftNavigation = function(){
         //open navigation
         $naviagtionLeftWrap.removeClass('closed');
-        $contentWrap.addClass('nav-open');
-        $footerWrap.addClass('nav-open');
+        $naviagtionLeftVictims.addClass('nav-open');
     }
 
     Controller.prototype.closeLeftNavigation = function(){
         //close navigation
         $naviagtionLeftWrap.addClass('closed');
-        $contentWrap.removeClass('nav-open');
-        $footerWrap.removeClass('nav-open');
+        $naviagtionLeftVictims.removeClass('nav-open');
     }
 
     /*********************
@@ -533,6 +581,19 @@
                 }
             }
         }
+
+        if(ref.viewport().width < 960){
+            if (st > lastScrollTop){
+                // downscroll code
+                $naviToggle.addClass('gone');
+            } else {
+                // upscroll code
+                $naviToggle.removeClass('gone');
+            }
+        }
+
+        lastScrollTop = st;
+
     };
 
     /*********************
@@ -541,6 +602,9 @@
     Controller.prototype.resize = function(){
         if(!hasLargeHeader){
             TweenMax.set($pageWrap,{paddingTop: $header.height()+'px'});
+        }
+        if(ref.viewport().width >= 960){
+            $naviToggle.removeClass('gone');
         }
         ref.setupSuperrrAnimation();
     };

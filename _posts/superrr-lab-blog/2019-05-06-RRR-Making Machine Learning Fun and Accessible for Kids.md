@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Sarah T. Vu
-title: Making Machine Learning Fun And Accessible for Kids
+title: RRR Making Machine Learning Fun And Accessible for Kids
+description: Adventures in building a text training page suitable for kids
 ---
 <i>Adventures in building a text training page suitable for kids with <a href="http://cognimates.me/about/">Cognimates</a>.</i><br>
 <img src="/assets/img/blog/cognimates/shady_hill_sarah.png" style="width: 500px">

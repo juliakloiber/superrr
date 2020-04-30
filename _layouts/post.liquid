@@ -1,26 +1,59 @@
----
-layout: ftf
----
-<div class="row">
-    <!-- include navigation -->
-    <div class="section col-xs-24 blog">
-        {% include partials/navigation.liquid page_type='fellows' contact_email=site.contact_email %}
-        <div class="content-wrap blog single content-block">
-            <div class="blog-post">
-                <h2 class="post-headline">{{ page.title }}</h2>
-                <p>By {{ page.author }} on {{ page.date | date_to_string }} </p>
-                <div class="post-content text-wrap">{{ content }}</div>
-            </div>
-            <div class="pagination">
-                {% if page.previous.url %}
-                    <a class="prev" href="{{page.previous.url}}">PREVIOUS</a>
-                {% endif %}
-                {% if page.next.url %}
-                    <a class="next" href="{{page.next.url}}">NEXT</a>
-                {% endif %}
+<!doctype html>
+<html lang="en">
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Superrr - No Agenda. No Men*. No Bullshit.">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ "/assets/main.css?v=2.5" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/all.min.css" | relative_url }}">
+    {% include favicon-superrr.liquid %}
+    {% include opengraph-superrr.liquid %}
+</head>
+<body>
+{% assign page_type = '' %}
+{% if page.type != ''%}
+    {% assign page_type = page.type %}
+{% endif %}
+{% if page.id != 'home' %}
+    {% include header.liquid page_type=page_type %}
+{% endif %}
+<div class="row page-wrap-outter">
+    <div class="page-wrap col-24 {{ page_type }}">
+        <div class="page-content section fullwidth margin-bottom-100 {% if page_type == 'fellows' %}home{% endif %}">
+            {% if page_type != 'fellows' %}
+                {% include partials/navigation-left.liquid %}
+            {% else %}
+                {% include partials/navigation.liquid %}
+            {% endif %}
+
+            <div class="section fullwidth bg-white">
+                <div class="content-wrap navigation-left-victim">
+                    <h3 class="section-headline">{% if page_type != 'fellows' %}Superrr News{% endif %}</h3>
+                    <div class="content-wrap-inner shrinked blog-post text-wrap">
+                        <div class="post-header">
+                            <span class="post-info-text">{{ page.date | date: "%d.%m.%Y" }}</span>
+                            <h2 class="post-headline">{{ page.title }}</h2>
+                            <span class="post-info-text">{{ page.author }}</span>
+                        </div>
+                        {{ content }}
+                    </div>
+                    <div class="content-wrap-inner shrinked d-flex justify-content-center">
+                        <a class="fontsize-40" target="_blank" href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{ page.url }}">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </div>
+                    <div class="content-wrap-inner shrinked d-flex justify-content-start">
+                        <a class="fontsize-28 margin-top-100" href="{% if page_type != 'fellows' %}/news{% else %}/feministtech/blog{% endif %}">
+                            <span class="has-arrow-back">back</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
 <!-- newsletter/social -->
-{% include partials/social.liquid page_type="fellows" %}
+{% include partials/social.liquid page_type="lab" %}
+{% include footer.liquid%}

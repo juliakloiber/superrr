@@ -7,27 +7,20 @@
     <meta name="author" content="Rainbow Unicorn">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ "/assets/main.css?v=2.5" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/all.min.css" | relative_url }}">
     {% include favicon-superrr.liquid %}
     {% include opengraph-superrr.liquid %}
 </head>
 <body>
-<div class="loader">
-    <span>SUPERRR.NET</span>
+{% include header.liquid %}
+<div class="page-wrap col-24">
+
+    {% assign tags = page.tags | join:' ' %}
+    {% assign tags = "" | append:tags %}
+    {% include partials/city.liquid hosts=page.hosts participants=page.participants img=page.img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
+
+    <!-- newsletter/social -->
+    {% include partials/social.liquid %}
+
 </div>
-<div id="barba-wrapper">
-    <div class="barba-container">
-        {% include header.liquid %}
-        <div class="page-wrap col-xs-24">
-
-            {% assign tags = page.tags | join:' ' %}
-            {% assign tags = "" | append:tags %}
-            {% include partials/city.liquid hosts=page.hosts participants=page.participants img=page.img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
-
-            <!-- newsletter/social -->
-            {% include partials/social.liquid %}
-
-        </div>
-    </div>
-</div>
-
 {% include footer.liquid %}

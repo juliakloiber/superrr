@@ -3,7 +3,8 @@ title: "Superrr Expertenbeitrag – Enquete-Kommission Künstliche Intelligenz"
 header_type: lab
 order: 1
 layout: project
-img: ""
+teaser_img: ""
+hero_img: ""
 external_link: ""
 link: '/project/enquete'
 description: "Die Enquete-Kommission hat zum Thema Frauen und KI getagt und wir waren eingeladen, das Thema aus einer feminitischen Perspektive heraus zu betrachten."

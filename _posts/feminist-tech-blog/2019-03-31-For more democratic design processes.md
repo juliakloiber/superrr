@@ -1,7 +1,9 @@
 ---
+type: fellows
 layout: post
 author: Clara Juliano
 title: For more democratic design processes!
+description: The Oracle for Transfeminist Technologies is to me way more than a graphic design or illustration project.
 ---
 
 The Oracle for Transfeminist Technologies is to me way more than a graphic design or illustration project. As a researcher, the Oracle for Transfeminist Technologies is also part of an on-going methodological investigation, and has a lot to contribute with emerging research practices and different forms of knowledge construction in design research, as it suggests an active political approach for research and practice in this area. It's an opportunity to further explore engaged and participatory design processes, while creating spaces for debate around emerging and urgent issues. I want to invite you for a quick journey through this process, and explore the Oracle from a different, designerly perspective. 

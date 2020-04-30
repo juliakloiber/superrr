@@ -20,7 +20,7 @@ MAIN NAV
   }
   width: 414px;
 }
-.content-wrap, .footer-wrap{
+.navigation-left-victim{
   &.nav-open{
     transform: translateX(414px);
   }
@@ -36,3 +36,4 @@ MAIN NAV
     }
   }
 }
+

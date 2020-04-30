@@ -31,6 +31,13 @@ input:-webkit-autofill {
   width: 1px;
 }
 
+.outlined-text{
+  color: white;
+  -webkit-text-fill-color: #fff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+}
+
 .invisible{
   visibility: hidden;
 }
@@ -111,6 +118,9 @@ input:-webkit-autofill {
 .green{
   color: $green;
 }
+.orange{
+  color: $third-color;
+}
 
 .blue{
   color: $primary-color;
@@ -130,6 +140,10 @@ input:-webkit-autofill {
   background-color: $grey;
 }
 
+.bg-grey-light{
+  background-color: $grey-light;
+}
+
 .bg-blue{
   background-color: $primary-color;
 }
@@ -137,10 +151,88 @@ input:-webkit-autofill {
   background-color: $secondary-color;
 }
 
+.no-margin{
+  margin: 0;
+}
+
+.rounded-hover{
+  position: relative;
+  display: inline-block;
+
+  &:hover{
+    &:after{
+      content: '';
+      display: inline-block;
+      width: 110%;
+      height: 100%;
+      position: absolute;
+      border: 2px solid $third-color;
+      top: 0;
+      border-radius: 50%;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+
+}
+
+.element-rounded{
+  border: 2px solid $third-color;
+  border-radius: 50%;
+}
+
+
+
+.has-arrow-left{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:before{
+    background-image: url($baseurl + '/assets/img/static/icons/arrow-white.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    content: '';
+    position: relative;
+    width: 42px;
+    height: 32px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+}
+.has-arrow-back{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:before{
+    background-image: url($baseurl + '/assets/img/static/icons/arrow-back.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    content: '';
+    position: relative;
+    width: 42px;
+    height: 32px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+}
+
+.with-shadow{
+  -webkit-box-shadow: 0px 0px 15px -4px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 15px -4px rgba(0,0,0,0.5);
+  z-index: 1;
+}
+
 .img-responsive{
   width: 100%;
   height: auto;
   display: block;
+}
+
+.margin-bottom-100{
+  margin-bottom: 100px;
+}
+.margin-top-100{
+  margin-top: 100px;
 }
 
 .img-responsive-height{

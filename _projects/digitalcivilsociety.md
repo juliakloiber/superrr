@@ -1,9 +1,10 @@
 ---
-title: "Campaign: Learning from the crisis: strengthening digital civil society!"
+title: "Campaign: Learning from the crisis"
 header_type: lab
 order: 1
 layout: project
-img: "/assets/img/static/projects/civil.png"
+teaser_img: "/assets/img/static/projects/civil-teaser.png"
+hero_img: "/assets/img/static/projects/civil.png"
 external_link: ""
 link: '/project/digitalcivilsociety'
 description: "“Learning from the crisis: strengthening digital civil society!” – We initiated an open letter that got signed by more than 30 organizations. We demand better government support for civil society organizations that build crucial digital infrastructure and make knowledge accessible."
@@ -11,7 +12,7 @@ description: "“Learning from the crisis: strengthening digital civil society!�
 
 
 ---
-<h1>Learning from the crisis: strengthening digital civil society!</h1>
+<h1>Strengthening digital civil society!</h1>
 <p>
 <p>Our motivation:</p>
 <p>In crisis situations like the COVID-19 pandemic, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
@@ -31,7 +32,7 @@ We want to direct public attention towards these communities and help them get t
 </p>
 
 
-<p><a href="https://digitalezivilgesellschaft.org/">digitalezivilgesellschaft.org</a></p>
+<p><a href="https://digitalezivilgesellschaft.org/" target="_blank">digitalezivilgesellschaft.org</a></p>
 
 
 

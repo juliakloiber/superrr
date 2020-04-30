@@ -2,15 +2,9 @@
 BLOG
 *********************/
 
-.content-wrap{
+.content-wrap-inner{
   &.blog{
     max-width: 50vw;
-  }
-}
-
-.blog-post{
-  .post-headline{
-    font-size: 6rem;
   }
 }
 
@@ -40,8 +34,5 @@ CITY
   .event-tags{
     font-size: 2.75rem;
   }
-}
-.more-btn{
-  font-size: 3.25rem !important;
 }
 

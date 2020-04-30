@@ -15,13 +15,13 @@ and will be used across all viewports.
 FONTSIZES
 *********************/
 
-$fontsize-120: 7.5rem !important;
-$fontsize-70: 4.375rem !important;
-$fontsize-50: 3.125rem !important;
-$fontsize-40: 2.5rem !important;
+$fontsize-120: 4rem !important;
+$fontsize-70: 3rem !important;
+$fontsize-50: 1.75rem !important;
+$fontsize-40: 1.75rem !important;
 $fontsize-28: 1.75rem !important;
 $fontsize-24: 1.5rem !important;
-$fontsize-22: 1.375rem !important;
+$fontsize-22: 1.25rem !important;
 
 .fontsize-120 {
   p,
@@ -164,6 +164,29 @@ $fontsize-22: 1.375rem !important;
   }
   font-size: $fontsize-24;
 }
+.fontsize-22 {
+  p,
+  span,
+  a,
+  ol,
+  ul,
+  dl,
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    font-size: $fontsize-22;
+  }
+  font-size: $fontsize-22;
+}
 
 /*********************
 END FONTSIZES
@@ -236,12 +259,28 @@ body {
 LAYOUT & GRID STYLES
 *********************/
 
-/* see partials/_bootstrap-grid24.scss */
+.section-headline{
+  font-size: $fontsize-28;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: center;
+  padding: 50px 25px;
+  margin-bottom: 0;
+}
 
 .section{
 
   position: relative;
   display: block;
+
+  &.mobile-padded{
+    /* for menu mobile top padding*/
+    padding-top: 75px !important;
+  }
+
+  &.padded{
+    padding: 75px 0;
+  }
 
   &.home{
     padding-top: 20px;
@@ -318,6 +357,24 @@ LAYOUT & GRID STYLES
     background-color: $primary-color;
   }
 
+  &.background-lab-community-front {
+    background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-community-lab-front.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $secondary-color;
+  }
+
+  &.background-lab-about {
+    background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-about-lab.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: $primary-color;
+  }
+
+
+
   &.footer{
     background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-footer.jpg');
     background-repeat: no-repeat;
@@ -367,6 +424,23 @@ LAYOUT & GRID STYLES
 
 }
 
+.project-headline{
+  font-size: $fontsize-70;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.image-landscape, .image-portrait{
+  width: 100%;
+  height: auto;
+}
+.text-wrap{
+  .image-landscape, .image-portrait{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+
 /*********************
 LINK STYLES
 *********************/
@@ -378,6 +452,7 @@ a, a:visited {
   /* on hover */
   &:hover, &:focus {
     color: $link-hover;
+    text-decoration: none;
     @include custom-cursor-hover();
   }
 
@@ -457,7 +532,7 @@ blockquote{
 p {
   margin-bottom: 2em;
   margin-top: 0;
-  line-height: 1.5em;
+  line-height: 1.4em;
 }
 
 .page-wrap{
@@ -646,6 +721,13 @@ HEADER STYLES
     }
   }
 
+  &.lab{
+    background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-header-lab.jpg');
+    .logo {
+      font-size: 12vw;
+    }
+  }
+
   &.old{
     background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
     .logo {
@@ -653,7 +735,7 @@ HEADER STYLES
     }
   }
 
-  background-image: url($baseurl + '/assets/img/static/backgrounds/lab/superrr_BG-header-lab.jpg');
+  background-image: url($baseurl + '/assets/img/static/backgrounds/superrr_BG-header.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -680,6 +762,7 @@ HEADER STYLES
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+    text-decoration: none;
 
     .logo-inner{
       padding-left: 4vw;
@@ -689,12 +772,29 @@ HEADER STYLES
   }
 }
 
+.home-hero{
+  min-height: calc(100vh - 12vh);
+  padding-top: 0 !important;
+}
+
 #trigger{
   height: 100vh;
   position: absolute;
   width: 100%;
 }
 
+.home-claim{
+  line-height: 0.9;
+  color: $secondary-color;
+}
+.home-icon-wrap{
+  height: calc(40vh - 4vh);
+  width: 100%;
+  object{
+    height: 100%;
+    width: auto;
+  }
+}
 
 /*********************
 MAIN NAV
@@ -766,7 +866,7 @@ MAIN NAV
       display: block;
       padding-left: 0 !important;
       padding-right: 0px;
-      margin-bottom: 0 !important;
+      margin-bottom: 20px !important;
 
       &:last-of-type{
         padding-right: 0;
@@ -782,16 +882,32 @@ MAIN NAV
 
       &.current{
         a{
-          background-color: $link-background-hover;
+          pointer-events: none;
+          &:after{
+            content: '';
+            display: inline-block;
+            width: 110%;
+            height: 100%;
+            position: absolute;
+            border: 2px solid $third-color;
+            top: 0;
+            border-radius: 50%;
+            left: 50%;
+            transform: translateX(-50%);
+          }
         }
       }
-
     }
-
   }
+
+  .community-batch-wrap{
+     width: 50%;
+     margin-top: 1rem;
+   }
+
 }
 
-.content-wrap, .footer-wrap{
+.navigation-left-victim{
   @include transition(transform .25s ease);
   &.nav-open{
     transform: translateX(320px);
@@ -799,20 +915,32 @@ MAIN NAV
   }
 }
 .navigation-left-open-wrap{
-  padding-top: 2rem;
+  padding-top: 1rem;
   position: absolute;
-  top: 7px;
+  top: 0px;
   left: 320px;
-  padding-left: 2rem;
+  padding-left: 1rem;
   cursor: pointer;
+  background-color: white;
+  width: 100%;
+
+
+  @include transition(transform .25s ease);
+
+  transform: translateY(0%);
+
+  &.gone{
+    transform: translateY(-100%);
+  }
+
 
   .nav-open-btn{
     background-image: url($baseurl + '/assets/img/static/icons/nav-arrow.svg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 68px;
-    height: 46px;
-    margin-bottom: 2rem;
+    width: 53px;
+    height: 36px;
+    margin-bottom: 1rem;
   }
 
   .nav-open-info{
@@ -827,8 +955,8 @@ MAIN NAV
   background-image: url($baseurl + '/assets/img/static/icons/nav-close.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  width: 46px;
-  height: 46px;
+  width: 36px;
+  height: 36px;
   margin-bottom: 2rem;
 }
 
@@ -841,12 +969,11 @@ MAIN NAV
     position: relative;
     width: 100%;
 
-    margin: 0;
-    display: inline-block;
+    margin: 0 auto;
     line-height: 1;
     z-index: 5;
 
-    text-align: left;
+    text-align: center;
 
     &.frontpage{
       background-color: $white;
@@ -858,10 +985,11 @@ MAIN NAV
     }
 
     li{
-      display: block;
+      display: inline-block;
       padding-left: 0 !important;
       padding-right: 0px;
       font-size: 2rem;
+      margin-bottom: 0;
 
       &:last-of-type{
         padding-right: 0;
@@ -932,6 +1060,104 @@ a.bg-hover{
   pointer-events: none;
 }
 
+.card-holder {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  margin-left: unset;
+  margin-right: unset;
+  padding-top: $line-height;
+  padding-bottom: $line-height;
+  margin-bottom: $line-height;
+  overflow-x: scroll;
+  overflow-y: show;
+  scroll-padding: calc(50% - #{$main-column-width} / 2);
+  scroll-snap-type: x mandatory;
+  width: 100%;
+  will-change: auto;
+
+  &::before, &:after{
+    content: '';
+    display: block;
+    height: 1px;
+    flex-shrink: 0;
+    width: calc(50% - #{$main-column-width} / 2);
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  .card{
+    scroll-snap-align: start;
+    width: calc(calc(#{$main-column-width} - calc(#{$cards-per-column} - 1) * #{$row-gap}) / #{$cards-per-column});
+    flex-shrink: 0;
+    overflow: hidden;
+    border-width: 0;
+    margin-right: 20px;
+    max-width: 956px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1.5rem;
+
+    .teaser-card-inner{
+
+      height: 538px;
+      display:block;
+      background-color: white;
+      position: relative;
+      border-radius: 1.5rem;
+      overflow: hidden;
+      margin: 0 auto;
+
+      .teaser-card-image{
+        background-size: contain;
+        background-repeat: no-repeat;
+        padding-top: 113%;
+      }
+      .teaser-card-text{
+        padding: 25px;
+        p{
+          margin-bottom: 1rem;
+        }
+      }
+    }
+  }
+}
+
+.cards-navigation{
+
+  display: flex;
+  justify-content: center;
+
+  .card-dot{
+    font-size: $fontsize-28;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    cursor: pointer;
+    &:last-of-type{
+      margin-right: 0;
+    }
+
+    &.active{
+      &:after{
+        content:'';
+        display: block;
+        border: 1px solid black;
+        height: 10px;
+        border-radius: 50%;
+        width: 200%;
+        position: absolute;
+        transform: translate(-50%,-15px);
+        left: 50%;
+      }
+    }
+
+  }
+}
 
 /*********************
 PAGE & SECTIONS
@@ -942,9 +1168,13 @@ PAGE & SECTIONS
   position: relative;
 }
 
-.content-wrap{
-  width: 95%;
+.content-wrap-inner{
+  width: 90%;
   margin: 0 auto;
+  max-width: 1400px;
+  &.full{
+    max-width: none;
+  }
 }
 
 /*********************
@@ -1025,7 +1255,12 @@ body{
   }
 }
 
-
+.ftf-wrap{
+  .content-wrap{
+    width: 95%;
+    margin: 0 auto;
+  }
+}
 
 .intro-wrap{
   padding: 50px 0 100px 0;
@@ -1045,9 +1280,7 @@ body{
     }
   }
 }
-.more-btn{
-  font-size: 2.25rem !important;
-}
+
 .intro-btn{
   position: relative;
   left: 50%;
@@ -1055,6 +1288,10 @@ body{
   display: block;
   margin-top: 50px;
   text-align: center;
+}
+
+.more-btn{
+  font-size: $fontsize-28;
 }
 
 .text-wrap{
@@ -1066,14 +1303,13 @@ body{
   }
 
   a{
-    @include transition(background-color .2s ease);
-    background-color: $link-background-hover;
-    padding: 2px 4px;
-    white-space: normal;
+
+    border: 2px solid $third-color;
+    border-radius: 50%;
 
     &:hover{
       background-color: $third-color;
-      @include custom-cursor-hover();
+      border-color: $third-color;
     }
   }
 
@@ -1126,17 +1362,17 @@ BLOG
   background-color: $background-color-fellow;
 }
 .blog-post{
+
+  .post-header{
+    margin-bottom: 75px;
+  }
+
   .post-headline{
-    transform: translateX(-3px);
-    font-size: 2.25em;
     white-space: normal;
-    line-height: 0.9;
     padding: 0;
+    margin: 0;
     display: block;
     font-family: $font-paelzer-grot-medium;
-  }
-  .post-headline{
-    margin-bottom: 20px;
   }
   a.post-headline {
     &:hover{
@@ -1153,6 +1389,7 @@ BLOG
   p img, img{
     width: 100% !important;
     height: auto;
+    margin-bottom: 10px;
   }
 
   .post-content{
@@ -1385,12 +1622,67 @@ CITY/FELLOW
   }
 }
 
+
+
+/*********************
+TALKS
+*********************/
+
+.talks-holder{
+  .talk-teaser{
+    background-color: white;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    padding: 3rem;
+    display: block;
+    h3{
+      line-height: 1.1;
+    }
+  }
+}
+
 /*********************
 FOOTER STYLES
 *********************/
 
-.footer{
+.newsletter-signup-wrap{
+  margin-bottom: 10vw;
+}
 
+.posts-holder{
+
+  padding-bottom: 0px;
+
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-auto-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+
+  .post-teaser{
+    padding: 0 25px;
+    margin-bottom: 50px;
+  }
+}
+
+.post-info-text{
+  color: $fellow-color;
+  display: block;
+  margin: 0.5em 0;
+}
+
+.footer{
+  ul.footer-links li{
+    .social-links{
+      a{
+        font-size: 3rem !important;
+        &:hover{
+          background-color: transparent;
+          color: $third-color;
+        }
+      }
+    }
+  }
 
   &.lab{
     .newsletter-wrap{
@@ -1524,7 +1816,7 @@ FOOTER STYLES
     list-style: none;
 
     a{
-      font-size: 1.75rem;
+      font-size: $fontsize-50;
       line-height: 1.25em;
       &:hover{
         background-color: $link-background-hover;
@@ -1564,9 +1856,9 @@ FOOTER STYLES
   ul.footer-links{
 
     width: 100%;
-    position: absolute;
     bottom: 25px;
     text-align: center;
+
 
     li{
       display: block;
@@ -1574,10 +1866,30 @@ FOOTER STYLES
         display: none;
       }
       margin-bottom: 0;
+      a{
+        font-size: $fontsize-40;
+        color: white;
+      }
     }
 
   }
 
+}
+
+.organizations-wrap{
+
+  a{
+
+    margin: 20px;
+    display: block;
+
+    img{
+      height: 40px;
+      width: auto;
+      display: inline-block;
+    }
+
+  }
 }
 
 .marquee {

@@ -1,5 +1,23 @@
 @import 'variables';
 
+.btn-rounded{
+  cursor: pointer;
+  color:white !important;
+  padding: 1rem 3rem;
+  border: 2px solid white;
+  border-radius: 50%;
+
+  &.orange{
+    border-color:$third-color !important;
+  }
+
+  &:hover{
+    background-color: $third-color;
+    border-color: $third-color;
+  }
+
+}
+
 .more-btn{
 
   font-family: $font-paelzer-grot-medium;
@@ -32,8 +50,8 @@
       background-repeat: no-repeat;
       content: '';
       position: relative;
-      width: 46px;
-      height: 68px;
+      width: 30px;
+      height: 44px;
       display: block;
       left:50%;
       top: 30px;
@@ -44,6 +62,12 @@
   }
 
 
+}
+
+@media only screen and (min-width: 960px) {
+  .btn-rounded {
+    padding: 1rem 12rem;
+  }
 }
 
 @media only screen and (min-width: 1024px) {
@@ -117,19 +141,3 @@
   }
 
 } // end of media query
-
-@media only screen and (min-width: 1600px) {
-  .more-btn{
-    &:before{
-      top:8px;
-    }
-  }
-}
-
-@media only screen and (min-width: 1920px) {
-  .more-btn{
-    &:before{
-      top:6px;
-    }
-  }
-}

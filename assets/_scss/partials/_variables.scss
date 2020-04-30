@@ -11,6 +11,18 @@ No one likes a mess.
 
 ******************************************************************/
 
+$grid-columns: 24;
+$grid-gutter-width: 12px;
+
+$grid-breakpoints: (
+        xs: 0,
+        sm: 768px,
+        md: 960px,
+        lg: 1400px,
+        xl: 1920px
+);
+
+
 /*********************
 COLORS
 Need help w/ choosing your colors? Try this site out:
@@ -21,6 +33,7 @@ $black:             #000;
 $white:             #fff;
 $green:             #00ff00;
 $grey:              #f3f3f3;
+$grey-light:        #F1F1F1;
 
 $primary-color:     #03fafd;
 $secondary-color:     #fa7447;
@@ -47,6 +60,12 @@ $link-background-hover-lab: #14e19a;
 
 $selection-background-color: $primary-color;
 $selection-color: $black;
+
+$line-height: 27px;
+$column-gap: $line-height;
+$row-gap: $line-height;
+$main-column-width: 80vw;
+$cards-per-column: 1;
 
 $header-height:         90px;
 $footer-height:         280px;

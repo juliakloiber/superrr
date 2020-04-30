@@ -1,0 +1,51 @@
+---
+layout: default
+title : Superrr Projects
+description :
+type: lab
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="section mobile-padded fullwidth min-fullheight bg-grey-light">
+            <div class="row">
+                <div class="col-24 margin-bottom-100">
+                    <div class="content-wrap-inner">
+                        <h3 class="section-headline">Superrr talks</h3>
+                        {% capture currentDate %}{{ site.time | date: '%F' }}{% endcapture %}
+                        <span class="post-info-text uppercase fontsize-28 pl-5">upcoming</span>
+                        <div class="talks-holder margin-bottom-100">
+                            {% assign sorted = site.talks | reverse %}
+                            {% for post in sorted %}
+                            {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
+                            {% if currentDate <= postDate %}
+                                {% include talk-teaser.liquid %}
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                        <span class="post-info-text uppercase fontsize-28 pl-5">past</span>
+                        <div class="talks-holder margin-bottom-100">
+                            {% assign sorted = site.talks | reverse %}
+                            {% for post in sorted %}
+                            {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
+                            {% if currentDate > postDate %}
+                            {% include talk-teaser.liquid %}
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script>
+    var is_large_header_page = false;
+</script>
+
+
+
+
+

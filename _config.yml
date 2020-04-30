@@ -25,6 +25,7 @@ contact_email: superrr.berlin@gmail.com
 superrr_twitter: "http://twitter.com/superrrnetwork"
 superrr_facebook: ""
 superrr_insta: "https://www.instagram.com/superrrnetwork/"
+mailchimp_signup_link: "#"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -62,6 +63,9 @@ collections:
     projects:
             output: true
             permalink: /project/:path/
+    talks:
+            output: true
+            permalink: /talk/:path/
 
 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Julia Kloiber
-title: Building a Better Period-Tracking App (Podcast)
+title: RRR Building a Better Period-Tracking App
+description: Bloomberg met with Bl00dyhealth – the team behind the open source period tracker
 ---
 
 Bloomberg met with Bl00dyhealth – the team behind the open source period tracker <a href="https://bloodyhealth.gitlab.io/">Drip</a>. 

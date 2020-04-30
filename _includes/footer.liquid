@@ -3,7 +3,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="{{ "/assets/js/vendor/logger.min.js" | relative_url }}"></script>
         <script src="{{ "/assets/js/vendor/jquery.fitvids.js" | relative_url }}"></script>
-        <script src="{{ "/assets/js/vendor/barba.min.js" | relative_url }}"></script>
         <script src="{{ "/assets/js/vendor/jquery.stickr.min.js" | relative_url }}"></script>
         <script src="{{ "/assets/js/vendor/jquery.viewportchecker.js" | relative_url }}"></script>
         <script src="{{ "/assets/js/vendor/greensock/TweenMax.min.js" | relative_url }}"></script>
@@ -19,10 +18,6 @@
                 window.controller = new Controller($);
                 window.controller.init();
             });
-            window.onbeforeunload = function () {
-                //jQuery('body').css('opacity',0);
-                //window.scrollTo(0, 0);
-            }
         </script>
 
 

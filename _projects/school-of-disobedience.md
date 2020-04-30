@@ -3,7 +3,8 @@ title: "Tech for Disobedience"
 header_type: lab
 order: 4
 layout: project
-img: "/assets/img/static/projects/disobedience.jpg"
+teaser_img: "/assets/img/static/projects/school-of-disobedience-teaser.png"
+hero_img: "/assets/img/static/projects/disobedience.jpg"
 external_link: ""
 link: '/project/school-of-disobedience'
 description: "A graduate school at Volksbühne Berlin – that embodies the spirit of this city: global in outlook, international in background, trans-disciplinary in work, innovative, radical, experimental, engaged."
@@ -24,7 +25,7 @@ The goal of this course is to get an overview over past and present examples of 
 <img class="img-responsive" src="/assets/img/static/projects/disobedience2.jpg">
 
 
-<p><a href="https://schoolofdisobedience.net/">schoolofdisobedience.net</a></p>
+<p><a href="https://schoolofdisobedience.net/" target="_blank">schoolofdisobedience.net</a></p>
 
 
 
