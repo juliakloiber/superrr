@@ -1334,31 +1334,6 @@ body{
   }
 }
 
-.page-wrap.lab{
-  .text-wrap{
-    a {
-      background-color: $link-background-hover-lab;
-      &:hover {
-        background-color: $link-background-hover-lab;
-      }
-    }
-  }
-  .navigation-wrap{
-    ul.main-nav{
-      li {
-        a {
-          &:hover {
-            background-color: $link-background-hover-lab;
-          }
-        }
-      }
-      li.current a {
-        background-color: $link-background-hover-lab;
-      }
-    }
-  }
-
-}
 /*********************
 BLOG
 *********************/
