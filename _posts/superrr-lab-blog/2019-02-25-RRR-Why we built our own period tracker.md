@@ -1,5 +1,6 @@
 ---
 layout: post
+type: lab
 author: Julia Friesel
 title: RRR Why we built our own period tracker
 description: If you're reading this and you have a menstrual cycle, there's a pretty good chance you've used a cycle tracking app before

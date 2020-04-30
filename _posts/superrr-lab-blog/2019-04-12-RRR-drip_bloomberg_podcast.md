@@ -1,5 +1,6 @@
 ---
 layout: post
+type: lab
 author: Julia Kloiber
 title: RRR Building a Better Period-Tracking App
 description: Bloomberg met with Bl00dyhealth – the team behind the open source period tracker

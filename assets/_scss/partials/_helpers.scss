@@ -166,10 +166,11 @@ input:-webkit-autofill {
       width: 110%;
       height: 100%;
       position: absolute;
-      border: 2px solid $third-color;
+      border: 1px solid $third-color;
       top: 0;
       border-radius: 50%;
       left: 50%;
+      z-index: -1;
       transform: translateX(-50%);
     }
   }
@@ -177,7 +178,7 @@ input:-webkit-autofill {
 }
 
 .element-rounded{
-  border: 2px solid $third-color;
+  border: 1px solid $third-color;
   border-radius: 50%;
 }
 
@@ -217,8 +218,8 @@ input:-webkit-autofill {
 }
 
 .with-shadow{
-  -webkit-box-shadow: 0px 0px 15px -4px rgba(0,0,0,0.5);
-  box-shadow: 0px 0px 15px -4px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
+  box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
   z-index: 1;
 }
 

@@ -34,7 +34,7 @@ $main-column-width: 956px;
 .section {
   &.mobile-padded {
     /* for menu mobile top padding*/
-    padding-top: 0px;
+    padding-top: 0px !important;
   }
   &.padded{
     padding: 150px 0;
@@ -68,10 +68,17 @@ $main-column-width: 956px;
 }
 
 .card-holder {
+
+  scroll-padding: calc(50% - 956px / 2);
+
+  &::before, &:after{
+    width: calc(50% - 956px / 2);
+  }
+
   .card {
     scroll-snap-align: start;
-    width: calc(calc(#{$main-column-width} - calc(#{$cards-per-column} - 1) * #{$row-gap}) / #{$cards-per-column});
-    margin-right: 200px;
+    width: calc(calc(956px - calc(#{$cards-per-column} - 1) * #{$row-gap}) / #{$cards-per-column});
+    margin-right: 100px;
 
     .teaser-card-inner{
       .teaser-card-image{

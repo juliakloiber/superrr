@@ -1,5 +1,6 @@
 ---
 layout: post
+type: lab
 author: Sarah T. Vu
 title: RRR Making Machine Learning Fun And Accessible for Kids
 description: Adventures in building a text training page suitable for kids

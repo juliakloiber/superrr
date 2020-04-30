@@ -592,6 +592,10 @@
             }
         }
 
+        if(st < 10){
+            $naviToggle.removeClass('gone');
+        }
+
         lastScrollTop = st;
 
     };

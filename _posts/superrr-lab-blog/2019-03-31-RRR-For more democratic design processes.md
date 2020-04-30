@@ -1,5 +1,6 @@
 ---
 layout: post
+type: lab
 author: Clara Juliano
 title: RRR For more democratic design processes!
 description: The Oracle for Transfeminist Technologies is to me way more than a graphic design or illustration project.
