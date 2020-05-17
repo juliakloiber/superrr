@@ -1,5 +1,5 @@
 ---
-type: fellows
+type: ftf
 layout: post
 author: Clara Juliano
 title: For more democratic design processes!

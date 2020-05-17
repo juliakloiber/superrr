@@ -1,5 +1,5 @@
 ---
-type: fellows
+type: ftf
 layout: post
 author: Sarah T. Vu
 title: Making Machine Learning Fun And Accessible for Kids

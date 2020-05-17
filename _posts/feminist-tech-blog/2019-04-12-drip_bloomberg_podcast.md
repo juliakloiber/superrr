@@ -1,5 +1,5 @@
 ---
-type: fellows
+type: ftf
 layout: post
 author: Julia Kloiber
 title: Building a Better Period-Tracking App

@@ -1,5 +1,5 @@
 ---
-type: fellows
+type: ftf
 layout: post
 author: Julia Friesel
 title: Why we built our own period tracker

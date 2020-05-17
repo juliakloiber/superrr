@@ -12,7 +12,6 @@ description: "A research project funded by the Ford Foundation, that investigate
 
 
 ---
-<h1>Implicit Development Environments Research Group</h1>
 <p>Implicit Development Environments or IDE is a research project that is funded by the Ford Foundation.</p>
 <p>Open Digital Infrastructure projects appear to have a specific set of preconditions that sets them apart from projects at the application layer. In our previous work as funders, we found that infrastructure projects are harder to reach, assess and support. These projects often do not fit the traditional impact metrics that are requested for applications and assessed during funding periods – initiating a lack of resources. Since free and open source infrastructure provides the backbone of the internet and most other common information technology systems, this condition can have critical effects on society.</p>
 

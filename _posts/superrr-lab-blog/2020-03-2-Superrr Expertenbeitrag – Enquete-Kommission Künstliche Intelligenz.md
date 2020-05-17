@@ -1,18 +1,11 @@
 ---
-title: "Superrr Expertenbeitrag – Enquete-Kommission Künstliche Intelligenz"
-header_type: lab
-order: 1
-layout: project
-teaser_img: ""
-hero_img: ""
-external_link: ""
-link: '/project/enquete'
-description: "Die Enquete-Kommission hat zum Thema Frauen und KI getagt und wir waren eingeladen, das Thema aus einer feminitischen Perspektive heraus zu betrachten."
-
-
-
+layout: post
+type: lab
+author: Julia Kloiber
+title: Superrr Expertenbeitrag – Enquete-Kommission Künstliche Intelligenz
+description: Am 2. März 2020 war Julia Kloiber in die Enquete Kommission Künstliche Intelligenz in den Deutschen Bundestag zu einer Anhörung geladen. Das Thema – Frauen & KI.
 ---
-<h1>Superrr Expertenbeitrag – Enquete-Kommission Künstliche Intelligenz</h1>
+
 <p>Mehr Informationen und das Video zur Sitzung findet ihr <a href="https://www.bundestag.de/ausschuesse/weitere_gremien/enquete_ki#url=L2Rva3VtZW50ZS90ZXh0YXJjaGl2LzIwMjAva3cxMC1wYS1lbnF1ZXRlLWtpLTY4NDA1OA==&mod=mod569768">hier</a>.<br>
 Es folgt die Textfassung des Expertenbeitrags.</p>
 
