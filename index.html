@@ -1,35 +1,117 @@
 ---
 layout: default
-title : Superrr welcome!
-type: landing
-id: home
+title : Superrr Lab
+description :
+type: lab
 ---
-<div class="row">
-    <div class="section landing left">
-        <!-- lab -->
-        <div class="col-xs-24 col-md-12 no-padding landing-teaser-left landing-teaser">
-            <a href="/lab" class="landing-link">
-                <div class="landing-batch">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/landing-lab.svg" type="image/svg+xml" ></object>
-                </div>
-            </a>
-        </div>
-            <!-- community -->
-            <div class="col-xs-24 col-md-12 no-padding landing-teaser-right landing-teaser ">
-                <a href="/community" class="landing-link">
-                    <div class="landing-batch">
-                        <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/landing-community.svg" type="image/svg+xml" ></object>
+
+<div class="page-content section fullwidth">
+
+    {% include partials/navigation-left.liquid %}
+
+    <div class="content-wrap navigation-left-victim">
+        <div class="section mobile-padded fullwidth home-hero d-flex">
+            <div class="content-wrap-inner full d-flex">
+                <div class="row">
+                    <div class="col-24 col-md-12 d-flex align-items-center">
+                        <div class="home-claim fontsize-120 uppercase pr-md-4">
+                            <span class="outlined-text">Building</span>
+                            <span>Diverse&nbsp;&<br>Equal<br></span>
+                        <span class="outlined-text">futures<br>
+                        in tech<br>and<br>beyond</span>
+                        </div>
                     </div>
-                </a>
+                    <div class="col-24 col-md-12 d-flex align-items-center">
+                        <div class="d-flex flex-wrap">
+                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-md-0 mb-md-5">
+                                <a href="/about" class="d-block">
+                                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-lab.svg" type="image/svg+xml" ></object>
+                                </a>
+                            </div>
+                            <div class="fontsize-40 mb-5">
+                                <p class="m-0 home-text">
+                                    SUPERRR is a lab and a community. We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. Superrr is playful, visionary and feminist.
+                                </p>
+                            </div>
+                            <div class="more-btn-wrap mb-5 mb-md-0">
+                                <a href="/about" class="event-link more-btn  fade-in animated fadeInUp full-visible">
+                                    <span class="more-btn-inner"><span>Rrread more!</span></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
+        </div>
+        <div class="section fullwidth min-fullheight bg-grey-light">
+            <h3 class="section-headline">Projects the Lab is working on</h3>
+            <div class="card-holder" data-category="projects">
+                {% assign projects = site.projects | sort: 'order' %}
+                {% for post in projects %}
+                {% include card.liquid %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="section fullwidth min-fullheight background-lab-community-front padded with-shadow">
+            <div class="content-wrap-inner">
+                <div class="home-icon-wrap d-flex justify-content-center justify-content-md-start mb-5">
+                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-community-transparent.svg" type="image/svg+xml" ></object>
+                </div>
+            </div>
+            <div class="content-wrap-inner shrinked">
+                <h3 class=" fontsize-70 uppercase">Superrr Community</h3>
+                <p>
+                    Superrr Community is a network of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more. We meet on a regular basis in Berlin and London.
+                </p>
+                <div class="more-btn-wrap">
+                    <a href="/community" class="event-link more-btn  fade-in animated fadeInUp full-visible">
+                        <span class="more-btn-inner"><span>Rrread more!</span></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <h3 class="section-headline">News and Ressources</h3>
+                <div class="posts-holder">
+                    {% assign index = 0 %}
+                    {% for post in site.posts %}
+                        {% if index < 2 %}
+                            {% if post.type != 'ftf' %}
+                                {% include post-teaser.liquid %}
+                                {% assign index = index | plus:1 %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="section fullwidth bg-white padded pt-0">
+            <div class="content-wrap-inner">
+                <h3 class="section-headline">Organizations the Lab has worked with</h3>
+            </div>
+                <div class="content-wrap-inner">
+                    <div class="organizations-wrap d-flex flex-wrap justify-content-center">
+                        <a href="https://www.stiftung-nv.de/" target="_blank">
+                            <img src="{{ site.baseurl }}/assets/img/static/organizations/snv_weiss.png" />
+                        </a>
+                        <a href="https://foundation.mozilla.org/" target="_blank">
+                            <img src="{{ site.baseurl }}/assets/img/static/organizations/mozilla-logo-transparent.png" />
+                        </a>
+                        <a href="#" target="_blank">
+                            <img src="{{ site.baseurl }}/assets/img/static/organizations/cct-BW.png" />
+                        </a>
+                        <a href="#" target="_blank">
+                            <img src="{{ site.baseurl }}/assets/img/static/organizations/bertelsman-stiftung.png" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-
-    <a class="bg-hover landing-impressum" href="/impressum">IMPRESSUM</a>
-
 </div>
 <script>
+    var is_large_header_page = true;
     var is_front_page = true;
 </script>
-
-
-

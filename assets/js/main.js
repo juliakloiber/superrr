@@ -12,11 +12,12 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized;
+        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
     function Controller(jQuery){
 
         $ = jQuery;
         ref = this;
+        lastScrollTop = 0;
 
         Logger.useDefaults();
         Logger.setLevel(Logger.OFF);
@@ -25,65 +26,6 @@
         var name = browser.name.toLowerCase();
         if(ref.isMobileDevice()) name+="-mobile";
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
-
-        //Barba.Pjax.start();
-        //Barba.Prefetch.init();
-
-        var transitionAnimation = Barba.BaseTransition.extend({
-            start: function () {
-                Promise.all([this.newContainerLoading, this.startTransition()]).then(
-                    this.fadeIn.bind(this)
-                );
-            },
-
-            startTransition: function () {
-                var $el = $(this.oldContainer);
-                //TweenMax.set('.loader', { y: '-100%'});
-                var transitionPromise = new Promise(function (resolve) {
-                    resolve();
-
-                    var outTransition = new TimelineMax();
-                    outTransition
-                        .to($el, 1, {
-                            opacity: 0,
-                            ease: Expo.easeOut,
-                            onComplete: function () {
-                                resolve()
-                            }
-                        })
-
-                })
-
-
-                return transitionPromise
-            },
-
-            fadeIn: function () {
-                $(window).scrollTop(0);
-
-                var _this = this;
-                var $el = $(this.newContainer);
-
-                //TweenMax.set($(this.oldContainer), { display: 'none' })
-                TweenMax.set($el, { visibility: 'visible', opacity: 0 })
-                TweenMax.to($el, 0.5, {
-                    opacity: 1,
-                    onComplete: function () {
-                        _this.done();
-                        ref.init();
-                        //TweenMax.to('.loader', 1, { delay: 0.5, y: '100%', ease: Expo.easeOut })
-                    }
-                })
-            }
-        })
-
-        Barba.Pjax.getTransition = function () {
-            /**
-             * Here you can use your own logic!
-             * For example you can use different Transition based on the current page or link...
-             */
-            return transitionAnimation
-        }
 
     };
 
@@ -111,6 +53,7 @@
         $scrollHintWrap = $('.scroll-hint-wrap');
         $scrollHint = $('.scroll-hint');
         $pageWrap = $('.page-wrap');
+        $naviToggle = $('.navigation-left-open-wrap');
 
         $navToggle = $('.nav-toggle');
         $navToggle.click(function(e){
@@ -119,6 +62,7 @@
         });
 
         //$body.fitVids();
+
         if(ref.viewport().width >= 1024){
             $(".sticky").stickr({
                 duration: 0,
@@ -126,7 +70,6 @@
                 offsetBottom: 30
             });
         }
-
 
         $('.fade-in').viewportChecker({
             classToAdd: 'animated fadeInUp',
@@ -210,7 +153,80 @@
 
         initialized = true;
 
+        $naviagtionLeftWrap = $('.navigation-left-wrap');
+        $naviagtionLeftVictims = $('.navigation-left-victim');
+        $('.nav-close-btn').click(function(){
+            ref.closeLeftNavigation();
+        });
+        $('.navigation-left-open-wrap').click(function(){
+            if($naviagtionLeftWrap.hasClass('closed')){
+                ref.openLeftNavigation();
+            } else {
+                ref.closeLeftNavigation();
+            }
+        });
+
+        // Save and restore `scrollLeft`.
+        window.onpageshow = (event) => {
+            document.querySelectorAll(".card-holder").forEach((cardHolder) => {
+                var key = cardHolder.dataset.category + "-scrollLeft";
+
+                cardHolder.scrollLeft = localStorage.getItem(key);
+
+                Logger.log("cardHolder.scrollLeft -> " + cardHolder.scrollLeft);
+
+                var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+                $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+                // Save scrollLeft.
+                cardHolder.onscroll = (event) => {
+                    localStorage.setItem(key, cardHolder.scrollLeft)
+                }
+            })
+        }
+        document.querySelectorAll(".card-holder").forEach((cardHolder) => {
+            // Scroll cards into view.
+            cardHolder.querySelectorAll('.card').forEach((card) => {
+                card.onclick = (event) => {
+                    var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
+                    var currentOffset = cardHolder.scrollLeft;
+                    var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+                    $('.cards-navigation').find('.card-dot').each(function(){
+                        $(this).removeClass('active');
+                    });
+                    $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+                    var rect = card.getBoundingClientRect()
+
+                    if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+                        return true
+                    }
+
+                    Logger.log("cardHolder? ", cardHolder);
+
+                    cardHolder.scrollTo({
+                        top: 0,
+                        left: targetOffset,
+                        behavior: "smooth"
+                    })
+
+                    return false
+                }
+            })
+        });
     };
+
+    Controller.prototype.openLeftNavigation = function(){
+        //open navigation
+        $naviagtionLeftWrap.removeClass('closed');
+        $naviagtionLeftVictims.addClass('nav-open');
+    }
+
+    Controller.prototype.closeLeftNavigation = function(){
+        //close navigation
+        $naviagtionLeftWrap.addClass('closed');
+        $naviagtionLeftVictims.removeClass('nav-open');
+    }
 
     /*********************
      mobile menu toggle
@@ -274,8 +290,6 @@
             if($('.header').hasClass('fellows')){
                 fs = '12vw';
             }
-
-            ;
             if(superrrTimeline){
                 Logger.log("KILL superrrTimeline -> " + superrrTimeline);
                 superrrTimeline.kill();
@@ -567,6 +581,23 @@
                 }
             }
         }
+
+        if(ref.viewport().width < 960){
+            if (st > lastScrollTop){
+                // downscroll code
+                $naviToggle.addClass('gone');
+            } else {
+                // upscroll code
+                $naviToggle.removeClass('gone');
+            }
+        }
+
+        if(st < 10){
+            $naviToggle.removeClass('gone');
+        }
+
+        lastScrollTop = st;
+
     };
 
     /*********************
@@ -575,6 +606,9 @@
     Controller.prototype.resize = function(){
         if(!hasLargeHeader){
             TweenMax.set($pageWrap,{paddingTop: $header.height()+'px'});
+        }
+        if(ref.viewport().width >= 960){
+            $naviToggle.removeClass('gone');
         }
         ref.setupSuperrrAnimation();
     };

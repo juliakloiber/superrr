@@ -1,0 +1,12 @@
+<div class="post-teaser d-flex flex-column">
+    <div class="post-info">
+        <span class="post-info-text">{{ post.date | date: "%d.%m.%Y" }}</span>
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.description }}</p>
+    </div>
+    <div class="more-btn-wrap">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="event-link more-btn  fade-in animated fadeInUp full-visible">
+            <span class="more-btn-inner"><span>Rrread more!</span></span>
+        </a>
+    </div>
+</div>

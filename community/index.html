@@ -3,49 +3,45 @@ layout: default
 title : Superrr Community
 type: community
 ---
-<div class="row">
-    <div class="section fullheight header-spacer">
-
-    </div>
-</div>
-<div class="scroll-hint-wrap">
-    <div class="scroll-hint up-and-down">SCRRROLL</div>
-</div>
-<div class="row">
-    <!-- include navigation -->
-    <div class="section col-xs-24 home">
-        {% include partials/navigation.liquid %}
-        <div class="content-wrap intro-wrap content-block fade-in">
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="content-wrap-inner content-block fade-in shrinked">
             <p class="intro-text">Superrr is a community of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more. People who challenge the status quo by the work they do – through starting new programs and organisations, running campaigns, creating community spaces or developing and building things that try to make the world a better place.
 
                 We strive for diversity, fairness and equality. We believe that we can best achieve that by working together and by empowering and supporting one another.
 
                 We meet on a regular basis to come together, exchange new ideas and scheme on new collaborations. We combine our forces to fight for a free society in which everyone can live up to their potentials.
-
+                <br><br>
+                The Superrr community was started in 2015 by Zara Rahman and Julia Kloiber. Kat Braybrooke and Frederike Kaltheuner run the Superrr community in London. 
+                <br><br>
+                <b>INFO: Due to COVID-19 the meetups are online. The offline versions will be continued after it is safe for us to meet up again.</b>
             </p>
             <a class="more-btn intro-btn" href="/about">
                 <span class="more-btn-inner"><span>Learn more about Superrr.</span></span>
             </a>
         </div>
     </div>
-    <!-- include cities -->
+</div>
+
+<!-- include cities -->
+<div class="navigation-left-victim">
     {% assign cities = site.cities | sort: 'order' %}
     {% for city in cities %}
-        {% assign tags = city.tags | join:' ' %}
-        {% assign tags = "" | append:tags %}
+    {% assign tags = city.tags | join:' ' %}
+    {% assign tags = "" | append:tags %}
 
-        {% assign index = forloop.index0 %}
+    {% assign index = forloop.index0 %}
 
-        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-            {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
-        {% else %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+    {% else %}
     {% include sections/city-teaser-right.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
-        {% endif %}
+    {% endif %}
     {% endfor %}
 </div>
-<!-- newsletter/social -->
-{% include partials/social.liquid %}
+
 <script>
     var is_large_header_page = true;
 </script>

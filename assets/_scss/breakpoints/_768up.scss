@@ -30,7 +30,6 @@ h1, .h1 {
 }
 a, p, li {
   font-size: 1.75rem;
-  line-height: 1.75em;
 }
 blockquote{
   font-size: 3.75rem;
@@ -57,21 +56,18 @@ blockquote{
   padding: 50px;
 }
 
-.content-wrap{
-  width: 85%;
-}
-
 /*********************
 MAIN NAV
 *********************/
-
-ul.main-nav {
-  li {
-    padding-right: 30px;
-    display: inline-block;
-    a{
-      font-size: 1.75rem;
-      padding: 4px 10px 4px 10px;
+.navigation-wrap{
+  ul.main-nav {
+    li {
+      padding-right: 30px;
+      display: inline-block;
+      a{
+        font-size: 1.75rem;
+        padding: 4px 10px 4px 10px;
+      }
     }
   }
 }
@@ -79,7 +75,7 @@ ul.main-nav {
 /*********************
 HOME
 *********************/
-.intro-text, .more-btn{
+.intro-text{
   font-size: 1.75rem !important;
   a{
     font-size: 1.75rem !important;
@@ -115,23 +111,6 @@ CITY
   }
 }
 
-.more-btn{
-  font-size: 3.5rem !important;
-}
-
-
-/*********************
-BLOG
-*********************/
-
-.blog-post{
-  transform: translateX(-5px);
-  .post-headline{
-    font-size: 3.5em;
-  }
-  margin-bottom: 100px;
-}
-
 /*********************
 FOOTER STYLES
 *********************/
@@ -157,15 +136,11 @@ FOOTER STYLES
     margin-bottom: 20px;
     display: inline-block;
     right: 25px;
-    width: auto;
+    width: 100%;
 
     li{
       padding-left: 0;
       display: inline;
-
-      a{
-        font-size: 1.25rem;
-      }
     }
   }
 }

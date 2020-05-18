@@ -11,11 +11,29 @@ HEADER STYLES
 MAIN NAV
 *********************/
 
-ul.main-nav{
-  li{
-    a{
-      font-size: 1.4rem;
-      padding: 4px 5px 4px 5px;
+.navigation-left-open-wrap {
+  left: 414px;
+}
+.navigation-left-wrap {
+  &.closed {
+    transform: translateX(-414px);
+  }
+  width: 414px;
+}
+.navigation-left-victim{
+  &.nav-open{
+    transform: translateX(414px);
+  }
+}
+
+.navigation-wrap{
+  ul.main-nav{
+    li{
+      a{
+        font-size: 1.4rem;
+        padding: 4px 5px 4px 5px;
+      }
     }
   }
 }
+

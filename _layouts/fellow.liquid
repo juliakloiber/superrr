@@ -7,6 +7,7 @@
     <meta name="author" content="Rainbow Unicorn">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ "/assets/main.css?v=2.5" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/all.min.css" | relative_url }}">
     {% include favicon-ftf.liquid %}
     {% include opengraph-ftf.liquid %}
 </head>
@@ -17,7 +18,7 @@
 <div id="barba-wrapper">
     <div class="barba-container">
         {% include header.liquid page_type='fellows' %}
-        <div class="page-wrap fellows col-xs-24">
+        <div class="page-wrap fellows col-24">
 
             {% assign tags = page.tags | join:' ' %}
             {% assign tags = "" | append:tags %}

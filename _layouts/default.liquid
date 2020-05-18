@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de">
+<html lang="en">
 <head>
     <title>{{ page.title }}</title>
     <meta charset="utf-8">
@@ -7,28 +7,25 @@
     <meta name="author" content="Rainbow Unicorn">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ "/assets/main.css?v=2.5" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/all.min.css" | relative_url }}">
     {% include favicon-superrr.liquid %}
     {% include opengraph-superrr.liquid %}
 </head>
 <body>
-<div class="loader">
-    <span>SUPERRR.NET</span>
-</div>
-<div id="barba-wrapper">
-    <div class="barba-container">
-        {% assign page_type = '' %}
-        {% if page.type != ''%}
-            {% assign page_type = page.type %}
-        {% endif %}
-        {% if page.id != 'home' %}
-            {% include header.liquid page_type=page_type %}
-        {% endif %}
-        <div class="page-wrap col-xs-24 {{ page_type }}">
-            {{ content }}
-        </div>
+{% assign page_type = '' %}
+{% if page.type != ''%}
+    {% assign page_type = page.type %}
+{% endif %}
+{% if page.id != 'home' %}
+    {% include header.liquid page_type=page_type %}
+{% endif %}
+<div class="row page-wrap-outter">
+    <div class="page-wrap col-24 {{ page_type }}">
+        {{ content }}
     </div>
 </div>
-
+<!-- newsletter/social -->
+{% include partials/social.liquid page_type=page_type %}
 {% include footer.liquid%}
 
 

@@ -1,5 +1,5 @@
-.content-wrap{
-  width: 85%;
+.content-wrap-inner{
+  width: 88%;
 }
 
 h1, .h1 {
@@ -10,11 +10,38 @@ h1, .h1 {
 MAIN NAV
 *********************/
 
-ul.main-nav{
-  li{
-    a{
-      font-size: 1.25rem;
-      padding: 4px 5px 4px 5px;
+.navigation-left-open-wrap {
+  left: 375px;
+}
+.navigation-left-wrap {
+  &.closed {
+    transform: translateX(-375px);
+  }
+  width: 375px;
+  .community-batch-wrap{
+    width: 70%;
+    margin-top: 2rem;
+  }
+}
+.navigation-left-victim{
+  &.nav-open{
+    transform: translateX(375px);
+  }
+}
+
+.navigation-wrap{
+  ul.main-nav{
+    li{
+      a{
+        font-size: 1.25rem;
+        padding: 4px 5px 4px 5px;
+      }
     }
+  }
+}
+
+.ftf-wrap{
+  .content-wrap{
+    width: 85%;
   }
 }

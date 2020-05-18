@@ -1,29 +1,39 @@
-<div class="row">
-    <div class="section fit-to-content-mobile footer background-image-footer {{ include.page_type }}">
-        <div class="row newsletter-wrap fade-in">
-            <div class="col-xs-24 col-sm-16 col-sm-push-4 col-md-12 col-md-push-6 col-lg-10 col-lg-push-7">
-                {% include partials/mailchimp-signup.liquid %}
+<div class="row no-margin footer-wrap content-wrap navigation-left-victim w-100">
+    <div class="section col-24 footer background-image-footer {{ include.page_type }} with-shadow">
+        <div class="content-wrap-inner">
+            <h3 class="section-headline white">Stay in touch!</h3>
+            <div class="newsletter-signup-wrap">
+                <h3 class="fontsize-40 uppercase white text-center pb-2">Sing up to our newsletter</h3>
+                <div class="d-flex justify-content-center">
+                    <a class="btn-rounded fontsize-50 orange" href="{{ site.mailchimp_signup_link }}" target="_blank">
+                        <span class="has-arrow-left">Subscrrribe!</span>
+                    </a>
+                </div>
             </div>
-        </div>
-
-        <div class="social">
-            <div class="touch">
-                <span>GET IN TOUCH</span><br/>
-            </div>
-            <ul class="fade-in">
-                {% if site.superrr_twitter != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_twitter }}">TWITTER</a></li>{% endif %}
-                {% if site.superrr_insta != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_insta }}">INSTAGRAM</a></li>{% endif %}
-                {% if site.superrr_facebook != "" %}<li><a class="bg-hover" target="_blank" href="{{ site.superrr_facebook}}">FACEBOOK</a></li>{% endif %}
-                <li><a class="bg-hover" href="mailto:{{ site.contact_email }}">E-MAIL</a></li>
+            <ul class="footer-links d-block d-md-flex justify-content-md-around">
+                <li>
+                    <a class="rounded-hover" href="/code-of-conduct">CODE OF CONDUCT</a>
+                </li>
+                <li>
+                    <a class="rounded-hover" href="mailto:{{ site.contact_email }}">CONTACT</a>
+                </li>
+                <li>
+                    <a class="rounded-hover" href="/impressum">IMPRESSUM</a>
+                </li>
+                <li>
+                    <div class="social-links pt-3 pt-md-0">
+                        {% if site.superrr_twitter != "" %}<a class="bg-hover" target="_blank" href="{{ site.superrr_twitter }}">
+                                <i class="fab fa-twitter"></i>
+                            </a>{% endif %}
+                        {% if site.superrr_insta != "" %}<a class="bg-hover" target="_blank" href="{{ site.superrr_insta }}">
+                                <i class="fab fa-instagram"></i>
+                            </a>{% endif %}
+                        {% if site.superrr_facebook != "" %}<a class="bg-hover" target="_blank" href="{{ site.superrr_facebook}}">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>{% endif %}
+                    </div>
+                </li>
             </ul>
         </div>
-        <ul class="footer-links">
-            <li>
-                <a class="bg-hover" href="/code-of-conduct">CODE OF CONDUCT</a>
-            </li>
-            <li>
-                <a class="bg-hover" href="/impressum">IMPRESSUM</a>
-            </li>
-        </ul>
     </div>
 </div>

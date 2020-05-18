@@ -1,35 +1,64 @@
 ---
 layout: default
 title : About Superrr
+type: lab
 ---
-<div class="row">
-    <!-- include navigation -->
-    <div class="section col-xs-24 home">
-        {% include partials/navigation.liquid %}
-        <div class="content-wrap shrinked text-wrap content-block fade-in">
-            <p><a href="#">Superrr</a> was started in 2015 by Zara Rahman and Julia Kloiber. It started out as a meetup series for women* from diverse backgrounds. In 2019 Superrr Lab was launched to work on projects focussing on ethical tech and diversity. * (we later expanded this group to female, trans and non-binary people).
-            </p>    
-            <p>
-                The community:
-                “Through our professional and personal lives, we realised that we knew so many great female, trans and non-binary people –  but there were very little occasions where they would all meet each other, or have the time and space to connect over issues that we all cared about. There were a lot of conferences and events but the conversations we were looking for was more than small talk on the margins of a conference.”
-                Connecting a diverse group of people is at the core of Superrr. We strive to connect people from many different backgrounds – from medical doctors, to anthropologists, social workers, artists and technologists, all of whom have a shared interest in some aspect of positive social change. Diversity doesn’t only make our meetups and discussions more interesting, it makes the community more resilient and strong.
-            </p>
-            <p>
-                Simplicity is key. We’ve kept the format of the meetups as straightforward and simple as possible. We wanted it to be easy to host meetups and we wanted to focus on the most important part of a community event: the people.
-                No special guests or presentations – because everyone is special.
-                Why not start a Superrr meet up in your city? We believe that meeting up in person, getting to know each other and having time and space to talk about things that matter to us all can be the beginning of many great collaborations and projects.
-                One day, we imagine doing exchanges across Superrr meetups, from city to city, country to country.
 
-                <blockquote>Be Superrr!</blockquote>
-            </p>
-            <p>
-                *everyone who identifies as a woman
-            </p>
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="section mobile-padded fullwidth home-hero padded background-lab-about with-shadow">
+            <div class="content-wrap-inner">
+                <h3 class="section-headline">About Superrr</h3>
+            </div>
+            <div class="content-wrap-inner shrinked">
+                <p class="fontsize-40 home-text">
+                    Superrr is a community and a lab. We develop visions and projects with the goal to create more equitable futures. We do so by researching technologies, building networks and shaping new narratives. Superrr is playful, visionary and feminist.
+                </p>
+                <p class="fontsize-22 px-4 px-md-5">
+                    <b>Superrr Lab</b>
+                    <br> The mission of Superrr Lab is to explore and develop the potentials of new technologies for society and diversity. We work on research and advocacy projects with a broad range of people and institutions – From policy makers to artists, non-profits, public institutions and others. Through our fellowship programs we support individuals and explore future narratives. In our research work we study the social implications of technology. In our advocacy work we challenge the power and purpose of technology in society. Our work is driven by feminist values such as equity, diversity, creativity and curiosity. 
+                    Superrr Lab is an independent non-profit organization founded by Elisa Lindinger and Julia Kloiber in 2019.
+
+                    <br><br>Our partners included the Mozilla Foundation, the Ford Foundation, Stiftung Neue Verantwortung, the Helmholtz Association, Google and others. We advised the commision of inquiry on artificial intelligence of the German parliament, and the European Commission. We have presented at national and international conferences and events, such as re-publica, TED, Public Democracy Forum, the School of Disobedience and more.
+                </p>
+                <p class="fontsize-22 px-4 px-md-5">
+                    <b>Superrr Community</b>
+                    <br>Superrr Community is a network of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more. People who challenge the status quo by the work they do – through starting new programs and organizations, running campaigns, creating community spaces or developing and building things that try to make the world a better place. We strive for diversity, fairness and equality. We believe that we can best achieve that by working together and by empowering and supporting one another. We meet on a regular basis to come together, exchange new ideas and scheme on new collaborations. We combine our forces to fight for a free society in which everyone can live up to their potentials. 
+                    <br><br>The Superrr community was started in 2015 by Zara Rahman and Julia Kloiber. Kat Braybrooke and Frederike Kaltheuner run the Superrr community in London.
+                </p>
+            </div>
+        </div>
+        <!--
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <h3 class="section-headline">The Founders</h3>
+                <div class="posts-holder d-flex flex-wrap">
+                    <div class="post-teaser col-24 col-md-12">
+                        <div class="post-info">
+                            <p><span class="element-rounded">Elisa Lindinger</span> is a freelance researcher of technology and culture. She has consulted open source and open infrastructure communities and organized and facilitated conferences and event series. As a trained archaeologist, Elisa has worked at the intersection of culture and computer science, both in and outside of academia in fields such as 3d scanning, machine learning and database design. Her current research focuses on open digital infrastructures, and how social practices, norms and values within tech communities shape its development.</p>
+                        </div>
+                    </div>
+                    <div class="post-teaser col-24 col-md-12">
+                        <div class="post-info">
+                            <p><span class="element-rounded">Julia Kloiber</span> develops strategies and concepts for the digital world. She is the co-founder of the Prototype Fund and Code for Germany. Previously, Julia worked with the Mozilla Foundation, Open Knowledge Foundation Germany and as Consultant for The Engine Room. She a regular speaker at international conferences and advises governments and companies on digital strategies. In her work she is investigating emerging technologies and their influence on society. She enjoys creative solutions to difficult problems. You can read more about her work here.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        -->
+        <div class="section fullwidth min-fullheight bg-grey-light">
+            <h3 class="section-headline">Projects we are working on</h3>
+            <div class="card-holder" data-category="projects">
+                {% assign projects = site.projects | sort: 'order' %}
+                {% for post in projects %}
+                {% include card.liquid %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>
-<!-- newsletter/social -->
-{% include partials/social.liquid %}
 <script>
     var is_large_header_page = false;
 </script>

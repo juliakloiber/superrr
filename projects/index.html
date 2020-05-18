@@ -1,0 +1,29 @@
+---
+layout: default
+title : Superrr Projects
+description :
+type: lab
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="section fullwidth min-fullheight bg-grey-light padded">
+            <h3 class="section-headline">Projects we are working on</h3>
+            <div class="card-holder" data-category="projects">
+                {% assign projects = site.projects | sort: 'order' %}
+                {% for post in projects %}
+                {% include card.liquid %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var is_large_header_page = false;
+</script>
+
+
+
+
+

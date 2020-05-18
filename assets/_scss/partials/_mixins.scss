@@ -93,4 +93,12 @@ probably best not to use it. I mean, were you going to anyway? */
   /*cursor:url($baseurl + '/assets/img/static/icons/mouse-follower-hover.svg') 0 0, auto;*/
 }
 
+@mixin div-same-size-as-background-img($url) {
+  background-image: url($url);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 0;
+  padding-top: percentage(image-height($url) / image-width($url)); }
+
 
