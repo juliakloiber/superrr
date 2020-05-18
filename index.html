@@ -52,22 +52,6 @@ type: lab
                 {% endfor %}
             </div>
         </div>
-        <div class="section fullwidth bg-white">
-            <div class="content-wrap-inner">
-                <h3 class="section-headline">News and Ressources</h3>
-                <div class="posts-holder">
-                    {% assign index = 0 %}
-                    {% for post in site.posts %}
-                        {% if index < 2 %}
-                            {% if post.type != 'ftf' %}
-                                {% include post-teaser.liquid %}
-                                {% assign index = index | plus:1 %}
-                            {% endif %}
-                        {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
         <div class="section fullwidth min-fullheight background-lab-community-front padded with-shadow">
             <div class="content-wrap-inner">
                 <div class="home-icon-wrap d-flex justify-content-center justify-content-md-start mb-5">
@@ -86,7 +70,24 @@ type: lab
                 </div>
             </div>
         </div>
-        <div class="section fullwidth bg-white padded">
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <h3 class="section-headline">News and Ressources</h3>
+                <div class="posts-holder">
+                    {% assign index = 0 %}
+                    {% for post in site.posts %}
+                        {% if index < 2 %}
+                            {% if post.type != 'ftf' %}
+                                {% include post-teaser.liquid %}
+                                {% assign index = index | plus:1 %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="section fullwidth bg-white padded pt-0">
             <div class="content-wrap-inner">
                 <h3 class="section-headline">Organizations the Lab has worked with</h3>
             </div>

@@ -1308,12 +1308,10 @@ body{
 
   a{
 
-    border: 1px solid $third-color;
-    border-radius: 50%;
+    border-bottom: 1px solid black;
 
     &:hover{
-      background-color: $third-color;
-      border-color: $third-color;
+      border-bottom: 1px solid $third-color;
     }
   }
 
