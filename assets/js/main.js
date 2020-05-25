@@ -278,6 +278,7 @@
             .setTween(timeline)
             //.addIndicators({name: "#trigger"}) // add indicators (requires plugin)
             .addTo(sm_bgf_controller);
+
     };
 
     Controller.prototype.setHeaderAnimation = function(){
