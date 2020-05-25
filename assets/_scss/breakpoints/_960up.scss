@@ -39,6 +39,15 @@ $main-column-width: 956px;
   &.padded{
     padding: 150px 0;
   }
+
+  &.padded-top{
+    padding: 150px 0 0 0;
+  }
+
+  &.padded-organisations{
+    padding: 75px 0 150px 0 !important;
+  }
+
 }
 
 .home-icon-wrap{
@@ -78,7 +87,7 @@ $main-column-width: 956px;
   .card {
     scroll-snap-align: start;
     width: calc(calc(956px - calc(#{$cards-per-column} - 1) * #{$row-gap}) / #{$cards-per-column});
-    margin-right: 100px;
+    margin-right: 54px;
 
     .teaser-card-inner{
       .teaser-card-image{
@@ -104,6 +113,7 @@ $main-column-width: 956px;
 .posts-holder{
   padding-bottom: 100px;
   grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 1fr;
 
   .post-teaser{
     padding: 0 100px;

@@ -282,6 +282,14 @@ LAYOUT & GRID STYLES
     padding: 75px 0;
   }
 
+  &.padded-top{
+    padding: 75px 0 0 0;
+  }
+
+  &.padded-organisations{
+    padding: 37.5px 0 75px 0 !important;
+  }
+
   &.home{
     padding-top: 20px;
   }
@@ -1072,8 +1080,7 @@ a.bg-hover{
   margin-left: unset;
   margin-right: unset;
   padding-top: $line-height;
-  padding-bottom: $line-height;
-  margin-bottom: $line-height;
+  padding-bottom: 100px;
   overflow-x: scroll;
   overflow-y: show;
   scroll-padding: calc(50% - 80vw / 2);
@@ -1632,7 +1639,6 @@ FOOTER STYLES
 
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-auto-rows: 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 
