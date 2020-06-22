@@ -7,7 +7,7 @@ description: Hammam Radio is one of a kind. It is a space for personal stories o
 ---
 
 <img src="/assets/img/blog/quoteabir.png" alt="Image with Visual of Abir and Slogan Our Stories from the Ground" width="500" height="600">
-<p><em>When <a href="https://twitter.com/AbirGhattas">Abir</a> started <a href="https://yamakan.place/hammamradio/">Hammam Radio</a> – a feminist radio station – she did so as a way of coping with the effects of Corona. She and her friends were longing for a safe, public space in which women* in all their diversity could exchange stories about their everyday lives. A place to meet, talk, participate, think, shout, cry, laugh, become angry, love, and raise their voices. Over the following weeks, many listeners joined them. Together they have been cursing, crying, singing and breaking taboos. Hammam Radio has become the home of personal stories from the ground. A place that welcomes everybody – but is owned by women*.</em></p>
+<p><em>When <a href="https://twitter.com/AbirGhattas">Abir</a> started <a href="https://yamakan.place/hammamradio/">Hammam Radio</a> – an Arabic feminist radio station – she did so as a way of coping with the effects of Corona. She and her friends were longing for a safe, public space in which women* in all their diversity could exchange stories about their everyday lives. A place to meet, talk, participate, think, shout, cry, laugh, become angry, love, and raise their voices. Over the following weeks, many listeners joined them. Together they have been cursing, crying, singing and breaking taboos. Hammam Radio has become the home of personal stories from the ground. A place that welcomes everybody – but is owned by women*.</em></p>
 
 
 <p><b>SUPERRR:</b> Why did you start Hammam Radio?</p>
@@ -35,9 +35,9 @@ And our listeners are engaged: we run a chat on the website and people talk! The
 <p>It's been four episodes now. The first was amazing. There are about 45 Arabic words to describe the vagina, but they are disgusting – very masculine and shameful. So we started by reading these words out. Usually, you would only use them as an insult – and Arabic insults are a different level of creativity. We then talked about periods, masturbation... Everything!</p>
 <p>Talking about your intimate parts as a woman – it’s such a broken record but it is taboo in the Arab world. People only ever talk about it in private circles. We smashed that circle, and now there’s a recording on <a href="https://soundcloud.com/hammam-radio">Soundcloud</a> where I talk about all the different sex toys you can use to pleasure yourself. Because masturbation is fucking awesome! Nobody says that, but everybody wants to hear about it. We got Instagram messages asking questions – in 2020, right!? – about shame and guilt and if it is bad for women* to want to touch themselves. I don’t need an expert to tell me this. I have sex, I orgasm. It’s the whole “hammam” idea: we sit in a public private place and share intimate stuff, we trust each other. I tell my experience – this is what we do. And it works! One woman talked about the day she was forced into marriage and how her new husband raped her on her wedding night. Not a nice story, but in the chat, people pour out their own. Everybody was like “Yeah, you're not alone.” You can talk with your friends, but you can't talk about it in a public space without shame. These spaces don’t really exist, and this tells you there is a need. </p>
 
-<p><b>SUPERRR:</b> What about the show 3ala balata (Englisch: "As raw as it gets")?</p>
+<p><b>SUPERRR:</b> What about the show 3ala balata (English: "As raw as it gets")?</p>
 
-<p><b>Abir:</b> Nora runs this show. She’s from Saudi Arabia and reached out saying she wanted to change the current discourse around the country. So I called her saying “You are more than welcome to do whatever you like, but you're not gonna whitewash Saudi Arabia, right?” She said, “You're so funny – no, I'm actually banned from going back to Saudi Arabia!”
+<p><b>Abir:</b> Nora runs this show. She’s from Saudi Arabia and reached out saying she wanted to change the current discourse around the country. So I called her saying, “You are more than welcome to do whatever you like, but you're not gonna whitewash Saudi Arabia, right?” She said, “You're so funny – no, I'm actually banned from going back to Saudi Arabia!”
 She wanted normal people from Saudi Arabia to share their stories and did this awesome episode about marriage. I didn't know they have schools in Saudi Arabia that teach you how to be a good wife! Now Nora does regular shows on Friday.</p>
 
 <p><b>SUPERRR:</b> On Hammam Radio you can hear stories from women* that you otherwise wouldn’t hear in mainstream media. </p>
@@ -61,6 +61,6 @@ She wanted normal people from Saudi Arabia to share their stories and did this a
 
 <p><b>SUPERRR:</b> Thank you!</p>
 
-<p>Listen to Hammam Radio episodes on<a href="https://soundcloud.com/hammam-radio">Soundcloud</a>.</p>
-<p>Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
+<p>Listen to Hammam Radio episodes on <a href="https://soundcloud.com/hammam-radio">Soundcloud</a>.
+  Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
 
