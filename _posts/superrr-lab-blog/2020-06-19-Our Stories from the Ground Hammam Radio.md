@@ -7,8 +7,8 @@ description: Hammam Radio is one of a kind. It is a space for personal stories o
 ---
 
 <img src="/assets/img/blog/quoteabir.png" alt="Image with Visual of Abir and Slogan Our Stories from the Ground" width="500" height="600">
-<p>Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/>Rainbow Unicorn</a>.</p>
-<br>
+<p>Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
+<br><br>
 <p><em>When <a href="https://twitter.com/AbirGhattas">Abir</a> started <a href="https://yamakan.place/hammamradio/">Hammam Radio</a> – a feminist radio station – she did so as a way of coping with the effects of Corona. She and her friends were longing for a safe, public space in which women* in all their diversity could exchange stories about their everyday lives. A place to meet, talk, participate, think, shout, cry, laugh, become angry, love, and raise their voices. Over the following weeks, many listeners joined them. Together they have been cursing, crying, singing and breaking taboos. Hammam Radio has become the home of personal stories from the ground. A place that welcomes everybody – but is owned by women*.</em></p>
 
 
