@@ -1,7 +1,7 @@
 ---
 title: "Campaign: Learning from the crisis"
 header_type: lab
-order: 0
+order: 1
 layout: project
 teaser_img: "/assets/img/static/projects/civil-teaser.png"
 hero_img: "/assets/img/static/projects/civil.png"
