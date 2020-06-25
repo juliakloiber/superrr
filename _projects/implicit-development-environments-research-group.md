@@ -1,27 +1,24 @@
 ---
-title: "Implicit Development Environments Research Group"
+title: "Report: Roadwork Ahead"
 header_type: lab
-order: 1
+order: 0
 layout: project
-teaser_img: ""
-hero_img: ""
+teaser_img: "/assets/img/static/projects/roadwork_ahead_teaser.png"
+hero_img: "/assets/img/static/projects/Spot_Risk_800.gif"
 external_link: ""
 link: '/project/implicit-development-environments-research-group'
-description: "A research project funded by the Ford Foundation, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"
+description: "A research report funded by the Ford Foundation, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"
 
 
 
 ---
-<p>Implicit Development Environments or IDE is a research project that is funded by the Ford Foundation.</p>
-<p>Open Digital Infrastructure projects appear to have a specific set of preconditions that sets them apart from projects at the application layer. In our previous work as funders, we found that infrastructure projects are harder to reach, assess and support. These projects often do not fit the traditional impact metrics that are requested for applications and assessed during funding periods – initiating a lack of resources. Since free and open source infrastructure provides the backbone of the internet and most other common information technology systems, this condition can have critical effects on society.</p>
+<p>In this report we explore the unique nature of the community that builds and maintains free and open-source software (FOSS) and the role that community takes in shaping an open Internet. It draws on interviews with contributors to FOSS projects to highlight the community’s strengths as well as its challenges.It finds that, while the community runs on trust-based relationships, self-organization and self-motivation, these foster a lack of organizational structure and low diversity among contributors. This results in a lack of different skills and perspectives that are necessary for running successful, sustainable projects, and lost opportunities to receive funding and other, non-monetary support.Based on these insights, this report proposes recommendations of how funders can support the FOSS community more effectively. Especially in times where the most foundations focus alleviating the impact of Covid-19 and the biggest tech funder is under pressure, we need to find new and more diverse ways to keep the ecosystem healthy.
+</p>
 
-<p>In our research, we will specifically address the different stages in which Open Digital Infrastructure is being shaped and created: From the technical governing bodies of the Internet like IETF or ISOC to the people and projects that implement standards in Open Digital Infrastructure and those who run infrastructure services. We examine the underpinning dynamics and values within the econsystem in order to understand which role guidelines, governance models, ideologies and social practices play in this field. We assess what specific processes and tasks in these communities and institutions need our special attention, involvement and support. </p>
 
-<p>Operationalizing our learnings from the research, our purpose is to formulate recommendations on how funders, public procurement, software managers, researchers and community leaders alike can make sure that critical needs for establishing and maintaining digital infrastructure will be better met in the future.</p>
-
-<p>Project partner: Katharina Meyer </p>
-
-<p><a href="https://www.fordfoundation.org/ideas/equals-change-blog/posts/announcing-13m-in-funding-for-digital-infrastructure-research/" target="_blank">More info.</a></p>
+<p>This report was supported by the Ford Foundation and the Sloan Foundation in the context of the Critical Digital Infrastructure Research fund.
+Project partner: Katharina Meyer </p>
+<p><a href="https://recommendations.implicit-development.org/" target="_blank">Read the report.</a></p>
 
 
 
