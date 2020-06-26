@@ -37,7 +37,7 @@ And our listeners are engaged: we run a chat on the website and people talk! The
 
 <p><b>SUPERRR:</b> What about the show 3ala balata (English: "As raw as it gets")?</p>
 
-<p><b>Abir:</b> Nora runs this show. She’s from Saudi Arabia and reached out saying she wanted to change the current discourse around the country. So I called her saying, “You are more than welcome to do whatever you like, but you're not gonna whitewash Saudi Arabia, right?” She said, “You're so funny – no, I'm actually banned from going back to Saudi Arabia!”
+<p><b>Abir:</b> Nora runs this show. She’s from Saudi Arabia and reached out saying she wanted to change the current discourse around the country. So I called her saying, “You are more than welcome to do whatever you like, but you're not gonna whitewash Saudi Arabia, right?” She said, “You're so funny, the show actually aims to do the opposite!”
 She wanted normal people from Saudi Arabia to share their stories and did this awesome episode about marriage. I didn't know they have schools in Saudi Arabia that teach you how to be a good wife! Now Nora does regular shows on Friday.</p>
 
 <p><b>SUPERRR:</b> On Hammam Radio you can hear stories from women* that you otherwise wouldn’t hear in mainstream media. </p>
