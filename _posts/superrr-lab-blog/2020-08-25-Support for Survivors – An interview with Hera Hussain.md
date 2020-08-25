@@ -8,7 +8,7 @@ description: Chayn is an organization that helps women experiencing abuse find t
 ---
 
 <img src="/assets/img/blog/hera_hussain.png" alt="Image with Illustration of Hera" width="500" height="600">
-<p><em>When <a href="https://twitter.com/AbirGhattas">Abir</a> started <a href="https://yamakan.place/hammamradio/">Hammam Radio</a> – an Arabic feminist radio station – she did so as a way of coping with the effects of Corona. She and her friends were longing for a safe, public space in which women* in all their diversity could exchange stories about their everyday lives. A place to meet, talk, participate, think, shout, cry, laugh, become angry, love, and raise their voices. Over the following weeks, many listeners joined them. Together they have been cursing, crying, singing and breaking taboos. Hammam Radio has become the home of personal stories from the ground. A place that welcomes everybody – but is owned by women*. Content notice: This interview briefly refers to the topic of sexual violence.</em></p>
+<p><em>Hera grew up in Pakistan, in a society where strict moral codes govern women’s behaviour and their roles. From a young age she knew she wanted to promote women’s rights but never knew exactly how until a move to the UK exposed her to social impact organizations and entrepreneurs. In 2013 she founded <a href="https://chayn.co/">Chayn</a> – an organization that helps women experiencing abuse find the right information and support to take control of their lives. Over the past seven years, Chayn – which in Urdu چین  means ‘solace' or 'peace of mind' – has reached over 380,000 people.</em></p>
 
 
 <p><b>SUPERRR:</b> How do you explain Chayn to someone who has never heard of it?</p>
