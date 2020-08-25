@@ -43,7 +43,7 @@ Our trauma service is more in-depth. The intensity of interaction varies – as 
 
 <p><b>Hera:</b> We have around 400 volunteers from 20 countries. We allow 30 to be active at any given time. People can tap in and out. Up to 70% percent are survivors of abuse or people who helped someone close to them. This means a lot of our work is survivor-led – being part of Chayn should be empowering in itself. Given that we’re a survivorhood organisation you’d think we’d always be talking about people’s experiences, but it only really comes up during work. </p>
 
-<p><b>SUPERRR:</b> You mentioned your newly launched remote trauma support, Bloom. What can people expect? How does it work?</p>
+<p><b>SUPERRR:</b> You mentioned your newly launched remote trauma support, <a href="https://bloom.chayn.co/">Bloom</a>. What can people expect? How does it work?</p>
 
 <p><b>Hera:</b> People get two videos every week and homework – self-reflective exercises to build life and recovery skills. They can talk to our team about each session and their ideas are incorporated into the next sessions. Participants stay anonymous but through these feedback loops they get input from others who know they are there. It’s a virtual support group.
 By the end of each course we want people to have a better understanding of the impact of trauma, their feelings about it, why it happens and what they can do to recover. But also to be able to move forward with their lives and not let the trauma define them.
@@ -81,6 +81,6 @@ However, because of the economy I suspect we are going to see a decline in fundi
 
 <p><b>SUPERRR:</b> Thank you so much for the conversation and keep up the good work!</p>
 
-<p>Visit <a href="https://chayn.co/">Chayn</a>.
+<p>Learn more about <a href="https://chayn.co/">Chayn</a> on their website.
   Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
 
