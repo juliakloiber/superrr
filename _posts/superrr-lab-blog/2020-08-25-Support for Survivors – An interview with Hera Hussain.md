@@ -7,7 +7,7 @@ description: Chayn is an organization that helps women experiencing abuse find t
 
 ---
 
-<img src="/assets/img/blog/quoteabir.png" alt="Image with Visual of Abir and Slogan Our Stories from the Ground" width="500" height="600">
+<img src="/assets/img/blog/hera_hussain.png" alt="Image with Illustration of Hera" width="500" height="600">
 <p><em>When <a href="https://twitter.com/AbirGhattas">Abir</a> started <a href="https://yamakan.place/hammamradio/">Hammam Radio</a> – an Arabic feminist radio station – she did so as a way of coping with the effects of Corona. She and her friends were longing for a safe, public space in which women* in all their diversity could exchange stories about their everyday lives. A place to meet, talk, participate, think, shout, cry, laugh, become angry, love, and raise their voices. Over the following weeks, many listeners joined them. Together they have been cursing, crying, singing and breaking taboos. Hammam Radio has become the home of personal stories from the ground. A place that welcomes everybody – but is owned by women*. Content notice: This interview briefly refers to the topic of sexual violence.</em></p>
 
 
