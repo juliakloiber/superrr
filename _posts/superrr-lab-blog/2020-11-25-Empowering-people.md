@@ -57,7 +57,7 @@ Our products also reflect our values. We think it is more sustainable to offer c
 <p><b>Carma:</b> We want to offer more products that are easy to use. For example, pre-configured devices, laptops with everything on them so that people can get started right away. And we want to work more with partners so that we can empower IT administrators. They often maintain computers and ensure that everything runs smoothly – but sometimes they have to rebuild an entire company system. And if they can get reinforcements from nice people like us, with whom they can communicate at eye level... That's what we want to do throughout Europe.
 </p>
 
-<p><b>SUPERRR:</b> Thank you so much for the conversation – and thank you for supporting SUPERRR with your services!</p>
+<p><b>SUPERRR:</b> Thank you so much for the conversation!</p>
 
 <p>Learn more about <a href="https://lacewing.tech/">LaceWing Tech</a> on their website.
   Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
