@@ -6,8 +6,8 @@ layout: project
 teaser_img: "/assets/img/static/projects/thenewnew.png"
 hero_img: "/assets/img/static/projects/thenewnewhero.png"
 external_link: ""
-link: '/project/digitalcivilsociety'
-description: "“Learning from the crisis: strengthening digital civil society!” – We initiated an open letter that got signed by more than 30 organizations. We demand better government support for civil society organizations that build crucial digital infrastructure and make knowledge accessible."
+link: '/project/thenewnew'
+description: "The New New is a space to explore our digital futures, what they hold for us, and how we can shape them."
 
 
 
