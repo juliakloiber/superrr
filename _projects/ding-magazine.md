@@ -1,7 +1,7 @@
 ---
 title: "Ding Magazine - A magazine about the future"
 header_type: lab
-order: 3
+order: 5
 layout: project
 teaser_img: "/assets/img/static/projects/ding-teaser.png"
 hero_img: "/assets/img/static/projects/ding.jpg"
