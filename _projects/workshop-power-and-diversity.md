@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Power and Diversity on the Web"
 header_type: lab
-order: 0
+order: 2
 layout: project
 teaser_img: "/assets/img/static/projects/goetheWorkshop.jpg"
 hero_img: "/assets/img/static/projects/goetheWorkshop-hero.jpg"
