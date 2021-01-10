@@ -1,7 +1,7 @@
 ---
 title: "The New New"
 header_type: lab
-order: 1
+order: 0
 layout: project
 teaser_img: "/assets/img/static/projects/thenewnew.png"
 hero_img: "/assets/img/static/projects/thenewnewhero.png"
@@ -13,7 +13,6 @@ description: "The New New is a space to explore our digital futures, what they h
 
 ---
 <h1>The New New – Building Inclusive and Diverse Digital Futures</h1>
-<p>
 <p>The New New aims to be a place for exchange, exploration and creation where current systems and practices can be reimagined. Rather than focusing on techno-solutionist narratives or technology’s economic opportunities, social values are at the heart of the discussion. The New New will kick off with a Europe-wide fellowship program: In 2021, we will support the work of artists, technologists, writers, designers and others in exploring what inclusive and just digital futures look like. This project is a collaboration with the Ethics of Algorithms Program. The program is a staring point for discussions and experiments.
 </p>
 
