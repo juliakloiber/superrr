@@ -8,7 +8,7 @@ event_date: "March 11th"
 event_year: "2020"
 tags: "#art #science #activism"
 link: '/city/berlin'
-email: superrr.berlin@gmail.com
+email: hello@superrr.net
 
 hosts:
 
