@@ -4,8 +4,8 @@ order: 0
 city: "London"
 layout: city
 img: "/assets/img/static/batches/Superrr-London.svg"
-event_date: "April 30th"
-event_year: "2020"
+event_date: "February 3rd"
+event_year: "2021"
 tags: "#remote #art #science #journalism #activism"
 link: '/city/london'
 email: london@superrr.net
