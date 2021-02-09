@@ -1,7 +1,6 @@
 ---
 layout: post
 type: lab
-draft: true
 author: Elisa Lindinger
 title: The CryptoRave in Brazil – An Interview with Elisa Ximenes
 description: CryptoRave is the biggest open and free event of its kind in Latin America. Every edition attracts more than 3000 people: hackers, activists and cypherpunks from different parts of Brazil and people interested in learning more about safety practices and personal data protection. 
@@ -61,10 +60,10 @@ There's also all the crowdfunding experience which is an unique drama & roller c
 <p><b>Elisa:</b> The country was very badly impacted. The federal govermment didn't take any measure to control the virus and we are doing light social isolation since March. It's basically impossible to host an event for 3000 people on that conditions, so we had to cancel the event for 2020. But we have plans on doing some activities online.
 </p>
 
-<p><b>SUPERRR:</b>With everything that's going on right now, Covid19, the political situation etc: Do you have a plan for the future, or a goal or wish? And is there a way that people can support you reaching it?
+<p><b>SUPERRR:</b> With everything that's going on right now, Covid19, the political situation etc: Do you have a plan for the future, or a goal or wish? And is there a way that people can support you reaching it?
 </p>
 
-<p><b>Elisa:</b> We were working on our crowdfunding campaing when the pandemic arrived. We decided to freeze our campaing and ask people to donate for social projects that could assist people on vulnerability situations, which is most part of our society, considering that a lot of people lost their jobs during the pandemic. Our campaing is still online and receiving [donations](https://www.catarse.me/cryptorave2020).
+<p><b>Elisa:</b> We were working on our crowdfunding campaing when the pandemic arrived. We decided to freeze our campaing and ask people to donate for social projects that could assist people on vulnerability situations, which is most part of our society, considering that a lot of people lost their jobs during the pandemic. Our campaing is still online and receiving <a href="https://www.catarse.me/cryptorave2020">donations</a>.
 
 In times like these we see the importance of events like CryptoRave, since governments are using the pandemic as an excuse to increase the surveillance apparatus and have already implemented a lot of mechanisms of control of the population. Our goal is to keep the event going to spread the word about our digital rights and how to fight back against mass surveillance.
 </p>
