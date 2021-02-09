@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: The CryptoRave in Brazil – An Interview with Elisa Ximenes
-description: CryptoRave is the biggest open and free event of its kind in Latin America. Every edition attracts more than 3000 people: hackers, activists and cypherpunks from different parts of Brazil and people interested in learning more about safety practices and personal data protection. 
+description: CryptoRave is the biggest open and free event of its kind in Latin America. Every edition attracts more than 3000 people. Hackers, activists and cypherpunks from different parts of Brazil and people interested in learning more about safety practices and personal data protection. 
 
 ---
 
