@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Stellenausschreibung
-description: Projektmanager*in gesucht
+description: Projektmanagerin gesucht
 ---
 
 
