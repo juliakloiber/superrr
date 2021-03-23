@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Virtual Screening Coded Bias 
-description: The feminist organizations netzforma, Motif Institute and Superrr Lab are hosting a virtual screening and discussion of the film Coded Bias.
+description: The feminist organizations netzforma\*, Motif Institute and Superrr Lab are hosting a virtual screening and discussion of the film Coded Bias.
 ---
 
 <img src="/assets/img/blog/codedbias.png" alt="Coded Bias Logo" width="500" height="600">
@@ -19,8 +19,8 @@ Coded Bias premiered at the 2020 Sundance Film Festival, and follows researchers
 <p><h3>About the Discussion</h3></p>
 
 <p>Join the film debate on April 8th 2021 at 18:30 CEST, on Zoom!
-The discussion will kick off with three short inputs by netzforma\* and Motif Institute and Superrr Lab.
-The organizations will highlight some of the work they have been doing in the field. Netzforma\* recently published <a href="http://netzforma.org/wenn-ki-dann-feministisch">a book about feminist AI</a>, Motif Institute has been <a href="https://feministfutures.net/About">working feminist futures</a> and Superrr (together with Lorena Jaume-Palasi) <a href="https://superrr.net/2021/01/26/AI-powered-recruiting.html">wrote a research paper on the use of AI in recruiting processes and gender discrimination</a>.
+The discussion will kick off with three short inputs by netzforma* and Motif Institute and Superrr Lab.
+The organizations will highlight some of the work they have been doing in the field. Netzforma* recently published <a href="http://netzforma.org/wenn-ki-dann-feministisch">a book about feminist AI</a>, Motif Institute has been <a href="https://feministfutures.net/About">working feminist futures</a> and Superrr (together with Lorena Jaume-Palasi) <a href="https://superrr.net/2021/01/26/AI-powered-recruiting.html">wrote a research paper on the use of AI in recruiting processes and gender discrimination</a>.
 
 After the inputs we will engage in an informal discussion with everyone on the call.
 We are very much looking forward to getting to know more people who are active in this field or have a general interest in it.</p>
