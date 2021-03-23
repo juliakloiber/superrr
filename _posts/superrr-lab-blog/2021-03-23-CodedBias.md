@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Virtual Screening Coded Bias 
-description: The feminist organizations netzforma\*, Motif Institute and Superrr Lab are hosting a virtual screening and discussion of the film Coded Bias.
+description: The feminist organizations netzforma*, Motif Institute and Superrr Lab are hosting a virtual screening and discussion of the film Coded Bias.
 ---
 
 <img src="/assets/img/blog/codedbias.png" alt="Coded Bias Logo" width="500" height="600">
