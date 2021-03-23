@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Julia Kloiber
-title: Screening Coded Bias 
+title: Virtual Screening Coded Bias 
 description: The feminist organizations netzforma, Motif and Superrr Lab are hosting a virtual screening and discussion of the film Coded Bias.
 ---
 
@@ -22,7 +22,7 @@ Coded Bias premiered at the 2020 Sundance Film Festival, and follows researchers
 
 <p>Join the film debate on April 8th 2021 at 18:30 CET, on Zoom!
 The discussion will kick off with three short inputs by netzforma, Motif and Superrr Lab.
-The organizations will highlight some of the work they have been doing in the field. Netzforma and Motif recently published a book about feminist AI and Superrr (together with Lorena Jaume-Palasi) wrote a reserch paper on the use of AI in recruiting processes and gender discrimination.
+The organizations will highlight some of the work they have been doing in the field. Netzforma and Motif recently published <a href="http://netzforma.org/wenn-ki-dann-feministisch">a book about feminist AI</a> and Superrr (together with Lorena Jaume-Palasi) wrote a reserch paper on the use of AI in recruiting processes and gender discrimination.
 
 After the inputs we will engage in an informal discussion with the audience.
 We are very much looking forward to the discussion and to get to know more people who are working in or are interested in the field.</p>
