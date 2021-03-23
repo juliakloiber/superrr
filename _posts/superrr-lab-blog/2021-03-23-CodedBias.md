@@ -11,11 +11,9 @@ description: The feminist organizations netzforma, Motif and Superrr Lab are hos
 <p><h3>About "Coded Bias"</h3></p>
 
 Synopsis: Modern society sits at the intersection of two crucial questions: What does it mean when artificial intelligence increasingly governs our liberties? And what are the consequences for the people AI is biased against? When MIT Media Lab researcher Joy Buolamwini discovers that most facial-recognition software does not accurately identify darker-skinned faces and the faces of women, she delves into an investigation of widespread bias in algorithms. As it turns out, artificial intelligence is not neutral, and women are leading the charge to ensure our civil rights are protected.
-Coded Bias premiered at the 2020 Sundance Film Festival, and follows researchers and advocates as they explore how algorithms encode and propagate bias.
+Coded Bias premiered at the 2020 Sundance Film Festival, and follows researchers and advocates as they explore how algorithms encode and propagate bias. <a href="https://www.youtube.com/watch?v=jZl55PsfZJQ"> Watch the official trailer</a>.
 
-<a href="https://www.youtube.com/watch?v=jZl55PsfZJQ"> Watch the official trailer</a>.
-
-<p><a href="https://us02web.zoom.us/meeting/register/tZwpcuGhrDgjGtEs8YrLtRn73CxKluIrlZyK">RSVP here</a> before April 8th 2021. After your registration, you will receive a link and a passcode to watch the film. The film will be available for 5 days, from April 3rd to April 7th 2021.
+<p><a href="https://us02web.zoom.us/meeting/register/tZErdO-vrD0oGNM36uhdSu-TAVkyb2kKKMwj">RSVP here</a> before April 8th 2021. After your registration, you will receive a link and a passcode to watch the film. The film will be available for 5 days, from April 3rd to April 7th 2021.
 </p>
 
 <p><h3>About the Discussion</h3></p>
