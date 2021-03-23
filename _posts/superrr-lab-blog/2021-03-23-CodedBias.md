@@ -14,6 +14,7 @@ Synopsis: Modern society sits at the intersection of two crucial questions: What
 Coded Bias premiered at the 2020 Sundance Film Festival, and follows researchers and advocates as they explore how algorithms encode and propagate bias. <a href="https://www.youtube.com/watch?v=jZl55PsfZJQ"> Watch the official trailer</a>.
 
 <p><a href="https://us02web.zoom.us/meeting/register/tZErdO-vrD0oGNM36uhdSu-TAVkyb2kKKMwj">RSVP here</a> before April 8th 2021. After your registration, you will receive a link and a passcode to watch the film. The film will be available for 5 days, from April 3rd to April 7th 2021.
+Please note: The screening is limited to 50 spots. Reservations are made on a first-come, first-served basis.
 </p>
 
 <p><h3>About the Discussion</h3></p>
