@@ -10,7 +10,7 @@ description: In this blogpost we introduce our new teammember Ouassima.
 <p><em>We, Elisa and Julia, are really excited to welcome Ouassima Laabich-Mansour as our new project manager for Superrr Lab.
 We've asked her a couple of questions so we can all get to know her better! Ouassima will be working on our project <a href="https://thenewnew.space/">The New New</a>. </em></p>
 
-<p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects?</p>
+<p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Ouassima?</p>
 <p><b>Ouassima:</b> One of my current side projects is learning Design Thinking at the Hasso Plattner Institute - in my own research, I like to combine it
 with decolonial perspectives on Design Thinking methods as well as with insights from critical future studies.
 As well as slowly focussing on my PhD Thesis on Empowerment Strategies, as I come from a strong civil societal engagement background and working with BPOC and Muslim communities on collaboration, empowerment and just futures.</p>
