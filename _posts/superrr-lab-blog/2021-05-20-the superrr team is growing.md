@@ -39,7 +39,7 @@ Secondly, I would highly recommend to follow accounts on social media which are 
 Last but not least, listening to smooth music like Bon Iver while reading fantasy books - I truly believe in the power of fantasy books which activate my creative synapses.</p>
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
-<p><b>Ouassima:</b>This one:</p>
-<img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="500" height="600">
+<p><b>Ouassima:</b> This one:</p>
+<img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="300" height="600">
 <p>Source @mytherapysays on Instagram.</p>
 <p><b>SUPERRR:</b> Thank you so much Ouassima and once again: Welcome on board!</p>
