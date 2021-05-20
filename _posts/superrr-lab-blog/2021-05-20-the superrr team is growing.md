@@ -42,4 +42,4 @@ Last but not least, listening to smooth music like Bon Iver while reading fantas
 <p><b>Ouassima:</b>This one:</p>
 <img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="500" height="600">
 <p>Source @mytherapysays on Instagram.</p>
-<p><b>SUPERRR:</b> Thank you so much Ouassima and once again, welcome on board!</p>
+<p><b>SUPERRR:</b> Thank you so much Ouassima and once again: Welcome on board!</p>
