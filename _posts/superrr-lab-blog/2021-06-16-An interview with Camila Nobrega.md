@@ -62,7 +62,7 @@ Working closely with different communities, thinking collectively, is feminist p
 
 <p><b>SUPERRR:</b> Wow, communicating through the river – it’s a beautiful picture. What are your next steps, what is Beyond the Green in five to ten years?</p>
 
-<p><b>Hera:</b> I’ve been thinking a lot about it lately. I hope that becomes a space that gives visibility to different narratives online and offline, and to women and non-binary people. That it becomes a space to produce other forms of journalism, where we learn from each other, understand the limits of our own points of view. Where texts, videos and photography are produced that focus on these mega projects, for now in Latin America, starting from Brazil. 
+<p><b>Camila:</b> I’ve been thinking a lot about it lately. I hope that becomes a space that gives visibility to different narratives online and offline, and to women and non-binary people. That it becomes a space to produce other forms of journalism, where we learn from each other, understand the limits of our own points of view. Where texts, videos and photography are produced that focus on these mega projects, for now in Latin America, starting from Brazil. 
  </p>
 
 <p><b>SUPERRR:</b> So why Germany?</p>
@@ -72,6 +72,5 @@ Working closely with different communities, thinking collectively, is feminist p
 
 <p><b>SUPERRR:</b> That sounds superrr. Thank you so much for this inspiring interview!</p>
 
-<p>Learn more about <a href="https://chayn.co/">Chayn</a> on their website.
-  Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
+<p> Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
 
