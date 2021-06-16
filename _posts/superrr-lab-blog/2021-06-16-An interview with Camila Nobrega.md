@@ -3,11 +3,11 @@ layout: post
 type: lab
 author: Ouassima Laabich-Mansour
 title: Beyond the Green – An interview with Camila Nobrega
-description: Chayn is an organization that helps women experiencing abuse find the right information and support to take control of their lives. Over the past seven years, Chayn – which in Urdu چین  means ‘solace' or 'peace of mind' – has reached over 380,000 people.
+description: Beyond the Green is a journalistic experimental project which explores feminist narratives about megaprojects that affect our lives, bodies, and territories.
 
 ---
 
-<img src="/assets/img/blog/hera_hussain.png" alt="Image with Illustration of Hera" width="500" height="600">
+<img src="/assets/img/blog/Camila_Nobrega.png" alt="Image with Illustration of Camila" width="500" height="600">
 <p><em>Introduction: Beyond the Green is a journalistic experimental project which explores feminist narratives about megaprojects that affect our lives, bodies, and territories. It combines investigative journalism, academic knowledge and artistic languages together in a documentary process with the aim of unveiling power dynamics in an increasingly digital world. It aims to strengthen narratives around social-environmental justice. Ouassima (Superrr Lab) spoke to Camila (Beyond the Green): </em></p>
 
 
