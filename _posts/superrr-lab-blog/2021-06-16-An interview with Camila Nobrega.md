@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Ouassima Laabich-Mansour
-title: Beyond the Green – An interview with Camila Nobrega
+title: On decolonizing environmental justice narratives – An interview with Camila Nobrega
 description: Beyond the Green is a journalistic experimental project which explores feminist narratives about megaprojects that affect our lives, bodies, and territories.
 
 ---
