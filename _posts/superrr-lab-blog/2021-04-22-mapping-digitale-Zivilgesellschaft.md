@@ -19,4 +19,4 @@ description: Für das Goethe-Institut haben wir die digitale Zivilgesellschaft u
 </ul>
 </p>
 
-<p>Mehr über die Digitale Zivilgesellschaft in Deutschland, ihre Organisationen, Themen und kommende Herausforderungen und Chancen finden sich im Bericht <a href="https://www.goethe.de/resources/files/pdf218/gi-mapping-digitale-zivilgesellschaft_final5.pdf">Das Goethe-Institut und die Digitale Zivilgesellschaft – Ein Mapping des Status Quo und zukünftiger Potenziale</a>, der nun unter CC-BY-Lizenz veröffentlicht wurde.</p>
+<p>Mehr über die Digitale Zivilgesellschaft in Deutschland, ihre Organisationen, Themen und kommende Herausforderungen und Chancen finden sich im Bericht <a href="https://www.goethe.de/resources/files/pdf227/gi-mapping-digitale-zivilgesellschaft_final-de.pdf">Das Goethe-Institut und die Digitale Zivilgesellschaft – Ein Mapping des Status Quo und zukünftiger Potenziale</a>, der nun unter CC-BY-Lizenz veröffentlicht wurde.</p>
