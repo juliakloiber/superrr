@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Ouassima Laabich Mansour
-title: Workshop Thinking of Futures: On (E)Merging Perspectives
+title: Workshop Thinking of Futures On Emerging Perspectives
 description: Superrr Lab and the partners of The New New program invite you to join us for a workshop on August 18th.
 ---
 <img src="/assets/img/blog/futures.png" alt="Abstract image with different colorful illustrations that reflect the future" width="500" height="600">
@@ -20,4 +20,4 @@ We are excited to announce Franziska Schönfeld (<a href="https://www.zukunftsfo
 <li>Language: English </li>
 <li>Join us! Register here <a href="https://us02web.zoom.us/meeting/register/tZAsceuqpzMsE9Ab6WgvXS1ke19alhUq2zhK">here</a> and save your spot.</li> 
 </ul>
-</p>
+
