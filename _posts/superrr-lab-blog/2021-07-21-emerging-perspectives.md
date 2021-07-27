@@ -1,8 +1,8 @@
 ---
 layout: post
 type: lab
-author: Ouassima Laabich Mansour
-title: Workshop Thinking of Futures On Emerging Perspectives
+author: Ouassima Laabich-Mansour
+title: Workshop – Thinking of Futures On Emerging Perspectives
 description: Superrr Lab and the partners of The New New program invite you to join us for a workshop on August 18th.
 ---
 <img src="/assets/img/blog/futures.png" alt="Abstract image with different colorful illustrations that reflect the future" width="500" height="600">
