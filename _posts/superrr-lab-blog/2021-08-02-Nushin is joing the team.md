@@ -7,8 +7,7 @@ description: In this blogpost we introduce our new teammember Nushin.
 ---
 
 <img src="/assets/img/blog/nushin.png" alt="Portrait of Nushin with a digital cat" width="500" height="600">
-<p><em>We, Elisa and Julia, are really excited to welcome Nushin Yazdani as our new project manager for Superrr Lab.
-We've asked her a couple of questions so we can all get to know her better! </em></p>
+<p><em>We, Elisa, Julia and Ouassima, are thrilled that Nushin Yazdani is joining our team as project manager for Superrr Lab. We can't wait to kick-off some great projects with her. We've asked her a couple of questions so we can all get to know her better! </em></p>
 
 <p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Nushin?</p>
 <p><b>Nushin:</b> I am a transformation designer, artist, and educator. Next to my exciting new job at SUPERRR ;) I'm also a member of the <a href="https://designjustice.org/">Design Justice Network</a>, which is all about just and decolonial design approaches, and the queer feminist collective <a href="http://www.digitalfeminism.net">dgtl fmnsm</a>. With dgtl fmnsm I curate and organize community events at the intersection of technology, art, and design.</p>
@@ -16,6 +15,8 @@ We've asked her a couple of questions so we can all get to know her better! </em
 <p>My current personal research focuses on the effects of machine learning systems on society. My work illustrates how discriminatory structures in society are reproduced and reinforced by algorithmic decision-making systems. I develop speculative art and media projects with and about machine learning and justice, educational materials and explanatory videos for students, as well as workshop kits. <a href="https://vimeo.com/476084538">Here</a> and <a href="https://www.youtube.com/watch?v=HbyPcRGN2uM">here</a> are some examples of my work.</p>
 
 <p>With my collaborators Buse Çetin, Meera Ghani, Iyo Bisseck, and Sarah Diedro I'm currently working on a digital think-tank and a collaborative platform on AI & society which will be called Dreaming Beyond AI. Dreaming Beyond AI will be a space for critical and constructive knowledge, visionary fiction & speculative art, and community organizing.</p>
+
+<img src="/assets/img/blog/keano.jpg" alt="Keano Reves and Robots" width="500" height="498">
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
