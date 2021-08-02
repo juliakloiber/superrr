@@ -37,9 +37,11 @@ Something you would use every day and cannot imagine living without?
 
 <p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:</p>
 
-<p><b>Nushin:</b> Visionary fiction by authors like Octavia Butler and Marge Piercy – I especially loved the novels Woman on the Edge of Time by Piercy, as well as the Parables by Butler. Dystopian science fiction has influenced the Global North societies (and especially our dystopian tech giants and some governments), and we always and urgently need to read societal visions that depict other ways of relating and living together. I love visionary fiction because it is much more accessible than theoretical academic texts (which of course also have their necessity) and they create mental images to discuss, share, and live by. I would love to get to know more visionary fiction from the Global South – if you have any recommendations, please let me know!</p>
-<p><a href="https://www.instagram.com/thenapministry/">The Nap Ministry</a> on Instagram: An amazing account by Tricia Hersey that advocates for rest as a form of reparation as well as resistance against neoliberal, racist, and sexist oppression and exploitation.</p>
-<p><a href="https://designjustice.org/read-the-principles">The Design Justice Network Principles</a>. They guide my work processes.</p>
+<p><b>Nushin:</b> 
+<ul><li>Visionary fiction by authors like Octavia Butler and Marge Piercy – I especially loved the novels Woman on the Edge of Time by Piercy, as well as the Parables by Butler. Dystopian science fiction has influenced the Global North societies (and especially our dystopian tech giants and some governments), and we always and urgently need to read societal visions that depict other ways of relating and living together. I love visionary fiction because it is much more accessible than theoretical academic texts (which of course also have their necessity) and they create mental images to discuss, share, and live by. I would love to get to know more visionary fiction from the Global South – if you have any recommendations, please let me know!</p></li>
+<li><p><a href="https://www.instagram.com/thenapministry/">The Nap Ministry</a> on Instagram: An amazing account by Tricia Hersey that advocates for rest as a form of reparation as well as resistance against neoliberal, racist, and sexist oppression and exploitation.</p></li>
+<li><p><a href="https://designjustice.org/read-the-principles">The Design Justice Network Principles</a>. They guide my work processes.</p></li>
+</ul>
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
 <p><b>Nushin:</b> My meme folder feels like several terabytes big – I can always supply you with some great memes, thanks to all those awesome meme creators (Thsnks!). Just picking one is so hard! Here are two.</p>
