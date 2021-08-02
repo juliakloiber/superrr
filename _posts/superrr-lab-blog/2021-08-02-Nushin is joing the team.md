@@ -57,6 +57,4 @@ Something you would use every day and cannot imagine living without?
 <img src="/assets/img/blog/capitalism.png" alt="Capitalism Meme" style="max-width: 300px;">
 <img src="/assets/img/blog/masks.jpg" alt="Masks Meme" style="max-width: 300px;">
 
-<img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="300" height="600">
-<p>Source @mytherapysays on Instagram.</p>
 <p><b>SUPERRR:</b> Thank you so much Nushin and once again: Welcome on board!</p>
