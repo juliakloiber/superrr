@@ -2,44 +2,46 @@
 layout: post
 type: lab
 author: Nushin Yazdani
-title: New Team Member on board – Welcome Nushin!
+title: New Team Member on Board – Welcome Nushin!
 description: In this blogpost we introduce our new teammember Nushin. 
 ---
 
 <img src="/assets/img/blog/ouassima.jpg" alt="Portrait of Ouassima" width="500" height="600">
-<p><em>We, Elisa and Julia, are really excited to welcome Ouassima Laabich-Mansour as our new project manager for Superrr Lab.
-We've asked her a couple of questions so we can all get to know her better! Ouassima will be working on our project <a href="https://thenewnew.space/">The New New</a>. </em></p>
+<p><em>We, Elisa and Julia, are really excited to welcome Nushin Yazdani as our new project manager for Superrr Lab.
+We've asked her a couple of questions so we can all get to know her better! </em></p>
 
-<p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Ouassima?</p>
-<p><b>Ouassima:</b> One of my current side projects is learning Design Thinking at the Hasso Plattner Institute - in my own research, I like to combine it
-with decolonial perspectives on Design Thinking methods as well as with insights from critical future studies.
-As well as slowly focussing on my PhD Thesis on Empowerment Strategies, as I come from a strong civil societal engagement background and working with BPOC and Muslim communities on collaboration, empowerment and just futures.</p>
+<p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Nushin?</p>
+<p><b>Nushin:</b> I am a transformation designer, artist, and educator. Next to my exciting new job at SUPERRR ;) I'm also a member of the [Design Justice Network](https://designjustice.org/), which is all about just and decolonial design approaches, and the queer feminist collective [dgtl fmnsm](http://www.digitalfeminism.net). With dgtl fmnsm I curate and organize community events at the intersection of technology, art, and design.</p>
+
+<p>My current personal research focuses on the effects of machine learning systems on society. My work illustrates how discriminatory structures in society are reproduced and reinforced by algorithmic decision-making systems. I develop speculative art and media projects with and about machine learning and justice, educational materials and explanatory videos for students, as well as workshop kits. [Here](https://vimeo.com/476084538) and [here](https://www.youtube.com/watch?v=HbyPcRGN2uM) are some examples of my work.</p>
+
+<p>With my collaborators Buse Çetin, Meera Ghani, Iyo Bisseck, and Sarah Diedro I'm currently working on a digital think-tank and a collaborative platform on AI & society which will be called Dreaming Beyond AI. Dreaming Beyond AI will be a space for critical and constructive knowledge, visionary fiction & speculative art, and community organizing.</p>
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
 </p>
-<p><b>Ouassima:</b> An app or a way to learn rare and native languages day by day. Like my mother tongue, which I can speak but not write. I would love to have such a instrument for especially diaspora children/people and everyone interested - getting and stay connected with your roots and ancestors.<p>
+<p><b>Nushin:</b> Hahaha since Ouassima has already mentioned a device to learn and speak different languages, I can add that I would love to learn how to speak to animals and nature. I bet they have quite some interesting insights for us since they have been on this planet way longer and managed not to wreck it ... <p>
 
 <p><b>SUPERRR:</b> What's your biggest energy sucker these days?</p>
 
-<p><b>Ouassima:</b> The overwhelming news on all the pain and injustice in this world and seeing a deconstructive discourse around it. It makes me tired and sad too see how differently lives are valued (more or less) according to difference categories (race, gender, religion, sexuality, ability etc.). And how less people reflect on their own privileges.</p>
+<p><b>Nushin:</b> For me personally (but I think I share this with many others), endless digital meetings have left me very exhausted. I draw a lot of strength from being around people. Digital meetings make me miss my spontaneity and flow. It sounds like a very privileged problem, but generally, I guess COVID has expanded loneliness and loss in society a lot, while policymaking and the public discourse have been focussing on the economic needs of companies, and on keeping people working.</p>
 
 <p><b>SUPERRR:</b> What is a small humble change you would like to see in the world? How can we work towards it?</p>
 
-<p><b>Ouassima:</b> How people see other people, natures, animals and basically the world. When we would treat everyone and everything with respect, dignity and love, I think we would change many ways of behaving, talking, acting and thinking politics. It needs to happen structurally as well as individually!</p>
+<p><b>Nushin:</b> It wouldn't be a small humble change but huge – I wish people (including me) would learn better how to navigate and communicate their emotions and needs. I think this would make such a big difference in how we all live together respectfully and feel heard and seen, and hear and see others.</p>
 
 <p><b>SUPERRR:</b> What communities are you part of?</p>
 
-<p><b>Ouassima:</b> Oh, this is a good question. Everything from young, BPOCs, progressive, social justice, academic and creative circles. I love humans, I love networks and I love empowering and just communities, therefore I am part and connected to different ones which I like to bring together and connect further. Yeey!</p>
+<p><b>Nushin:</b> I feel at home in feminist and BIPOC activist bubbles in Berlin, and I'm also part of design and tech networks.</p>
 
 <p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:</p>
 
-<p><b>Ouassima:</b> I can absolutely recommend texts on critical future studies and why we need decolonial perspectives - who writes and thinks our futures? And how can we decolonialize it? And mixing these with feminist, intersectional, critical race theories. Mind-blowing!
-Secondly, I would highly recommend to follow accounts on social media which are out of ones own "bubble" - seeing different ways of living, loving, working, being, writing, believing etc. is truly beneficial (and of course bearing in mind that self-presentations are biased).
-Last but not least, listening to smooth music like Bon Iver while reading fantasy books - I truly believe in the power of fantasy books which activate my creative synapses.</p>
+<p><b>Nushin:</b> Visionary fiction by authors like Octavia Butler and Marge Piercy – I especially loved the novels Woman on the Edge of Time by Piercy, as well as the Parables by Butler. Dystopian science fiction has influenced the Global North societies (and especially our dystopian tech giants and some governments), and we always and urgently need to read societal visions that depict other ways of relating and living together. I love visionary fiction because it is much more accessible than theoretical academic texts (which of course also have their necessity) and they create mental images to discuss, share, and live by. I would love to get to know more visionary fiction from the Global South – if you have any recommendations, please let me know!</p>
+<p>[The Nap Ministry](https://www.instagram.com/thenapministry/) on Instagram: An amazing account by Tricia Hersey that advocates for rest as a form of reparation as well as resistance against neoliberal, racist, and sexist oppression and exploitation.</p>
+<p>[The Design Justice Network Principles](https://designjustice.org/read-the-principles). They guide my work processes.</p>
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
-<p><b>Ouassima:</b> This one:</p>
+<p><b>Nushin:</b> My meme folder feels like several terabytes big – I can always supply you with some great memes, thanks to all those awesome meme creators (Thsnks!). Just picking one is so hard! Here are two.</p>
 <img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="300" height="600">
 <p>Source @mytherapysays on Instagram.</p>
-<p><b>SUPERRR:</b> Thank you so much Ouassima and once again: Welcome on board!</p>
+<p><b>SUPERRR:</b> Thank you so much Nushin and once again: Welcome on board!</p>
