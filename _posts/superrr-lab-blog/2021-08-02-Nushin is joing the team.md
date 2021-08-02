@@ -21,7 +21,7 @@ description: In this blogpost we introduce our new teammember Nushin.
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
 </p>
-<p><b>Nushin:</b> Hahaha since Ouassima has already mentioned a device to learn and speak different languages, I can add that I would love to learn how to speak to animals and nature. I bet they have quite some interesting insights for us since they have been on this planet way longer and managed not to wreck it ... <p>
+<p><b>Nushin:</b> Hahaha since Ouassima has already mentioned a device to learn and speak different languages, I can add that I would love to learn how to speak to animals and nature. I bet they have quite some interesting insights for us since they have been on this planet way longer and managed not to wreck it ... </p>
   
 <img src="/assets/img/blog/cat.png" alt="Cat Meme" style="max-width: 300px;">
 
