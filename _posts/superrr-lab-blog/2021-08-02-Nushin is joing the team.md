@@ -6,7 +6,7 @@ title: New Team Member on Board – Welcome Nushin!
 description: In this blogpost we introduce our new teammember Nushin. 
 ---
 
-<img src="/assets/img/blog/ouassima.jpg" alt="Portrait of Ouassima" width="500" height="600">
+<img src="/assets/img/blog/nushin.png" alt="Portrait of Nushin with a digital cat" width="500" height="600">
 <p><em>We, Elisa and Julia, are really excited to welcome Nushin Yazdani as our new project manager for Superrr Lab.
 We've asked her a couple of questions so we can all get to know her better! </em></p>
 
