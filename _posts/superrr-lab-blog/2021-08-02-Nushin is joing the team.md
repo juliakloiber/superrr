@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Nushin Yazdani
-title: New Team Member on Board – Welcome Nushin!
+title: New team member on board – Welcome Nushin!
 description: In this blogpost we introduce our new teammember Nushin. 
 ---
 
@@ -14,9 +14,9 @@ description: In this blogpost we introduce our new teammember Nushin.
 
 <p>My current personal research focuses on the effects of machine learning systems on society. My work illustrates how discriminatory structures in society are reproduced and reinforced by algorithmic decision-making systems. I develop speculative art and media projects with and about machine learning and justice, educational materials and explanatory videos for students, as well as workshop kits. <a href="https://vimeo.com/476084538">Here</a> and <a href="https://www.youtube.com/watch?v=HbyPcRGN2uM">here</a> are some examples of my work.</p>
 
-<p>With my collaborators Buse Çetin, Meera Ghani, Iyo Bisseck, and Sarah Diedro I'm currently working on a digital think-tank and a collaborative platform on AI & society which will be called Dreaming Beyond AI. Dreaming Beyond AI will be a space for critical and constructive knowledge, visionary fiction & speculative art, and community organizing.</p>
+<p>With my collaborators Buse Çetin, Meera Ghani, Iyo Bisseck, and Sarah Diedro I'm currently working on a digital think-tank and a collaborative platform on AI & society which will be called Dreaming Beyond AI. Dreaming Beyond AI will be a space for critical and constructive knowledge, visionary fiction & speculative art, and community organizing.
 
-<img src="/assets/img/blog/keano.jpg" alt="Keano Reves and Robots" width="500" height="498">
+<img src="/assets/img/blog/keano.jpg" alt="Keano Reves and Robots" width="500" height="498"></p>
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
