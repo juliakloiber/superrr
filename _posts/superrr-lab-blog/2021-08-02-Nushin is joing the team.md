@@ -16,7 +16,7 @@ description: In this blogpost we introduce our new teammember Nushin.
 
 <p>With my collaborators Buse Çetin, Meera Ghani, Iyo Bisseck, and Sarah Diedro I'm currently working on a digital think-tank and a collaborative platform on AI & society which will be called Dreaming Beyond AI. Dreaming Beyond AI will be a space for critical and constructive knowledge, visionary fiction & speculative art, and community organizing.</p>
 
-<img src="/assets/img/blog/keano.jpeg" alt="Keano Reves and Robots" width="150">
+<img src="/assets/img/blog/keano.jpeg" alt="Keano Reves and Robots" style="max-width: 150px;">
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
