@@ -22,14 +22,20 @@ description: In this blogpost we introduce our new teammember Nushin.
 Something you would use every day and cannot imagine living without?
 </p>
 <p><b>Nushin:</b> Hahaha since Ouassima has already mentioned a device to learn and speak different languages, I can add that I would love to learn how to speak to animals and nature. I bet they have quite some interesting insights for us since they have been on this planet way longer and managed not to wreck it ... <p>
+  
+<img src="/assets/img/blog/cat.png" alt="Cat Meme" style="max-width: 300px;">
 
 <p><b>SUPERRR:</b> What's your biggest energy sucker these days?</p>
 
 <p><b>Nushin:</b> For me personally (but I think I share this with many others), endless digital meetings have left me very exhausted. I draw a lot of strength from being around people. Digital meetings make me miss my spontaneity and flow. It sounds like a very privileged problem, but generally, I guess COVID has expanded loneliness and loss in society a lot, while policymaking and the public discourse have been focussing on the economic needs of companies, and on keeping people working.</p>
 
+<img src="/assets/img/blog/biggest.jpg" alt="Biggest Energy Sucker Image with Teapot" style="max-width: 300px;">
+
 <p><b>SUPERRR:</b> What is a small humble change you would like to see in the world? How can we work towards it?</p>
 
 <p><b>Nushin:</b> It wouldn't be a small humble change but huge – I wish people (including me) would learn better how to navigate and communicate their emotions and needs. I think this would make such a big difference in how we all live together respectfully and feel heard and seen, and hear and see others.</p>
+
+<img src="/assets/img/blog/911.png" alt="Man with helmet" style="max-width: 450px;">
 
 <p><b>SUPERRR:</b> What communities are you part of?</p>
 
@@ -38,13 +44,19 @@ Something you would use every day and cannot imagine living without?
 <p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:</p>
 
 <p><b>Nushin:</b> 
-<ul><li>Visionary fiction by authors like Octavia Butler and Marge Piercy – I especially loved the novels Woman on the Edge of Time by Piercy, as well as the Parables by Butler. Dystopian science fiction has influenced the Global North societies (and especially our dystopian tech giants and some governments), and we always and urgently need to read societal visions that depict other ways of relating and living together. I love visionary fiction because it is much more accessible than theoretical academic texts (which of course also have their necessity) and they create mental images to discuss, share, and live by. I would love to get to know more visionary fiction from the Global South – if you have any recommendations, please let me know!</p></li>
+<ul><li>Visionary fiction by authors like Octavia Butler and Marge Piercy – I especially loved the novels Woman on the Edge of Time by Piercy, as well as the Parables by Butler. Dystopian science fiction has influenced the Global North societies (and especially our dystopian tech giants and some governments), and we always and urgently need to read societal visions that depict other ways of relating and living together. I love visionary fiction because it is much more accessible than theoretical academic texts (which of course also have their necessity) and they create mental images to discuss, share, and live by. I would love to get to know more visionary fiction from the Global South – if you have any recommendations, please let me know!</li>
+
 <li><p><a href="https://www.instagram.com/thenapministry/">The Nap Ministry</a> on Instagram: An amazing account by Tricia Hersey that advocates for rest as a form of reparation as well as resistance against neoliberal, racist, and sexist oppression and exploitation.</p></li>
+
 <li><p><a href="https://designjustice.org/read-the-principles">The Design Justice Network Principles</a>. They guide my work processes.</p></li>
 </ul>
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
 <p><b>Nushin:</b> My meme folder feels like several terabytes big – I can always supply you with some great memes, thanks to all those awesome meme creators (Thsnks!). Just picking one is so hard! Here are two.</p>
+
+<img src="/assets/img/blog/capitalism.png" alt="Capitalism Meme" style="max-width: 300px;">
+<img src="/assets/img/blog/masks.jpg" alt="Masks Meme" style="max-width: 300px;">
+
 <img src="/assets/img/blog/meme.jpg" alt="Image: Me looking at myself in the little Zoom box while someone is talking" width="300" height="600">
 <p>Source @mytherapysays on Instagram.</p>
 <p><b>SUPERRR:</b> Thank you so much Nushin and once again: Welcome on board!</p>
