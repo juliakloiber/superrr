@@ -7,9 +7,9 @@ description: Das Superrr Lab lädt gemeinsam mit dem Bundesjustizministerium und
 ---
 <img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
-<p>Zukunftsforum: Neue Wege für Verbraucher*innen – Digitale Räume der Zukunft </p>
+<p>Zukunftsforum: Neue Wege für Verbraucherinnen – Digitale Räume der Zukunft </p>
 <p>Wie können gerechte, digitale, öffentliche Räume in Zukunft aussehen? Immer mehr öffentliches Leben findet auf digitalen Plattformen statt. Da diese Plattformen jedoch in der Hand von privaten Unternehmen liegen, stellen sich neue Fragen bezüglich Offenheit, Transparenz und Mitgestaltungsmöglichkeiten für die Zivilgesellschaft. 
-Das Bundesjustizministerium, Superrr und MOTIF laden ein, diese Fragen im Rahmen einer Online-Diskussionsveranstaltung zum Thema „Digitale Räume der Zukunft – Neue Wege für Verbraucher*innen“ zu diskutieren. 
+Das Bundesjustizministerium, Superrr und MOTIF laden ein, diese Fragen im Rahmen einer Online-Diskussionsveranstaltung zum Thema „Digitale Räume der Zukunft – Neue Wege für Verbraucherinnen“ zu diskutieren. 
 </p>
 
 
@@ -29,7 +29,7 @@ Moderiert von Julia Kloiber, Geschäftsführerin und Mitgründerin vom Superrr L
 
 
 <p>
-Die Veranstaltung findet online statt und ist offen für alle, die sich für digitale Räume der Zukunft interessieren und in einen Austausch mit anderen Akteur*innen treten möchten. 
+Die Veranstaltung findet online statt und ist offen für alle, die sich für digitale Räume der Zukunft interessieren und in einen Austausch mit anderen Akteurinnen treten möchten. 
 </p>
 
 <p>
