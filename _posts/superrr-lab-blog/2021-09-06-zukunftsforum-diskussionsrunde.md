@@ -4,7 +4,7 @@ type: lab
 author: Nushin Yazdani
 title: Zukunftsforum Neue Wege für VerbraucherInnen Digitale Räume der Zukunft am 15. September 2021
 
-description: Das Superrr Lab lädt gemeinsam mit dem Bundesjustizministerium und Motif Institute ein, am 15.09. in einer Online-Diskussionsveranstaltung zum Thema “Digitale Räume der Zukunft – Neue Wege für Verbraucher*innen” digitale, öffentliche Räume der Zukunft zu diskutieren.
+description: Das Superrr Lab lädt gemeinsam mit dem Bundesjustizministerium und Motif Institute ein, am 15.09. in einer Online-Diskussionsveranstaltung zum Thema Digitale Räume der Zukunft – Neue Wege für Verbraucherinnen” digitale, öffentliche Räume der Zukunft zu diskutieren.
 ---
 <img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel "Was macht gerechte, digitale, öffentliche Räume aus?" und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
