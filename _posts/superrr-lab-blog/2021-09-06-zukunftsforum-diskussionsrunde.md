@@ -3,15 +3,15 @@ layout: post
 type: lab
 author: Nushin Yazdani
 title: Einladung zum Zukunftsforum am 15. September 2021
-description: Superrr Lab, Motif und das BMJV laden am 15.09. zur digitalen Diskussionsveranstaltung zum Thema Digitale Räume der Zukunft ein
+description: Eine digitale Diskussionsveranstaltung zum Thema "Digitale Räume der Zukunft"
 ---
 <img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
-<p>Zukunftsforum: Neue Wege für Verbraucher_innen – Digitale Räume der Zukunft </p>
-<p>Wie können gerechte, digitale, öffentliche Räume in Zukunft aussehen? Immer mehr öffentliches Leben findet auf digitalen Plattformen statt. Da diese Plattformen jedoch in der Hand von privaten Unternehmen liegen, stellen sich neue Fragen bezüglich Offenheit, Transparenz und Mitgestaltungsmöglichkeiten für die Zivilgesellschaft. 
-Das Bundesjustizministerium, Superrr und MOTIF laden ein, diese Fragen im Rahmen einer Online-Diskussionsveranstaltung zum Thema „Digitale Räume der Zukunft – Neue Wege für Verbraucherinnen“ zu diskutieren. 
-</p>
+<p>
+Wie können gerechte, digitale, öffentliche Räume in Zukunft aussehen? Immer mehr öffentliches Leben findet auf digitalen Plattformen statt. Da diese Plattformen jedoch in der Hand von privaten Unternehmen liegen, stellen sich neue Fragen bezüglich Offenheit, Transparenz und Mitgestaltungsmöglichkeiten für die Zivilgesellschaft. 
 
+Superrr Lab, <a href="https://motif-institute.com/">MOTIF Institute</a> und das <a href="https://www.bmjv.de/">Bundesministerium der Justiz und für Verbraucherschutz</a> laden ein, diese Fragen im Rahmen des Zukunftsforums „Digitale Räume der Zukunft – Neue Wege für Verbraucher*innen“ zu diskutieren. Die <a href="https://us02web.zoom.us/webinar/register/WN_UIiQgcFjTTOvpePR9Ta3Pg">Anmeldung</a> ist ab sofort geöffnet.
+</p>
 
 <p>
 Mit dabei sind: 
@@ -19,12 +19,12 @@ Mit dabei sind:
 
 <ul>
 <li><a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> – Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz</li>
-<li><a href="https://juliareda.eu/en/">Julia Reda</a> – Projektleitung bei freiheitsrechte.org, ehemals Mitglied des Europäischen Parlarments </li>
-<li><a href="https://kateboss5000.neocities.org/">Viktoria Kure-Wu</a> – UX-Designerin und Initiatorin von ichbinkeinvirus.org</li>
+<li><a href="https://juliareda.eu/en/">Julia Reda</a> – Projektleitung bei der<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>, ehemals Mitglied des Europäischen Parlarments </li>
+<li><a href="https://kateboss5000.neocities.org/">Viktoria Kure-Wu</a> – UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a></li>
 <li>Julia Köpper – Architektin und Stadtplanerin bei <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a></li>
 </ul>
 <p>
-Moderiert von Julia Kloiber, Geschäftsführerin und Mitgründerin vom Superrr Lab.
+  Moderiert von <a href="https://juliakloiber.com/">Julia Kloiber</a>, Geschäftsführerin und Mitgründerin vom Superrr Lab.
 </p>
 
 
@@ -35,7 +35,7 @@ Die Veranstaltung findet online statt und ist offen für alle, die sich für dig
 <p>
 <ul>
 <li>Wann: 15. September 2021, 18:00-19:15 Uhr (CEST)</li>
-<li>Wo: Videocall via Zoom</li>
+<li>Wo: Online via Zoom</li>
 <li>Sprache: Deutsch </li>
 <li>Nimm teil! Registrierung <a href="https://us02web.zoom.us/webinar/register/WN_UIiQgcFjTTOvpePR9Ta3Pg">hier</a>.</li> 
 </ul>
