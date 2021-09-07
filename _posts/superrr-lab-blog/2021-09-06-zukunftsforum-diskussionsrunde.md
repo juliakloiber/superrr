@@ -29,7 +29,7 @@ Mit dabei sind:
 
 
 <p>
-Die Veranstaltung findet online statt und ist offen für alle, die sich für digitale Räume der Zukunft interessieren und in einen Austausch mit anderen Akteur_innen treten möchten. 
+Die Veranstaltung findet online statt und ist offen für alle, die sich für digitale Räume der Zukunft interessieren und in einen Austausch mit anderen Akteur*innen treten möchten. 
 </p>
 
 <p>
