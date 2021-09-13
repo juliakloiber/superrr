@@ -17,5 +17,9 @@ description: An hour of thought-provoking proposals on diverse and inclusive dig
   </p>
 
 <p> 
-For the closing event of The New New fellowship we have invited around of visionaries to share ideas, imaginations and interventions for better futures with us. During this event we will hear thought-provoking proposals, thinking along technical, political, artistic-cultural, environment and social lines. The speakers will have 3 minutes each to present their proposition. We are looking forward to welcoming you! You can sign up <a href="https://us02web.zoom.us/webinar/register/WN_-W7fm0xvTgGjl2CLVvIKwg"> here via Zoom</a>.
+For the closing event of The New New fellowship we have invited around of visionaries to share ideas, imaginations and interventions for better futures with us. During this event we will hear thought-provoking proposals, thinking along technical, political, artistic-cultural, environment and social lines. The speakers will have 3 minutes each to present their proposition. We are looking forward to welcoming you!
+  </p>
+
+<p>
+You can sign up <a href="https://us02web.zoom.us/webinar/register/WN_-W7fm0xvTgGjl2CLVvIKwg"> here via Zoom</a>.
   </p>
