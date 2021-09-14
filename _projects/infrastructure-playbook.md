@@ -3,8 +3,8 @@ title: "COVID-19 Infrastructure Playbook"
 header_type: lab
 order: 1
 layout: project
-teaser_img: "/assets/img/static/projects/infrastructure-playbook-teaser.jpg"
-hero_img: "/assets/img/static/projects/infrastructure-playbook-teaser.jpg"
+teaser_img: "/assets/img/static/projects/infrastructure-playbook-teaser2.jpg"
+hero_img: "/assets/img/static/projects/infrastructure-playbook-teaser2.jpg"
 external_link: ""
 link: '/project/infrastructure-playbook'
 description: "Civil society developed, provided much needed public digital infrastructure during the pandemic – or criticized it, where necessary. What can we learn from their work to be better prepared for rapid digital transformation that is rights preserving and sustainable?"
