@@ -1,7 +1,7 @@
 ---
 title: "Report: Roadwork Ahead"
 header_type: lab
-order: 1
+order: 3
 layout: project
 teaser_img: "/assets/img/static/projects/roadwork_ahead_teaser.png"
 hero_img: "/assets/img/static/projects/Spot_Risk_800.gif"
