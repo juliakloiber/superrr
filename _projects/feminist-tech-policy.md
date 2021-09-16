@@ -1,5 +1,5 @@
 ---
-title: "Feminist Tech Policy - A Framework for Equitable Digital Futures"
+title: "Feminist Tech Policy Framework"
 header_type: lab
 order: 0
 layout: project
