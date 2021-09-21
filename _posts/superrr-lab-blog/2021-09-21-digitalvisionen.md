@@ -2,19 +2,17 @@
 layout: post
 type: lab
 author: Elisa Lindinger
-title: 15 Digitalvisionen für eine
-description: An hour of thought-provoking proposals on diverse and inclusive digital futures – October 7th, 6pm-7:15pm CET, online
+title: 15 Visionen aus der digitalen Zivilgesellschaft
+description: Welche Digitalpolitik brauchen wir für eine bessere Welt?
 ---
 <img src="/assets/img/blog/15Visionen.png" alt="15 Visionen für eine gerechte, soziale und nachhaltige Digitalisierung" width="500" height="600">
 
-
-<h1>15 Visionen aus der digitalen Zivilgesellschaft</h1>
 
 <p>
 Wenn es um Digitalpolitik geht, kommt aus der Zivilgesellschaft vor allem – berechtigte – Kritik. Schließlich sieht die Politik das Thema Digitalisierung und digitale Technologien vor allem als Wirtschafts- und Innovationsthema und lässt drängende gesellschaftliche Belange außen vor.
 </p>
 <p>
-Doch jetzt legen wir nach: Gemeinsam mit 14 anderen Organisationen haben wir <a href="https://digitalezivilgesellschaft.org/digitalvisionen">15 Digitalvisionen</a> entworfen, um zu zeigen, wie Digitalpolitik eine bessere Welt möglich machen kann.
+Doch jetzt legen wir nach: Gemeinsam mit 14 anderen Organisationen haben wir <a href="https://digitalezivilgesellschaft.org/digitalvisionen">15 Digitalvisionen</a> entworfen, um zu zeigen, wie Digitalpolitik eine bessere Welt möglich machen kann. Koordiniert wurden die Digitalvisionen von SUPERRR Lab im Rahmen des Netzwerks "Digitale Zivilgesellschaft".
 </p>
 
 <h1>15 gesellschaftspolitische Themen</h1>
