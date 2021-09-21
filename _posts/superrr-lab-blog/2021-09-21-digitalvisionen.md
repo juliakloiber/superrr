@@ -21,7 +21,7 @@ Doch jetzt legen wir nach: Gemeinsam mit 14 anderen Organisationen haben wir <a 
 Die Digitalvisionen befassen sich mit verschiedenen Themenbereichen, von Bildung, Barrierefreiheit, Nachhaltigkeit bis hin zu Offener Regierungsführung. Als Einstieg dient dabei immer eine Betrachtung des Status Quo:
 </p>
 <p>
-"Statt fairen Debatten ergießen sich simplifizierte Stimmungsmache und hasserfüllte Botschaften in unseren Timelines. Verschiedene Studien attestieren jeder dritten Person in Deutschland eine Verschwörungs-Mentalität und Erfahrungen mit sowie die Angst vor Online Hassrede schränken die freie Meinungsäußerung ein", schreibt beispielsweise Katja Jäger von betterplace lab über den <a href="https://digitalezivilgesellschaft.org/digitalvisionen/diskurskompetenz/">Status der Diskurskompetenz online</a>.
+Beispielsweise schreibt Katja Jäger von betterplace lab über den <a href="https://digitalezivilgesellschaft.org/digitalvisionen/diskurskompetenz/">Status der Diskurskompetenz online</a>: "Statt fairen Debatten ergießen sich simplifizierte Stimmungsmache und hasserfüllte Botschaften in unseren Timelines. Verschiedene Studien attestieren jeder dritten Person in Deutschland eine Verschwörungs-Mentalität und Erfahrungen mit sowie die Angst vor Online Hassrede schränken die freie Meinungsäußerung ein."
 </p>
 
 <p>
