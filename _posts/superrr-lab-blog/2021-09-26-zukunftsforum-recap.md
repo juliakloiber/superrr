@@ -8,11 +8,7 @@ description: Dieser Post ist eine Zusammenfassung der Diskussion beim Zukunftsfo
 <img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
 <p>
-Wie sehen gerechte digitale öffentliche Räume der Zukunft aus? – Digitale Räume die für die Menschen gemacht sind statt für Konzerne und Werbung.
-</p>
-
-<p>
- Dazu diskutierten am 15. September 2021 <a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), <a href="https://juliareda.eu/en/">Julia Reda</a> (<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>), <a href="https://kateboss5000.neocities.org/">Victoria Kure-Wu</a> (UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a>) und Julia Köpper (Architektin und Stadtplanerin, <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a>).
+Dazu diskutierten am 15. September 2021 <a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), <a href="https://juliareda.eu/en/">Julia Reda</a> (<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>), <a href="https://kateboss5000.neocities.org/">Victoria Kure-Wu</a> (UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a>) und Julia Köpper (Architektin und Stadtplanerin, <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a>).
 </p>
 
 <p>
@@ -49,11 +45,14 @@ Liegt aber nur im Digitalen alles im Argen? Nein, sagt Julia Köpper: Das Thema 
 </p>
 
 <p>
-  Das Zukunftsforum ist ein Projekt von SUPERRR Lab und MOTIF Institute, gefördert vom BMJV.
+Das Zukunftsforum ist ein Projekt von SUPERRR Lab und MOTIF Institute, gefördert vom BMJV.
 </p>
 <p>
-Hier ein Videomitschnitt der gesamten Dikussion</p>
+Hier ein Videomitschnitt der gesamten Dsikussion:</p>
   <iframe src="https://player.vimeo.com/video/611698300?h=c02a34a230" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <p>
-  Weiter geht das Zukunftsforum mit einem Workshop am 13. Oktober 2021. </p>
+Weiter geht das Zukunftsforum mit einem Workshop am 13. Oktober 2021. </p>
+
+<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" width="250">
+<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" width="250">
