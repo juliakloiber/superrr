@@ -55,5 +55,5 @@ Hier ein Videomitschnitt der gesamten Diskussion:</p>
 Weiter geht das Zukunftsforum mit einem Workshop am 13. Oktober 2021. </p>
 
 
-<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" style="max-width: 150px;">
-<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" style="max-width: 150px;">
+<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" style="max-width: 200px;">
+<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" style="max-width: 200px;">
