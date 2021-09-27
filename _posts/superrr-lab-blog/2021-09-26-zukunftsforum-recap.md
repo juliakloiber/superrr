@@ -48,11 +48,12 @@ Liegt aber nur im Digitalen alles im Argen? Nein, sagt Julia Köpper: Das Thema 
 Das Zukunftsforum ist ein Projekt von SUPERRR Lab und MOTIF Institute, gefördert vom BMJV.
 </p>
 <p>
-Hier ein Videomitschnitt der gesamten Dsikussion:</p>
+Hier ein Videomitschnitt der gesamten Diskussion:</p>
   <iframe src="https://player.vimeo.com/video/611698300?h=c02a34a230" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+</p>
 <p>
 Weiter geht das Zukunftsforum mit einem Workshop am 13. Oktober 2021. </p>
 
-<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" width="250">
-<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" width="250">
+
+<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" width="100">
+<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" width="100">
