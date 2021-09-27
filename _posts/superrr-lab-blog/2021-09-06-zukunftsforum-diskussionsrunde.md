@@ -40,3 +40,6 @@ Die Veranstaltung findet online statt und ist offen für alle, die sich für dig
 <li>Nimm teil! Registrierung <a href="https://us02web.zoom.us/webinar/register/WN_UIiQgcFjTTOvpePR9Ta3Pg">hier</a>.</li> 
 </ul>
 </p>
+<img src="/assets/img/blog/BMJV-logo.jpg" alt="gefördert durch das BMJV" style="max-width: 200px;">
+<img src="/assets/img/blog/BLE-logo.jpg" alt="BLE" style="max-width: 200px;">
+
