@@ -50,7 +50,7 @@ Das Zukunftsforum ist ein Projekt von SUPERRR Lab und MOTIF Institute, geförder
 <p>
 Hier ein Videomitschnitt der gesamten Diskussion:</p>
   <iframe src="https://player.vimeo.com/video/611698300?h=c02a34a230" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</p>
+<br>
 <p>
 Weiter geht das Zukunftsforum mit einem Workshop am 13. Oktober 2021. </p>
 
