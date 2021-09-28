@@ -13,6 +13,10 @@ description: "Civil society developed, provided much needed public digital infra
 
 ---
 <p>
+Our new report, The COVID-19 Infrastructure Playbook (available in <a href="/assets/downloads/COVID-19-Infrastructure-Playbook_EN.pdf">English</a> and <a href="/assets/downloads/COVID-19-Infrastructure-Playbook_DE.pdf">German</a>), examines the development and deployment of digital public infrastructure in the fight against COVID-19, with special focus on the role of digital civil society organizations.
+</p>
+
+<p>
 COVID19 has accelerated the digital transformation of European societies in an unprecedented way: As a result, in many areas society’s civic life has shifted from a mix of public and private spheres entirely onto privately owned platforms. The digital shift has led to a loss of public spaces and to market concentration (e.g. libraries that turn to Adobe Digital Editions, a tool that collects detailed reading behaviour, for borrowing e-books; schools using Microsoft Teams that tracks and displays individual “efficiency” and output, or Zoom, a platform that has censored academic debates on its platform).
   </p>
 
@@ -21,7 +25,7 @@ There are best practices of civil society organizations and (local) governments 
   </p>
 
 <p>
-The COVID-19 Infrastructure Playbook will focus on the following questions:
+The COVID-19 Infrastructure Playbook focuses on the following questions:
 <ul>
 <li>What role did digital civil society organizations play in the development of digital public infrastructure during the COVID-19 pandemic? What are the major learnings and insights from these processes?</li>
 
