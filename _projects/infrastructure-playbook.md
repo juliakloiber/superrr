@@ -21,7 +21,7 @@ COVID19 has accelerated the digital transformation of European societies in an u
   </p>
 
 <p>
-There are best practices of civil society organizations and (local) governments that have made privacy preserving and open source choices when expanding into the digital sphere at the onset of the pandemic. These choices made them more resilient, less independent from proprietary service providers, and preserved public spaces when going digital. These success stories, however, are not widely known, analysed and copied.
+There are best practices of civil society organizations and (local) governments that have made privacy preserving and open source choices when expanding into the digital sphere at the onset of the pandemic. These choices made them more resilient, less dependent from proprietary service providers, and preserved public spaces when going digital. These success stories, however, are not widely known, analysed and copied.
   </p>
 
 <p>
