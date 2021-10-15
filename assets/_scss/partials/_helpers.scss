@@ -214,7 +214,16 @@ input:-webkit-autofill {
     height: 32px;
     display: inline-block;
     margin-right: 10px;
+    transform: translateX(0px);
+    @include transition(transform .25s ease);
   }
+
+  &:hover {
+    &:before {
+      transform: translateX(-10px);
+    }
+  }
+
 }
 
 .with-shadow{

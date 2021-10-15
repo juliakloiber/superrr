@@ -269,6 +269,19 @@ LAYOUT & GRID STYLES
   text-align: center;
   padding: 50px 25px;
   margin-bottom: 0;
+
+  &.link {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    a {
+      text-decoration: none;
+      border:0 !important;
+      display: inline-flex;
+    }
+
+  }
+
 }
 
 .section{
@@ -951,7 +964,7 @@ MAIN NAV
 
 
   .nav-open-btn{
-    background-image: url($baseurl + '/assets/img/static/icons/nav-arrow.svg');
+    background-image: url($baseurl + '/assets/img/static/icons/burger.svg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 53px;
@@ -1401,7 +1414,7 @@ BLOG
   }
 
 
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 
 }
 

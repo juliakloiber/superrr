@@ -30,8 +30,8 @@
 
             <div class="section fullwidth bg-white">
                 <div class="content-wrap navigation-left-victim post">
-                    <h3 class="section-headline">{% if page_type != 'fellows' %}<a href="/news">Superrr News</a>{% endif %}</h3>
                     <div class="content-wrap-inner shrinked blog-post text-wrap">
+                        <div class="section-headline link">{% if page_type != 'fellows' %}<a class="font-size-28" href="/news"><span class="has-arrow-back">Superrr News</span></a>{% endif %}</div>
                         <div class="post-header">
                             <span class="post-info-text">{{ page.date | date: "%d.%m.%Y" }}</span>
                             <h2 class="post-headline">{{ page.title }}</h2>
@@ -39,14 +39,12 @@
                         </div>
                         {{ content }}
                     </div>
-                    <div class="content-wrap-inner shrinked d-flex justify-content-center">
+                    <div class="content-wrap-inner shrinked d-flex justify-content-between">
+                        <a class="fontsize-28" href="{% if page_type != 'fellows' %}/news{% else %}/feministtech/blog{% endif %}">
+                            <span class="has-arrow-back">ALL NEWS</span>
+                        </a>
                         <a class="fontsize-40" target="_blank" href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{ page.url }}">
                             <i class="fab fa-twitter"></i>
-                        </a>
-                    </div>
-                    <div class="content-wrap-inner shrinked d-flex justify-content-start">
-                        <a class="fontsize-28 margin-top-100" href="{% if page_type != 'fellows' %}/news{% else %}/feministtech/blog{% endif %}">
-                            <span class="has-arrow-back">back</span>
                         </a>
                     </div>
                 </div>
