@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Elisa Lindinger
-title: Digitaler Wandel und Organisationsentwicklung im Engagementsektor
+title: Digitaler Wandel und Organisations&shy;entwicklung im Engagement&shy;sektor
 description: Ein Thesenpapier zur Digitalen Transformation für das Bundesnetzwerk Bürgerschaftliches Engagement
 ---
 

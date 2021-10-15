@@ -1644,10 +1644,7 @@ FOOTER STYLES
 
   padding-bottom: 0px;
 
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
+  display: block;
 
   .post-teaser{
     margin-bottom: 50px;

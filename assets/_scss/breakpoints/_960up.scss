@@ -112,7 +112,8 @@ $main-column-width: 956px;
 
 .posts-holder{
   padding-bottom: 100px;
-  grid-template-columns: repeat(2, 1fr);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-auto-rows: 1fr;
 
   .post-teaser{
