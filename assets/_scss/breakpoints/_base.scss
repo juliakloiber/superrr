@@ -1637,7 +1637,7 @@ FOOTER STYLES
 *********************/
 
 .newsletter-signup-wrap{
-  margin-bottom: 10vw;
+  margin-bottom: 10vh;
 }
 
 .posts-holder{
@@ -1665,12 +1665,14 @@ FOOTER STYLES
   display: block;
   margin: 0.5em 0;
 }
-
+.footer-wrap {
+  margin: 0 !important;
+}
 .footer{
   ul.footer-links li{
     .social-links{
       a{
-        font-size: 3rem !important;
+        font-size: 2.25rem !important;
         &:hover{
           background-color: transparent;
           color: $third-color;
@@ -1869,6 +1871,19 @@ FOOTER STYLES
 
   }
 
+}
+
+.image-half {
+  width: 100%;
+  margin: 50px auto;
+  img {
+    margin-bottom: 0;
+  }
+  p, a {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 0;
+  }
 }
 
 .organizations-wrap{

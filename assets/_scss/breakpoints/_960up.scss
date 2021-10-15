@@ -31,6 +31,11 @@ $main-column-width: 956px;
   max-width: none;
 }
 
+.image-half {
+  width: 50%;
+  margin: 50px auto;
+}
+
 .section {
   &.mobile-padded {
     /* for menu mobile top padding*/
@@ -120,6 +125,11 @@ $main-column-width: 956px;
     padding: 0 50px;
     margin-bottom: 100px;
   }
+}
+
+
+.newsletter-signup-wrap{
+  margin-bottom: 10vw;
 }
 
 .footer {
