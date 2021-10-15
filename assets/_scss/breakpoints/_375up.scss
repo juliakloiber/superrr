@@ -14,9 +14,7 @@ MAIN NAV
   left: 375px;
 }
 .navigation-left-wrap {
-  &.closed {
-    transform: translateX(-375px);
-  }
+  transform: translateX(-375px);
   width: 375px;
   .community-batch-wrap{
     width: 70%;

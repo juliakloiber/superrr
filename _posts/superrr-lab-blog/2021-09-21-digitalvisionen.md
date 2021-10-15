@@ -15,7 +15,7 @@ Wenn es um Digitalpolitik geht, kommt aus der Zivilgesellschaft vor allem – be
 Doch jetzt legen wir nach: Gemeinsam mit 14 anderen Organisationen haben wir <a href="https://digitalezivilgesellschaft.org/digitalvisionen">15 Digitalvisionen</a> entworfen, um zu zeigen, wie Digitalpolitik eine bessere Welt möglich machen kann. Koordiniert wurden die Digitalvisionen von SUPERRR Lab im Rahmen des Netzwerks "Digitale Zivilgesellschaft".
 </p>
 
-<h1>15 gesellschaftspolitische Themen</h1>
+<h1>15 gesellschafts&shy;politische Themen</h1>
 
 <p>
 Die Digitalvisionen befassen sich mit verschiedenen Themenbereichen, von Bildung, Barrierefreiheit, Nachhaltigkeit bis hin zu Offener Regierungsführung. Als Einstieg dient dabei immer eine Betrachtung des Status Quo:

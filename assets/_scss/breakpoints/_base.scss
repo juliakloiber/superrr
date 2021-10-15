@@ -261,6 +261,9 @@ LAYOUT & GRID STYLES
 
 .section-headline{
   font-size: $fontsize-28;
+  a {
+    font-size: $fontsize-28;
+  }
   text-transform: uppercase;
   width: 100%;
   text-align: center;
@@ -809,34 +812,35 @@ MAIN NAV
 *********************/
 .navigation-left-wrap{
 
-  @include transition(transform .25s ease);
+  transform: translateX(-320px);
 
   .nav-open-btn{
-    pointer-events: none;
-    visibility: hidden;
+    pointer-events: auto;
+    visibility: visible;
   }
 
   .nav-open-info{
     span.open{
-      display:none;
+      display:block;
     }
   }
 
-  &.closed{
-    transform: translateX(-320px);
+  &.animated {
     @include transition(transform .25s ease);
+  }
 
+  &.open {
+    transform: translateX(0);
     .nav-open-btn{
-      pointer-events: auto;
-      visibility: visible;
+      pointer-events: none;
+      visibility: hidden;
     }
 
     .nav-open-info{
       span.open{
-        display:block;
+        display:none;
       }
     }
-
   }
 
   .navigation-left-wrap-inner{
@@ -917,6 +921,9 @@ MAIN NAV
 }
 
 .navigation-left-victim{
+  &.post {
+    padding-top: 20px;
+  }
   @include transition(transform .25s ease);
   &.nav-open{
     transform: translateX(320px);
@@ -1643,8 +1650,16 @@ FOOTER STYLES
   grid-row-gap: 0px;
 
   .post-teaser{
-    padding: 0 25px;
     margin-bottom: 50px;
+    cursor: pointer;
+    h2 {
+      @include transition(color .25s ease);
+    }
+    &:hover {
+      h2 {
+        color: $third-color;
+      }
+    }
   }
 }
 

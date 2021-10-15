@@ -15,9 +15,7 @@ MAIN NAV
   left: 414px;
 }
 .navigation-left-wrap {
-  &.closed {
-    transform: translateX(-414px);
-  }
+  transform: translateX(-414px);
   width: 414px;
 }
 .navigation-left-victim{
