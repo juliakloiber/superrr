@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Ouassima Laabich-Mansour
-title: Watch now: 10 Propositions for Claiming Better Futures 
+title: Watch now – 10 Propositions for Claiming Better Futures 
 description: Re-watch the recording of our closing event for The New New Fellowship online
 ---
 
