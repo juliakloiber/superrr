@@ -18,6 +18,6 @@ description: The Superrr Network is hosting a magazine launch meetup on November
 <p><b>Where:</b> SUPERRR Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor)</p>
 <p><b>How:</b> 2G rules apply. We ask you to present proof of vaccination or recovery.</p>
 
-<p>Please RSVP to help us plan ahead - as always, feel free to bring a +1!</p>
+<p>Please RSVP under hello[at]superrr.net to help us plan ahead - as always, feel free to bring a +1!</p>
 <p>Too curious to wait? Eager to check out the content ahead of the event? Read the online edition here: <a href="https://dingdingding.org/">https://dingdingding.org/</a></p>
  
