@@ -4,7 +4,7 @@ order: 2
 layout: fellow
 img: "/assets/img/static/batches/ftf.svg"
 profile_img: "/assets/img/static/batches/clara.svg"
-link: '/fellow/transfeminist-ai'
+link: 'feministtech/fellow/transfeminist-ai'
 name: "Clara Juliano"
 project: "The Oracle for transfeminist technologies"
 project_link: "http://www.transfeministech.codingrights.org/"

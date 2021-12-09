@@ -1,53 +1,39 @@
-<div class="page-content section fullwidth">
-    {% include partials/navigation-left.liquid %}
-    <div class="content-wrap navigation-left-victim">
-        <div class="row">
-            <div class="section left min-fullheight col-24 background-1">
-                <div class="row fit-to-content-mobile same-height">
-                    <div class="col-24 col-md-12 col-lg-10">
-                        <div class="batch-wrap city">
-                            <div class="batch-inner">
-                                <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
-                            </div>
-                        </div>
-                        <div class="batch-wrap city ">
-                            {% if include.hosts|length > 0 %}
-                                <p class="event-hosts">MEETUP HOSTS:
-                                    {% for host in include.hosts %}
-                                        <a class="" href="{{ host.url }}" target="_blank">{{ host.name }}</a>&nbsp
-                                    {% endfor %}
-                                </p>
-                            {% endif %}
-                        </div>
-                    </div>
-                    <div class="col-24 col-md-12 col-lg-12 col-lg-push-2">
-                        <div class="city-wrap">
-                            <div class="event-intro font-paelzer-grot-medium">next meetup</div>
-                            <div class="event-date font-paelzer-grot-medium">
-                                {{ include.event_date }} {{ include.event_year }}
-                            </div>
-                            <div class="event-tags">{{ include.tags }}</div>
-                            <div class="event-content">
-                                {{ content }}
-                                <div class="join-event">
-                                    <p>If you want to join please</p>
-                                    <a class="event-link more-btn" href="mailto:{{ include.email }}">
-                                        <span class="more-btn-inner"><span>drop us an email</span></span>
-                                    </a>
-                                </div>
-                            </div>
-                            {% if include.participants|length > 0 %}
-                                <div class="event-participants"><p>See who’s coming:</p>
-                                    {% for participant in include.participants %}
-                                        <a class="" href="{{ participant.twitterlink }}" target="_blank">{{ participant.twitterhandle }}</a>&nbsp
-                                    {% endfor %}
-                                </div>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 67.4 45.3" style="enable-background:new 0 0 67.4 45.3;" xml:space="preserve">
+<style type="text/css">
 
+    .st0{clip-path:url(#SVGID_00000026148467068484113970000002667246252009399973_);fill:none;stroke:#010202;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+
+    .st1{clip-path:url(#SVGID_00000046333554788893970720000006930812260839518384_);fill:none;stroke:#010202;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+    <g>
+        <g>
+            <g>
+                <defs>
+                    <rect id="SVGID_1_" x="-1" y="-6" width="67.4" height="45.3"/>
+                </defs>
+                <clipPath id="SVGID_00000012451327073577606520000006627483552994783641_">
+                    <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+                </clipPath>
+
+                <path style="clip-path:url(#SVGID_00000012451327073577606520000006627483552994783641_);fill:none;stroke:#010202;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+				M0.5,16.7 M64.9,16.8H2"/>
+            </g>
+            <g>
+                <g>
+                    <defs>
+                        <rect id="SVGID_00000049210166021302649230000011521957453097967802_" x="-1" y="4" width="67.4" height="45.3"/>
+                    </defs>
+                    <clipPath id="SVGID_00000115514835427248514300000007406882777280435896_">
+                        <use xlink:href="#SVGID_00000049210166021302649230000011521957453097967802_"  style="overflow:visible;"/>
+                    </clipPath>
+
+                    <path style="clip-path:url(#SVGID_00000115514835427248514300000007406882777280435896_);fill:none;stroke:#010202;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M0.5,26.7 M64.9,26.8H2"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

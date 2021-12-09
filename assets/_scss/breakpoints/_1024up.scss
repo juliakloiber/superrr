@@ -14,7 +14,7 @@ LAYOUT & GRID STYLES
 }
 
 .intro-wrap{
-  padding: 100px 0 100px 0;
+  padding: 150px 0 100px 0;
 }
 .text-content{
   padding-bottom: 100px;
@@ -168,17 +168,11 @@ CITY
 .event-info-wrap{
   display: inline-block;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
+  left: 0%;
+  transform: translate(0%,-50%);
   position: absolute;
   text-align: left;
   padding: 0;
-}
-.left{
-  .event-info-wrap{
-    left: 0%;
-    transform: translate(0%,-50%);
-  }
 }
 
 .join-event{

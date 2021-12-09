@@ -17,10 +17,10 @@
     <div class="page-wrap col-24 fellows">
         <div class="page-content section fullwidth">
             {% include partials/navigation-left-ftf.liquid %}
-            <div class="content-wrap navigation-left-victim">
+            <div class="content-wrap mb-0 navigation-left-victim">
                 {% assign tags = page.tags | join:' ' %}
                 {% assign tags = "" | append:tags %}
-                {% include partials/fellow.liquid title=page.title project=page.project members=page.members name=page.name participants=page.participants img=page.img profile_img=page.profile_img city=page.city date=page.date event_date=page.event_date event_year=page.event_year tags=tags email=page.email %}
+                {% include partials/vision.liquid page=page %}
             </div>
         </div>
     </div>

@@ -14,9 +14,17 @@ type: lab
                     <div class="content-wrap-inner">
                         <h3 class="section-headline">Superrr talks</h3>
                         {% capture currentDate %}{{ site.time | date: '%F' }}{% endcapture %}
+                        {% assign sorted = site.talks | reverse %}
+                        {% assign size = 0 %}
+                        {% for post in sorted %}
+                        {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
+                        {% if currentDate <= postDate %}
+                        {% assign size = size | plus: 1 %}
+                        {% endif %}
+                        {% endfor %}
+                        {% if size > 0 %}
                         <span class="post-info-text uppercase fontsize-28 pl-5">upcoming</span>
                         <div class="talks-holder margin-bottom-100">
-                            {% assign sorted = site.talks | reverse %}
                             {% for post in sorted %}
                             {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
                             {% if currentDate <= postDate %}
@@ -24,9 +32,18 @@ type: lab
                             {% endif %}
                             {% endfor %}
                         </div>
+                        {% endif %}
+                        {% assign sorted = site.talks | reverse %}
+                        {% assign size = 0 %}
+                        {% for post in sorted %}
+                        {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
+                        {% if currentDate > postDate %}
+                        {% assign size = size | plus: 1 %}
+                        {% endif %}
+                        {% endfor %}
+                        {% if size > 0 %}
                         <span class="post-info-text uppercase fontsize-28 pl-5">past</span>
                         <div class="talks-holder margin-bottom-100">
-                            {% assign sorted = site.talks | reverse %}
                             {% for post in sorted %}
                             {% capture postDate %}{{ post.date | date: '%F' }}{% endcapture %}
                             {% if currentDate > postDate %}
@@ -34,6 +51,7 @@ type: lab
                             {% endif %}
                             {% endfor %}
                         </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>

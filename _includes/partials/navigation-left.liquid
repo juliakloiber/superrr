@@ -1,13 +1,18 @@
 <!-- include navigation-left -->
 <div class="navigation-left-wrap">
     <div class="navigation-left-open-wrap">
-        <div class="nav-open-btn"></div>
+        <div class="nav-open-btn lab">
+            {% include partials/nav-icon-open.liquid  %}
+        </div>
         <!--<div class="nav-open-info">
             <span class="open">MENUE</span>
         </div>-->
     </div>
     <div class="navigation-left-wrap-inner">
-        <div class="nav-close-btn"></div>
+        <div class="nav-close-btn lab">
+            {% include partials/nav-icon-close.liquid  %}
+        </div>
+
         <ul class="main-nav {{ include.page_type }}">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}

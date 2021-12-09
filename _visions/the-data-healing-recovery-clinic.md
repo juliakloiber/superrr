@@ -1,12 +1,13 @@
 ---
-title: "The Muhabbet Hub"
-order: 1
+title: "The Data Healing Recovery Clinic"
+order: 2
 layout: vision
-img: "/assets/img/static/visions/1000x1000.png"
-description: 'A feminist tech vision by  Buse Çetin'
+img: "/assets/img/static/batches/ftf.svg"
+vision_img: "/assets/img/static/visions/1000x1000.png"
+description: 'A feminist tech vision by Neema Githere'
 ---
 
-I was on my way back from my meditative walk in our neighbourhood forest. I’ve trained myself to listen to the melodies of the forest and translate them into my own sensual language. Yes, I am developing my own language with sound, image and sensations merging the digital and physical realms. I feel it brings a sense of exploration and connection at the improvisation sessions with my friends who also use sound, symbols and movement to express the feelings and stories that they can't fit into the languages we speak. We don't force cerebral understanding; we explore how we can connect.
+After three years of dedicated organising following The Great Outage of 2021, our community of data healers have succeeded in developing a program tailored to the unique needs of individuals recovering from data trauma.
 
 
 

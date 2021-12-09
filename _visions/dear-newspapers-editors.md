@@ -1,12 +1,14 @@
 ---
-title: "The Data Healing Recovery Clinic"
-order: 2
+title: "Dear newspapers editors"
+order: 3
 layout: vision
-img: "/assets/img/static/visions/1000x1000.png"
-description: 'A feminist tech vision by  Neema Githere'
+img: "/assets/img/static/batches/ftf.svg"
+vision_img: "/assets/img/static/visions/1000x1000.png"
+description: 'A feminist tech vision by Camila Nobrega'
 ---
 
-After three years of dedicated organising following The Great Outage of 2021, our community of data healers have succeeded in developing a program tailored to the unique needs of individuals recovering from data trauma.
+This is probably the first faxed letter the newsroom has received in years. It was the only way to avoid being traced. We are many reporters have in conference halls. We are tired.
+I arrived at COP26, in Glasgow, at the same time as a...
 
 
 

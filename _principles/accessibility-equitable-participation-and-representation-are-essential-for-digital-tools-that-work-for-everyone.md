@@ -1,10 +1,9 @@
 ---
-title: "Healing and empowerment instead of profit maximization and tech-solutionism"
-order: 4
-category: Societal
+title: "Accessibility, equitable participation, and representation are essential for digital tools that work for everyone. "
+order: 5
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Current algorithmic decision-making systems, and facial recognition tools used by governments and industries obscure and reinforce already existing injustices. Instead of creating safer spaces for discourse and exchange, Social Media networks capitalize on trauma and hate speech. The platforms surveil, control, and radicalize their users. To ensure collective and individual well-being and the possibility to thrive technologies must center around the needs of communities and democracies rather than putting profit maximization above all."
+description: 'Accessibility is not a "nice to have" but a human right. Marginalized groups in our societies must be active stakeholders in all stages of design and policy processes. Building with marginalized groups, not for them. Setting up processes for feedback, evaluation, and vetos.'
 ---
 
 # Fieke Jansen

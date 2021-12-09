@@ -1,30 +1,25 @@
 <div class="d-block w-100">
-    <div class="section fellows left city-teaser col-24 background-image background-{{ include.index }}">
+    <div class="section fellows {{ include.type }} city-teaser col-24 background-image background-{{ include.index }}">
         <div class="row city-teaser-wrap">
-            <div class="col-24 col-md-11 col-md-push-1">
+            <div class="col-24 col-md-11 offset-md-1 order-1">
                 <div class="batch-wrap fellows fade-in">
                     <div class="batch-inner">
-                        <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
-                        <img class="img-responsive" src="{{ site.baseurl }}{{ include.profile_img }}" />
+                        <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ item.img }}" type="image/svg+xml" ></object>
+                        <img class="img-responsive" src="{{ site.baseurl }}{{ item.vision_img }}" />
                     </div>
                 </div>
             </div>
-            <div class="col-24 col-md-11 col-md-push-1">
+            <div class="col-24 col-md-11 order-2">
                 <div class="event-info-wrap">
-                    <div class="fellow-name font-paelzer-grot-medium fade-in">
-                        {{ include.name }}
-                    </div>
-                    <div class="fellow-link fade-in">
-                        <a href="{{ include.project_link }}" target="_blank">{{ include.project }}</a>
-                    </div>
+                    <h1 class="fellow-name color-ftf-lila fade-in mb-1">
+                        {{ item.title }}
+                    </h1>
                     <p class="fellow-content fade-in">
                         {{ item.description }}
                     </p>
-                    {% if include.deeplink != "false" %}
-                        <a class="event-link more-btn fellow fade-in" href="{{ site.baseurl }}/{{ item.link }}">
-                            <span class="more-btn-inner"><span>Rrread more!</span></span>
-                        </a>
-                    {% endif %}
+                    <a class="event-link more-btn fellow fade-in" href="{{ item.url }}">
+                        <span class="more-btn-inner"><span>Rrread more!</span></span>
+                    </a>
                 </div>
             </div>
         </div>

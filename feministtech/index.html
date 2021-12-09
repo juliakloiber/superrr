@@ -4,68 +4,22 @@ title : Feminist Tech Fellows
 description : Demanding inclusive and radically diverse digital futures
 type: fellows
 ---
-<div class="scroll-hint-wrap">
-    <div class="scroll-hint fellows up-and-down">SCRRROLL</div>
-</div>
-<div class="row">
-    <!-- include navigation -->
-    <div class="section col-24 home">
-        {% include partials/navigation.liquid nav_type='ftf' %}
-        <div class="content-wrap intro-wrap text-wrap content-block fade-in">
-            <div>
-                <h1>Demanding inclusive and radically diverse digital futures</h1>
-                <p>The feminist tech fellows are artists, writers, activists, technologists, creatives – who set out to explore alternative digital futures. Futures in which safe, equitable participation in the connected world is the norm. Futures in which people of all genders and cultural backgrounds are supported to influence and create tools and concepts for digital interactions.</p>
-                <p>With the fellowships we strive to explore new narratives that counter dominant big tech visions. We want to speculate what feminist technologies look like and come up with tools that help us to challenge existing patterns and to embrace diversity. We want to shine a light on people who develop those projects and get insights into their approaches.</p>
-                <p>The fellows will be working on artworks, stories, concepts, tools that help us to imagine and work towards new inclusive futures.</p>
-                <p>The fellows will be supported with:
-                    <ul>
-                        <li>Mentorship by experts from the <a href="http://superrr.net/">Superrr</a> network</li>
-                        <li>A stipend of $3000 per project</li>
-                        <li>Outreach and campaigning</li>
-                    </ul>
-                </p>
-                <p>The fellowship runs from Feb-April 2019. Throughout this time the fellows will advance and launch their projects and write about feminist tech on our blog.</p>
-            <p>Brought to you by <a href="http://superrr.net/">Superrr</a> with support from <a href="https://foundation.mozilla.org/en/" target="_blank">Mozilla</a>.</p>
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left-ftf.liquid %}
+
+    <div class="content-wrap navigation-left-victim">
+        <div class="section fullwidth bg-grey-light">
+            <h1>Feminist Tech Visions</h1>
+            <div class="card-holder" data-category="projects">
+                {% assign visions = site.visions | sort: 'order' %}
+                {% for post in visions %}
+                {% include card.liquid %}
+                {% endfor %}
             </div>
         </div>
     </div>
-    <!-- include fellows -->
-    {% assign fellow = site.fellows | sort: 'order' %}
-    {% for item in fellow %}
-        {% assign tags = item.tags | join:' ' %}
-        {% assign tags = "" | append:tags %}
-        {% assign index = forloop.index0 %}
 
-        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-            {% include sections/fellow-teaser-left.liquid index=index name=item.name project=item.project project_link=item.project_link teaser_text=item.teaser_text tags=tags deeplink=item.deeplink event_date=item.event_date img=item.img profile_img=item.profile_img link=item.link city=item.city date=item.date %}
-        {% else %}
-    {% include sections/fellow-teaser-right.liquid index=index name=item.name project=item.project project_link=item.project_link teaser_text=item.teaser_text tags=tags deeplink=item.deeplink event_date=item.event_date img=item.img profile_img=item.profile_img link=item.link city=item.city date=item.date %}
-        {% endif %}
-        <!--<div class="section fellows fellow-spacer background-image background-1"></div>-->
-    {% endfor %}
 </div>
-<div class="content-wrap text-wrap content-block fade-in">
-    <div>
-        <h1>Mentors</h1>
-        <p><a href="https://twitter.com/zararah" target="_blank">Zara Rahman</a>, <a href="https://twitter.com/AbirGhattas?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Abir Ghattas</a>, <a href="https://twitter.com/kaodro">Kasia Odrozek</a>, <a href="https://twitter.com/diewahremona?lang=en">Simone Orgel</a>, <a href="https://twitter.com/solanasaurus" target="_blank">Solana Larsen</a>, <a href="https://twitter.com/thornet" target="_blank">Michelle Thorne</a>, <a href="https://twitter.com/elizab0t" target="_blank">Elisa Lindinger</a>, <a href="https://twitter.com/_cberger_" target="_blank">Cathleen Berger</a> & the wider Superrr network.<br><br>
-        A program initiated by <a href="https://twitter.com/j_kloiber" target="_blank">Julia Kloiber</a>. Supported by <a href="https://foundation.mozilla.org/de/" target="_blank">Mozilla</a>.<br><br>
-        Interested in supporting the next round of fellows? Please do <a href="mailto:mail@juliakloiber.com">reach out to us.</a></p>
-    </div>
-</div>
-<div class="content-wrap text-wrap content-block fade-in" style="padding-top: 0;">
-    <div>
-        <h1>Why Feminist Tech Fellows?</h1>
-        <p>Bias in machine learning, online harassment, technologies that are a threat to minorities, … we are surrounded by headlines that point out that tech is a field dominated by a small rather privileged group of people. This comes with a lot of problems and challenges. The needs of large groups of people are not taken into account, tools get mainstreamed to work for the mass market, bias gets amplified; discrimination is real.
-            The internet arrived with the promise that everyone is free to create and access information online. In times of centralization and big tech this promise is corrupted.
-        </p>
-        <p>We are surrounded by many dystopian narratives about the future: machines will take over, singularity is near, privacy is dead, ... Many of these narratives from science fiction and industry feel like self-fulfilling prophecies.</p>
-        <p>Superrr aims to come up with alternative, feminist, inclusive stories and tools that counter mainstream narratives and norms. With artists, technologists and writers we want to explore what feminist technology can look like. We want to inspect how technology can help people to express themselves. Our goal are futures in which people of all genders and cultural backgrounds, are supported to influence and create tools and concepts for digital interactions.</p>
-        <p>We want futures. Plural. There is no one future, but many different futures. We see diversity as an asset that can help us to develop better technology that enhances our skills.</p>
-    </div>
-</div>
-<!-- newsletter/social -->
-{% include partials/social.liquid page_type="fellows" %}
 <script>
     var is_large_header_page = true;
 </script>

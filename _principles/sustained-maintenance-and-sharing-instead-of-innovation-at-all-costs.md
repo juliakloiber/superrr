@@ -1,9 +1,9 @@
 ---
-title: "Invisibilized labor exacerbates social inequality"
-order: 2
+title: "Sustained maintenance and sharing instead of innovation at all costs"
+order: 3
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Today's digital technology is fueled/inextricably linked to/ by non-renewable raw materials and invisibilized labor. This exacerbates social inequality and the global North-South injustice. The supply chains as well as the inequality footprint of our technology must be made visible. Exploitative working conditions must end. Profits must be shared equitably along the chain of production."
+description: "Moving away from short-living innovation cycles towards longevity and openness is paramount/essential for creating tech that functions within planetary boundaries. The value/appreciation of maintenance and interoperability must be increased."
 ---
 
 # Fieke Jansen

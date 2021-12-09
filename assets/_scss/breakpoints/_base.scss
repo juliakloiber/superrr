@@ -24,48 +24,14 @@ $fontsize-24: 1.5rem !important;
 $fontsize-22: 1.25rem !important;
 
 .fontsize-120 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-120;
   }
   font-size: $fontsize-120;
 }
 
 .fontsize-70 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-70;
   }
   font-size: $fontsize-70;
@@ -73,116 +39,31 @@ $fontsize-22: 1.25rem !important;
 
 
 .fontsize-50 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-50;
   }
   font-size: $fontsize-50;
 }
 .fontsize-40 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-40;
   }
   font-size: $fontsize-40;
 }
 .fontsize-28 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-28;
   }
   font-size: $fontsize-28;
 }
 .fontsize-24 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-24;
   }
   font-size: $fontsize-24;
 }
 .fontsize-22 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-22;
   }
   font-size: $fontsize-22;
@@ -191,6 +72,67 @@ $fontsize-22: 1.25rem !important;
 /*********************
 END FONTSIZES
 *********************/
+
+body.feminist-tech {
+
+  color: $color-ftf-lila;
+
+  .page-wrap ul li:before {
+    background-image: url($baseurl + "/assets/img/static/icons/arrow-red.svg");
+  }
+  .more-btn{
+    &:before {
+      background-image: url($baseurl + "/assets/img/static/icons/arrow-red.svg");
+    }
+  }
+
+  .content-wrap {
+    a{
+      color: $color-ftf-lila;
+      border-bottom: 1px solid $color-ftf-lila !important;
+      &:hover {
+        border-bottom: 1px solid $color-ftf-lila !important;
+        @include ftf-text-glow();
+      }
+
+      &.more-btn {
+        border-bottom-width: 0px !important;
+      }
+
+    }
+    margin-bottom: 100px;
+  }
+
+  .intro-wrap {
+    h1{
+      text-align: center;
+    }
+  }
+
+  .text-wrap a {
+    border-bottom: 0px solid $color-ftf-red;
+    &:hover {
+      border-bottom: 0px solid $color-ftf-red;
+    }
+  }
+
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-family: $font-headline;
+    text-transform: none !important;
+  }
+
+  .rounded-hover {
+    &:hover {
+      &:after {
+        border: 1px solid $color-ftf-green;
+      }
+    }
+  }
+  *::selection {
+    background: $color-ftf-lila;
+    color: white;
+  }
+}
 
 /*********************
 GENERAL STYLES
@@ -259,6 +201,10 @@ body {
 LAYOUT & GRID STYLES
 *********************/
 
+.content-wrap {
+  width: 100%;
+}
+
 .section-headline{
   font-size: $fontsize-28;
   a {
@@ -287,7 +233,7 @@ LAYOUT & GRID STYLES
 .section{
 
   position: relative;
-  display: block;
+  display: flex;
 
   &.mobile-padded{
     /* for menu mobile top padding*/
@@ -332,7 +278,7 @@ LAYOUT & GRID STYLES
   }
 
   &.min-fullheight{
-    min-height: 100vh;
+    min-height: 88vh;
     height: auto;
   }
 
@@ -412,27 +358,27 @@ LAYOUT & GRID STYLES
     background-color: $background-color-fellow;
 
     &.background-0{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG1-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-1.jpg');
     }
 
     &.background-1{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG2-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-2.jpg');
     }
 
     &.background-2{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG3-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-3.jpg');
     }
 
     &.background-3{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG4-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-1.jpg');
     }
 
     &.background-4{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG5-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-3.jpg');
     }
 
     &.footer{
-      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG-footer-ftf.jpg');
+      background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-3.jpg');
     }
   }
 
@@ -705,6 +651,7 @@ p {
   text-transform: uppercase;
 
   a{
+    border-bottom-width: 0 !important;
     font-size: 1.5rem;
   }
 
@@ -735,11 +682,11 @@ HEADER STYLES
 
   height: 12vh;
   width: 100%;
-  /*background-color: $primary-color;*/
+  background-color: white;
   position: relative;
 
   &.fellows{
-    background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/superrr_BG-header-ftf.jpg');
+    background-image: url($baseurl + '/assets/img/static/backgrounds/fellows/ftf-bg-1.jpg');
     .logo {
       font-size: 12vw;
     }
@@ -883,6 +830,33 @@ MAIN NAV
 
     text-align: left;
 
+    &.fellows {
+
+      li {
+        text-align: center;
+
+        a{
+          color: $color-ftf-lila;
+          &:hover{
+            @include ftf-text-glow();
+            &:after {
+              border: 1px solid $color-ftf-green;
+            }
+          }
+        }
+
+        &.current {
+          a{
+            @include ftf-text-glow(lila);
+            color: white;
+            &:after {
+              border: 1px solid $color-ftf-green;
+            }
+          }
+        }
+      }
+    }
+
     &.frontpage{
       background-color: $white;
     }
@@ -903,11 +877,13 @@ MAIN NAV
 
       a{
         letter-spacing: -0.1rem;
+        line-height: 1;
       }
 
       &.current{
         a{
           pointer-events: none;
+
           &:after{
             content: '';
             display: inline-block;
@@ -964,9 +940,21 @@ MAIN NAV
 
 
   .nav-open-btn{
-    background-image: url($baseurl + '/assets/img/static/icons/burger.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
+
+    svg {
+      object-fit: contain;
+      width: 100%;
+      height: 100%;
+    }
+
+    &.fellows {
+      svg {
+        path {
+          stroke: $color-ftf-lila !important;
+        }
+      }
+    }
+
     width: 53px;
     height: 36px;
     margin-bottom: 1rem;
@@ -981,9 +969,22 @@ MAIN NAV
 }
 .nav-close-btn{
   cursor: pointer;
-  background-image: url($baseurl + '/assets/img/static/icons/nav-close.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
+
+  svg {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+  }
+
+  &.fellows {
+    svg {
+      path {
+        stroke: $color-ftf-lila !important;
+      }
+    }
+  }
+
+
   width: 36px;
   height: 36px;
   margin-bottom: 2rem;
@@ -1202,7 +1203,7 @@ PAGE & SECTIONS
 .content-wrap-inner{
   width: 90%;
   margin: 0 auto;
-  max-width: 1400px;
+  max-width: 1200px;
   &.full{
     max-width: 70%;
   }
@@ -1293,8 +1294,14 @@ body{
   }
 }
 
-.intro-wrap{
+.intro-section {
+  padding-top: 50px;
+}
+.min-fullheight{
   padding: 50px 0 100px 0;
+  >p:last-of-type {
+    margin-bottom: 0;
+  }
 }
 .intro-text{
 
@@ -1634,15 +1641,61 @@ TALKS
 
 .talks-holder{
   .talk-teaser{
-    background-color: white;
-    margin-bottom: 50px;
-    border-radius: 30px;
-    padding: 3rem;
-    display: block;
+    @include bordered-box();
     h3{
       line-height: 1.1;
     }
   }
+}
+
+/*********************
+CONTRIBUTORS
+*********************/
+
+.contributors-holder{
+  .contributor{
+    @include bordered-box();
+    @include ftf-box-glow();
+
+    &-image{
+      line-height: 1.1;
+    }
+
+    &-content{
+      p:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+/*********************
+PRINCIPLES
+*********************/
+
+.principle-info-box {
+  @include bordered-box();
+  @include ftf-box-glow();
+}
+
+/*********************
+FTF ABOUT
+*********************/
+
+.ftf-quote {
+  margin-bottom: 100px;
+  @include bordered-box();
+  @include teaser-shadow();
+  blockquote {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: $font-basteleur;
+    color: $color-ftf-red;
+    font-size: 2.75rem;
+  }
+}
+.faq-holder {
+  padding: 50px 0;
 }
 
 /*********************
@@ -1686,6 +1739,7 @@ FOOTER STYLES
     .social-links{
       a{
         font-size: 2.25rem !important;
+        border-bottom-width: 0 !important;
         &:hover{
           background-color: transparent;
           color: $third-color;
@@ -1694,7 +1748,35 @@ FOOTER STYLES
     }
   }
 
-  &.lab{
+  &.fellows {
+    color: $color-ftf-lila;
+
+    a {
+      color: $color-ftf-lila;
+    }
+
+    ul.footer-links li .social-links a {
+      color: $color-ftf-lila;
+      &:hover {
+        i{
+          &:before{
+            @include ftf-text-glow();
+          }
+        }
+        color: $color-ftf-lila;
+      }
+    }
+
+  }
+
+  &.lab {
+
+    color: white;
+
+    a{
+      color: white;
+    }
+
     .newsletter-wrap{
       form{
         .button{
@@ -1813,7 +1895,6 @@ FOOTER STYLES
       }
 
     }
-
   }
 
   .social{
@@ -1878,7 +1959,6 @@ FOOTER STYLES
       margin-bottom: 0;
       a{
         font-size: $fontsize-40;
-        color: white;
       }
     }
 

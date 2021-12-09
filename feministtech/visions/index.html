@@ -1,0 +1,43 @@
+---
+layout: ftf
+title : Feminist Tech Visions
+description : Demanding inclusive and radically diverse digital futures
+type: fellows
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left-ftf.liquid %}
+
+    <div class="content-wrap mb-0 navigation-left-victim">
+        <div class="section col-24 home">
+            <div class="intro-wrap text-wrap content-block fade-in">
+                <div class="content-wrap-inner shrinked intro-wrap">
+                    <h1>The Feminist Tech Visions</h1>
+                    <div>
+                        <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- include fellows -->
+        {% assign visions = site.visions | sort: 'order' %}
+        {% for item in visions %}
+        {% assign index = forloop.index0 %}
+        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if thecycle == 'odd' %}
+        {% include sections/vision-teaser-left.liquid type="left" item=item index=index %}
+        {% else %}
+        {% include sections/vision-teaser-left.liquid type="right" item=item index=index %}
+        {% endif %}
+        {% endfor %}
+
+    </div>
+
+</div>
+<script>
+    var is_large_header_page = true;
+</script>
+
+
+

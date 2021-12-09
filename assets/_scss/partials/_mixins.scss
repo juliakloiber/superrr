@@ -101,4 +101,53 @@ probably best not to use it. I mean, were you going to anyway? */
   height: 0;
   padding-top: percentage(image-height($url) / image-width($url)); }
 
+@mixin ftf-box-glow($type: green) {
+
+  @if $type == green {
+
+    -webkit-box-shadow:0px 0px 17px 8px rgba(185,255,79,0.75);
+    -moz-box-shadow: 0px 0px 17px 8px rgba(185,255,79,0.75);
+    box-shadow: 0px 0px 17px 8px rgba(185,255,79,0.75);
+
+  } @else if $type == lila {
+
+    -webkit-box-shadow:0px 0px 17px 8px rgba(112,63,238,0.67);
+    -moz-box-shadow: 0px 0px 17px 8px rgba(112,63,238,0.67);
+    box-shadow: 0px 0px 17px 8px rgba(112,63,238,0.67);
+
+  } @else if $type == red {
+
+    -webkit-box-shadow:0px 0px 17px 8px rgba(254,76,0,0.67);
+    -moz-box-shadow: 0px 0px 17px 8px rgba(254,76,0,0.67);
+    box-shadow: 0px 0px 17px 8px rgba(254,76,0,0.67);
+
+  }
+
+}
+@mixin ftf-text-glow($type: green) {
+
+  @if $type == green {
+
+    text-shadow: 0px 0px 10px $color-ftf-green;
+
+  } @else if $type == lila {
+
+    text-shadow: 0px 0px 10px $color-ftf-lila;
+
+  } @else if $type == red {
+
+    text-shadow: 0px 0px 10px $color-ftf-red;
+
+  }
+
+
+}
+
+@mixin bordered-box() {
+  background-color: white;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding: 3rem;
+  display: block;
+}
 

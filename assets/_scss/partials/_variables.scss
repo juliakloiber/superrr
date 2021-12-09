@@ -69,3 +69,43 @@ $cards-per-column: 1;
 $header-height:         90px;
 $footer-height:         280px;
 
+$color-ftf-lila: #723FEE;
+$color-ftf-red: #FE4E00;
+$color-ftf-green: #B8FF4F;
+$color-ftf-blue: #A5C4F2;
+$color-ftf-grey: #F3F3F3;
+
+.color-ftf-lila {
+  color: $color-ftf-lila;
+}
+.color-background-ftf-lila {
+  color: $color-ftf-lila;
+}
+
+.color-ftf-red {
+  color: $color-ftf-red;
+}
+.color-background-ftf-red {
+  color: $color-ftf-red;
+}
+
+.color-ftf-green {
+  color: $color-ftf-green;
+}
+.color-background-ftf-green {
+  color: $color-ftf-green;
+}
+
+.color-ftf-blue {
+  color: $color-ftf-blue;
+}
+.color-background-ftf-blue {
+  color: $color-ftf-blue;
+}
+
+.color-ftf-grey {
+  color: $color-ftf-grey;
+}
+.color-background-ftf-grey {
+  color: $color-ftf-grey;
+}

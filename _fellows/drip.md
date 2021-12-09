@@ -7,7 +7,7 @@ profile_img: "/assets/img/static/batches/drip.svg"
 name: "Julia Friesel, Marie Kochsiek & Tina Baumann"
 project: "Drip"
 project_link: 'https://bloodyhealth.gitlab.io/'
-link: '/fellow/drip'
+link: 'feministtech/fellow/drip'
 description: "A non-commercial, inclusive, secure and empowering period tracker brought to you by the Bloody Health team."
 
 members:

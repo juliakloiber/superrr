@@ -18,7 +18,14 @@ Do whatever you want to...GOSH!
 }
 
 @font-face {
-  font-family: 'RT Paelzer Grot Medium DEMO';
+  font-family: 'Basteleur Bold';
+  src: url($baseurl + '/assets/fonts/Basteleur-Bold.woff2') format('woff2'),
+  url($baseurl + '/assets/fonts/Basteleur-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'RT Paelzer Grot Medium';
   src: url($baseurl + '/assets/fonts/RTPaelzerNeue-Regular.eot');
   src: url($baseurl + '/assets/fonts/RTPaelzerNeue-Regular.eot?#iefix') format('embedded-opentype'),
   url($baseurl + '/assets/fonts/RTPaelzerNeue-Regular.woff2') format('woff2'),
@@ -30,8 +37,10 @@ Do whatever you want to...GOSH!
 
 
 
+$font-headline:    'Basteleur Bold', sans-serif;
 $font-regular:    'Whyte Book', sans-serif;
-$font-paelzer-grot-medium:    'RT Paelzer Grot Medium DEMO', sans-serif;
+$font-paelzer-grot-medium:    'RT Paelzer Grot Medium', sans-serif;
+$font-basteleur:    'Basteleur Bold', sans-serif;
 
 
 .font-regular{
@@ -39,6 +48,12 @@ $font-paelzer-grot-medium:    'RT Paelzer Grot Medium DEMO', sans-serif;
 }
 .font-paelzer-grot-medium{
   font-family: $font-paelzer-grot-medium;
+}
+.font-headline{
+  font-family: $font-headline;
+}
+.font-headline-ftf{
+  font-family: $font-basteleur;
 }
 
 

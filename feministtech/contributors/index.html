@@ -1,0 +1,42 @@
+---
+layout: ftf
+title : Contributors - Feminist Tech Fellows
+description : Demanding inclusive and radically diverse digital futures
+type: fellows
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left-ftf.liquid %}
+
+    <div class="content-wrap navigation-left-victim">
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner shrinked intro-wrap">
+                <h1>The Contributors</h1>
+                <div>
+                    <p>To create the feminist tech principles, visions, and the card deck, we worked together with activists, policymakers, writers, designers, technologists, researchers, and educators, that advocate for digital rights and the rights of marginalized groups.</p>
+                </div>
+            </div>
+        </div>
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <div class="contributors-holder">
+                    <!-- include contributors -->
+                    {% assign contributors = site.contributors | sort: 'order' %}
+                    {% for item in contributors %}
+                    {% assign tags = item.tags | join:' ' %}
+                    {% assign tags = "" | append:tags %}
+                    {% assign index = forloop.index0 %}
+                    {% include sections/contributor-teaser.liquid item=item %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script>
+    var is_large_header_page = true;
+</script>
+
+
+

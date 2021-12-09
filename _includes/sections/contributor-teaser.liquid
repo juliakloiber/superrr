@@ -1,10 +1,14 @@
-<div class="col-24 project-teaser fade-in">
-    <h3 class="h1">{{ include.title }}</h3>
-    <img class="img-responsive project-image" src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" />
-    <p class="project-text">{{ include.description }}</p>
-    <div class="more-btn-wrap">
-        <a href="{% if include.external_link.size > 0 %}{{ include.external_link }}{% else %}{{ include.link }}{% endif %}" class="event-link more-btn  fade-in animated fadeInUp full-visible">
-            <span class="more-btn-inner"><span>Rrread more!</span></span>
-        </a>
+<div class="col-24 contributor with-fade-in">
+    <h3 class="contributor-title">{{ item.firstname }} {{ item.lastname }} <span class="contributor-gender">({{ item.gender }})</span></h3>
+    <div class="row">
+        <div class="contributor-image col-24 col-sm-6">
+            <img class="img-responsive" src="{{ site.baseurl }}{{ item.img }}" />
+        </div>
+        <div class="contributor-content col-24 col-sm-18 pl-sm-4">
+            {{ item.content }}
+            <a class="mt-3 event-link more-btn fade-in animated fadeInUp full-visible" href="{{ site.baseurl }}/feministtech/principle/{{ item.principle_id }}">
+                <span class="more-btn-inner"><span>Go to {{ item.firstname }}'s contribution</span></span>
+            </a>
+        </div>
     </div>
 </div>

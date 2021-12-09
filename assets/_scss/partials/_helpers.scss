@@ -188,6 +188,13 @@ input:-webkit-autofill {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  &.fellows {
+    &:before {
+      background-image: url($baseurl + '/assets/img/static/icons/arrow-lila.svg');
+    }
+  }
+
   &:before{
     background-image: url($baseurl + '/assets/img/static/icons/arrow-white.svg');
     background-size: contain;

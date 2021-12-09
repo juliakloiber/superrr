@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ "/assets/main.css?v=2.5" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/all.min.css" | relative_url }}">
+    {% include favicon-ftf.liquid %}
+    {% include opengraph-ftf.liquid %}
+</head>
+<body class="feminist-tech">
+{% include header.liquid page_type='fellows' %}
+<div class="row page-wrap-outter">
+    <div class="page-wrap col-24 fellows">
+        <div class="page-content section fullwidth">
+            {% include partials/navigation-left-ftf.liquid %}
+            <div class="content-wrap navigation-left-victim">
+                <div class="section fullwidth home-hero padded bg-white mobile-padded">
+                    <div class="content-wrap-inner shrinked intro-wrap">
+                        <h1 class="project-headline margin-bottom-100">{{ page.title }}</h1>
+                    </div>
+                    <div class="content-wrap-inner">
+                        <div class="row">
+                            <div class="col-24 col-md-12">
+                                <div class="text-wrap">
+                                    <h3>{{ page.order }}</h3>
+                                    <p>{{ page.description }}</p>
+                                </div>
+                            </div>
+                            <div class="col-24 col-md-12">
+                                <div class="text-wrap">
+                                    {{ content }}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- newsletter/social -->
+{% include partials/social.liquid page_type="fellows" %}
+{% include footer.liquid %}

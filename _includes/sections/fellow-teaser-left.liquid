@@ -1,7 +1,7 @@
 <div class="d-block w-100">
-    <div class="section fellows left city-teaser col-24 background-image background-{{ include.index }}">
+    <div class="section fellows {{ include.type }} city-teaser col-24 background-image background-{{ include.index }}">
         <div class="row city-teaser-wrap">
-            <div class="col-24 col-md-11 col-md-push-1">
+            <div class="col-24 col-md-11 offset-md-1 order-1">
                 <div class="batch-wrap fellows fade-in">
                     <div class="batch-inner">
                         <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
@@ -9,11 +9,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-24 col-md-11 col-md-push-1">
+            <div class="col-24 col-md-11 order-2">
                 <div class="event-info-wrap">
-                    <div class="fellow-name font-paelzer-grot-medium fade-in">
+                    <h3 class="fellow-name color-ftf-lila fade-in">
                         {{ include.name }}
-                    </div>
+                    </h3>
                     <div class="fellow-link fade-in">
                         <a href="{{ include.project_link }}" target="_blank">{{ include.project }}</a>
                     </div>
@@ -21,7 +21,7 @@
                         {{ item.description }}
                     </p>
                     {% if include.deeplink != "false" %}
-                        <a class="event-link more-btn fellow fade-in" href="{{ item.link }}">
+                        <a class="event-link more-btn fellow fade-in" href="{{ site.baseurl }}/{{ item.link }}">
                             <span class="more-btn-inner"><span>Rrread more!</span></span>
                         </a>
                     {% endif %}

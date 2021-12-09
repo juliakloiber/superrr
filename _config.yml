@@ -20,9 +20,10 @@ lang: "de_DE"
 
 title_ftf: "Feminist Tech Fellows"
 description_ftf: "Demanding inclusive and radically diverse digital futures."
+card_deck_download_link: "/assets/downloads/COVID-19-Infrastructure-Playbook_EN.pdf"
 
 contact_email: "hello@superrr.net"
-superrr_twitter: "http://twitter.com/superrrnetwork"
+superrr_twitter: "https://twitter.com/superrrnetwork"
 superrr_facebook: ""
 superrr_insta: "https://www.instagram.com/superrrnetwork/"
 mailchimp_signup_link: "https://superrrr.us18.list-manage.com/subscribe?u=07794224f80eb3988af949760&id=2b1b3a01e0"
@@ -59,7 +60,19 @@ collections:
         permalink: /city/:path/
     fellows:
         output: true
-        permalink: /fellow/:path/
+        permalink: /feministtech/fellow/:path/
+    visions:
+            output: true
+            permalink: /feministtech/vision/:path/
+    contributors:
+            output: false
+            permalink: /feministtech/contributor/:path/
+    faqs:
+            output: false
+            permalink: /feministtech/faqs/:path/
+    principles:
+            output: true
+            permalink: /feministtech/principle/:path/
     projects:
             output: true
             permalink: /project/:path/

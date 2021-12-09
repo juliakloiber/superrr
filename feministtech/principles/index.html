@@ -1,0 +1,41 @@
+---
+layout: ftf
+title : The Feminist Tech Principles
+description : Demanding inclusive and radically diverse digital futures
+type: fellows
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left-ftf.liquid %}
+
+    <div class="content-wrap navigation-left-victim">
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner shrinked intro-wrap">
+                <h1>The Feminist Tech Principles</h1>
+                <div>
+                    <p>
+                        The Feminist Tech principles are a work in progress set of guidelines for feminist tech policy-making and technology creation. They have been drafted by various people SUPERRR Lab has invited into the process; activists, policymakers, writers, designers, technologists, researchers, and educators, that advocate for digital rights and the rights of marginalized groups.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <div class="principles-holder">
+                    <!-- include principles -->
+                    {% assign principles = site.principles | sort: 'order' %}
+                    {% for item in principles %}
+                    {% include sections/principle-teaser.liquid item=item %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script>
+    var is_large_header_page = true;
+</script>
+
+
+

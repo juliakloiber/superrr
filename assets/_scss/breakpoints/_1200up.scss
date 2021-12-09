@@ -11,48 +11,14 @@ $fontsize-24: 1.5rem !important;
 $fontsize-22: 1.375rem !important;
 
 .fontsize-120 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-120;
   }
   font-size: $fontsize-120;
 }
 
 .fontsize-70 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-70;
   }
   font-size: $fontsize-70;
@@ -60,116 +26,31 @@ $fontsize-22: 1.375rem !important;
 
 
 .fontsize-50 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-50;
   }
   font-size: $fontsize-50;
 }
 .fontsize-40 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-40;
   }
   font-size: $fontsize-40;
 }
 .fontsize-28 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-28;
   }
   font-size: $fontsize-28;
 }
 .fontsize-24 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-24;
   }
   font-size: $fontsize-24;
 }
 .fontsize-22 {
-  p,
-  span,
-  a,
-  ol,
-  ul,
-  dl,
-  h1,
-  .h1,
-  h2,
-  .h2,
-  h3,
-  .h3,
-  h4,
-  .h4,
-  h5,
-  .h5,
-  h6,
-  .h6 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     font-size: $fontsize-22;
   }
   font-size: $fontsize-22;
@@ -195,7 +76,7 @@ PAGE & SECTIONS
 .content-wrap-inner{
 
   &.shrinked{
-    width: 850px;
+    width: 750px;
   }
   &.expanded{
     width: 90%;

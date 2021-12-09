@@ -9,11 +9,46 @@
 
   &.orange{
     border-color:$third-color !important;
+    &:hover{
+      background-color: $third-color;
+      border-color: $third-color;
+    }
   }
 
-  &:hover{
-    background-color: $third-color;
-    border-color: $third-color;
+  &.lab{
+    border-color:$third-color !important;
+    &:hover{
+      background-color: $third-color;
+      border-color: $third-color;
+    }
+  }
+
+  &.fellows{
+
+    @include transition(all .25s ease);
+    border-width: 2px;
+    border-color:$color-ftf-lila !important;
+    color: $color-ftf-lila !important;
+    &:hover{
+
+      /*
+      background-color: $color-ftf-lila;
+      border-color: $color-ftf-lila;
+      color: $white !important;
+      */
+
+      border-color:$color-ftf-green !important;
+
+      @include ftf-box-glow(green);
+
+      /*
+      .has-arrow-left {
+        &:before {
+          background-image: url($baseurl + '/assets/img/static/icons/arrow-white.svg');
+        }
+      }*/
+
+    }
   }
 
 }
