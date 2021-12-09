@@ -1,0 +1,53 @@
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="row">
+            <div class="section left min-fullheight col-24 background-1">
+                <div class="row fit-to-content-mobile same-height">
+                    <div class="col-24 col-md-12 col-lg-10">
+                        <div class="batch-wrap city">
+                            <div class="batch-inner">
+                                <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
+                            </div>
+                        </div>
+                        <div class="batch-wrap city ">
+                            {% if include.hosts|length > 0 %}
+                                <p class="event-hosts">MEETUP HOSTS:
+                                    {% for host in include.hosts %}
+                                        <a class="" href="{{ host.url }}" target="_blank">{{ host.name }}</a>&nbsp
+                                    {% endfor %}
+                                </p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="col-24 col-md-12 col-lg-12 col-lg-push-2">
+                        <div class="city-wrap">
+                            <div class="event-intro font-paelzer-grot-medium">next meetup</div>
+                            <div class="event-date font-paelzer-grot-medium">
+                                {{ include.event_date }} {{ include.event_year }}
+                            </div>
+                            <div class="event-tags">{{ include.tags }}</div>
+                            <div class="event-content">
+                                {{ content }}
+                                <div class="join-event">
+                                    <p>If you want to join please</p>
+                                    <a class="event-link more-btn" href="mailto:{{ include.email }}">
+                                        <span class="more-btn-inner"><span>drop us an email</span></span>
+                                    </a>
+                                </div>
+                            </div>
+                            {% if include.participants|length > 0 %}
+                                <div class="event-participants"><p>See who’s coming:</p>
+                                    {% for participant in include.participants %}
+                                        <a class="" href="{{ participant.twitterlink }}" target="_blank">{{ participant.twitterhandle }}</a>&nbsp
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
