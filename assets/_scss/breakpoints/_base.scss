@@ -89,11 +89,10 @@ body.feminist-tech {
   .content-wrap {
     a{
       color: $color-ftf-lila;
-      border-bottom: 1px solid $color-ftf-lila !important;
-      &:hover {
-        border-bottom: 1px solid $color-ftf-lila !important;
-        @include ftf-text-glow();
-      }
+
+      @include circle-link($color-ftf-green, 2px);
+
+      background-color: transparent;
 
       &.more-btn {
         border-bottom-width: 0px !important;
@@ -105,6 +104,9 @@ body.feminist-tech {
 
   .intro-wrap {
     h1{
+      text-align: center;
+    }
+    p {
       text-align: center;
     }
   }
@@ -143,6 +145,7 @@ html{
   overflow-y: auto;
   height: auto;
   min-height: 100%;
+  scroll-behavior: smooth;
 }
 
 html, body{
@@ -233,7 +236,15 @@ LAYOUT & GRID STYLES
 .section{
 
   position: relative;
-  display: flex;
+  display: block;
+
+  &.flex{
+    display: flex;
+  }
+
+  &.image {
+    padding-bottom: 75px;
+  }
 
   &.mobile-padded{
     /* for menu mobile top padding*/
@@ -838,20 +849,17 @@ MAIN NAV
         a{
           color: $color-ftf-lila;
           &:hover{
-            @include ftf-text-glow();
-            &:after {
-              border: 1px solid $color-ftf-green;
-            }
+            color: white;
+            @include ftf-text-glow(lila);
+
           }
         }
 
         &.current {
           a{
-            @include ftf-text-glow(lila);
             color: white;
-            &:after {
-              border: 1px solid $color-ftf-green;
-            }
+            @include ftf-text-glow(lila);
+            @include circle-link($color-ftf-green, 2px);
           }
         }
       }
@@ -885,17 +893,7 @@ MAIN NAV
           pointer-events: none;
 
           &:after{
-            content: '';
-            display: inline-block;
-            width: 110%;
-            height: 100%;
-            position: absolute;
-            border: 1px solid $third-color;
-            top: 0;
-            border-radius: 50%;
-            z-index: -1;
-            left: 50%;
-            transform: translateX(-50%);
+            @include circle-link();
           }
         }
       }
@@ -1155,6 +1153,31 @@ a.bg-hover{
         }
       }
     }
+
+    &.vision {
+      border-radius: 0;
+      background-color: transparent;
+      overflow: unset;
+      .teaser-card-inner{
+        width: 100%;
+        background-color: transparent;
+        overflow: unset;
+        
+        .teaser-card-image {
+          img {
+            object-fit: contain;
+            width: 100%;
+            height: 100%;
+          }
+        }
+
+        .teaser-card-text{
+          border-radius: 1.5rem;
+          background-color: white;
+        }
+      };
+    }
+
   }
 }
 
@@ -1312,6 +1335,8 @@ body{
   a{
     @include transition(background-color .2s ease);
     background-color: $link-background-hover;
+    border-bottom-width: 0 !important;
+    padding: 0 5px;
     &:hover{
       background-color: $third-color;
       @include custom-cursor-hover();
@@ -1654,11 +1679,26 @@ CONTRIBUTORS
 
 .contributors-holder{
   .contributor{
-    @include bordered-box();
-    @include ftf-box-glow();
+
+    &-small-inner {
+      .contributor-image{
+      }
+    }
+
+    &-inner {
+      @include bordered-box();
+    }
 
     &-image{
       line-height: 1.1;
+      border-radius: 1.5rem;
+
+      img {
+        border-radius: 1.5rem;
+        overflow: hidden;
+      }
+
+      z-index: 1;
     }
 
     &-content{
@@ -1666,6 +1706,13 @@ CONTRIBUTORS
         margin-bottom: 0;
       }
     }
+
+    &-link {
+      &:after {
+        display: none !important;
+      }
+    }
+
   }
 }
 
@@ -1683,15 +1730,19 @@ FTF ABOUT
 *********************/
 
 .ftf-quote {
-  margin-bottom: 100px;
+  margin: 100px 0;
   @include bordered-box();
-  @include teaser-shadow();
   blockquote {
     margin-top: 0;
     margin-bottom: 0;
     font-family: $font-basteleur;
     color: $color-ftf-red;
     font-size: 2.75rem;
+    span {
+      font-size: 1.5rem;
+      margin-top: 1.5rem;
+      display: block;
+    }
   }
 }
 .faq-holder {
@@ -1740,6 +1791,9 @@ FOOTER STYLES
       a{
         font-size: 2.25rem !important;
         border-bottom-width: 0 !important;
+        &:after {
+          display: none;
+        }
         &:hover{
           background-color: transparent;
           color: $third-color;
@@ -1755,8 +1809,14 @@ FOOTER STYLES
       color: $color-ftf-lila;
     }
 
+    ul.footer-links li a {
+      &:after {
+        display: none !important;
+      }
+    }
     ul.footer-links li .social-links a {
       color: $color-ftf-lila;
+
       &:hover {
         i{
           &:before{

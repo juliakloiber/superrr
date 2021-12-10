@@ -81,6 +81,10 @@ PAGE & SECTIONS
   &.expanded{
     width: 90%;
   }
+  &.half {
+    width: 70%;
+    max-width: 1600px;
+  }
 
 }
 

@@ -1,6 +1,6 @@
 ---
 title: "Cami Rincon - Feminist Tech Principles"
-order: 2
+order: 1
 layout: fellow
 img: "/assets/img/static/contributors/1000x1000.png"
 firstname: "Cami"

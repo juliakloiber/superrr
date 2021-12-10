@@ -19,9 +19,9 @@ type: fellows
         </div>
         <div class="section fullwidth bg-white">
             <div class="content-wrap-inner">
-                <div class="contributors-holder">
+                <div class="contributors-holder my-5 py-5">
                     <!-- include contributors -->
-                    {% assign contributors = site.contributors | sort: 'order' %}
+                    {% assign contributors = site.contributors | sort: 'title' %}
                     {% for item in contributors %}
                     {% assign tags = item.tags | join:' ' %}
                     {% assign tags = "" | append:tags %}

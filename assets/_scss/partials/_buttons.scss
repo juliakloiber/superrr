@@ -23,30 +23,19 @@
     }
   }
 
-  &.fellows{
+  &-ftf{
 
     @include transition(all .25s ease);
+
+    font-family: $font-basteleur;
+
     border-width: 2px;
-    border-color:$color-ftf-lila !important;
-    color: $color-ftf-lila !important;
+    border-color:$color-ftf-green !important;
+    color: $color-ftf-lila;
     &:hover{
-
-      /*
-      background-color: $color-ftf-lila;
-      border-color: $color-ftf-lila;
-      color: $white !important;
-      */
-
       border-color:$color-ftf-green !important;
-
-      @include ftf-box-glow(green);
-
-      /*
-      .has-arrow-left {
-        &:before {
-          background-image: url($baseurl + '/assets/img/static/icons/arrow-white.svg');
-        }
-      }*/
+      color: white;
+      @include ftf-text-glow(green);
 
     }
   }

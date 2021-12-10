@@ -3,7 +3,7 @@ title: "Dear newspapers editors"
 order: 3
 layout: vision
 img: "/assets/img/static/batches/ftf.svg"
-vision_img: "/assets/img/static/visions/1000x1000.png"
+teaser_img: "/assets/img/static/visions/1000x1200.png"
 description: 'A feminist tech vision by Camila Nobrega'
 ---
 

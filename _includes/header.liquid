@@ -1,6 +1,6 @@
 <div id="trigger"></div>
 <header class="header-wrap">
-    <div class="header {{ include.page_type }}">
+    <div class="header {{ include.page_type }} {% if include.page_type == 'fellows' %}with-shadow{% endif %}">
         {% if include.page_type == 'fellows' %}
             <a class="logo" href="/feministtech">
                 <div class="logo-inner">

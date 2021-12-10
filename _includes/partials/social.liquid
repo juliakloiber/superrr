@@ -1,12 +1,25 @@
 <div class="row no-margin footer-wrap content-wrap navigation-left-victim w-100">
     <div class="section col-24 padded-top footer background-image-footer {{ include.page_type }} with-shadow">
+        {% if include.page_type == 'fellows' %}
+            <div class="content-wrap-inner shrinked pb-5">
+                <p class="fellows-info-footer text-center">
+                    The Feminist Tech Framework is supported by the program <a href="https://www.bosch-stiftung.de/en/project/support-program-reducing-inequalities-through-intersectional-practice" target="_blank">Reducing Inequalities Through Intersectional Practice</a> of Robert Bosch Stiftung.
+                </p>
+            </div>
+        {% endif %}
         <div class="content-wrap-inner">
             <div class="newsletter-signup-wrap">
-                <h3 class="fontsize-40 text-center pb-2">Stay in touch!<br>Sign up to our newsletter</h3>
+                <h3 class="fontsize-40 text-center pb-5">Stay in touch!<br>Sign up to our newsletter:</h3>
                 <div class="d-flex justify-content-center">
-                    <a class="btn-rounded {{ include.page_type }} fontsize-50" href="{{ site.mailchimp_signup_link }}" target="_blank">
-                        <span class="has-arrow-left {{ include.page_type }}">Subscrrribe!</span>
-                    </a>
+                    {% if include.page_type == 'fellows' %}
+                        <a class="btn-rounded-ftf fontsize-50" href="{{ site.mailchimp_signup_link }}" target="_blank">
+                            Subscrrribe!
+                        </a>
+                    {% else if %}
+                        <a class="btn-rounded orange fontsize-50" href="{{ site.mailchimp_signup_link }}" target="_blank">
+                            <span class="has-arrow-left">Subscrrribe!</span>
+                        </a>
+                    {% endif %}
                 </div>
             </div>
             <ul class="footer-links d-block d-md-flex justify-content-md-around">

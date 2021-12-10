@@ -606,7 +606,8 @@
     *********************/
     Controller.prototype.resize = function(){
         if(!hasLargeHeader){
-            TweenMax.set($pageWrap,{paddingTop: $header.height()+'px'});
+            TweenMax.set($pageWrap,{paddingTop: $header.height()+'px', scrollPaddingTop: $header.height()+'px'});
+            TweenMax.set($('html'),{scrollPaddingTop: ($header.height()+50)+'px'});
         }
         if(ref.viewport().width >= 960){
             $naviToggle.removeClass('gone');

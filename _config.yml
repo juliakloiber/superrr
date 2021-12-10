@@ -67,6 +67,7 @@ collections:
     contributors:
             output: false
             permalink: /feministtech/contributor/:path/
+            sort_by: title
     faqs:
             output: false
             permalink: /feministtech/faqs/:path/

@@ -12,11 +12,11 @@
         <ul class="main-nav fellows font-headline">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
-            <li {% if base_dir[2] == 'about' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/about">About</a></li>
-            <li {% if base_dir[2] == 'deck' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/deck">The Card Decks</a></li>
-            <li {% if base_dir[2] == 'principles' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/principles">The Principles</a></li>
-            <li {% if base_dir[2] == 'visions' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/visions">Visions</a></li>
-            <li {% if base_dir[2] == 'contributors' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/contributors">Contributors</a></li>
+            <li {% if base_dir[2] == 'about' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/about">About</a></li>
+            <li {% if base_dir[2] == 'deck' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/deck">The Card Decks</a></li>
+            <li {% if base_dir[2] == 'principles' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/principles">The Principles</a></li>
+            <li {% if base_dir[2] == 'visions' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/visions">Visions</a></li>
+            <li {% if base_dir[2] == 'contributors' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/contributors">Contributors</a></li>
             <li data-dir="{{ base_dir[2] }}" {% if base_dir[2] == 'fellows' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/fellows">Fellows</a></li>
         </ul>
     </div>

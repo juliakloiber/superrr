@@ -1,10 +1,10 @@
 ---
-title: "Sarah Devi Chander - Feminist Tech Principles"
-order: 6
+title: "Contributor Nr 6 - Feminist Tech Principles"
+order: 4
 layout: fellow
 img: "/assets/img/static/contributors/1000x1000.png"
-firstname: "Sarah Devi"
-lastname: "Chander"
+firstname: "Contributor"
+lastname: "Nr 6"
 gender: "she/her"
 principle_id: "climate-action-and-social-equity-are-linked"
 ---

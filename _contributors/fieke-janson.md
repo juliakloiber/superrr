@@ -1,6 +1,6 @@
 ---
 title: "Fieke-janson - Feminist Tech Principles"
-order: 1
+order: 5
 layout: fellow
 img: "/assets/img/static/contributors/1000x1000.png"
 firstname: "Fieke"

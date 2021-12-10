@@ -2,7 +2,7 @@
     <div class="row">
         <div class="principle-left col-24 col-sm-6">
             {% if item.category %}
-                <div id="{{ item.category }}" class="principle-pill">
+                <div id="{{ item.category | downcase }}" class="principle-pill">
                     <h3>{{ item.category }}</h3>
                 </div>
             {% endif %}
@@ -12,7 +12,9 @@
                 <a href="{{ item.url }}">
                     <h3 class="mb-1">{{ item.title }}</h3>
                 </a>
-                {{ item.description }}
+                <p>
+                    {{ item.description }}
+                </p>
             </div>
         </div>
     </div>
