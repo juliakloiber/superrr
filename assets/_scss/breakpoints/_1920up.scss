@@ -1,3 +1,18 @@
+$fontsize-70: 4.5rem !important;
+
+.project-headline{
+  font-size: $fontsize-70;
+}
+
+.ftf-quote {
+  blockquote {
+    font-size: 2.25rem;
+    span {
+      font-size: 2.25rem;
+    }
+  }
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
@@ -33,12 +48,14 @@ CITY
 *********************/
 
 .batch-wrap{
-  padding: 175px;
-
-  &.fellows{
-    padding: 200px;
+  &.fellows {
+    width: 50%;
+    margin: 0 auto;
+    padding: 150px 0;
+    .batch-svg {
+      width: 50%;
+    }
   }
-
   &.city{
     padding: 50px 50px 0 200px;
   }

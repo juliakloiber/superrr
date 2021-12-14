@@ -1,5 +1,4 @@
 @import 'variables';
-
 .btn-rounded{
   cursor: pointer;
   color:white !important;
@@ -139,7 +138,7 @@
       &:hover{
 
         span{
-          color: $fellow-color;
+          color: white;
         }
 
         &:before{

@@ -3,8 +3,8 @@ FONTSIZES
 *********************/
 
 $fontsize-120: 5vw !important;
-$fontsize-70: 3.5vw !important;
-$fontsize-50: 3.125rem !important;
+$fontsize-70: 4vw !important;
+$fontsize-50: 3rem !important;
 $fontsize-40: 2.5rem !important;
 $fontsize-28: 1.75rem !important;
 $fontsize-24: 1.5rem !important;
@@ -67,6 +67,10 @@ HEADER STYLES
   .logo{
     font-size: 6vw;
   }
+}
+
+.project-headline{
+  font-size: $fontsize-70;
 }
 
 /*********************

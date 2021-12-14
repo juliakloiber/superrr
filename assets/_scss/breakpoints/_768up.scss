@@ -28,7 +28,7 @@ PAGE & SECTIONS
 h1, .h1 {
   font-size: 2.75rem;
 }
-a, p, li {
+a, p, li, h4 {
   font-size: 1.75rem;
 }
 blockquote{
@@ -79,7 +79,6 @@ HOME
   font-size: 1.75rem !important;
   a, p{
     font-size: 1.75rem !important;
-
   }
 }
 
@@ -93,9 +92,29 @@ CITY
 
 
 .batch-wrap{
-  padding: 100px;
   &.city{
     padding: 20px 100px;
+  }
+}
+
+.ftf-quote {
+  margin: 75px 0;
+  @include bordered-box();
+  @include ftf-shadow();
+  blockquote {
+    padding: 20px ;
+    font-size: 1.75rem;
+    span {
+      font-size: 1.75rem;
+    }
+  }
+}
+
+.card-holder {
+  .card {
+    .teaser-card-inner {
+      height: 800px;
+    }
   }
 }
 

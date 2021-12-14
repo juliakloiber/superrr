@@ -3,7 +3,7 @@ title: "Drip - Feminist Tech Fellow"
 order: 1
 layout: fellow
 img: "/assets/img/static/batches/ftf.svg"
-profile_img: "/assets/img/static/batches/drip.svg"
+teaser_img: "/assets/img/static/batches/drip.svg"
 name: "Julia Friesel, Marie Kochsiek & Tina Baumann"
 project: "Drip"
 project_link: 'https://bloodyhealth.gitlab.io/'

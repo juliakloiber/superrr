@@ -1,3 +1,18 @@
+body.feminist-tech {
+  .intro-wrap {
+    padding-top: 100px;
+  }
+}
+
+.ftf-quote {
+  blockquote {
+    font-size: 2rem;
+    span {
+      font-size: 2rem;
+    }
+  }
+}
+
 /*********************
 BLOG
 *********************/
@@ -11,17 +26,23 @@ BLOG
 /*********************
 CITY
 *********************/
-.batch-wrap{
-  padding: 125px;
-  &.fellows{
-    padding: 145px 125px 125px 125px;
+.batch-wrap {
+  &.fellows {
+    width: 50%;
+    margin: 0 auto;
+    padding: 120px 0;
   }
 }
+
 .city-wrap{
   padding: 50px 150px 50px 0px;
 }
 
 .event-info-wrap{
+
+  &.vision {
+    padding-top: 145px;
+  }
 
   width: 70%;
 

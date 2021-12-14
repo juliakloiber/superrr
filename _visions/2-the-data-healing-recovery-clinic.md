@@ -3,7 +3,7 @@ title: "The Data Healing Recovery Clinic"
 order: 2
 layout: vision
 img: "/assets/img/static/batches/ftf.svg"
-teaser_img: "/assets/img/static/visions/1000x1200.png"
+teaser_img: "/assets/img/static/visions/feminist_tech_principles_vision_2.jpg"
 description: 'A feminist tech vision by Neema Githere'
 ---
 

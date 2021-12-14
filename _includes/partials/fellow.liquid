@@ -1,15 +1,14 @@
-<div class="row">
-    <div class="section intro-section left min-fullheight col-24 fellows flex justify-content-center align-items-center">
-        <div class="row fit-to-content-mobile same-height">
-            <div class="col-24 col-md-12 col-lg-10 sticky">
-                <div class="batch-wrap city fellows">
+<div class="d-block w-100">
+    <div class="section fellows {{ include.type }} city-teaser col-24 background-image background-{{ include.index }}">
+        <div class="row city-teaser-wrap">
+            <div class="col-24 col-md-12 order-1">
+                <div class="batch-wrap fellows fade-in">
                     <div class="batch-inner">
-                        <img class="img-responsive" src="{{ site.baseurl }}{{ include.profile_img }}" />
+                        <object class="img-responsive batch-svg d-none d-md-block" data="" data-src="{{ site.baseurl }}{{ page.img }}" type="image/svg+xml" ></object>
+                        <img class="img-responsive" src="{{ site.baseurl }}{{ page.teaser_img }}" />
                     </div>
-                </div>
-                <div class="batch-wrap city fellows">
                     {% if include.members|length > 0 %}
-                        <p class="event-hosts fellows">
+                        <p class="event-hosts fellows mt-3 px-3">
                             {% for member in include.members %}
                                 {% if member.url|length > 0 %}
                                     <a class="" href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% if forloop.last == false %},{% endif %}
@@ -22,16 +21,20 @@
                     {% endif %}
                 </div>
             </div>
-            <div class="col-24 col-md-12 col-lg-10 offset-lg-1">
-                <div class="city-wrap fellows">
-                    <div class="fellow-project-name font-paelzer-grot-medium fade-in">
-                        <div class="fellow-project-name-inner">
-                            {{ include.project }}
-                        </div>
-                    </div>
-                    <div class="event-content fellows fade-in">
-                        {{ content }}
-                    </div>
+            <div class="col-24 col-md-12 order-2 fade-in">
+                <div class="single-text-content">
+                    <h1 class="fellow-name color-ftf-lila mt-4 mt-md-0 mb-1 text-center text-md-left">
+                        {{ page.title }}
+                    </h1>
+                    <p class="fontsize-22 fellow-content mb-5 text-center text-md-left">
+                        {{ page.description }}
+                    </p>
+                    <p class="fontsize-22 d-none d-md-block text-left">
+                        {{ page.content }}
+                    <h3>
+                        <a href="{{ page.project_link }}" target="_blank">{{ page.project }}</a>
+                    </h3>
+                    </p>
                     <div class="pagination">
 
                         {% capture the_collection %}{{ page.collection }}{% endcapture %}
@@ -59,8 +62,6 @@
                         {% if nexturl %}<a class="next" href="{{ nexturl }}">Next</a>{% endif %}
 
                     </div>
-
-
                 </div>
             </div>
         </div>

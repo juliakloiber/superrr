@@ -1,30 +1,29 @@
 <div class="d-block w-100">
     <div class="section fellows {{ include.type }} city-teaser col-24 background-image background-{{ include.index }}">
-        <div class="row city-teaser-wrap">
-            <div class="col-24 col-md-11 offset-md-1 order-1">
-                <div class="batch-wrap fellows fade-in">
+        <div class="row city-teaser-wrap fade-in">
+            <div class="col-24 col-md-12 order-1">
+                <div class="batch-wrap fellows">
                     <div class="batch-inner">
-                        <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" ></object>
-                        <img class="img-responsive" src="{{ site.baseurl }}{{ include.profile_img }}" />
+                        <object class="img-responsive batch-svg d-none d-md-block" data="" data-src="{{ site.baseurl }}{{ item.img }}" type="image/svg+xml" ></object>
+                        <img class="img-responsive" src="{{ site.baseurl }}{{ item.teaser_img }}" />
                     </div>
                 </div>
             </div>
-            <div class="col-24 col-md-11 order-2">
+            <div class="col-24 col-md-12 order-2 fade-in">
                 <div class="event-info-wrap">
-                    <h3 class="fellow-name color-ftf-lila fade-in">
-                        {{ include.name }}
-                    </h3>
-                    <div class="fellow-link fade-in">
-                        <a href="{{ include.project_link }}" target="_blank">{{ include.project }}</a>
+                    <h1 class="fellow-name color-ftf-lila mt-4 mt-md-0 mb-3">
+                        {{ item.name }}
+                    </h1>
+                    <div class="fellow-link">
+                        <a href="{{ item.project_link }}" target="_blank">{{ item.project }}</a>
                     </div>
-                    <p class="fellow-content fade-in">
+                    <p class="fontsize-22 fellow-content mb-5">
                         {{ item.description }}
                     </p>
-                    {% if include.deeplink != "false" %}
-                        <a class="event-link more-btn fellow fade-in" href="{{ site.baseurl }}/{{ item.link }}">
-                            <span class="more-btn-inner"><span>Rrread more!</span></span>
-                        </a>
-                    {% endif %}
+                    <p class="fontsize-22 d-none d-md-block">{{ item.content | markdownify | strip_html | truncatewords: 50 }}</p>
+                    <div class="mt-5 d-flex justify-content-center justify-content-md-start">
+                        {% include partials/ftf-pill.liquid text='Rrread more!' href=item.url %}
+                    </div>
                 </div>
             </div>
         </div>

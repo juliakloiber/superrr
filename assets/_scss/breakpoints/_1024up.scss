@@ -1,3 +1,11 @@
+$fontsize-70: 3rem !important;
+
+body.feminist-tech {
+  .intro-wrap {
+    padding-top: 75px;
+  }
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
@@ -16,6 +24,12 @@ LAYOUT & GRID STYLES
 .intro-wrap{
   padding-top: 150px;
 }
+.intro-text a, .intro-text p {
+  font-size: 1.5rem !important;
+}
+a, p, li, h4 {
+  font-size: 1.5rem;
+}
 .text-content{
   padding-bottom: 100px;
   &:last-of-type{
@@ -32,11 +46,11 @@ H1, H2, H3, H4, H5 STYLES
 ******************************************************************/
 
 h1, .h1 {
-  font-size: 3.5rem;
+  font-size: 3.25rem;
 }
 
 h2, .h2 {
-  font-size: 3rem;
+  font-size: 2.75rem;
 }
 
 h3, .h3 {
@@ -81,6 +95,10 @@ h6, .h6 {
 
 }
 
+.ftf-quote {
+  margin: 100px 0;
+}
+
 /*********************
 HEADER STYLES
 *********************/
@@ -88,6 +106,15 @@ HEADER STYLES
   &.frontpage {
     .logo-inner {
       padding-left: 3vw;
+    }
+  }
+}
+
+.ftf-quote {
+  blockquote {
+    font-size: 1.75rem;
+    span {
+      font-size: 1.75rem;
     }
   }
 }
@@ -126,16 +153,27 @@ CITY
     }
   }
 }
+
+.single-text-content {
+  width: 70%;
+  margin: 30% 0 100px 0;
+}
+
 .batch-wrap{
-  padding: 0px 50px 50px 50px;
   &.city{
     padding: 70px 50px 0 50px;
   }
+
   &.fellows {
+
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px 0;
+
     .batch-svg {
       position: absolute;
       z-index: 2;
-      width: 25%;
+      width: 50%;
       transform: translate(50%, -50%);
       right: 0;
       left:auto;
@@ -203,6 +241,10 @@ LAYOUT & GRID STYLES
   height:100vh;
 }
 
+.project-headline{
+  font-size: $fontsize-70;
+}
+
 .projects-wrap {
   .project-teaser {
     margin-bottom: 150px;
@@ -231,7 +273,9 @@ CITY
 *********************/
 
 .event-info-wrap {
-
+  &.vision {
+    position: relative;
+  }
 }
 .event-date{
   font-size: 4rem;
@@ -292,5 +336,16 @@ FOOTER STYLES
 .ftf-wrap{
   .content-wrap{
     width: 800px;
+  }
+}
+
+.card-holder {
+  .card {
+    .teaser-card-inner {
+      height: 538px;
+      .teaser-card-image {
+        background-size: contain;
+      }
+    }
   }
 }

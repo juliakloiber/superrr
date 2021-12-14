@@ -20,23 +20,19 @@
             <div class="content-wrap navigation-left-victim">
                 <div class="section fullwidth home-hero padded bg-white mobile-padded">
                     <div class="content-wrap-inner shrinked intro-wrap">
-                        <h1 class="project-headline margin-bottom-100">{{ page.title }}</h1>
+                        <h1 class="mb-5">{{ page.title }}</h1>
                     </div>
                     <div class="content-wrap-inner">
-                        <div class="row">
-                            <div class="col-24 col-md-12">
-                                <div class="text-wrap">
-                                    <h3>{{ page.order }}</h3>
-                                    <p>{{ page.description }}</p>
-                                </div>
-                            </div>
-                            <div class="col-24 col-md-12">
-                                <div class="text-wrap">
-                                    {{ content }}
-                                </div>
-                            </div>
+                        <div data-order="{{ page.order }}" class="ftf-quote">
+                            <blockquote>
+                                {{ page.description }}
+                            </blockquote>
                         </div>
-
+                    </div>
+                    <div class="content-wrap-inner shrinked">
+                        <div class="text-wrap">
+                            {{ content }}
+                        </div>
                     </div>
                 </div>
             </div>

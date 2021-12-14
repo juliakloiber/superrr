@@ -143,15 +143,22 @@ probably best not to use it. I mean, were you going to anyway? */
     text-shadow: 0 0 10px rgba($color-ftf-red,1), 0 0 30px rgba($color-ftf-red,0.75);;
 
   }
-
-
 }
 
 @mixin bordered-box() {
   background-color: white;
   border-radius: 30px;
-  padding: 3rem;
+  padding: 2rem 1rem;
   display: block;
+  @include media-breakpoint-up(md) {
+    padding: 3rem;
+  }
+}
+
+@mixin ftf-shadow() {
+  -webkit-box-shadow: 0px 0px 20px -4px rgba(185,255,79,0.9);
+  box-shadow: 0px 0px 20px -4px rgba(185,255,79,0.9);
+  z-index: 1;
 }
 
 @mixin circle-link($color : $third-color, $width : 1px) {
@@ -183,5 +190,12 @@ probably best not to use it. I mean, were you going to anyway? */
     transform: translate(-50%,-50%);
     z-index: -1;
   }
+}
+
+
+@mixin ftf-shadow {
+  -webkit-box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
+  box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
+  z-index: 1;
 }
 

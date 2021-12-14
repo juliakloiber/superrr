@@ -10,8 +10,8 @@ type: fellows
 
     <div class="content-wrap mb-0 navigation-left-victim">
         <div class="section col-24 home">
-            <div class="intro-wrap text-wrap content-block fade-in">
-                <div class="content-wrap-inner shrinked intro-wrap">
+            <div class="intro-wrap text-wrap content-block">
+                <div class="content-wrap-inner shrinked">
                     <h1>The Feminist Tech Visions</h1>
                     <div>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500.</p>
@@ -20,15 +20,19 @@ type: fellows
             </div>
         </div>
 
-        <!-- include fellows -->
+        <!-- include visions -->
         {% assign visions = site.visions | sort: 'order' %}
+        {% assign index = 0 %}
         {% for item in visions %}
-        {% assign index = forloop.index0 %}
         {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
         {% include sections/vision-teaser-left.liquid type="left" item=item index=index %}
         {% else %}
         {% include sections/vision-teaser-left.liquid type="right" item=item index=index %}
+        {% endif %}
+        {% assign index = index | plus: 1 %}
+        {% if index == 3 %}
+            {% assign index = 0 %}
         {% endif %}
         {% endfor %}
 

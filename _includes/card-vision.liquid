@@ -2,10 +2,10 @@
     <div class="teaser-card-inner d-flex">
         <div class="row m-0 w-100">
             {% if post.teaser_img.size > 0 %}
-                <div class="teaser-card-image col-24 col-md-12 order-1 pr-3">
+                <div class="teaser-card-image col-24 col-md-10 order-1 pr-3">
                     <img src="{{ post.teaser_img }}" alt="{{ post.title }}"/>
                 </div>
-                <div class="teaser-card-text col-24 col-md-12 order-2 with-shadow">
+                <div class="teaser-card-text col-24 col-md-14 order-2 with-shadow">
                     <h3 class="fontsize-40 mb-1">{{ post.title }}</h3>
                     <p class="fontsize-22 d-none d-md-block mb-5">{{ post.description }}</p>
                     <p class="fontsize-22 d-none d-md-block">{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
@@ -17,6 +17,7 @@
                 <div class="col-xs-24 teaser-card-text with-shadow">
                     <h3 class="fontsize-40 mb-1">{{ post.title }}</h3>
                     <p class="fontsize-22 mb-5">{{ post.description }}</p>
+                    <p class="fontsize-22 d-none d-md-block">{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
                     <div class="mt-5 d-flex">
                         {% include partials/ftf-pill.liquid text='Rrread more!' href=post.url %}
                     </div>

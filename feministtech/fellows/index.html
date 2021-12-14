@@ -30,19 +30,19 @@ type: fellows
         </div>
 
         <!-- include fellows -->
-        {% assign fellow = site.fellows | sort: 'order' %}
-        {% for item in fellow %}
-        {% assign tags = item.tags | join:' ' %}
-        {% assign tags = "" | append:tags %}
-        {% assign index = forloop.index0 %}
-
+        {% assign fellows = site.fellows | sort: 'order' %}
+        {% assign index = 0 %}
+        {% for item in fellows %}
         {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-        {% include sections/fellow-teaser-left.liquid type="left" index=index name=item.name project=item.project project_link=item.project_link teaser_text=item.teaser_text tags=tags deeplink=item.deeplink event_date=item.event_date img=item.img profile_img=item.profile_img link=item.link city=item.city date=item.date %}
+        {% include sections/fellow-teaser-left.liquid type="left" item=item index=index %}
         {% else %}
-        {% include sections/fellow-teaser-left.liquid type="right" index=index name=item.name project=item.project project_link=item.project_link teaser_text=item.teaser_text tags=tags deeplink=item.deeplink event_date=item.event_date img=item.img profile_img=item.profile_img link=item.link city=item.city date=item.date %}
+        {% include sections/fellow-teaser-left.liquid type="right" item=item index=index %}
         {% endif %}
-        <!--<div class="section fellows fellow-spacer background-image background-1"></div>-->
+        {% assign index = index | plus: 1 %}
+        {% if index == 3 %}
+        {% assign index = 0 %}
+        {% endif %}
         {% endfor %}
 
         <div class="content-wrap text-wrap intro-wrap content-block fade-in mt-5 mb-0">

@@ -29,7 +29,7 @@ LAYOUT & GRID STYLES
 PAGE & SECTIONS
 *********************/
 
-a, p, li {
+a, p, li, h4 {
   font-size: 1.5rem;
 }
 
@@ -56,6 +56,9 @@ FELLOWS
 }
 
 .batch-wrap {
+  &.city.fellows {
+    padding: 60px 0px 0 60px;
+  }
   &.fellows {
     .batch-svg {
       width: 40%;
@@ -76,7 +79,16 @@ CITY
 *********************/
 
 .batch-wrap{
-  padding: 100px;
+
+  &.fellows {
+    width: 50%;
+    margin: 0 auto;
+    padding: 90px 0;+
+    .batch-svg {
+      width: 33%;
+    }
+  }
+
   &.city{
     padding: 50px 0 0 100px;
   }

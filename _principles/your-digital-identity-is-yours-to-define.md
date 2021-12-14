@@ -1,11 +1,11 @@
 ---
-title: "Climate action and social equity are linked"
-order: 1
-category: Global
-anchor: global
+title: "Your (digital) identity is yours to define"
+order: 11
+category: The Self
+anchor: "the-self"
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Moving away from tech as an easy answer towards questioning what we are optimizing for. The current system is optimized for a political and economic model where gains are privatized in the hands of a few and harms are socialized on people and the planet. To optimize for a feminist future that centers around equality and sustainability, it is crucial to understand that climate action, historical and current colonial structures, and social equity are linked."
+description: 'Our identities are not static. This must also be reflected in the digital realm. We need mechanisms that allow for digital identities to be fluid, that can change over time, and embrace non-binary concepts. Self-determination must be at the core of digital identity.'
 ---
 
 # Fieke Jansen

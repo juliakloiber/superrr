@@ -20,13 +20,18 @@ type: fellows
             </div>
         </div>
         <div class="section fullwidth bg-white">
-            <div class="content-wrap-inner">
+            <div class="content-wrap-inner shrinked">
                 <div class="principles-holder mt-5 pt-5">
                     <!-- include principles -->
                     {% assign principles = site.principles | sort: 'order' %}
-                    {% for item in principles %}
-                    {% include sections/principle-teaser.liquid item=item %}
-                    {% endfor %}
+                    <div id="accordion" class="accordion">
+                        {% for item in principles %}
+                            {% if item.category %}
+                                <h3 id="{{ item.anchor }}" class="principles-headline color-ftf-red text-center">{{ item.category }}</h3>
+                            {% endif %}
+                            {% include sections/principle-teaser.liquid item=item %}
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>

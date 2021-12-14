@@ -1,11 +1,9 @@
 ---
-title: "Climate action and social equity are linked"
-order: 1
-category: Global
-anchor: global
+title: "Technology's founding narratives need to be demystified."
+order: 7
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Moving away from tech as an easy answer towards questioning what we are optimizing for. The current system is optimized for a political and economic model where gains are privatized in the hands of a few and harms are socialized on people and the planet. To optimize for a feminist future that centers around equality and sustainability, it is crucial to understand that climate action, historical and current colonial structures, and social equity are linked."
+description: 'Previous work, concepts, and ideas that new digital technology is being built upon have to be credited. Name, acknowledge, and share: "The first unavoidable step into a feminist internet is the act of naming all creators, inventors that nurture the infrastructure and the code."'
 ---
 
 # Fieke Jansen

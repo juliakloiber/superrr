@@ -3,7 +3,7 @@ title: "Cognimates - Feminist Tech Fellow"
 order: 3
 layout: fellow
 img: "/assets/img/static/batches/ftf.svg"
-profile_img: "/assets/img/static/batches/sarah.svg"
+teaser_img: "/assets/img/static/batches/sarah.svg"
 name: "Sarah T. Vu"
 project: "Cognimates"
 project_link: "https://mitmedialab.github.io/cognimates-website/about/"

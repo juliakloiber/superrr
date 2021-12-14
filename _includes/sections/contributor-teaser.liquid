@@ -1,15 +1,15 @@
-<div class="col-24 contributor with-fade-in mb-5 pb-5">
+<div class="col-24 contributor with-fade-in mb-5 pb-sm-5">
     <div class="contributor-inner with-shadow">
-        <h3 class="contributor-title">{{ item.firstname }} {{ item.lastname }} <span class="contributor-gender">({{ item.gender }})</span></h3>
         <div class="row">
-            <div class="contributor-image col-24 col-sm-6">
+            <div class="contributor-image col-24 col-sm-8 col-md-6">
                 <img class="img-responsive" src="{{ site.baseurl }}{{ item.img }}" />
             </div>
-            <div class="contributor-content col-24 col-sm-18 pl-sm-4">
+            <div class="contributor-content col-24 col-sm-16 col-md-18 pl-sm-4">
+                <h3 class="contributor-title text-center text-sm-left my-5 mt-sm-0 mb-sm-2">{{ item.firstname }} {{ item.lastname }} <span class="contributor-gender font-regular fontsize-22 d-block d-sm-inline">({{ item.gender }})</span></h3>
                 {{ item.content }}
-                <div class="mt-5 d-flex">
+                <div class="mt-5 d-flex text-center text-sm-left">
                     {% assign link = "Go to " | append: item.firstname | append: "'s contribution" %}
-                    {% assign href = site.baseurl | "/feministtech/principle/" | append: item.principle_id %}
+                    {% assign href = site.baseurl | append: "/feministtech/principle/" | append: item.principle_id %}
                     {% include partials/ftf-pill.liquid text=link href=href %}
                 </div>
             </div>

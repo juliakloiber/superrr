@@ -16,8 +16,8 @@ FONTSIZES
 *********************/
 
 $fontsize-120: 3.75rem !important;
-$fontsize-70: 3rem !important;
-$fontsize-50: 1.75rem !important;
+$fontsize-70: 2.5rem !important;
+$fontsize-50: 2rem !important;
 $fontsize-40: 1.75rem !important;
 $fontsize-28: 1.75rem !important;
 $fontsize-24: 1.5rem !important;
@@ -75,7 +75,28 @@ END FONTSIZES
 
 body.feminist-tech {
 
+  .intro-wrap {
+    padding-top: 25px;
+    h1{
+      text-align: center;
+    }
+    p {
+      text-align: center;
+      &:last-of-type {
+        /*margin-bottom: 0;*/
+      }
+    }
+  }
+
   color: $color-ftf-lila;
+
+  .fellow-name {
+    color: $color-ftf-lila;
+  }
+
+  .teaser-card-image img {
+    border-radius: 1.5rem !important;
+  }
 
   .page-wrap ul li:before {
     background-image: url($baseurl + "/assets/img/static/icons/arrow-red.svg");
@@ -85,9 +106,29 @@ body.feminist-tech {
       background-image: url($baseurl + "/assets/img/static/icons/arrow-red.svg");
     }
   }
+  .fellow-link a, .more-btn {
+    &:after {
+      display: none !important;
+    }
+  }
+
+  .with-shadow {
+    @include ftf-shadow();
+    &.grey{
+      -webkit-box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
+      box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
+      z-index: 1;
+    }
+  }
+
+  .btn-link {
+    color: $color-ftf-lila;
+  }
 
   .content-wrap {
     a{
+
+      line-height: 1;
       color: $color-ftf-lila;
 
       @include circle-link($color-ftf-green, 2px);
@@ -100,15 +141,6 @@ body.feminist-tech {
 
     }
     margin-bottom: 100px;
-  }
-
-  .intro-wrap {
-    h1{
-      text-align: center;
-    }
-    p {
-      text-align: center;
-    }
   }
 
   .text-wrap a {
@@ -134,6 +166,39 @@ body.feminist-tech {
     background: $color-ftf-lila;
     color: white;
   }
+}
+
+.accordion {
+  .card {
+    border: 0;
+    background-color: white;
+    border-radius: 30px;
+    padding: 1rem;
+    display: block;
+    margin-bottom: 2rem;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .card-header {
+      border-bottom-width: 0;
+      background-color: transparent;
+    }
+
+    .card-body{
+      p:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+
+    .btn-link {
+      padding: 0;
+      text-decoration: none !important;
+    }
+
+  }
+
 }
 
 /*********************
@@ -244,6 +309,12 @@ LAYOUT & GRID STYLES
 
   &.image {
     padding-bottom: 75px;
+    margin: 0 auto;
+
+    .content-wrap-inner {
+      width: 100%;
+    }
+
   }
 
   &.mobile-padded{
@@ -251,12 +322,16 @@ LAYOUT & GRID STYLES
     padding-top: 75px !important;
   }
 
-  &.padded{
+  &.padded {
     padding: 75px 0;
   }
 
-  &.padded-top{
+  &.padded-top {
     padding: 75px 0 0 0;
+  }
+
+  &.padded-bottom {
+    padding: 0 0 75px 0;
   }
 
   &.padded-organisations{
@@ -499,7 +574,7 @@ h5, .h5 {
 /*********************
 *********************/
 
-a, p, li {
+a, p, li, h4 {
   font-size: 1.25rem;
 }
 blockquote{
@@ -924,7 +999,7 @@ MAIN NAV
   left: 320px;
   padding-left: 1rem;
   cursor: pointer;
-  background-color: white;
+  background-color: transparent;
   width: 100%;
 
 
@@ -1142,9 +1217,9 @@ a.bg-hover{
       margin: 0 auto;
 
       .teaser-card-image{
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
-        padding-top: 113%;
+        padding-top: 80%;
       }
       .teaser-card-text{
         padding: 25px;
@@ -1456,14 +1531,10 @@ FELLOW TEASER
 .fellow-project-name{
 
   .fellow-project-name-inner{
-    background-color: #ff4100;
     line-height: 1.5em;
     display: inline;
-    padding: 0 10px;
   }
 
-
-  color: black;
   font-size: 2.25rem;
   margin-bottom: 50px;
   font-family: $font-paelzer-grot-medium;
@@ -1490,8 +1561,7 @@ FELLOW TEASER
   a{
     color: black;
     background-color: $link-background-hover;
-    text-transform: uppercase;
-    padding: 4px 10px 4px 10px;
+    padding: 0;
 
     &:hover{
       text-decoration: none;
@@ -1544,36 +1614,38 @@ CITY/FELLOW
       .batch-svg{
         transform: translate(-50%,-50%);
         left: 50%;
-        top:-15%;
+        top:-23%;
       }
     }
   }
 }
 .batch-wrap{
-  padding: 40px;
   &.city{
     padding: 20px;
   }
   &.fellows{
-    padding-bottom:10px;
+
+    padding: 100px 20px 30px 20px;
+
     .batch-svg{
       position: absolute;
       z-index: 2;
       width: 40%;
       transform: translate(-50%,-50%);
       left:50%;
-      top:-15%;
+      top:-23%;
     }
     img{
       position: relative;
       z-index: 1;
+      border-radius: 3rem;
+      overflow: hidden;
     }
   }
 }
 .event-info-wrap{
   position: relative;
-  text-align: center;
-  padding: 0 20px 70px 20px;
+  padding: 0 20px 100px 20px;
 }
 
 .event-intro{
@@ -1608,12 +1680,7 @@ CITY/FELLOW
     font-family: $font-paelzer-grot-medium;
 
     a{
-      padding: 2px;
-      @include transition(background-color .1s ease-out);
-      background-color: $link-background-hover;
-
       &:hover{
-        background-color: $link-background-hover;
         @include custom-cursor-hover();
       }
     }
@@ -1655,6 +1722,7 @@ CITY/FELLOW
   text-align: center;
   &.fellows{
     text-align: left;
+    padding: 0 !important;
   }
 }
 
@@ -1720,9 +1788,17 @@ CONTRIBUTORS
 PRINCIPLES
 *********************/
 
+.principles-headline {
+  padding: 3rem 0 1.5rem 0;
+  &:first-of-type {
+    padding-top: 1.5rem;
+  }
+}
+
 .principle-info-box {
+  margin-top: 75px;
   @include bordered-box();
-  @include ftf-box-glow();
+  @include ftf-shadow();
 }
 
 /*********************
@@ -1730,16 +1806,15 @@ FTF ABOUT
 *********************/
 
 .ftf-quote {
-  margin: 100px 0;
-  @include bordered-box();
+  margin: 75px 0;
   blockquote {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0;
     font-family: $font-basteleur;
     color: $color-ftf-red;
-    font-size: 2.75rem;
+    font-size: 1.25rem;
+    text-align: left;
     span {
-      font-size: 1.5rem;
+      font-size: 1.25rem;
       margin-top: 1.5rem;
       display: block;
     }
@@ -2059,6 +2134,12 @@ FOOTER STYLES
   position: relative;
   animation: marquee 120s linear infinite;
   display: block;
+}
+
+.btn {
+  font-size: unset;
+  text-align: left;
+  white-space: initial;
 }
 
 @keyframes marquee {

@@ -1,5 +1,5 @@
 ---
-title: How can one contribute or make suggestions?
+title: How are the principles interconnected? How are they distinguished?
 order: 5
 ---
 We are currently exploring how to make working on the principles as accessible as possible. One possible format will be online/offline collective writing and discussion workshops.

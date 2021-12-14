@@ -2,6 +2,7 @@
 title: "Healing and empowerment instead of profit maximization and tech-solutionism"
 order: 4
 category: Societal
+anchor: societal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
 description: "Current algorithmic decision-making systems, and facial recognition tools used by governments and industries obscure and reinforce already existing injustices. Instead of creating safer spaces for discourse and exchange, Social Media networks capitalize on trauma and hate speech. The platforms surveil, control, and radicalize their users. To ensure collective and individual well-being and the possibility to thrive technologies must center around the needs of communities and democracies rather than putting profit maximization above all."
