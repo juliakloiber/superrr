@@ -2,7 +2,7 @@
 title: "Metaverses and Borderlands"
 order: 5
 layout: vision
-img: "/assets/img/static/batches/ftf.svg"
+img: "/assets/img/static/batches/vision.svg"
 teaser_img: "/assets/img/static/visions/feminist_tech_principles_vision_5.jpg"
 description: 'A feminist tech vision by Buse Çetin'
 ---
