@@ -19,7 +19,7 @@
             {% include partials/navigation-left-ftf.liquid %}
             <div class="content-wrap navigation-left-victim">
                 <div class="section fullwidth home-hero padded bg-white mobile-padded">
-                    <div class="content-wrap-inner intro-wrap">
+                    <div class="content-wrap-inner intro-wrap shrinked">
                         <h1 class="mb-5">{{ page.title }}</h1>
                     </div>
                     <div class="content-wrap-inner">
@@ -32,6 +32,33 @@
                     <div class="content-wrap-inner shrinked">
                         <div class="text-wrap">
                             {{ content }}
+                        </div>
+                        <div class="pagination">
+
+                            {% capture the_collection %}{{ page.collection }}{% endcapture %}
+
+                            {% if page.collection %}
+                                {% assign document = site[the_collection] %}
+                            {% endif %}
+
+                            {% for links in document %}
+                                {% if links.title == page.title %}
+                                    {% unless forloop.first %}
+                                    {% assign prevurl = prev.url %}
+                                    {% assign prevtitle = prev.title %}
+                                    {% endunless %}
+                                    {% unless forloop.last %}
+                                    {% assign next = document[forloop.index] %}
+                                    {% assign nexttitle = next.title %}
+                                    {% assign nexturl = next.url %}
+                                    {% endunless %}
+                                {% endif %}
+                                {% assign prev = links %}
+                            {% endfor %}
+
+                            {% if prevurl %}<a class="previous" href="{{ prevurl }}">Previous</a>{% endif %}
+                            {% if nexturl %}<a class="next" href="{{ nexturl }}">Next</a>{% endif %}
+
                         </div>
                     </div>
                 </div>

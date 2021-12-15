@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: 'Previous work, concepts, and ideas that new digital technology is being built upon have to be credited. Name, acknowledge, and share: "The first unavoidable step into a feminist internet is the act of naming all creators, inventors that nurture the infrastructure and the code."'
 ---
 
-# Fieke Jansen
+### Fieke Jansen
 
 » The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
 

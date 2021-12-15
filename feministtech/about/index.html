@@ -9,7 +9,7 @@ type: fellows
     {% include partials/navigation-left-ftf.liquid %}
 
     <div class="content-wrap navigation-left-victim">
-        <div class="section fullwidth bg-white">
+        <div class="section fullwidth bg-white mobile-padded">
             <div class="content-wrap-inner shrinked intro-wrap">
                 <h1>About the Feminist Tech Framework</h1>
                 <div class="intro-text">
@@ -56,7 +56,7 @@ type: fellows
                                 <div class="card-header" id="heading{{ forloop.index0 }}">
                                     <h4 class="mb-0">
                                         <button class="btn btn-link" data-toggle="collapse" data-target="#collapse{{ forloop.index0 }}" aria-expanded="true" aria-controls="collapse{{ forloop.index0 }}">
-                                            {{ item.title }}
+                                            <p class="m-0 p-0">{{ item.title }}</p>
                                         </button>
                                     </h4>
                                 </div>
