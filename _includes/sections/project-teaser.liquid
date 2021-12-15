@@ -1,6 +1,6 @@
 <div class="col-24 project-teaser fade-in">
     <h3 class="h1">{{ include.title }}</h3>
-    <img class="img-responsive project-image" src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" />
+    <img class="img-responsive project-image lazyload" data-src="{{ site.baseurl }}{{ include.img }}" type="image/svg+xml" />
     <p class="project-text">{{ include.description }}</p>
     <div class="more-btn-wrap">
         <a href="{% if include.external_link.size > 0 %}{{ include.external_link }}{% else %}{{ include.link }}{% endif %}" class="event-link more-btn  fade-in animated fadeInUp full-visible">

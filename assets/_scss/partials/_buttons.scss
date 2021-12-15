@@ -8,7 +8,7 @@
 
   &.orange{
     border-color:$third-color !important;
-    &:hover{
+    &:hover, .current {
       background-color: $third-color;
       border-color: $third-color;
     }
@@ -16,7 +16,7 @@
 
   &.lab{
     border-color:$third-color !important;
-    &:hover{
+    &:hover, .current {
       background-color: $third-color;
       border-color: $third-color;
     }

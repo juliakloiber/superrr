@@ -2,7 +2,7 @@
     <div class="contributor-small-inner p-4">
         <a class="contributor-link" href="{{ site.baseurl }}/feministtech/principle/{{ item.principle_id }}">
             <div class="contributor-image with-shadow">
-                <img class="img-responsive" src="{{ site.baseurl }}{{ item.img }}" />
+                <img class="img-responsive lazyload" data-src="{{ site.baseurl }}{{ item.img }}" />
             </div>
             <p class="contributor-title mb-0 font-basteleur text-center mt-3">{{ item.firstname }} {{ item.lastname }}</p>
         </a>

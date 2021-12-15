@@ -1,3 +1,31 @@
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1 {
+  font-size: 4vw;
+}
+
+h2, .h2 {
+  font-size: 3.75vw;
+}
+
+h3, .h3 {
+  font-size: 3.5vw;
+}
+
+h4, .h4 {
+  font-size: 3.25vw;
+}
+
+h5, .h5 {
+  font-size: 3vw;
+}
+
+h6, .h6 {
+  font-size: 1rem;
+}
+
 body.feminist-tech {
   .intro-wrap {
     padding-top: 100px;

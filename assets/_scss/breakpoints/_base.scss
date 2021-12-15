@@ -76,7 +76,7 @@ END FONTSIZES
 body.feminist-tech {
 
   .intro-wrap {
-    padding-top: 25px;
+    padding-top: 80px;
     h1{
       text-align: center;
     }
@@ -968,7 +968,7 @@ MAIN NAV
           pointer-events: none;
 
           &:after{
-            @include circle-link();
+           /*@include circle-link();*/
           }
         }
       }
@@ -1208,7 +1208,7 @@ a.bg-hover{
 
     .teaser-card-inner{
 
-      height: 538px;
+      height: 600px;
       display:block;
       background-color: white;
       position: relative;
@@ -1219,7 +1219,8 @@ a.bg-hover{
       .teaser-card-image{
         background-size: cover;
         background-repeat: no-repeat;
-        padding-top: 80%;
+        padding-top: 0%;
+        padding-bottom: 2rem;
       }
       .teaser-card-text{
         padding: 25px;
@@ -1821,7 +1822,7 @@ FTF ABOUT
   }
 }
 .faq-holder {
-  padding: 50px 0;
+  padding: 50px 0 0 0;
 }
 
 /*********************
@@ -2132,7 +2133,7 @@ FOOTER STYLES
 
 .marquee {
   position: relative;
-  animation: marquee 120s linear infinite;
+  animation: marquee 240s linear infinite;
   display: block;
 }
 

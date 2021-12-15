@@ -95,8 +95,10 @@ $main-column-width: 956px;
     margin-right: 54px;
 
     .teaser-card-inner{
+      height: 538px;
       .teaser-card-image{
         padding-top: 0;
+        padding-bottom: 0;
       }
       .teaser-card-text{
         padding: 50px 40px;

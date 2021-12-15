@@ -155,11 +155,31 @@ input:-webkit-autofill {
   margin: 0;
 }
 
+.main-nav {
+  .current {
+    .rounded-hover {
+      &:after{
+        content: '';
+        display: inline-block;
+        width: 110%;
+        height: 100%;
+        position: absolute;
+        border: 1px solid $third-color;
+        top: 0;
+        border-radius: 50%;
+        left: 50%;
+        z-index: -1;
+        transform: translateX(-50%);
+      }
+    }
+  }
+}
+
 .rounded-hover{
   position: relative;
   display: inline-block;
 
-  &:hover{
+  &:hover {
     &:after{
       content: '';
       display: inline-block;
@@ -231,6 +251,15 @@ input:-webkit-autofill {
     }
   }
 
+}
+
+.lazyload, .lazyloading {
+  opacity: 0;
+  @include transition(opacity 1s ease);
+}
+.lazyloaded {
+  opacity: 1;
+  @include transition(opacity 1s ease);
 }
 
 .with-shadow{

@@ -6,10 +6,10 @@
                     <img src="{{ post.teaser_img }}" alt="{{ post.title }}"/>
                 </div>
                 <div class="teaser-card-text col-24 col-md-14 order-2 with-shadow">
-                    <h3 class="fontsize-40 mb-1">{{ post.title }}</h3>
+                    <h3 class="fontsize-40 mb-1 text-center text-md-left">{{ post.title }}</h3>
                     <p class="fontsize-22 d-none d-md-block mb-5">{{ post.description }}</p>
                     <p class="fontsize-22 d-none d-md-block">{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
-                    <div class="mt-5 d-flex">
+                    <div class="mt-5 d-flex justify-content-center justify-content-md-start">
                         {% include partials/ftf-pill.liquid text='Rrread more!' href=post.url %}
                     </div>
                 </div>
