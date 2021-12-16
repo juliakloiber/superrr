@@ -1624,8 +1624,12 @@ CITY/FELLOW
 }
 .batch-wrap{
   &.city{
-    padding: 20px;
+    .batch-inner {
+      padding: 20%;
+    }
+
   }
+
   &.fellows{
 
     padding: 100px 20px 30px 20px;
@@ -1649,6 +1653,8 @@ CITY/FELLOW
 .event-info-wrap{
   position: relative;
   padding: 0 20px 100px 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 .event-intro{
@@ -1671,6 +1677,7 @@ CITY/FELLOW
 .event-link{
   display: inline-block;
   line-height: 1;
+  margin: 0 auto;
 }
 
 .fellow-spacer{

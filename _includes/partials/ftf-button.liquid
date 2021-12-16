@@ -1,5 +1,5 @@
 <div class="d-flex justify-content-center my-3 py-3 my-sm-5 py-sm-5">
-    <a class="btn-rounded-ftf fontsize-50" href="{{ include.href }}">
+    <a class="btn-rounded-ftf fontsize-50" {% if include.target %}target="{{ include.target }}"{% endif %} href="{{ include.href }}">
         {{ include.text }}
     </a>
 </div>

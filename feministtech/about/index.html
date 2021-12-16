@@ -38,7 +38,8 @@ type: fellows
                     Current digitization narratives are economic in nature and serve the interests of corporations over the needs of societies and minorities. By contrast, feminist tech policy takes a holistic view to examine digitization in terms of intersectional patterns of discrimination. Our work takes a feminist approach in order to think and see beyond existing stories and borders. We question current innovation narratives and discuss the value of maintenance, accessibility, openness, and care for the digital society of the future.
                 </p>
 
-                {% include partials/ftf-button.liquid text="Download the deck" href="/feministtech/principles" %}
+                {% assign href = site.baseurl | append: site.card_deck_download_link %}
+                {% include partials/ftf-button.liquid text="Download the deck" href=href target='_blank' %}
 
                 <p>
                     By building up this kind of open digital knowledge archive on feministtech.org as well as the Feminist Tech Principles card deck, we aim to facilitate a long-term exchange on the topics of intersectionality and digitization. The principles, observations, good practice examples, and future visions are intended to guide governmental institutions, organizations, companies, and individuals in visioning, planning, and decision-making related to technology. Through the framework, we want to broaden the current discourse and show what changes are needed to ensure that all groups in society benefit equitably from digitization.

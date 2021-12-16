@@ -39,7 +39,7 @@ type: community
     {% if thecycle == 'odd' %}
     {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
     {% else %}
-    {% include sections/city-teaser-right.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+    {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
     {% endif %}
     {% endfor %}
 </div>
