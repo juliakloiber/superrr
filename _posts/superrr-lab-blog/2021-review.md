@@ -1,0 +1,67 @@
+---
+layout: post
+type: lab
+author: Elisa Lindinger
+title: Byebye 2021 – and hello, 2022!
+description: We look back at the SUPERRR exciting year of 2021 and share a few things that 2022 has in store for us.
+---
+
+<p>The year is drawing to a close – let's take a moment and cherish the good things it brought us. Here are our highlights of 2021:</p>
+
+<h3>Becoming SUPERRR</h3>
+
+<p>We kicked off the year with a New Year's reception that brought together the SUPERRR communities from London and Berlin online. We shared our coping strategies during lockdowns, burnt the unwanted legacies of 2020, and folded origami cranes (at least we tried). What else happened?<p>
+
+<p><ul>
+<li>We resumed our Berlin gatherings during the summer months, physically distanced, socially connected. In Berlin we had a few picnics in the park – it was great to see familiar and new faces and to catch up!</li>
+
+<li>In the summer we renovated our SUPERRR Space on Moritzplatz and added a brand new kitchen for events and office life. We hosted a vernissage of the fabulous Nadja Buttendorf and had a launch party for our DING magazine. Sophie Utikal lent us one of her extraordinary textile artworks.</li>
+
+<li>The team is growing: Five amazing people now shape SUPERRR Lab – and we all have big plans for 2022!</li>
+
+</ul></p>
+
+<h3>Shaping networks</h3>
+
+<p>Even though travel opportunities were limited, we expanded our networks, started new collaborations, and got to know new friends and allies.</p>
+
+<p><ul>
+<li>We brought together 24 inspiring people from across Europe through <a href="https://thenewnew.space/">The New New Fellowship</a>. Their visions for just digital futures inspired the new edition of Ding magazine, <a href="https://dingdingding.org/">Correspondences from the Edges</a>.</li>
+
+<li>Over 25 people contributed to our Feminist Tech Principles, which we will launch early next year. <a href="https://twitter.com/superrrnetwork/status/1471182311484010497">Here's a sneak peek</a>!</li>
+
+<li>We revamped the campaign "Empower digital civil society": 15 organizations from the network wrote <a href="https://digitalezivilgesellschaft.org/digitalvisionen/">visions for better digital futures</a> to inspire decision-makers. As part of the campaign, we developed a <a href="https://digitalezivilgesellschaft.org/DigitaleZivilgesellschaft_Print.pdf">brochure</a> that we shipped to over 650 German MPs.</li>
+
+<li>Together with our friends at MOTIF Institute, we organized a debate and a workshop on <a href="https://superrr.net/2021/09/26/zukunftsforum-recap.html">digital public spaces of the future</a>. The project was a collaboration with the Federal German Ministry of Justice and Consumer Protection. A publication for this project is coming up in 2022.</li>
+
+<li>We hosted <a href="https://www.joanavaron.com/">Joana Varon</a> as <a href="https://www.ifa.de/en/fundings/ccp-fellowships/">ifa Cross Culture fellow</a>.</li>
+</ul></p>
+
+<h3>Doing and Writing</h3>
+
+<p>And of course we were busy planning workshops, writing texts working on projects.</p>
+<p><ul>
+<li>We wrote about internet access and not-so-broadband for the <a href="https://www.boell.de/de/infrastrukturatlas">Infrastructure Atlas</a> published by Heinrich-Böll-Stiftung.</li>
+
+<li>Our <a href="https://www.dritter-gleichstellungsbericht.de/de/article/258.ai-powered-recruiting-wie-der-einsatz-von-algorithmischen-assistenzsystemen-die-gleichstellung-auf-dem-arbeitsmarkt-beeinflusst.html">expertise on AI and recruiting</a>, co-authored with Lorena Jaume-Palasí, was published and extensively quoted in the third gender equality report.</li>
+
+<li>We contributed a chapter on digital civil society to Chris Piallat's book <a href"https://www.transcript-verlag.de/978-3-8376-5659-6/der-wert-der-digitalisierung/">Der Wert der Digitalisierung</a>.</li>
+
+<li>In the <a href="https://superrr.net/project/infrastructure-playbook/">COVID-19 Infrastructure Playbook</a>, we collected the stories how civil society organizations throughout Europe contribute to requesting, designing and operating public digital infrastructure during the pandemic.</li>
+
+<li>We published over 20 interviews on the SUPERRR Blog and the New New Blog.</li>
+
+<li>We wrote an assessment of how able to act civil society organizations and initiatives are in the digital sphere</li>
+</ul></p>
+
+<h3>Thank you!</h3>
+
+<p>To all the people who supported our work and collaborated with us! It was a pleasure to work with and learn from you!Thank you to our funders and partners: Allianz Kulturstiftung, Bertelsmann Stiftung, Center for the Cultivation of Technology, Deutsche Stiftung für Engagement und Ehrenamt, European AI Fund, the Federal Ministry of Justice and Consumer Protection, Goethe-Institut, MOTIF Institut, Open Society Foundations, Robert-Bosch-Stiftung, Ashoka Deutschland,  Schöpflin Stiftung, Simply Secure.</p>
+
+<h3>Here's to New Things</h3>
+
+<p>The New Year will bring changes, and we are so excited for them that we want to share them with you:<p>
+
+<p>Influencing the political agendas is hard. Future thinking has always been our method of choice, while we strive for real-world change. In 2022 we are planning to expand our foresight work and to develop methods and formats that enable political decision-makers and civil society actors to create their own digital visions and missions to guide digital transformation. We'll also keep tabs on tech: We develop frameworks to better assess the social impact of emerging technologies, and how they enhance or alleviate inequality. The first step down that road: We develop concrete steps towards an intersectional feminist tech policy that connects digital narratives to their social contexts, brings more diverse expertise into the tech policy debate and strives for better representation of civil society in political consultations and expert groups. In 2022 we will work closely with international organizations like Coding Rights from Brazil – we can't wait to share more about this project.</p>
+
+<p>Stay up to date on all of our upcoming projects and subscribe our newsletter!</p>
