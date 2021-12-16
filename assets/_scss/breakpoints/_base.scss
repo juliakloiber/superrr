@@ -360,6 +360,8 @@ LAYOUT & GRID STYLES
     position: relative;
     .city-teaser-wrap{
       position: relative;
+      max-width: 1920px;
+      margin: 0 auto;
     }
   }
 
@@ -2133,7 +2135,7 @@ FOOTER STYLES
 
 .marquee {
   position: relative;
-  animation: marquee 240s linear infinite;
+  animation: marquee 300s linear infinite;
   display: block;
 }
 

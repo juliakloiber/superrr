@@ -22,12 +22,7 @@
 <div class="row page-wrap-outter">
     <div class="page-wrap col-24 {{ page_type }}">
         <div class="page-content section fullwidth margin-bottom-100 {% if page_type == 'fellows' %}home{% endif %}">
-            {% if page_type != 'fellows' %}
-                {% include partials/navigation-left.liquid %}
-            {% else %}
-                {% include partials/navigation.liquid %}
-            {% endif %}
-
+            {% include partials/navigation-left.liquid %}
             <div class="section fullwidth bg-white">
                 <div class="content-wrap navigation-left-victim post">
                     <div class="content-wrap-inner shrinked blog-post text-wrap">

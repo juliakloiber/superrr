@@ -358,6 +358,7 @@
     };
 
     Controller.prototype.getTargetFontsize = function(){
+
         if(ref.viewport().width < 414){
             return '12vw';
         } else if(ref.viewport().width >= 414 && ref.viewport().width < 768) {
@@ -373,7 +374,7 @@
         } else if(ref.viewport().width >= 1600 && ref.viewport().width < 1920){
             return '4vw';
         } else {
-            return '4vw';
+            return '5.25rem';
         }
     };
 
