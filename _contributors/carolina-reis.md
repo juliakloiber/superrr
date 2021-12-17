@@ -2,7 +2,7 @@
 title: "Carolina Reis - Feminist Tech Principles"#
 order: 3
 layout: fellow
-img: "/assets/img/static/contributors/1000x1000.png"
+img: "/assets/img/static/contributors/caro.png"
 firstname: "Carolina"
 lastname: "Reis"
 gender: "she/her"
