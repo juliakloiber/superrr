@@ -6,7 +6,7 @@ img: "/assets/img/static/contributors/1000x1000.png"
 firstname: "Camila"
 lastname: "Nobrega"
 gender: "she/her"
-principle_id: "1-dear-newspapers-editors.md"
+principle_id: "1-dear-newspapers-editors"
 ---
 
 Camila's text insert here
