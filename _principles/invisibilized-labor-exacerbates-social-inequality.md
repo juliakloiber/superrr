@@ -21,7 +21,9 @@ The tech production chain is complex and expanding. This principle applies to ot
 
 ### Who can inspire us with their work?
 
-[Fairwork](https://fair.work/en/fw/homepage/) is led by the OII at the University of Oxford and sponsored by the German Federal Ministry for Economic Cooperation and Development. The project aims to track and enhance working conditions at digital labour platforms. Platforms are divided into gig work, which is geographically tethered, and cloudwork, which is not. Via desk research and surveys with workers and platform managers, researchers then evaluate working conditions. They score each platform according to five principles (fair pay, fair conditions, fair contracts, fair management and fair representation) to conclude whether or not it grants workers fair labour conditions. Research institutes worldwide collaborate on the project and its information can be accessed in five different languages.
+»[Fairwork](https://fair.work/en/fw/homepage/) is led by the OII at the University of Oxford and sponsored by the German Federal Ministry for Economic Cooperation and Development. The project aims to track and enhance working conditions at digital labour platforms. Platforms are divided into gig work, which is geographically tethered, and cloudwork, which is not. Via desk research and surveys with workers and platform managers, researchers then evaluate working conditions. They score each platform according to five principles (fair pay, fair conditions, fair contracts, fair management and fair representation) to conclude whether or not it grants workers fair labour conditions. Research institutes worldwide collaborate on the project and its information can be accessed in five different languages.« — Carolina Reis 
+
+[fair.work](https://fair.work/en/fw/homepage/)
 
 </div>
 
