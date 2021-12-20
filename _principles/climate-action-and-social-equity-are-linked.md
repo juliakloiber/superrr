@@ -1,11 +1,11 @@
 ---
-title: "Climate action and social equity are linked"
+title: "Climate action and social equity are interlinked."
 order: 1
 category: Global
 anchor: global
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Moving away from tech as an easy answer towards questioning what we are optimizing for. The current system is optimized for a political and economic model where gains are privatized in the hands of a few and harms are socialized on people and the planet. To optimize for a feminist future that centers around equality and sustainability, it is crucial to understand that climate action, historical and current colonial structures, and social equity are linked."
+description: "Tech solutions are not neutral: what they optimise must be interrogated. The current system follows a political and economic model that privatises gains in the hands of a few and socialises harms on populations and the planet. To optimise for a feminist future centered around equality and sustainability, it is crucial to see and understand the links between climate action, historical and contemporary colonial structures and social equity."
 ---
 
 ### Fieke Jansen & Michelle Thorne:
@@ -22,7 +22,7 @@ A feminist approach to climate action incorporates into any analysis the roles p
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+[Branch](https://branch.climateaction.tech/) is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
 
 [https://branch.climateaction.tech/](https://branch.climateaction.tech/).
 
