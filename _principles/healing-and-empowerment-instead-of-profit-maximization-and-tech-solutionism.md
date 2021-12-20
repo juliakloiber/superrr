@@ -1,28 +1,34 @@
 ---
-title: "Healing and empowerment instead of profit maximization and tech-solutionism"
+title: "Healing and empowerment over profit maximisation and tech-solutionism."
 order: 4
 category: Societal
 anchor: societal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Current algorithmic decision-making systems, and facial recognition tools used by governments and industries obscure and reinforce already existing injustices. Instead of creating safer spaces for discourse and exchange, Social Media networks capitalize on trauma and hate speech. The platforms surveil, control, and radicalize their users. To ensure collective and individual well-being and the possibility to thrive technologies must center around the needs of communities and democracies rather than putting profit maximization above all."
+description: "Algorithmic decision-making systems and facial recognition tools used by governments and industries currently obscure and reinforce existing injustices. Instead of creating safer spaces for discourse and exchange, social media networks capitalise on trauma and hate speech. More broadly, digital technologies surveil, control and radicalise their users. To ensure collective and individual well-being and flourishing, technologies must center around the needs of communities rather than prioritising profit maximisation above all."
 ---
 
-### Fieke Jansen
+### Laurence Meyer:
 
-» The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
+»Centring healing allows for trauma and inequality in death to be identified as the main products of the oppressive systems in which we live. Prentice Hemphill writes that “systemic oppressions are, in many ways, enforced through trauma”. Trauma is an extremely efficient tool of white cis-heterosexual capitalist patriarchal systems. It also organises what Ruth Wilson Gilmore defines as “the state-sanctioned and/or extralegal production and exploitation of group-differentiated vulnerability to premature death.” Black women are dying in childbirth at a higher rate than white women. Trans women of colour are dying prematurely. Significant disparities in life expectancy exist for people of colour, specifically Black and indigenous people in settler colonies. Women of colour – the majority of women on the planet – are disproportionately confronted with death. 
 
-The key question we need to ask is, what hat are we optimizing for? Currently, We are optimizing for a political and economic model where gains are privatized in the hands of while harms are socialiszed on people and planet. We must step away from our current approach, where the focus is on mitigation, and  take a future oriented approach which makes our societies more people- and planet- friendly. In this approach, technology plays only a small part.
+The most relevant way to approach gender-based issues from an intersectional perspective is thus as a public health issue. Patriarchy is a public health issue. Racism is a public health issue. Queerphobia is a public health issue. Poverty is a public health issue. These systems of oppression produce trauma and premature death as necessary to their functioning. They can´t be eliminated by individual modifications – they require systemic change. 
 
-A feminist approach to climate action incorporates into any analysis the roles played by technology, power, money and exploitation. We need to ask: Whose version of the future are we are currently creating? Whose imaginations have shaped our present realities? Who gets to speak and whose voice is heard loudest?What kn owledge is privileged and why? Asking these questions will allow us to unpack these problems and envision an alternative future in which business and politics isn’t just less bad, but fundamentally different.«
+Thinking about feminist tech without centring healing in a way that is collective will reproduce the very mechanisms of oppressions we wish to dismantle. However, the current trend in tech is to lean on our collective trauma to generate profit, posing consumption as compensation for isolation and exhaustion. The rush toward more surveillance nourishes an unending appetite for control that maintains and reinforces the current social order. These objectives are all imbued with the patriarchal ideals of domination and invulnerability. 
+
+What role does tech play in worsening the current public health crisis? How could technology support our collective healing? Can we imagine technological modalities that aren´t based on exploitation, displacement and/or extraction? Do we actually need technologies to learn/re-learn how to centre care? Do we really need technologies to collectively slow down in a way that supports the healing of the planet? Because no technology will solve societal problems, a feminist approach to tech could reshape our priorities, centring reproductive forces and healing instead of trauma and obsolescence.«
 
 <div class="principle-info-box" markdown="1">
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+»The report by Africans in the Diaspora, [Practicing Liberation](https://www.africansinthediaspora.org/practicing-liberation), is extremly rich with examples of feminist practices of organising, notably the initiative Nous sommes la solution led by women farmers working on land sovereignty. They network and organise over complex issues that involve key decision-making processes – they use many technologies extensively, though not exclusively in the corporate sense. 
 
-[https://branch.climateaction.tech/](https://branch.climateaction.tech/).
+[Whose Knowledge](https://whoseknowledge.org/about-us/) questions the western understanding of knowledge that dominates the contemporary internet to find creative ways of “building and defending an internet of, for and by all.” 
+
+The report [Afrofeminist Data Futures](https://pollicy.org/wp-content/uploads/2021/09/Afrofeminist-Data-Futures-Report-ENGLISH.pdf), written by Neema Iyer, Chenai Chair and Garnett Achieng, also provides plenty of good leads for ways forward. 
+
+Finally, in *Digital Black Feminism* Catherine Knight Steele writes about how black women have used blogposts to discuss, develop and reflect on their realities, thereby enriching black feminists' thoughts, mobilising writing in a community of trust as a healing practice.« — Laurence Meyer
 
 </div>
 
