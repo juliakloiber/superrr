@@ -24,7 +24,7 @@ What role does tech play in worsening the current public health crisis? How coul
 
 »The report by Africans in the Diaspora, [Practicing Liberation](https://www.africansinthediaspora.org/practicing-liberation), is extremly rich with examples of feminist practices of organising, notably the initiative Nous sommes la solution led by women farmers working on land sovereignty. They network and organise over complex issues that involve key decision-making processes – they use many technologies extensively, though not exclusively in the corporate sense. 
 
-[Whose Knowledge](https://whoseknowledge.org/about-us/) questions the western understanding of knowledge that dominates the contemporary internet to find creative ways of “building and defending an internet of, for and by all.” 
+[Whose Knowledge](https://whoseknowledge.org/about-us/) questions the western understanding of knowledge that dominates the contemporary internet to find creative ways of 'building and defending an internet of, for and by all.' 
 
 The report [Afrofeminist Data Futures](https://pollicy.org/wp-content/uploads/2021/09/Afrofeminist-Data-Futures-Report-ENGLISH.pdf), written by Neema Iyer, Chenai Chair and Garnett Achieng, also provides plenty of good leads for ways forward. 
 
