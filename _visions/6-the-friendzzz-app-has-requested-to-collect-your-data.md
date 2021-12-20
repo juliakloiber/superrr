@@ -53,9 +53,9 @@ _What do you want to do?_
 
 **You’ll be hard-pressed to find** people who really _want_ their private data to be collected and sold, especially when they know how it could be (and _is already_ being) used. 
 When imagining technical and design solutions that truly follow the principle of »informed choice«, we challenge developers, designers and stakeholders to think beyond the black box. Think creatively to avoid falling into the same pitfalls that are made by current »compliance« mechanisms and instead create an experience that puts people over profits.
+<br>
+<br>
 
-<br>
-<br>
 **Resources:**
 
 - [Data Detox Kit](https://datadetoxkit.org/)
