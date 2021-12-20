@@ -1,26 +1,30 @@
 ---
-title: "Sustained maintenance and sharing instead of innovation at all costs"
+title: "Sustain, maintain and share."
 order: 3
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Moving away from short-living innovation cycles towards longevity and openness is paramount/essential for creating tech that functions within planetary boundaries. The value/appreciation of maintenance and interoperability must be increased."
+description: "Innovation should not come at any cost. We should move away from short-term innovation cycles, towards longevity and openness. This is paramount to creating tech that functions within planetary boundaries. The appreciation of, and value accorded to, maintenance and interoperability must increase."
 ---
 
-### Fieke Jansen
+### Fieke Jansen & Michelle Thorne
 
-» The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
+»By reframing innovation as a problem, we can centre technology in challenges that are about power, extractive practices, wealth and inequality. 
 
-The key question we need to ask is, what hat are we optimizing for? Currently, We are optimizing for a political and economic model where gains are privatized in the hands of while harms are socialiszed on people and planet. We must step away from our current approach, where the focus is on mitigation, and  take a future oriented approach which makes our societies more people- and planet- friendly. In this approach, technology plays only a small part.
+Open source tools and free public code are the foundations upon which the entire internet rests. But to sustain and maintain these structures requires a shift in how we analyse the problems faced and how we engage with the question of who profits from the unseen labour of repairing, developing and running them at the various levels of [protocol, infrastructure and application](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/). It also requires us to ask who develops these tools and solutions, for whom and to what purpose, and what knowledge and perspectives are missing in how we shape them for our futures. 
 
-A feminist approach to climate action incorporates into any analysis the roles played by technology, power, money and exploitation. We need to ask: Whose version of the future are we are currently creating? Whose imaginations have shaped our present realities? Who gets to speak and whose voice is heard loudest?What kn owledge is privileged and why? Asking these questions will allow us to unpack these problems and envision an alternative future in which business and politics isn’t just less bad, but fundamentally different.«
+Right now, big tech is shaping what our future technologies look like and how we imagine them. And because we have become so dependent on their products, our reliance upon their visions is closing down avenues for alternative futures. 
+
+To move forward, we must look to the past to see our future. What values and communities shaped open source tools? What did good practices look like? What can we learn from those ideas and practices that will enable greater inclusivity and prevent corporate capture of this most crucial infrastructure?«
 
 <div class="principle-info-box" markdown="1">
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+[The Restart Project](https://therestartproject.org/) is a people-powered social enterprise based in London that aims to fix our relationship with electronics. The project helps people learn how to repair their broken electronics and rethink how they use them and their digital consumption in the first place. The organisers run regular Restart Parties where people teach each other how to repair their broken and slow devices – from tablets to toasters, iPhones to headphones. They work with schools and socially-grounded organisations to help them value and use their electronics for longer. And they use the data and stories they collect to help demand better, more sustainable electronics for all.
 
-[https://branch.climateaction.tech/](https://branch.climateaction.tech/).
+The Restart Project was born in 2013 out of frustration with the throwaway, consumerist model of electronics, and the growing mountain of e-waste it leaves behind. By bringing people together to share skills and gain the confidence to open up their electronics, the Restart Project gives people the hands-on skills to make a difference, as well as a way to talk about the wider issue of what kind of products are needed.
+
+[therestartproject.org](https://therestartproject.org/)
 
 </div>
 
