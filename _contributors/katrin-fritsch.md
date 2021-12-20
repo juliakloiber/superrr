@@ -13,5 +13,6 @@ Katrin Fritsch researches and writes at the intersection of data and society. Sh
 <br>
 Currently located in: Berlin, Germany <br>
 [katrinfritsch.com](www.katrinfritsch.com) <br>
-@KatrinFritsch
-
+@KatrinFritsch <br>
+<br>
+Photo credit: vakat.at
