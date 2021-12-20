@@ -31,8 +31,7 @@ The report [Afrofeminist Data Futures](https://pollicy.org/wp-content/uploads/20
 Finally, in *Digital Black Feminism* Catherine Knight Steele writes about how black women have used blogposts to discuss, develop and reflect on their realities, thereby enriching black feminists' thoughts, mobilising writing in a community of trust as a healing practice.« — Laurence Meyer
 
 
-The [Numun Fund](https://numun.fund/) is a feminist tech fund created in response to Covid-19. It aims to support feminist groups, organisations and networks led by women, non-binary and trans people who use technology to advance feminist organising and gender-just outcomes.
-Numun is the Sumerian word for “seed.” Over 6,000 years ago, the Sumerians, who came from what is now southern Iraq, established the earliest known writing and arithmetic systems in the world. The Numun Fund honours the ways that art, literature, science and technology have flourished across the world and been led by communities in the Global South for millennia.
+The [Numun Fund](https://numun.fund/) is a feminist tech fund created in response to Covid-19. It aims to support feminist groups, organisations and networks led by women, non-binary and trans people who use technology to advance feminist organising and gender-just outcomes. Numun is the Sumerian word for “seed.” Over 6,000 years ago, the Sumerians, who came from what is now southern Iraq, established the earliest known writing and arithmetic systems in the world. The Numun Fund honours the ways that art, literature, science and technology have flourished across the world and been led by communities in the Global South for millennia.
 
 [numun.fund](https://numun.fund/)
 
