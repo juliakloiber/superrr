@@ -1,28 +1,31 @@
 ---
-title: "Creating safer spaces online is an ongoing relational negotiation process"
+title: "Creating safer spaces online is an ongoing relational negotiation process."
 order: 9
 category: Interpersonal
 anchor: interpersonal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: 'In order to create safer spaces online, technology must be designed to counter hate speech, dis-, and misinformation. Effective, trauma-informed mechanisms to report and analyze abuse or harmful flaws in tech are mandatory. Creating online spaces for collaboration and exchange where people have support, and feel empowered to speak freely is an ongoing and relational negotiation process.'
+description: 'In order to create safer spaces online, technology must be designed to counter hate speech, dis- and misinformation. Effective, trauma-informed mechanisms to report and analyse abuse or harmful flaws in tech must become mandatory. Creating online spaces for collaboration and exchange where people have support, and feel empowered to speak freely is an ongoing and relational negotiation process.'
 ---
 
-### Fieke Jansen
+### Nighat Dad:
 
-» The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
+»There is a gender-based digital divide, particularly in the Global South. Globally, women are [7% less likely](https://www.gsma.com/betterfuture/2020sdgimpactreport/wp-content/uploads/2020/09/2020-Mobile-Industry-Impact-Report-SDGs.pdf?utm_source=better_future_site&utm_medium=search_engine&utm_campaign=2020_SDG_impact_report) to own a mobile phone than men. This gap increases significantly in parts of Asia, Africa and Latin America where many girls and women do not have access to the internet and face significant hurdles to owning electronic devices such as laptops and mobile phones due to restrictions from their families and partners. Equally, it is important to recognise that merely having internet access or possessing a device can faciliitate insecurity and violence in countries where so-called 'honour killings' take place.
 
-The key question we need to ask is, what hat are we optimizing for? Currently, We are optimizing for a political and economic model where gains are privatized in the hands of while harms are socialiszed on people and planet. We must step away from our current approach, where the focus is on mitigation, and  take a future oriented approach which makes our societies more people- and planet- friendly. In this approach, technology plays only a small part.
+If the internet cannot be accessed by the majority of the female population, then it cannot be a feminist space. The design of digital technologies needs to account for the experiences, unique needs and risks of women and gender minorities. 
 
-A feminist approach to climate action incorporates into any analysis the roles played by technology, power, money and exploitation. We need to ask: Whose version of the future are we are currently creating? Whose imaginations have shaped our present realities? Who gets to speak and whose voice is heard loudest?What kn owledge is privileged and why? Asking these questions will allow us to unpack these problems and envision an alternative future in which business and politics isn’t just less bad, but fundamentally different.«
+Online, women are regularly subjected to abuse, harassment, threats and manipulation in ways that have real-world consequences. This is exacerbated by a lack of adequate safeguards and knowledge regarding consent and privacy online. Compounding this situation is that fact that not only do online spaces reflect prevailing patriarchal social attitudes (for example, in South Asia), in the age of automation, they risk enshrining and amplifying them, rather than acting as a counterbalance or corrective.
+
+Agency and expression are fundamental to feminist tech and feminist digital movements continue to play a positive role in creating a sense of collective empowerment. To protect these freedoms means enshrining resistance and dissent within in digital spaces.«
 
 <div class="principle-info-box" markdown="1">
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+»DRF’s [Cyber Harassment Helpline](https://digitalrightsfoundation.pk/wp-content/uploads/2017/12/Helpline-Annual-Report.pdf) caters to women, activists and minorities who face targeted attacks and violence online. The Helpline is a women-led platform that operates on the feminist principles of gender-sensitivity and centering the experiences of survivors to provide legal advice, digital security support and mental health assistance. It works with social media platforms to develop escalation channels to remove harmful content, and by identifying trends emerging from data at the Helpline, the team also develops training sessions on online safety practices for young women, students, journalists and professionals to prevent these and other forms of violence.« – Nighat Dad
 
-[https://branch.climateaction.tech/](https://branch.climateaction.tech/).
+
+[Chayn](https://www.chayn.co/) is a global, survivor-led nonprofit which creates online, intersectional resources to support the healing of survivors of gender-based violence. Chayn flips the design and puts marginalised people at its heart. Product development is informed by user interviews which seek consent at every stage of the research process – including final review and sign-off of any materials produced – though clear, concise forms in accessible formats. By always protecting user anonymity, and by investing in simple, soothing UX and additional safety features, such as exit buttons, Chayn creates safety in their services.
 
 </div>
 
