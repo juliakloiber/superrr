@@ -1,26 +1,28 @@
 ---
-title: "Accessibility, equitable participation, and representation are essential for digital tools that work for everyone. "
+title: "Accessibility, equitable participation and representation."
 order: 5
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: 'Accessibility is not a "nice to have" but a human right. Marginalized groups in our societies must be active stakeholders in all stages of design and policy processes. Building with marginalized groups, not for them. Setting up processes for feedback, evaluation, and vetos.'
+description: 'Accessibility is not a »nice to have«. It is a human right. Marginalised groups must be active stakeholders at all stages of design and policy processes. Building *with* marginalized people, not *for* them.'
 ---
 
-### Fieke Jansen
+### Chenai Chair:
 
-» The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
+»Just under half the world’s population still do not have access to the internet. Unconnected citizens can be found across the world, but predominantly the global south. Even those who are connected are not guaranteed an internet free from censorship or proprietary technology. Nationally as well as globally, the digital divide is recognised as a benchmark of government performance. The success of digital inclusion policies also indicates levels of inclusion in the digital economy. 
 
-The key question we need to ask is, what hat are we optimizing for? Currently, We are optimizing for a political and economic model where gains are privatized in the hands of while harms are socialiszed on people and planet. We must step away from our current approach, where the focus is on mitigation, and  take a future oriented approach which makes our societies more people- and planet- friendly. In this approach, technology plays only a small part.
+The Covid-19 pandemic drew attention to the need for people to have access to technology that caters for their different needs – for example, that accounts for disability, is in a language they understand and that does not lead to harm. Not everyone is included in the development of technology and a result, we currently lack equitable participation and representation. This lack of equity and representation is grounded in the very structure of the internet that sees power and representation skewed towards a global minority of predominantly white technological developers with access to resources. 
 
-A feminist approach to climate action incorporates into any analysis the roles played by technology, power, money and exploitation. We need to ask: Whose version of the future are we are currently creating? Whose imaginations have shaped our present realities? Who gets to speak and whose voice is heard loudest?What kn owledge is privileged and why? Asking these questions will allow us to unpack these problems and envision an alternative future in which business and politics isn’t just less bad, but fundamentally different.«
+This principle is important from a feminist perspective as it provides a lens for critiquing current interventions around accessibility by taking into account intersectionality, power, representation and community involvement. Its focus on accessibility, equitable participation and representation is also important to feminists as it enables arguments in favour of access from a social justice perspective. 
+
+At the level of creation, this principle holds those who develop technology to account for the extent to which their designs centre users. It can also be used at the policy level, to assess whether and how far certain groups have participated in the processes of designing and implementing policy. Finally, this principle can guide feminists in organising and movement-building to ensure connection to and between the needs of marginalised groups and points of advocacy.«
 
 <div class="principle-info-box" markdown="1">
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+»[Pollicy](https://pollicy.org/) is 'a feminist collective of technologists, data scientists, creative and academics working at the intersection of data, design and technology to craft better life experiences by harnessing improved data.' Pollicy focusses on ensuring accessibility, equitable participation and representation in its policy interventions and work towards social change. Feminist thinking shapes the design of all its programs. One of their recent projects was on Afrofeminist data futures, which captured the insights of feminists on issues of data. And when feminists who are not involved in the digital space are left out of conversations, as frequently happens, Pollicy welcomes them in.« — Chenai Chair
 
-[https://branch.climateaction.tech/](https://branch.climateaction.tech/).
+[pollicy.org](https://pollicy.org/)
 
 </div>
 
