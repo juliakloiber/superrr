@@ -1,26 +1,35 @@
 ---
-title: "Design must support informed consent"
+title: "Design for informed consent."
 order: 10
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "Asking for and obtaining consent respects a person's right to autonomy and agency. For consent to be valid, it must be voluntary and informed, and reversible. Not every decision should however be deferred to the individual, it needs strong policies that protect the privacy of individuals and groups."
+description: "Asking for and obtaining consent respects a person's right to autonomy and agency. For consent to be valid, it must be voluntary, informed and reversible. However, individuals should not be burdened with every decision. We also need strong policies that protect the privacy of individuals and groups."
 ---
 
-### Fieke Jansen
+### Elena Silvestrini & Naomi Alexander Naidoo:
 
-» The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely framed as intersecting at the question of how technology can support the fight against the climate crisis. Here, examples are include more efficient data centreers, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. This sort of discussion prevents recognition of the broad environmental harms inflicted by technology and our current economic models. These include the extraction of raw minerals, the vast consumption of water, electricity and land to house and run data centres and physical infrastructure, the creation of increasing amounts of e-waste and its unequal global distribution. The harms also extend to the ways, in which technology is speeding up already extractive industries.
+»Today’s technology falls short on consent. While international regulation such as the GDPR has enhanced awareness of the importance of consent, these measures often involve a very limited understanding of consent as rigid, inflexible and shallow. Consent is frequently demanded in exchange for access to vital products and services, and is rarely explained in a clear or accessible way. Meaningful consent – which must be voluntary (we are given a genuine choice); informed (we have sufficient information to decide whether or not to consent); and reversible (we can withdraw our consent at any time) – remains rare. 
 
-The key question we need to ask is, what hat are we optimizing for? Currently, We are optimizing for a political and economic model where gains are privatized in the hands of while harms are socialiszed on people and planet. We must step away from our current approach, where the focus is on mitigation, and  take a future oriented approach which makes our societies more people- and planet- friendly. In this approach, technology plays only a small part.
+Inequalities and oppression strip people of agency by removing power and control. Informed consent is a necessary step to regaining that agency. This principle is important because a feminist future for technology must involve agency for all, especially those who have been marginalised, excluded or abused. A feminist internet must be based on informed consent so that people are empowered and enabled to participate in a way that works for them.  
 
-A feminist approach to climate action incorporates into any analysis the roles played by technology, power, money and exploitation. We need to ask: Whose version of the future are we are currently creating? Whose imaginations have shaped our present realities? Who gets to speak and whose voice is heard loudest?What kn owledge is privileged and why? Asking these questions will allow us to unpack these problems and envision an alternative future in which business and politics isn’t just less bad, but fundamentally different.«
+In recent years we have seen substantial progress on consent by technology companies and governments around the world. However, to build a feminist internet, we still have a long way to go.«
+
 
 <div class="principle-info-box" markdown="1">
 
 ### Who can inspire us with their work?
 
-Branch is an online magazine written by and for people who dream of a sustainable and just internet for all. The authors believe that the internet must serve collective liberation and ecological sustainability. They want the internet to dismantle the power structures that delay climate action and for the internet itself to become a sustainable and positive force for climate justice. The Branch writers see this magazine as a space for personal reflection, critical engagement with technology and internet economics, as well as experimentation and storytelling.
+»The [Consentful Tech Project](https://www.consentfultech.io/) is an initiative promoting consent in technology. They define consentful technologies as 'digital applications and spaces that are built with consent at their core, and that support the self-determination of people who use and are affected by these technologies.' To demonstrate what this looks like, they have adapted Planned Parenthood’s *FRIES framework* for sexual consent and applied it to technology:
 
-[https://branch.climateaction.tech/](https://branch.climateaction.tech/).
+- Freely given: In technology, if an interface is designed to mislead people into doing something they normally wouldn’t do, the application is not consentful.
+- Reversible: In technology, you should have the right to limit access or entirely remove your data at any time.
+- Informed: Consentful applications use clear and accessible language to inform people about the risks they present and the data they are storing, rather than burying these important details in, for example, fine print terms & conditions.
+- Enthusiastic: If people are giving up their data because they have to in order to access necessary services and not because they want to, that is not consentful.
+- Specific: A consentful app only uses data the person has directly given, not data acquired through other means like scraping or buying, and uses it only in ways someone has consented to.« 
+
+— Elena Silvestrini & Naomi Alexander Naidoo
+
+[consentfultech.io](https://www.consentfultech.io/)
 
 </div>
 
