@@ -1,5 +1,5 @@
 ---
-title: "Equity and visibility along the supply chain"
+title: "Equity and visibility along the supply chain."
 order: 2
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
