@@ -10,5 +10,6 @@ principle_id: "publicly-financed-software-must-be-open"
 ---
 
 Katherine is an editor and writer from London. <br>
+<br>
 [kwaters.co.uk](https://kwaters.co.uk/) <br>
 Twitter @_kwaters_ 
