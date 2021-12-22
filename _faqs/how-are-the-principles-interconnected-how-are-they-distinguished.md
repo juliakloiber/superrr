@@ -10,7 +10,7 @@ Many of the principles are interdependent and affect more than one level. We hav
 
 <br>
 
-<img src="/assets/img/static/principles/Valerie Hannon_4 levels of thriving.png"
+<img src="/assets/img/static/principles/Valerie Hannon_4 levels of thriving.png">
 _Image from: Valerie Hannon (2017). Thrive: Schools Reinvented for the Real Challenges We Face. Innovation Unit Press._
 
 
