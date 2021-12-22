@@ -3,7 +3,7 @@ title: "Name, acknowledge and share."
 order: 7
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
-description: "The work, concepts and ideas that new digital technology is being built upon must be credited. We must demystify technology's founding narratives. »The first unavoidable step into a feminist internet is the act of naming all creators, inventors that nurture the infrastructure and the code.« — <a href="https://gendersec.tacticaltech.org/wiki/index.php/A_feminist_internet_and_its_reflection_on_privacy,_security,_policy_and_violence_against_Women)">Valentina Pelizzer Hvale</a>
+description: "The work, concepts and ideas that new digital technology is being built upon must be credited. We must demystify technology's founding narratives. »The first unavoidable step into a feminist internet is the act of naming all creators, inventors that nurture the infrastructure and the code.« — [Valentina Pelizzer Hvale](https://gendersec.tacticaltech.org/wiki/index.php/A_feminist_internet_and_its_reflection_on_privacy,_security,_policy_and_violence_against_Women)
 ---
 
 ### Maya Ober:
