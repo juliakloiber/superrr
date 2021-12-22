@@ -2,8 +2,11 @@
 title: Who are the principles for? In what contexts can they be used?
 order: 3
 ---
-We are currently exploring how to make working on the principles as accessible as possible. One possible format will be online/offline collective writing and discussion workshops.
-The principles are open for debate and editing, and we welcome critical and productive feedback. Please help us develop them further and leave your comments and ideas in our Github repository. If you would like to get updates on the process and be invited to future workshops please sign up to the following mailing list. If you are interested in talking to us about the principles, please write us an email: hello@superrr.net
+The principles are made for governments, civil society organisations and companies, as well as activists, designers, policymakers, technology creators and other individuals who aim to create more just and equitable technologies, designs and/or tech policies – or who want to discuss and critically assess their practice through these principles. <br>
+<br>
+We hope they help make the world of the digital commons look a little more like this: <br>
+»A flourishing digital public space should be welcoming and safe for diverse publics, help us understand and make sense of the world, connect people near and far across divides and hierarchies, enable us to act together.« — [The New Public](https://newpublic.org/purpose)
+
 
 
 
