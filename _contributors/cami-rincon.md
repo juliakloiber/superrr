@@ -5,7 +5,6 @@ layout: fellow
 img: "/assets/img/static/contributors/cami.png"
 firstname: "Cami"
 lastname: "Rincón"
-gender: "they/them"
 principle_id: "your-digital-identity-is-yours-to-define"
 ---
 
