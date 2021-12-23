@@ -2,7 +2,7 @@
 title: "Your (digital) identity is yours to define."
 order: 11
 category: The Self
-category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
+category_description: "Focussing on the self"
 anchor: "the-self"
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
