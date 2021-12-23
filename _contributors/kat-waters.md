@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/kat.png"
 firstname: "Katherine"
 lastname: "Waters"
-gender: "she/her"
+gender: ""
 principle_id: ""
 vision_id: ""
 ---
