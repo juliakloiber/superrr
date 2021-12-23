@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/camila.png"
 firstname: "Camila"
 lastname: "Nobrega"
-gender: "she/her or none"
+gender: "(she/her or none)"
 principle_id: ""
 vision_id: "1-dear-newspapers-editors"
 ---
