@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/maya.png"
 firstname: "Maya"
 lastname: "Ober"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "technologys-founding-narratives-need-to-be-demystified"
 vision_id: ""
 ---
