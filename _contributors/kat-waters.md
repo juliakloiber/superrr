@@ -7,7 +7,7 @@ img: "/assets/img/static/contributors/kat.png"
 firstname: "Katherine"
 lastname: "Waters"
 gender: "she/her"
-principle_id: "publicly-financed-software-must-be-open"
+principle_id: ""
 vision_id: ""
 ---
 
