@@ -8,7 +8,7 @@ firstname: "Victoria"
 lastname: "Kure-Wu"
 gender: "she/her"
 principle_id: ""
-vision_id: "5-metaverses-and-borderlands"
+vision_id: ""
 ---
 
 Victoria Kure-Wu is an expert for usability, user experience and human centered design. She builds concepts for digital interfaces. Also, she shares her knowledge in different anti-racist projects. <br>
