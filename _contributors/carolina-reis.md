@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/caro.png"
 firstname: "Carolina"
 lastname: "Reis"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "invisibilized-labor-exacerbates-social-inequality"
 vision_id: ""
 ---
