@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/laurence.png"
 firstname: "Laurence"
 lastname: "Meyer"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "healing-and-empowerment-instead-of-profit-maximization-and-tech-solutionism"
 vision_id: ""
 ---
