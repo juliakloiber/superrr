@@ -7,7 +7,7 @@ img: "/assets/img/static/contributors/michelle.png"
 firstname: "Michelle"
 lastname: "Thorne"
 gender: "she/her"
-principle_id: "climate-action-and-social-equity-are-linked"
+principle_id: "climate-action-and-social-equity-are-linked,sustained-maintenance-and-sharing-instead-of-innovation-at-all-costs"
 vision_id: ""
 ---
 Michelle Thorne is interested in climate justice and a fossil-free internet. As a Senior Program Officer at the Mozilla Foundation, Michelle leads a PhD program on Open Design of Trust Things (OpenDoTT) with Northumbria University and research initiatives in Mozilla’s Sustainability Program.
