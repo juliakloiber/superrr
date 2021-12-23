@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/naomi.png"
 firstname: "Naomi Alexander"
 lastname: "Naidoo"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "design-must-support-informed-consent"
 vision_id: ""
 ---
