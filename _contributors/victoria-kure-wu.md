@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/victoria.png"
 firstname: "Victoria"
 lastname: "Kure-Wu"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: ""
 vision_id: ""
 ---
