@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/safa.png"
 firstname: "Safa"
 lastname: "Ghnaim"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: ""
 vision_id: "6-the-friendzzz-app-has-requested-to-collect-your-data"
 ---
