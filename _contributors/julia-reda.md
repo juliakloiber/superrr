@@ -17,4 +17,4 @@ Currently located in: Berlin, Germany <br>
 [freiheitsrechte.org/copyright-law](https://freiheitsrechte.org/copyright-law/) <br>
 @Senficon<br>
 <br>
-Photo credit: Diana Levine
+_Photo credit: Diana Levine_
