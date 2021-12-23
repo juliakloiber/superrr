@@ -2,7 +2,7 @@
 title: "Creating safer spaces online is an ongoing relational negotiation process."
 order: 9
 category: Interpersonal
-category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
+category_description: "Focussing on our relationships with other people"
 anchor: interpersonal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
