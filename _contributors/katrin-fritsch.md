@@ -7,7 +7,7 @@ img: "/assets/img/static/contributors/katrin.png"
 firstname: "Katrin"
 lastname: "Fritsch"
 gender: "she/her"
-principle_id: "your-digital-identity-is-yours-to-define"
+principle_id: ""
 vision_id: ""
 ---
 
