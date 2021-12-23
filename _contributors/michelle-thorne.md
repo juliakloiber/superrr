@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/michelle.png"
 firstname: "Michelle"
 lastname: "Thorne"
-gender: "she/her"
+gender: ""
 principle_id: "climate-action-and-social-equity-are-linked,sustained-maintenance-and-sharing-instead-of-innovation-at-all-costs"
 vision_id: ""
 ---
