@@ -2,7 +2,7 @@
 title: "Healing and empowerment over profit maximisation and tech-solutionism."
 order: 4
 category: Societal
-category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
+category_description: "Focussing on matters of communities, societal structures, location, economies"
 anchor: societal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
