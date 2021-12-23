@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/chinmayi.png"
 firstname: "Chinmayi"
 lastname: "SK"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: ""
 vision_id: "4-dear-diary-trust-and-dating-in-2030"
 ---
