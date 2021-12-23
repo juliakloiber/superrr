@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/julia.png"
 firstname: "Julia"
 lastname: "Reda"
-gender: "they/them"
+gender: "(they/them)"
 principle_id: "publicly-financed-software-must-be-open"
 vision_id: ""
 ---
