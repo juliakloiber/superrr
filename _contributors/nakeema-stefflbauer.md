@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/nakeema.png"
 firstname: "Nakeema"
 lastname: "Stefflbauer"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "privacy-by-default-instead-of-surveillance-by-default"
 vision_id: ""
 ---
