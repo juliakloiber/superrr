@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/vanessa.png"
 firstname: "Vanessa A."
 lastname: "Opoku"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: ""
 vision_id: "5-metaverses-and-borderlands"
 ---
