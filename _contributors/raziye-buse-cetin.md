@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/buse.png"
 firstname: "Raziye Buse"
 lastname: "Çetin"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: ""
 vision_id: "3-the-muhabbet-hub"
 ---
