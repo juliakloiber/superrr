@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/chenai.png"
 firstname: "Chenai"
 lastname: "Chair"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "accessibility-equitable-participation-and-representation-are-essential-for-digital-tools-that-work-for-everyone"
 vision_id: ""
 ---
