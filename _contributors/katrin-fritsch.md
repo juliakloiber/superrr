@@ -17,4 +17,4 @@ Currently located in: Berlin, Germany <br>
 [katrinfritsch.com](www.katrinfritsch.com) <br>
 @KatrinFritsch <br>
 <br>
-Photo credit: vakat.at
+_Photo credit: vakat.at_
