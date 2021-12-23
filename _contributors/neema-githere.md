@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/neema.png"
 firstname: "Neema"
 lastname: "Githere"
-gender: "they/she"
+gender: "(they/she)"
 principle_id: ""
 vision_id: "2-the-data-healing-recovery-clinic"
 ---
