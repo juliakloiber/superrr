@@ -6,7 +6,7 @@ layout: fellow
 img: "/assets/img/static/contributors/sarah.png"
 firstname: "Sarah Devi"
 lastname: "Chander"
-gender: "she/her"
+gender: "(she/her)"
 principle_id: "technological-progress-should-not-be-pursued-and-facilitated-at-all-costs"
 vision_id: ""
 ---
