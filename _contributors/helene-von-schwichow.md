@@ -7,7 +7,7 @@ img: "/assets/img/static/contributors/helene.png"
 firstname: "Helene"
 lastname: "von Schwichow"
 gender: "she/her"
-principle_id: "your-digital-identity-is-yours-to-define"
+principle_id: ""
 vision_id: ""
 ---
 
