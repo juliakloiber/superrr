@@ -1,12 +1,14 @@
 ---
 title: "Chinmayi SK - Feminist Tech Principles"
+slug: "chinmayi-sk"
 order: 5
 layout: fellow
 img: "/assets/img/static/contributors/chinmayi.png"
 firstname: "Chinmayi"
 lastname: "SK"
 gender: "she/her"
-principle_id: "4-dear-diary-trust-and-dating-in-2030"
+principle_id: ""
+vision_id: "4-dear-diary-trust-and-dating-in-2030"
 ---
 
 Chinmayi is the founder of The Bachchao Project. She has a degree in computer science and has spent over a decade in technology for good and open technology communities.

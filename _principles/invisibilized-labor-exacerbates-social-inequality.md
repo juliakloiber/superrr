@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: "Today's digital technologies rely upon the extraction of non-renewable resources and labour which numerous processes render invisible and often amounts to modern slavery. This exacerbates social inequalities and global North-South injustice. Supply chains as well as the inequality footprint of our technology must be made visible. Exploitative working conditions must end and profits must be shared equitably along the chain of production."
 ---
 
-### Carolina Reis:
+## Carolina Reis:
 
 »Global tech production is highly integrated but its profits are not shared equally between its workers. Tech supply chains, production and delivery rely largely on forced or cheap labour, which [affect women disproportionately](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm), particularly in the Global South. Since feminist theories of technology aim to challenge the patriarchal, capitalist, and colonialist systems that permeate tech economic activities, enforcing this principle is essential to achieving a feminist digital future.
 This principle applies to labour that is visible and labour that is made invisible. 

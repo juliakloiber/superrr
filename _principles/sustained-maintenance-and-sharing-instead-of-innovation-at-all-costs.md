@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: "Innovation should not come at any cost. We should move away from short-term innovation cycles, towards longevity and openness. This is paramount to creating tech that functions within planetary boundaries. The appreciation of, and value accorded to, maintenance and interoperability must increase."
 ---
 
-### Fieke Jansen & Michelle Thorne
+## Fieke Jansen & Michelle Thorne
 
 »By reframing innovation as a problem, we can centre technology in challenges that are about power, extractive practices, wealth and inequality. 
 

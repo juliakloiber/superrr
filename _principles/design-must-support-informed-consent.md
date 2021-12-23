@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: "Asking for and obtaining consent respects a person's right to autonomy and agency. For consent to be valid, it must be voluntary, informed and reversible. However, individuals should not be burdened with every decision. We also need strong policies that protect the privacy of individuals and groups."
 ---
 
-### Elena Silvestrini & Naomi Alexander Naidoo:
+## Elena Silvestrini & Naomi Alexander Naidoo:
 
 »Today’s technology falls short on consent. While international regulation such as the GDPR has enhanced awareness of the importance of consent, these measures often involve a very limited understanding of consent as rigid, inflexible and shallow. Consent is frequently demanded in exchange for access to vital products and services, and is rarely explained in a clear or accessible way. Meaningful consent – which must be voluntary (we are given a genuine choice); informed (we have sufficient information to decide whether or not to consent); and reversible (we can withdraw our consent at any time) – remains rare. 
 

@@ -1,5 +1,6 @@
 ---
 title: "Katherine Waters - Feminist Tech Principles"
+slug: "katherine-waters"
 order: 11
 layout: fellow
 img: "/assets/img/static/contributors/kat.png"
@@ -7,6 +8,7 @@ firstname: "Katherine"
 lastname: "Waters"
 gender: "she/her"
 principle_id: "publicly-financed-software-must-be-open"
+vision_id: ""
 ---
 
 Katherine is an editor and writer from London. <br>

@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: 'Accessibility is not a »nice to have«. It is a human right. Marginalised groups must be active stakeholders at all stages of design and policy processes. Building *with* marginalized people, not *for* them.'
 ---
 
-### Chenai Chair:
+## Chenai Chair:
 
 »Just under half the world’s population still do not have access to the internet. Unconnected citizens can be found across the world, but predominantly the global south. Even those who are connected are not guaranteed an internet free from censorship or proprietary technology. Nationally as well as globally, the digital divide is recognised as a benchmark of government performance. The success of digital inclusion policies also indicates levels of inclusion in the digital economy. 
 

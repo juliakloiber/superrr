@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: 'Self-governance of data is fundamental to the equitable functioning of the internet. We must all have the agency to determine how, for what purposes, when and for how long our data is used, shared and saved.'
 ---
 
-### Nakeema Stefflbauer:
+## Nakeema Stefflbauer:
 
 »Data has been called 'the new oil' by companies in the digital realm that are in a position to aggregate it. However, the value of our personal data – and the question of who should govern it – does not receive the same attention. While we might recognise the promise of algorithmic recommendations on the internet, few of us realise what these systems really do – namely, ring-fence all the quirky, unique aspects of who we are and magnify simplified representations of our identities ('personas') that can easily be categorised, ported and monetised.
 

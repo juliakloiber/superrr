@@ -2,13 +2,14 @@
 title: "Creating safer spaces online is an ongoing relational negotiation process."
 order: 9
 category: Interpersonal
+category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
 anchor: interpersonal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
 description: 'In order to create safer spaces online, technology must be designed to counter hate speech, dis- and misinformation. Effective, trauma-informed mechanisms to report and analyse abuse or harmful flaws in tech must become mandatory. Creating online spaces for collaboration and exchange where people have support, and feel empowered to speak freely is an ongoing and relational negotiation process.'
 ---
 
-### Nighat Dad:
+## Nighat Dad:
 
 »There is a gender-based digital divide, particularly in the Global South. Globally, women are [7% less likely](https://www.gsma.com/betterfuture/2020sdgimpactreport/wp-content/uploads/2020/09/2020-Mobile-Industry-Impact-Report-SDGs.pdf?utm_source=better_future_site&utm_medium=search_engine&utm_campaign=2020_SDG_impact_report) to own a mobile phone than men. This gap increases significantly in parts of Asia, Africa and Latin America where many girls and women do not have access to the internet and face significant hurdles to owning electronic devices such as laptops and mobile phones due to restrictions from their families and partners. Equally, it is important to recognise that merely having internet access or possessing a device can faciliitate insecurity and violence in countries where so-called 'honour killings' take place.
 

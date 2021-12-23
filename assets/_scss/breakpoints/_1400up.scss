@@ -1,3 +1,23 @@
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1 {
+  font-size: rem(70);
+}
+
+h2, .h2 {
+  font-size: rem(42);
+}
+
+h3, .h3 {
+  font-size: rem(36);
+}
+
+a, p, li, h4 {
+  font-size: 1.25rem;
+}
+
 /*********************
 HEADER STYLES
 *********************/
@@ -11,6 +31,12 @@ HEADER STYLES
 LAYOUT & GRID STYLES
 *********************/
 
+.content-wrap-inner {
+  &.shrinked {
+    width: 780px;
+  }
+}
+
 /* see partials/_bootstrap-grid24.scss */
 
 .section {
@@ -23,15 +49,17 @@ LAYOUT & GRID STYLES
     padding: 0;
   }
 
+  &.image {
+    .content-wrap-inner {
+      width: 100%;
+    }
+  }
+
 }
 
 /*********************
 PAGE & SECTIONS
 *********************/
-
-a, p, li, h4 {
-  font-size: 1.5rem;
-}
 
 blockquote{
 
@@ -44,12 +72,14 @@ p {
 FELLOWS
 *********************/
 
+/*
 .fellows{
   a, p, li {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     line-height: 1.5;
   }
 }
+*/
 
 .fellow-name, .fellow-project-name{
   font-size: 2.5rem;
@@ -64,14 +94,6 @@ FELLOWS
       width: 40%;
     }
   }
-}
-
-
-/*********************
-HOME
-*********************/
-.intro-text{
-  font-size: 1.75rem !important;
 }
 
 /*********************

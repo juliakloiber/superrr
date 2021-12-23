@@ -148,8 +148,13 @@ probably best not to use it. I mean, were you going to anyway? */
 @mixin bordered-box() {
   background-color: white;
   border-radius: 30px;
-  padding: 2rem 1rem;
+  padding: 1.25rem 1.25rem 2rem 1.25rem;
   display: block;
+
+  @include media-breakpoint-up(sm) {
+    padding: 3rem;
+  }
+
   @include media-breakpoint-up(md) {
     padding: 3rem;
   }
@@ -197,5 +202,10 @@ probably best not to use it. I mean, were you going to anyway? */
   -webkit-box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
   box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
   z-index: 1;
+}
+
+@function rem($value) {
+  $remValue: ($value / 14) + rem;
+  @return $remValue;
 }
 

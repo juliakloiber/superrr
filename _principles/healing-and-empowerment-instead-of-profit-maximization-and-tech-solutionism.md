@@ -2,13 +2,14 @@
 title: "Healing and empowerment over profit maximisation and tech-solutionism."
 order: 4
 category: Societal
+category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
 anchor: societal
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
 description: "Algorithmic decision-making systems and facial recognition tools used by governments and industries currently obscure and reinforce existing injustices. Instead of creating safer spaces for discourse and exchange, social media networks capitalise on trauma and hate speech. More broadly, digital technologies surveil, control and radicalise their users. To ensure collective and individual well-being and flourishing, technologies must center around the needs of communities rather than prioritising profit maximisation above all."
 ---
 
-### Laurence Meyer:
+## Laurence Meyer:
 
 »Centring healing allows for trauma and inequality in death to be identified as the main products of the oppressive systems in which we live. Prentice Hemphill writes that “systemic oppressions are, in many ways, enforced through trauma”. Trauma is an extremely efficient tool of white cis-heterosexual capitalist patriarchal systems. It also organises what Ruth Wilson Gilmore defines as “the state-sanctioned and/or extralegal production and exploitation of group-differentiated vulnerability to premature death.” Black women are dying in childbirth at a higher rate than white women. Trans women of colour are dying prematurely. Significant disparities in life expectancy exist for people of colour, specifically Black and indigenous people in settler colonies. Women of colour – the majority of women on the planet – are disproportionately confronted with death. 
 

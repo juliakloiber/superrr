@@ -27,7 +27,7 @@ type: fellows
                     {% assign tags = item.tags | join:' ' %}
                     {% assign tags = "" | append:tags %}
                     {% assign index = forloop.index0 %}
-                    {% include sections/contributor-teaser.liquid item=item %}
+                    {% include sections/contributor-teaser.liquid item=item index=index %}
                     {% endfor %}
                 </div>
             </div>

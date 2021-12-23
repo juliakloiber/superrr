@@ -1,17 +1,43 @@
-<div class="col-24 contributor with-fade-in mb-5 pb-sm-5">
+<div id="{{ item.slug }}" class="col-24 contributor with-fade-in mb-4 pb-md-5">
     <div class="contributor-inner with-shadow">
         <div class="row">
-            <div class="contributor-image col-24 col-sm-8 col-md-6">
+            <div class="contributor-image col-24 col-md-8 col-lg-6">
                 <img class="img-responsive lazyload" data-src="{{ site.baseurl }}{{ item.img }}" />
             </div>
-            <div class="contributor-content col-24 col-sm-16 col-md-18 pl-sm-4">
-                <h3 class="contributor-title text-center text-sm-left my-5 mt-sm-0 mb-sm-2">{{ item.firstname }} {{ item.lastname }} <span class="contributor-gender font-regular fontsize-22 d-block d-sm-inline">({{ item.gender }})</span></h3>
-                {{ item.content }}
-                <div class="mt-5 d-flex text-center text-sm-left">
-                    {% assign link = "Go to " | append: item.firstname | append: "'s contribution" %}
-                    {% assign href = site.baseurl | append: "/feministtech/principle/" | append: item.principle_id %}
-                    {% include partials/ftf-pill.liquid text=link href=href %}
+            <div class="contributor-content col-24 col-md-16 col-lg-18 pl-md-5">
+                <div class="contributor-title text-center text-md-left my-5 mt-md-0 mb-md-4">
+                    <h2 class="contributor-title-text pr-md-2">{{ item.firstname }} {{ item.lastname }}</h2>
+                    {% if item.gender %} <span class="contributor-gender font-regular fontsize-22 d-block d-md-inline">{{ item.gender }}</span>{% endif %}
                 </div>
+                <div class="pr-md-4 pr-lg-0">{{ item.content }}</div>
+                {% if item.principle_id.size  > 0 %}
+                    {% assign principles = item.principle_id | split: "," %}
+                    {% for principle_id in principles %}
+                        <div class="{% if forloop.first == true %}mt-5{% else %}mt-2{% endif %} d-flex justify-content-center justify-content-md-start text-center text-md-left px-3 px-md-0">
+                            {% if forloop.first == true %}
+                                {% assign link = "Read " | append: item.firstname | append: "'s principle" %}
+                            {% else %}
+                                {% assign link = "Read " | append: item.firstname | append: "'s " | append: forloop.index | append: "nd principle" %}
+                            {% endif %}
+                            {% assign href = site.baseurl | append: "/feministtech/principle/" | append: principle_id %}
+                            {% include partials/ftf-pill.liquid text=link href=href classes="justify-content-center" %}
+                        </div>
+                    {% endfor %}
+                {% endif %}
+                {% if item.vision_id.size  > 0 %}
+                    {% assign visions = item.vision_id | split: "," %}
+                    {% for vision_id in visions %}
+                        <div class="{% if forloop.first == true %}mt-5{% else %}mt-2{% endif %} d-flex justify-content-center justify-content-md-start text-center text-md-left px-3 px-md-0">
+                            {% if forloop.first == true %}
+                                {% assign link = "Read " | append: item.firstname | append: "'s vision" %}
+                            {% else %}
+                                {% assign link = "Read " | append: item.firstname | append: "'s " | append: forloop.index | append: "nd vision" %}
+                            {% endif %}
+                            {% assign href = site.baseurl | append: "/feministtech/vision/" | append: vision_id %}
+                            {% include partials/ftf-pill.liquid text=link href=href classes="justify-content-center" %}
+                        </div>
+                    {% endfor %}
+                {% endif %}
             </div>
         </div>
     </div>

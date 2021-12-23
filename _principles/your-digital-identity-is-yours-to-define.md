@@ -2,13 +2,14 @@
 title: "Your (digital) identity is yours to define."
 order: 11
 category: The Self
+category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
 anchor: "the-self"
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
 description: 'Our identities are not static and this must be reflected in the digital realm. We need mechanisms that allow for digital identities to be fluid, to change over time, embrace non-binary concepts and defy established categorisations. Self-determination must be at the core of digital identity.'
 ---
 
-### Cami Rincón:
+## Cami Rincón:
 
 »The decision to articulate, measure and operationalise identity is neither neutral nor universally accepted as an appropriate practice of [recognition](https://reallifemag.com/counting-the-countless/). In turn, policy should not treat it as such.
 

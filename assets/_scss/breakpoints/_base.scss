@@ -18,9 +18,9 @@ FONTSIZES
 $fontsize-120: 3.75rem !important;
 $fontsize-70: 2.5rem !important;
 $fontsize-50: 2rem !important;
-$fontsize-40: 1.75rem !important;
-$fontsize-28: 1.75rem !important;
-$fontsize-24: 1.5rem !important;
+$fontsize-40: 1.5rem !important;
+$fontsize-28: 1.4rem !important;
+$fontsize-24: 1.4rem !important;
 $fontsize-22: 1.25rem !important;
 
 .fontsize-120 {
@@ -96,6 +96,8 @@ body.feminist-tech {
 
   .teaser-card-image img {
     border-radius: 1.5rem !important;
+    width: 100%;
+    height: auto;
   }
 
   .page-wrap ul li:before {
@@ -210,7 +212,7 @@ html{
   overflow-y: auto;
   height: auto;
   min-height: 100%;
-  scroll-behavior: smooth;
+  /*scroll-behavior: smooth;*/
 }
 
 html, body{
@@ -274,9 +276,9 @@ LAYOUT & GRID STYLES
 }
 
 .section-headline{
-  font-size: $fontsize-28;
+  font-size: $fontsize-70;
   a {
-    font-size: $fontsize-28;
+    font-size: $fontsize-70;
   }
   text-transform: uppercase;
   width: 100%;
@@ -303,6 +305,10 @@ LAYOUT & GRID STYLES
   position: relative;
   display: block;
 
+  .ftf-home {
+    padding-top: 60px;
+  }
+
   &.flex{
     display: flex;
   }
@@ -312,7 +318,8 @@ LAYOUT & GRID STYLES
     margin: 0 auto;
 
     .content-wrap-inner {
-      width: 100%;
+      width: calc(100% - 2rem);
+      max-width: 1400px;
     }
 
   }
@@ -543,13 +550,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 1.75rem;
+  font-size: 3rem;
   line-height: 1.1em;
   margin-bottom: 2rem;
 }
 
 h2, .h2 {
-  font-size: 2.25rem;
+  font-size: 2.5rem;
   line-height: 1.1em;
   margin-bottom: 2rem;
 }
@@ -892,7 +899,13 @@ MAIN NAV
   }
 
   .navigation-left-wrap-inner{
-    padding: 2.5rem;
+    margin: 1rem;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
   }
 
   width: 320px;
@@ -1044,6 +1057,10 @@ MAIN NAV
 }
 .nav-close-btn{
   cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
 
   svg {
     object-fit: contain;
@@ -1219,7 +1236,7 @@ a.bg-hover{
       margin: 0 auto;
 
       .teaser-card-image{
-        background-size: cover;
+        background-size: contain;
         background-repeat: no-repeat;
         padding-top: 0%;
         padding-bottom: 2rem;
@@ -1302,9 +1319,9 @@ PAGE & SECTIONS
 }
 
 .content-wrap-inner{
-  width: 90%;
+  width: 88%;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1000px;
   &.full{
     max-width: 70%;
   }
@@ -1791,6 +1808,12 @@ CONTRIBUTORS
       }
     }
 
+    &-title {
+      &-text {
+        margin-bottom: 0;
+      }
+    }
+
   }
 }
 
@@ -1805,6 +1828,13 @@ PRINCIPLES
   }
 }
 
+.principles-intro {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 .principle-info-box {
   margin-top: 75px;
   @include bordered-box();
@@ -1816,15 +1846,15 @@ FTF ABOUT
 *********************/
 
 .ftf-quote {
-  margin: 75px 0;
+  margin: 75px 20px;
   blockquote {
     margin: 0;
     font-family: $font-basteleur;
     color: $color-ftf-red;
-    font-size: 1.25rem;
+    font-size: 1.4rem;
     text-align: left;
     span {
-      font-size: 1.25rem;
+      font-size: 1.4rem;
       margin-top: 1.5rem;
       display: block;
     }
@@ -2102,9 +2132,6 @@ FOOTER STYLES
         display: none;
       }
       margin-bottom: 0;
-      a{
-        font-size: $fontsize-40;
-      }
     }
 
   }

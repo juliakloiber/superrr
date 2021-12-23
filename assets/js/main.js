@@ -247,6 +247,9 @@
                 .fromTo($header, 2, {backgroundPosition: '0% 0%', ease:Sine.easeInOut}, {backgroundPosition: '0% 100%', ease:Sine.easeInOut},'transform')
                 .addPause();
 
+            var h = ref.viewport().height - $header.height();
+            $('.navigation-left-wrap-inner').height(h);
+
             sm_scene = new ScrollMagic.Scene({triggerElement: "body", triggerHook: 'onLeave', duration: $('body').height(), offset: 0})
                 .setTween(superrrTimeline)
                 //.addIndicators({name: "#trigger"}) // add indicators (requires plugin)
@@ -649,6 +652,24 @@
             name: M[0],
             version: M[1]
         };
+    };
+
+    /*
+     *
+     * GENERIC HELPERS - GETTER/SETTER FUNCTIONS
+     *
+     * */
+
+    //this returns the "real" windows width/height as used in media queries (returns Object{ width:x, height:y })
+    Controller.prototype.viewport = function()
+    {
+        var e = window, a = 'inner';
+        if (!('innerWidth' in window )) {
+            a = 'client';
+            e = document.documentElement || document.body;
+        }
+
+        return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
     };
 
     /*********************

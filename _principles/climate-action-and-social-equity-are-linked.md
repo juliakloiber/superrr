@@ -2,13 +2,14 @@
 title: "Climate action and social equity are interlinked."
 order: 1
 category: Global
+category_description: "Focussing on the interconnections between humans, animals, nature and the planet"
 anchor: global
 layout: principle
 img: "/assets/img/static/principles/1000x1000.png"
 description: "Tech solutions are not neutral: what they optimise must be interrogated. The current system follows a political and economic model that privatises gains in the hands of a few and socialises harms on populations and the planet. To optimise for a feminist future centered around equality and sustainability, it is crucial to see and understand the links between climate action, historical and contemporary colonial structures and social equity."
 ---
 
-### Fieke Jansen & Michelle Thorne:
+## Fieke Jansen & Michelle Thorne:
 
 »The climate crisis and the future of technology are inextricably linked and must be seen as such. But at the political and economic level, the two are merely [framed as](https://www.euractiv.com/section/digital/opinion/the-eu-is-ignoring-ais-effect-on-the-climate-crisis/) intersecting at the question of how technology can support responses to the climate crisis. Examples include more efficient data centres, more efficient pesticide uses in agriculture and having early warning systems for when things go wrong. 
 

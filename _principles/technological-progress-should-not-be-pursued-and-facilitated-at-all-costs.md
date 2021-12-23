@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: 'Some technologies are simply too harmful to be deployed in the first place. Red lines on harmful technological practices must be set and more research must be conducted on the potential harm of emerging technologies on communities at the margins. Processes for feedback, evaluation and veto must be established.'
 ---
 
-### Sarah Chander:
+## Sarah Chander:
 
 »Currently, there exists no right to review and revoke technology. The dominance of Big Tech, alongside the increased equation of capitalist extraction with technological progress, has led to an overwhelming presumption among policymakers, industry, and even parts of civil society, that the societal impacts of technology are, at the very least, “neutral”, and that technology represents, by nature, progress to be pursued and facilitated at all costs.
 

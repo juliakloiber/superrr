@@ -31,7 +31,10 @@ type: fellows
                     <div id="accordion" class="accordion">
                         {% for item in principles %}
                             {% if item.category %}
-                                <h3 id="{{ item.anchor }}" class="principles-headline color-ftf-red text-center">{{ item.category }}</h3>
+                                <h2 id="{{ item.anchor }}" class="{% if item.category_description %}mb-0{%endif%} principles-headline color-ftf-red text-center">{{ item.category }}</h2>
+                            {% endif %}
+                            {% if item.category_description %}
+                                <p class="color-ftf-red principles-intro">{{ item.category_description }}</p>
                             {% endif %}
                             {% include sections/principle-teaser.liquid item=item %}
                         {% endfor %}

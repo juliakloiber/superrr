@@ -25,11 +25,24 @@ LAYOUT & GRID STYLES
 /*********************
 PAGE & SECTIONS
 *********************/
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
 h1, .h1 {
+  font-size: 4.25rem;
+}
+
+h2, .h2 {
+  font-size: 3.75rem;
+}
+
+h3, .h3 {
   font-size: 2.75rem;
 }
+
 a, p, li, h4 {
-  font-size: 1.75rem;
+  font-size: 1.6rem;
 }
 blockquote{
   font-size: 3.75rem;
@@ -76,9 +89,9 @@ MAIN NAV
 HOME
 *********************/
 .intro-text{
-  font-size: 1.75rem !important;
+  font-size: 1.5rem !important;
   a, p{
-    font-size: 1.75rem !important;
+    font-size: 1.5rem !important;
   }
 }
 
@@ -98,7 +111,7 @@ CITY
 }
 
 .ftf-quote {
-  margin: 75px 0;
+  margin: rem(75) 0;
   @include bordered-box();
   @include ftf-shadow();
   blockquote {
@@ -162,4 +175,24 @@ FOOTER STYLES
       display: inline;
     }
   }
+}
+
+/*********************
+CONTRIBUTORS
+*********************/
+
+.contributors-holder {
+  .contributor {
+    &-title {
+      position: relative;
+      &-text {
+        display: inline-block;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+.content-wrap-inner {
+  width: 80%;
 }
