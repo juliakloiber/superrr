@@ -7,7 +7,7 @@ img: "/assets/img/static/contributors/fieke.png"
 firstname: "Fieke"
 lastname: "Jansen"
 gender: "she/her"
-principle_id: "climate-action-and-social-equity-are-linked"
+principle_id: "climate-action-and-social-equity-are-linked,sustained-maintenance-and-sharing-instead-of-innovation-at-all-costs"
 vision_id: ""
 ---
 
