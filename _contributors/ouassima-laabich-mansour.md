@@ -1,7 +1,7 @@
 ---
 title: "Ouassima Laabich-Mansour - Feminist Tech Principles"
 slug: "ouassima-laabich-mansour"
-order: 26
+order: 23
 layout: fellow
 img: "/assets/img/static/contributors/ouassima.png"
 firstname: "Ouassima"
