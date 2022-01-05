@@ -1,7 +1,7 @@
 ---
 title: "Raziye Buse Çetin - Feminist Tech Principles"
 slug: "raziye-buse-cetin"
-order: 20
+order: 24
 layout: fellow
 img: "/assets/img/static/contributors/buse.png"
 firstname: "Raziye Buse"
