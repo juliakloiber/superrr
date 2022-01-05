@@ -1,7 +1,7 @@
 ---
 title: "Maya Ober - Feminist Tech Principles"
 slug: "maya-ober"
-order: 14
+order: 16
 layout: fellow
 img: "/assets/img/static/contributors/maya.png"
 firstname: "Maya"
