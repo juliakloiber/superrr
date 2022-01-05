@@ -1,7 +1,7 @@
 ---
 title: "Julia Kloiber - Feminist Tech Principles"
 slug: "julia-kloiber"
-order: 24
+order: 11
 layout: fellow
 img: "/assets/img/static/contributors/julia-k.png"
 firstname: "Julia"
