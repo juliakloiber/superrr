@@ -1,7 +1,7 @@
 ---
 title: "Elisa Lindinger - Feminist Tech Principles"
 slug: "elisa-lindinger"
-order: 25
+order: 8
 layout: fellow
 img: "/assets/img/static/contributors/elisa.png"
 firstname: "Elisa"
