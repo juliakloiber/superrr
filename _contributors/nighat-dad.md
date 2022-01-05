@@ -1,7 +1,7 @@
 ---
 title: "Nighat Dad - Feminist Tech Principles"
 slug: "nighat-dad"
-order: 19
+order: 21
 layout: fellow
 img: "/assets/img/static/contributors/nighat.png"
 firstname: "Nighat"
