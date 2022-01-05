@@ -1,7 +1,7 @@
 ---
 title: "Victoria Kure-Wu - Feminist Tech Principles"
 slug: "victoria-kure-wu"
-order: 23
+order: 28
 layout: fellow
 img: "/assets/img/static/contributors/victoria.png"
 firstname: "Victoria"
