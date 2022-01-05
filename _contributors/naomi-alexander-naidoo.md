@@ -1,7 +1,7 @@
 ---
 title: "Naomi Alexander Naidoo - Feminist Tech Principles"
 slug: "naomi-alexander-naidoo"
-order: 17
+order: 19
 layout: fellow
 img: "/assets/img/static/contributors/naomi.png"
 firstname: "Naomi Alexander"
