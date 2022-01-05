@@ -1,7 +1,7 @@
 ---
 title: "Neema Githere - Feminist Tech Principles"
 slug: "neema-githere"
-order: 18
+order: 20
 layout: fellow
 img: "/assets/img/static/contributors/neema.png"
 firstname: "Neema"
