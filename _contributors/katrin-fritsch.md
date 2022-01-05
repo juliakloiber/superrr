@@ -1,7 +1,7 @@
 ---
 title: "Katrin Fritsch - Feminist Tech Principles"
 slug: "katrin-fritsch"
-order: 12
+order: 14
 layout: fellow
 img: "/assets/img/static/contributors/katrin.png"
 firstname: "Katrin"
