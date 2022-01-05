@@ -1,7 +1,7 @@
 ---
 title: "Laurence Meyer - Feminist Tech Principles"
 slug: "laurence-meyer"
-order: 13
+order: 15
 layout: fellow
 img: "/assets/img/static/contributors/laurence.png"
 firstname: "Laurence"
