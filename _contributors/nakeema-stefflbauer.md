@@ -1,7 +1,7 @@
 ---
 title: "Nakeema Stefflbauer - Feminist Tech Principles"
 slug: "nakeema-stefflbauer"
-order: 16
+order: 18
 layout: fellow
 img: "/assets/img/static/contributors/nakeema.png"
 firstname: "Nakeema"
