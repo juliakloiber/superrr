@@ -1,7 +1,7 @@
 ---
 title: "Michelle Thorne - Feminist Tech Principles"
 slug: "michelle-thorne"
-order: 15
+order: 17
 layout: fellow
 img: "/assets/img/static/contributors/michelle.png"
 firstname: "Michelle"
