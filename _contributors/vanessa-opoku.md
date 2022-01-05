@@ -1,7 +1,7 @@
 ---
 title: "Vanessa A. Opoku - Feminist Tech Principles"
 slug: "vanessa-a-opoku"
-order: 23
+order: 27
 layout: fellow
 img: "/assets/img/static/contributors/vanessa.png"
 firstname: "Vanessa A."
