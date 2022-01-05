@@ -1,7 +1,7 @@
 ---
 title: "Helene von Schwichow - Feminist Tech Principles"
 slug: "helene-von-schwichow"
-order: 9
+order: 10
 layout: fellow
 img: "/assets/img/static/contributors/helene.png"
 firstname: "Helene"
