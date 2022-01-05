@@ -1,7 +1,7 @@
 ---
 title: "Nushin Yazdani - Feminist Tech Principles"
 slug: "nushin-yazdani"
-order: 27
+order: 22
 layout: fellow
 img: "/assets/img/static/contributors/nushin.png"
 firstname: "Nushin"
