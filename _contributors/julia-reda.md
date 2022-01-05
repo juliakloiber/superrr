@@ -1,7 +1,7 @@
 ---
 title: "Julia Reda - Feminist Tech Principles"
 slug: "julia-reda"
-order: 10
+order: 12
 layout: fellow
 img: "/assets/img/static/contributors/julia.png"
 firstname: "Julia"
