@@ -1,7 +1,7 @@
 ---
 title: "Sarah Devi Chander - Feminist Tech Principles"
 slug: "sarah-devi-chander"
-order: 22
+order: 26
 layout: fellow
 img: "/assets/img/static/contributors/sarah.png"
 firstname: "Sarah Devi"
