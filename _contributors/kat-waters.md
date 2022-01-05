@@ -1,7 +1,7 @@
 ---
 title: "Katherine Waters - Feminist Tech Principles"
 slug: "katherine-waters"
-order: 11
+order: 13
 layout: fellow
 img: "/assets/img/static/contributors/kat.png"
 firstname: "Katherine"
