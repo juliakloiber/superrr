@@ -1,7 +1,7 @@
 ---
 title: "Safa Ghnaim - Feminist Tech Principles"
 slug: "safa-ghnaim"
-order: 21
+order: 25
 layout: fellow
 img: "/assets/img/static/contributors/safa.png"
 firstname: "Safa"
