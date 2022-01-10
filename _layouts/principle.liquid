@@ -20,6 +20,7 @@
             <div class="content-wrap navigation-left-victim">
                 <div class="section fullwidth home-hero padded bg-white mobile-padded">
                     <div class="content-wrap-inner intro-wrap shrinked">
+                        <h1 class="h1 color-ftf-red">{{ page.order }}</h1>
                         <h1 class="mb-5">{{ page.title }}</h1>
                     </div>
                     <div class="content-wrap-inner">
@@ -38,7 +39,7 @@
                             {% capture the_collection %}{{ page.collection }}{% endcapture %}
 
                             {% if page.collection %}
-                                {% assign document = site[the_collection] %}
+                                {% assign document = site[the_collection] | sort: 'order' %}
                             {% endif %}
 
                             {% for links in document %}
