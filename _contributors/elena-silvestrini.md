@@ -11,7 +11,7 @@ principle_id: "design-must-support-informed-consent"
 vision_id: ""
 ---
 
-Elena Silvestrini is one of the founders of Chayn Italia, a collaborative project fighting gender based violence through technology and capacity building. She leads facilitation and training at Platoniq Creatividad y Democracia, a Spain based organisation focused on participatory processes and technopolitics. <br>
+Elena Silvestrini is one of the founders of Chayn Italia, a collaborative project fighting gender based violence through technology and capacity building. She leads facilitation and training at Platoniq Creatividad y Democracia, a Spain based organisation focused on participatory processes and technopolitics. Starting January 2022 she is member of the Design Justice Network global Steering Committee. <br>
 <br>
 Currently located in: Rome, Italy <br>
 [chaynitalia.org](https://chaynitalia.org/) <br>
