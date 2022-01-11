@@ -7,7 +7,7 @@ teaser_img: "/assets/img/static/projects/feminist-tech-policy.jpg"
 hero_img: "/assets/img/static/projects/feminist-tech-policy-hero.jpg"
 external_link: ""
 link: '/project/feminist-tech-policy'
-description: "We are developing the first feminist tech policy framework alongside a set of narrative future visions of just technology that serves a diverse society."
+description: "We are developing the first feminist tech policy alongside a set of narrative future visions of just technology that serves a diverse society."
 
 ---
 <p>
@@ -24,8 +24,7 @@ Technology which is considered from a narrow or single perspective leads to unre
 </p>
 <p>
 Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further.
-
-<a href="https://superrr.net/feministtech/">https://superrr.net/feministtech/</a>
+<br><br> Visit the project website: <a href="https://superrr.net/feministtech/">https://superrr.net/feministtech/</a>
 </p>
 <p>
 This project is supported by the program <a href="https://www.bosch-stiftung.de/en/project/support-program-reducing-inequalities-through-intersectional-practice/supported-projects">Reducing Inequalities Through Intersectional Practice</a> of the Robert Bosch Stiftung.
