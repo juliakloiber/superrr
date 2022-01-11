@@ -11,17 +11,12 @@ description: "We are developing the first feminist tech policy alongside a set o
 
 ---
 <p>
-Whether speaking of artificial intelligence, facial recognition, credit-scoring or social-scoring – today’s digital technologies already disadvantage marginalised groups. One reason for this biased pattern of impact is that representatives of marginalized groups are not sufficiently involved in the tech industry nor in policy discussions on technology. As a result, their experiences in dealing with discriminatory technologies are too seldom heard by decision-makers and direct influence on the creation process of new technologies is hardly possible.
+Technology which is considered from a narrow or single perspective leads to unrepresentative regulation and the reinforcement of existing intersectional injustices. Current digitisation narratives are economic in nature and serve the interests of corporations over societies and minorities. By contrast, Feminist Tech Policy takes a holistic view to examine digitisation in terms of intersectional patterns of discrimination.
 </p>
 <p>
-If these patterns do not change in a sustainable and broad-based way, digital technologies will continue to contribute to injustice and, as they become increasingly important, will further entrench and exacerbate that injustice.
+We are developing the first Feminist Tech Policy that serves a diverse society. Our approach is inspired by the Feminist Foreign Policy, which was introduced by governments in several countries.
 </p>
-<p>
-We are developing the first feminist tech policy framework that serves a diverse society. Our approach is inspired by the Feminist Foreign Policy, which was introduced by governments in several countries.
-</p>
-<p>
-Technology which is considered from a narrow or single perspective leads to unrepresentative regulation and the reinforcement of existing intersectional injustices. Current digitisation narratives are economic in nature and serve the interests of corporations over societies and minorities. By contrast, feminist tech policy takes a holistic view to examine digitisation in terms of intersectional patterns of discrimination.
-</p>
+
 <p>
 Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further.
 <br><br> Visit the project website: <a href="https://superrr.net/feministtech/">https://superrr.net/feministtech/</a>
