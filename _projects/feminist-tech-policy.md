@@ -14,11 +14,7 @@ description: "We are developing the first feminist tech policy alongside a set o
 Technology which is considered from a narrow or single perspective leads to unrepresentative regulation and the reinforcement of existing intersectional injustices. Current digitisation narratives are economic in nature and serve the interests of corporations over societies and minorities. By contrast, Feminist Tech Policy takes a holistic view to examine digitisation in terms of intersectional patterns of discrimination.
 </p>
 <p>
-We are developing the first Feminist Tech Policy that serves a diverse society. Our approach is inspired by the Feminist Foreign Policy, which was introduced by governments in several countries.
-</p>
-
-<p>
-Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further.
+Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further. Enjoy this website and stay tuned for more.
 <br><br> Visit the project website: <a href="https://superrr.net/feministtech/">https://superrr.net/feministtech/</a>
 </p>
 <p>
