@@ -23,8 +23,10 @@ We are developing the first feminist tech policy framework that serves a diverse
 Technology which is considered from a narrow or single perspective leads to unrepresentative regulation and the reinforcement of existing intersectional injustices. Current digitisation narratives are economic in nature and serve the interests of corporations over societies and minorities. By contrast, feminist tech policy takes a holistic view to examine digitisation in terms of intersectional patterns of discrimination.
 </p>
 <p>
-Our practical policy recommendations will positively influence political discourse on technology development. In order to ensure the feasibility of recommendations, we will obtain input from leading European experts from politics, civil society and business.
+Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further.
+
+<a href="https://superrr.net/feministtech/">https://superrr.net/feministtech/</a>
 </p>
 <p>
-The feminist tech policy framework is supported by the program <a href="https://www.bosch-stiftung.de/en/project/support-program-reducing-inequalities-through-intersectional-practice/supported-projects">Reducing Inequalities Through Intersectional Practice</a> of Robert Bosch Stiftung.
+This project is supported by the program <a href="https://www.bosch-stiftung.de/en/project/support-program-reducing-inequalities-through-intersectional-practice/supported-projects">Reducing Inequalities Through Intersectional Practice</a> of the Robert Bosch Stiftung.
   </p>
