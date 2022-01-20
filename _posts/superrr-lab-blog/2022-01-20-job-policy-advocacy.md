@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: SUPERRR is hiring!
-description: Ab 01.05.2022: Wir suchen: Tech Policy und Advocacy Lead (m/w/d)
+description: Tech Policy und Advocacy Lead (m/w/d) gesucht
 ---
 
 <img src="/assets/img/blog/jobs_policy.png" alt="Image with Logo and SUPERRR Jobs text" width="500" height="600">
