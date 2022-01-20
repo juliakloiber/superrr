@@ -6,7 +6,7 @@ title: SUPERRR is hiring!
 description: Ab 01.05.2022: Wir suchen eine Projektleitung mit Schwerpunkt auf Tech Policy & Advocacy
 ---
 
-<img src="/assets/img/blog/2021.jpg" alt="collage of photos from events in 2021" width="500" height="600">
+<img src="/assets/img/blog/jobs_policy.png" alt="Image with Logo and SUPERRR Jobs text" width="500" height="600">
 
 
 <h3>Projektleitung mit Schwerpunkt auf Tech Policy & Advocacy bei Superrr Lab (m/w/d) in Vollzeit</h3>
