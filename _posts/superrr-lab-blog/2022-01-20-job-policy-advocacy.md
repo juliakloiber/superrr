@@ -20,14 +20,14 @@ description: Tech Policy und Advocacy Lead (m/w/d) gesucht
 
 <p><b>Wer wir sind und wen wir suchen:</b></p>
 
-<p>Wir sind SUPERRR LAB, eine gemeinnützige feministische Organisation mit Sitz in Berlin, die sich in ihrer Arbeit für eine gerechte und inklusive digitale Zukunft einsetzt. Wir forschen an Themen, wie den Chancen und Herausforderungen der Digitalisierung für die Gesellschaft. Wir organisieren Fellowship-Programme, veröffentlichen Publikationen, entwerfen Policy-Empfehlungen und Visionen für digitale Zukünfte. Im letzten Jahr haben wir unter anderem für und mit den folgenden Institutionen gearbeitet: Bundeministerium der Justiz und für Verbraucherschutz, Robert-Bosch-Stiftung, Allianz Kulturstiftung, Deutsche Stiftung für Engagement und Ehrenamt, Bertelsmann Stiftung, dem Auswärtigen Amt und vielen weiteren.</p>
+<p>Wir sind SUPERRR LAB, eine gemeinnützige feministische Organisation mit Sitz in Berlin, die sich für eine gerechte und inklusive digitale Zukunft einsetzt. Wir forschen an Themen, wie den Chancen und Herausforderungen der Digitalisierung für die Gesellschaft. Wir organisieren Fellowship-Programme, veröffentlichen Publikationen, entwerfen Policy-Empfehlungen und Visionen für digitale Zukünfte. Im letzten Jahr haben wir unter anderem für und mit den folgenden Institutionen gearbeitet: Bundeministerium der Justiz und für Verbraucherschutz, Robert-Bosch-Stiftung, Allianz Kulturstiftung, Deutsche Stiftung für Engagement und Ehrenamt, Bertelsmann Stiftung, dem Auswärtigen Amt und vielen weiteren.</p>
 
 <p>Unser Ziel für die kommenden Jahre ist es, SUPERRR Lab zu einer zivilgesellschaftlichen Foresight-Organisation auszubauen, die aus dem  Digitalpolitischen Diskurs nicht mehr wegzudenken ist. Als Expert*in für Policy und Advocacy trägst du dazu maßgeblich bei und gestaltest die Organisation in den nächsten Jahren mit. Du entwickelst mit uns in den nächsten Jahren ein Policy-Framework für intersektionale Technikfolgenabschätzung.</p>
 
 
 <p><b>Dein Aufgabenbereich und Fähigkeiten:</b></p>
 <p>Für uns ist ein Übereinstimmen mit unserem Werten und deine Motivation
-und Persönlichkeit wichtiger, als dass du bereits in allen unten genannten Bereichen schon eingehende berufliche Erfahrung gesammelt hast:</p>
+und Persönlichkeit wichtiger, als dass du bereits in allen unten genannten Bereichen eingehende berufliche Erfahrung gesammelt hast:</p>
 
 <ul>
   <li>DMA, DSA und AI Act sind keine Fremdwörter für dich, im Gegenteil: Du hast tiefgehende Expertise in Themen an der Schnittstelle von Technologie und Gesellschaft, wie der Regulierung von Technologie.</li>
@@ -38,7 +38,7 @@ und Persönlichkeit wichtiger, als dass du bereits in allen unten genannten Bere
 	<li>Du besitzt sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Du bist in der Lage, eine Reihe unterschiedlicher Materialien zu verfassen und zu bearbeiten: Berichte, Briefing-Papiere, Blogbeiträge und Stellungnahmen für verschiedene Zielgruppen.</li>
 </ul>
 
-<p><b<Mit den folgenden Eigenschaften passt du gut in unser Team:</b></p>
+<p><b>Mit den folgenden Eigenschaften passt du gut in unser Team:</b></p>
 <ul>
 	<li>Du gehst motiviert an neue Aufgaben heran, denkst mit und packst mit an.</li>
 	<li>Du hast Lust auf Herausforderungen und lernst gerne dazu.</li>
@@ -58,7 +58,7 @@ und Persönlichkeit wichtiger, als dass du bereits in allen unten genannten Bere
 	<li>Arbeit in einem vielseitigen, engagierten Team, das kontinuierlich voneinander lernt, sich unterstützt und Erfolge zusammen feiert.</li>
 </ul>    
 
-<p><b>Und so bewirbst du dich:</p></b>
+<p><b>Und so bewirbst du dich:</b></p>
 <p>Sende uns deinen Lebenslauf (ohne Foto und Geburtsdatum) und ein Anschreiben, warum du den Job spannend findest und welche Fähigkeiten du mitbringst, um ihn zu erfüllen, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Die Bewerbungsfrist endet am 15.02.2022.</p>
 <p>Als feministische Organisation verpflichten wir uns zu einem Bewerbungsprozess, der auf Gleichbehandlung und Chancengleichheit basiert.</p> 
 
