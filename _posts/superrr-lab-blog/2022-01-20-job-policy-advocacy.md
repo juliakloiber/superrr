@@ -3,19 +3,19 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: SUPERRR is hiring!
-description: Ab 01.05.2022: Wir suchen eine Projektleitung mit Schwerpunkt auf Tech Policy & Advocacy
+description: Ab 01.05.2022: Wir suchen: Tech Policy und Advocacy Lead (m/w/d)
 ---
 
 <img src="/assets/img/blog/jobs_policy.png" alt="Image with Logo and SUPERRR Jobs text" width="500" height="600">
 
 
-<h3>Projektleitung mit Schwerpunkt auf Tech Policy & Advocacy bei Superrr Lab (m/w/d) in Vollzeit</h3>
+<h3>Wir suchen: Tech Policy und Advocacy Lead (m/w/d)</h3>
 
-<p>Ort: Berlin, Deutschland.</p>
-<p>Bewerbungsfrist: 15.02.2022</p>
-<p>Arbeitsbeginn: 01.05.2022 (vorbehaltlich der Finanzierung)</p>
-<p>Vertragslaufzeit: 3 Jahre</p>
-<p>Rund 53.000 € Bruttogehalt (angelehnt an TV-ÖD 13/3 inkl. eines 13. Monatsgehalts)</p>
+<p>Ort: Berlin, Deutschland.
+<br>Bewerbungsfrist: 15.02.2022
+<br>Arbeitsbeginn: 01.05.2022 (vorbehaltlich der Finanzierung)
+<br>Vertragslaufzeit: 3 Jahre, Vollzeit
+<br>Rund 53.000 € Bruttogehalt (angelehnt an TV-ÖD 13/3 inkl. eines 13. Monatsgehalts)</p>
 
 
 <p><b>Wer wir sind und wen wir suchen:</b></p>
