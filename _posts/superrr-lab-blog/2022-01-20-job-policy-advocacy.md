@@ -26,8 +26,7 @@ description: Tech Policy und Advocacy Lead (m/w/d) gesucht
 
 
 <p><b>Dein Aufgabenbereich und Fähigkeiten:</b></p>
-<p>Für uns ist ein Übereinstimmen mit unserem Werten und deine Motivation
-und Persönlichkeit wichtiger, als dass du bereits in allen unten genannten Bereichen eingehende berufliche Erfahrung gesammelt hast:</p>
+<p>Für uns ist ein Übereinstimmen mit unseren Werten und deine Motivation wichtiger, als dass du bereits in allen unten genannten Bereichen eingehende berufliche Erfahrung gesammelt hast.</p>
 
 <ul>
   <li>DMA, DSA und AI Act sind keine Fremdwörter für dich, im Gegenteil: Du hast tiefgehende Expertise in Themen an der Schnittstelle von Technologie und Gesellschaft, wie der Regulierung von Technologie.</li>
