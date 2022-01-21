@@ -1,0 +1,9 @@
+.card-holder {
+  .card{
+    &.vision {
+      .teaser-card-inner {
+        height: 860px;
+      }
+    }
+  }
+}

@@ -1,4 +1,61 @@
+/*********************
+FONTSIZES
+*********************/
+
+$fontsize-120: 6.25vw !important;
 $fontsize-70: 3rem !important;
+$fontsize-50: 2.25rem !important;
+$fontsize-40: 1.5rem !important;
+$fontsize-28: 1.25rem !important;
+$fontsize-24: 1.25rem !important;
+$fontsize-22: 1.15rem !important;
+
+.fontsize-120 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-120;
+  }
+  font-size: $fontsize-120;
+}
+
+.fontsize-70 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-70;
+  }
+  font-size: $fontsize-70;
+}
+
+
+.fontsize-50 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-50;
+  }
+  font-size: $fontsize-50;
+}
+.fontsize-40 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-40;
+  }
+  font-size: $fontsize-40;
+}
+.fontsize-28 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-28;
+  }
+  font-size: $fontsize-28;
+}
+.fontsize-24 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-24;
+  }
+  font-size: $fontsize-24;
+}
+.fontsize-22 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-22;
+  }
+  font-size: $fontsize-22;
+}
+
 
 body.feminist-tech {
   .intro-wrap {
@@ -36,27 +93,6 @@ LAYOUT & GRID STYLES
 PAGE & SECTIONS
 *********************/
 
-/******************************************************************
-H1, H2, H3, H4, H5 STYLES
-******************************************************************/
-
-h1, .h1 {
-  font-size: 5vw;
-}
-
-h2, .h2 {
-  font-size: 3vw;
-}
-
-h3, .h3 {
-  font-size: 2.5vw;
-}
-
-a, p, li, h4 {
-  font-size: 1.3rem;
-}
-
-
 .text-block{
 
   margin: 100px auto;
@@ -80,6 +116,10 @@ a, p, li, h4 {
       margin: 0 auto;
       padding-left: 0;
     }
+  }
+
+  &.full {
+    width: 80%;
   }
 
 }
@@ -226,7 +266,7 @@ LAYOUT & GRID STYLES
 
   &.mobile-padded {
     /* for menu mobile top padding*/
-    padding-top: 0px !important;
+    padding: 0px !important;
   }
 
   &.home {

@@ -15,7 +15,7 @@ and will be used across all viewports.
 FONTSIZES
 *********************/
 
-$fontsize-120: 3.75rem !important;
+$fontsize-120: 4rem !important;
 $fontsize-70: 2.25rem !important;
 $fontsize-50: 2rem !important;
 $fontsize-40: 1.5rem !important;
@@ -285,6 +285,9 @@ LAYOUT & GRID STYLES
   text-align: center;
   padding: 50px 25px;
   margin-bottom: 0;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 
   &.link {
     padding-left: 0 !important;
@@ -325,9 +328,9 @@ LAYOUT & GRID STYLES
   }
 
   &.mobile-padded{
-    /* for menu mobile top padding*/
-    padding-top: 75px !important;
-  }
+     /* for menu mobile top padding*/
+     padding: 75px 0 !important;
+   }
 
   &.padded {
     padding: 75px 0;
@@ -842,6 +845,9 @@ HEADER STYLES
   min-height: calc(100vh - 12vh);
   padding-top: 0 !important;
 }
+.home-info {
+  max-width: 700px;
+}
 
 #trigger{
   height: 100vh;
@@ -854,7 +860,7 @@ HEADER STYLES
   color: $secondary-color;
 }
 .home-icon-wrap{
-  height: calc(40vh - 4vh);
+  height: calc(35vh - 4vh);
   width: 100%;
   object{
     height: 100%;
@@ -1200,6 +1206,7 @@ a.bg-hover{
   scroll-snap-type: x mandatory;
   width: 100%;
   will-change: auto;
+  height: 100%;
 
   &::before, &:after{
     content: '';
@@ -1241,11 +1248,18 @@ a.bg-hover{
         max-height: 50%;
         overflow: hidden;
 
-        img {
-          object-fit: cover;
+        .teaser-card-image-inner {
+          display: flex;
+          justify-content: center;
           width: 100%;
           height: 100%;
+          img {
+            object-fit: cover;
+            width: auto;
+            height: 100%;
+          }
         }
+
       }
 
       .teaser-card-text{
@@ -1261,16 +1275,22 @@ a.bg-hover{
       background-color: transparent;
       overflow: unset;
       .teaser-card-inner{
+        height: 625px;
         width: 100%;
         background-color: transparent;
         overflow: unset;
         
         .teaser-card-image {
-          img {
-            object-fit: contain;
-            width: 100%;
-            height: 100%;
+          max-height: 100%;
+          .teaser-card-image-inner {
+            display: block;
+            img {
+              object-fit: contain;
+              width: 100%;
+              height: 100%;
+            }
           }
+
         }
 
         .teaser-card-text{
@@ -1328,12 +1348,23 @@ PAGE & SECTIONS
 .content-wrap-inner{
   width: 88%;
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 1280px;
+
   &.full{
-    max-width: 70%;
+    width: 80%;
+    max-width: none;
   }
   &.news{
-    max-width: 100%;
+    max-width: 1600px;
+    &.home {
+      max-width: 1280px;
+    }
+  }
+}
+
+.posts-holder {
+  &.home {
+    padding-bottom: 0;
   }
 }
 
@@ -1537,11 +1568,15 @@ BLOG
     font-family: $font-paelzer-grot-medium;
   }
 
-  .post-info{
-    margin-bottom: 0;
+  .post-info {
+    p {
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
   }
 
-  .more-btn{
+    .more-btn{
     padding-bottom: 0;
     .more-btn-inner{
       &::after{

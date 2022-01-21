@@ -2,8 +2,10 @@
     <div class="teaser-card-inner d-flex">
         <div class="row m-0 w-100">
             {% if post.teaser_img.size > 0 %}
-                <div class="teaser-card-image col-24 col-md-10 order-1 pr-3">
-                    <img src="{{ post.teaser_img }}" alt="{{ post.title }}"/>
+                <div class="teaser-card-image col-24 col-md-10 order-1 pr-sm-3 mb-3 mb-sm-0">
+                    <div class="teaser-card-image-inner">
+                        <img src="{{ post.teaser_img }}" alt="{{ post.title }}"/>
+                    </div>
                 </div>
                 <div class="teaser-card-text col-24 col-md-14 order-2 with-shadow">
                     <h3 class="fontsize-40 mb-1 text-center text-md-left">{{ post.title }}</h3>

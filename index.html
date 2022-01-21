@@ -12,18 +12,18 @@ type: lab
     <div class="content-wrap navigation-left-victim">
         <div class="section mobile-padded fullwidth home-hero d-flex">
             <div class="content-wrap-inner full d-flex">
-                <div class="row">
-                    <div class="col-24 col-md-12 d-flex align-items-center">
-                        <div class="home-claim fontsize-120 uppercase pr-md-4">
+                <div class="row w-100">
+                    <div class="col-24 col-sm-12 d-flex align-items-center align-items-sm-start align-items-md-center justify-content-center">
+                        <div class="home-claim fontsize-120 uppercase pr-sm-4 d-flex flex-column">
                             <span class="outlined-text">Building</span>
                             <span>Diverse&nbsp;&<br>Equal<br></span>
                         <span class="outlined-text">futures<br>
                         in tech<br>and<br>beyond</span>
                         </div>
                     </div>
-                    <div class="col-24 col-md-12 d-flex align-items-center">
-                        <div class="d-flex flex-wrap">
-                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-md-0 mb-md-5">
+                    <div class="col-24 col-sm-12 d-flex align-items-center justify-content-center">
+                        <div class="d-flex flex-wrap home-info">
+                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-sm-0 mb-sm-5">
                                 <a href="/about" class="d-block">
                                     <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-lab.svg" type="image/svg+xml" ></object>
                                 </a>
@@ -33,7 +33,7 @@ type: lab
                                     SUPERRR is a lab and a community. We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. Superrr is playful, visionary and feminist.
                                 </p>
                             </div>
-                            <div class="more-btn-wrap mb-5 mb-md-0">
+                            <div class="more-btn-wrap mb-5 mb-sm-0">
                                 <a href="/about" class="event-link more-btn  fade-in animated fadeInUp full-visible">
                                     <span class="more-btn-inner"><span>Rrread more!</span></span>
                                 </a>
@@ -79,13 +79,13 @@ type: lab
                 </div>
             </div>
         </div>
-        <div class="section fullwidth bg-white">
-            <div class="content-wrap-inner full">
+        <div class="section fullwidth bg-white padded">
+            <div class="content-wrap-inner news home">
                 <h3 class="section-headline">News and Ressources</h3>
-                <div class="posts-holder">
+                <div class="posts-holder home">
                     {% assign index = 0 %}
                     {% for post in site.posts %}
-                        {% if index < 2 %}
+                        {% if index < 4 %}
                             {% if post.type != 'ftf' %}
                                 {% include post-teaser.liquid type='home' %}
                                 {% assign index = index | plus:1 %}
@@ -93,7 +93,10 @@ type: lab
                         {% endif %}
                     {% endfor %}
                 </div>
-                <div class="more-btn-wrap">
+
+            </div>
+            <div class="content-wrap-inner">
+                <div class="more-btn-wrap d-flex">
                     <a href="/news" class="event-link more-btn  fade-in animated fadeInUp full-visible">
                         <span class="more-btn-inner"><span>Morrre news</span></span>
                     </a>

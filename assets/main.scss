@@ -74,6 +74,14 @@ tweeners.
 
 } // end of media query
 
+@media only screen and (min-width: 600px) {
+
+  // styles in 600up.scss
+  @import "breakpoints/600up";
+
+} // end of media query
+
+
 /*********************
 IPAD portrait (col-sm)
 This is the average viewing window. So Desktops, Laptops, and

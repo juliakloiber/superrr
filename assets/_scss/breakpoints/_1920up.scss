@@ -1,5 +1,12 @@
 $fontsize-70: 4.5rem !important;
 
+.section-headline {
+  font-size: $fontsize-70;
+  a {
+    font-size: $fontsize-70;
+  }
+}
+
 .project-headline{
   font-size: $fontsize-70;
 }
