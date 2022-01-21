@@ -213,6 +213,13 @@ html{
   height: auto;
   min-height: 100%;
   /*scroll-behavior: smooth;*/
+
+  &.no-touch {
+    .more-btn-wrap.news {
+      display: none !important;
+    }
+  }
+
 }
 
 html, body{

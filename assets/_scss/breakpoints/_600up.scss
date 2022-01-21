@@ -7,3 +7,21 @@
     }
   }
 }
+
+
+.posts-holder{
+  padding-bottom: 100px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  /*grid-auto-rows: 1fr;*/
+
+  .post-teaser{
+    padding: 0 25px;
+    margin-bottom: 25px;
+  }
+
+  &.home {
+    margin-bottom: 0;
+  }
+
+}

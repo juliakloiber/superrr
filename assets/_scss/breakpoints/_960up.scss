@@ -140,8 +140,22 @@ $main-column-width: 956px;
 
 }
 
+.content-wrap-inner {
+  width: 80%;
+  &.full{
+    width: 88%;
+  }
+}
+
 .home-icon-wrap{
   height: calc(30vh - 4vh);
+}
+
+.posts-holder {
+  .post-teaser {
+    padding: 0 10px;
+    margin-bottom: 10px;
+  }
 }
 
 .navigation-left-open-wrap {
@@ -216,22 +230,7 @@ $main-column-width: 956px;
   }
 }
 
-.posts-holder{
-  padding-bottom: 100px;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  /*grid-auto-rows: 1fr;*/
 
-  .post-teaser{
-    padding: 0 50px;
-    margin-bottom: 60px;
-  }
-
-  &.home {
-    margin-bottom: 0;
-  }
-
-}
 
 .newsletter-signup-wrap{
   margin-bottom: 10vw;

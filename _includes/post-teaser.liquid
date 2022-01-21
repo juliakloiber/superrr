@@ -1,11 +1,11 @@
 <a href="{{ post.url | prepend: site.baseurl }}" class="post-teaser d-flex flex-column">
     <div class="post-info">
         <span class="post-info-text">{{ post.date | date: "%d.%m.%Y" }}</span>
-        <h2>{{ post.title }}</h2>
+        <h3>{{ post.title }}</h3>
         <p>{{ post.description }}</p>
     </div>
     {% if include.type != 'home' %}
-        <div class="more-btn-wrap">
+        <div class="more-btn-wrap news">
             <div class="event-link more-btn  fade-in animated fadeInUp full-visible">
                 <span class="more-btn-inner"><span>Rrread more!</span></span>
             </div>
