@@ -1,0 +1,29 @@
+---
+layout: default
+title : Superrr Publications
+description :
+type: lab
+---
+
+<div class="page-content section fullwidth">
+    {% include partials/navigation-left.liquid %}
+    <div class="content-wrap navigation-left-victim">
+        <div class="section fullwidth bg-grey-light padded-top">
+            <h3 class="section-headline">Superrr Publications</h3>
+            <div class="card-holder" data-category="publications">
+                {% assign publications = site.publications | sort: 'order' %}
+                {% for post in publications %}
+                {% include card.liquid %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var is_large_header_page = false;
+</script>
+
+
+
+
+

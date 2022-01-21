@@ -4,9 +4,11 @@
         <h2>{{ post.title }}</h2>
         <p>{{ post.description }}</p>
     </div>
-    <div class="more-btn-wrap">
-        <div class="event-link more-btn  fade-in animated fadeInUp full-visible">
-            <span class="more-btn-inner"><span>Rrread more!</span></span>
+    {% if include.type != 'home' %}
+        <div class="more-btn-wrap">
+            <div class="event-link more-btn  fade-in animated fadeInUp full-visible">
+                <span class="more-btn-inner"><span>Rrread more!</span></span>
+            </div>
         </div>
-    </div>
+    {% endif %}
 </a>

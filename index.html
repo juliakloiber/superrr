@@ -52,6 +52,15 @@ type: lab
                 {% endfor %}
             </div>
         </div>
+        <div class="section fullwidth">
+            <h3 class="section-headline">Superrr Publications</h3>
+            <div class="card-holder" data-category="publications">
+                {% assign publications = site.publications | sort: 'order' %}
+                {% for post in publications %}
+                {% include card.liquid %}
+                {% endfor %}
+            </div>
+        </div>
         <div class="section fullwidth min-fullheight background-lab-community-front padded with-shadow">
             <div class="content-wrap-inner">
                 <div class="home-icon-wrap d-flex justify-content-center justify-content-md-start mb-5">
@@ -71,18 +80,23 @@ type: lab
             </div>
         </div>
         <div class="section fullwidth bg-white">
-            <div class="content-wrap-inner">
+            <div class="content-wrap-inner full">
                 <h3 class="section-headline">News and Ressources</h3>
                 <div class="posts-holder">
                     {% assign index = 0 %}
                     {% for post in site.posts %}
                         {% if index < 2 %}
                             {% if post.type != 'ftf' %}
-                                {% include post-teaser.liquid %}
+                                {% include post-teaser.liquid type='home' %}
                                 {% assign index = index | plus:1 %}
                             {% endif %}
                         {% endif %}
                     {% endfor %}
+                </div>
+                <div class="more-btn-wrap">
+                    <a href="/news" class="event-link more-btn  fade-in animated fadeInUp full-visible">
+                        <span class="more-btn-inner"><span>Morrre news</span></span>
+                    </a>
                 </div>
             </div>
         </div>

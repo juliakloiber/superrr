@@ -16,7 +16,7 @@ FONTSIZES
 *********************/
 
 $fontsize-120: 3.75rem !important;
-$fontsize-70: 2.5rem !important;
+$fontsize-70: 2.25rem !important;
 $fontsize-50: 2rem !important;
 $fontsize-40: 1.5rem !important;
 $fontsize-28: 1.4rem !important;
@@ -1236,11 +1236,18 @@ a.bg-hover{
       margin: 0 auto;
 
       .teaser-card-image{
-        background-size: contain;
-        background-repeat: no-repeat;
-        padding-top: 0%;
-        padding-bottom: 2rem;
+        padding: 0;
+        margin-bottom: 0;
+        max-height: 50%;
+        overflow: hidden;
+
+        img {
+          object-fit: cover;
+          width: 100%;
+          height: 100%;
+        }
       }
+
       .teaser-card-text{
         padding: 25px;
         p{
@@ -1324,6 +1331,9 @@ PAGE & SECTIONS
   max-width: 1000px;
   &.full{
     max-width: 70%;
+  }
+  &.news{
+    max-width: 100%;
   }
 }
 

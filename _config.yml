@@ -78,6 +78,9 @@ collections:
     projects:
             output: true
             permalink: /project/:path/
+    publications:
+                output: true
+                permalink: /publication/:path/
     talks:
             output: true
             permalink: /talk/:path/

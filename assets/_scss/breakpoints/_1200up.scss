@@ -107,3 +107,22 @@ CITY
 .event-date{
   font-size: 4.7rem;
 }
+
+.posts-holder{
+  padding-bottom: 100px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  /*grid-auto-rows: 1fr;*/
+
+  .post-teaser{
+    padding: 0 50px;
+    margin-bottom: 100px;
+  }
+}
+
+.content-wrap-inner{
+  &.full {
+    max-width: 1600px;
+  }
+}
+

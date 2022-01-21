@@ -2,7 +2,9 @@
     <div class="teaser-card-inner d-flex p-0 m-0 w-100">
         <div class="row m-0 w-100">
             {% if post.teaser_img.size > 0 %}
-                <div class="teaser-card-image col-24 col-md-12 order-1 order-md-2" style="background-image: url({{ post.teaser_img }});"></div>
+                <div class="teaser-card-image col-24 col-md-12 order-1 order-md-2">
+                    <img src="{{ post.teaser_img }}" alt="{{ post.title }}" />
+                </div>
                 <div class="teaser-card-text col-24 col-md-12 order-2 order-md-1">
                     <h3 class="fontsize-40 uppercase text-center text-md-left">{{ post.title }}</h3>
                     <p class="fontsize-22 d-none d-md-block">{{ post.description }}</p>
