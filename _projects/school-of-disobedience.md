@@ -6,7 +6,6 @@ layout: project
 teaser_img: "/assets/img/static/projects/school-of-disobedience-teaser.png"
 hero_img: "/assets/img/static/projects/disobedience.jpg"
 external_link: ""
-link: '/project/school-of-disobedience'
 description: "A graduate school at Volksbühne Berlin – that embodies the spirit of this city: global in outlook, international in background, trans-disciplinary in work, innovative, radical, experimental, engaged."
 
 
