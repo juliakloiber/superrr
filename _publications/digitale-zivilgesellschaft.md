@@ -6,7 +6,7 @@ layout: project
 teaser_img: "/assets/img/static/projects/digiziv.png"
 hero_img: "/assets/img/static/projects/digiziv-hero.png"
 external_link: ""
-link: '/project/digitale-zivilgesellschaft-broschuere'
+link: '/publication/digitale-zivilgesellschaft-broschuere'
 description: "Eine Broschüre mit Zukunftsvisionen der digitalen Zivilgesellschaft."
 
 

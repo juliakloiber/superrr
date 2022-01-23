@@ -6,7 +6,7 @@ layout: project
 teaser_img: "/assets/img/static/projects/roadwork_ahead_teaser.png"
 hero_img: "/assets/img/static/projects/Spot_Risk_800.gif"
 external_link: ""
-link: '/project/implicit-development-environments-research-group'
+link: '/publication/implicit-development-environments-research-group'
 description: "A research report funded by the Ford Foundation, that investigates the following question: How can funders and community leaders better meet the needs of digital infrastructure projects, and how are those needs distinct from projects at the application layer?"
 
 
