@@ -6,7 +6,7 @@ layout: project
 teaser_img: "/assets/img/static/projects/Playbook-1.png"
 hero_img: "/assets/img/static/projects/Playbook-3.png"
 external_link: ""
-link: '/publication/infrastructure-playbook'
+link: '/publicationg/infrastructure-playbook'
 description: "Civil society developed, provided much needed public digital infrastructure during the pandemic – or criticized it, where necessary. What can we learn from their work to be better prepared for rapid digital transformation that is rights preserving and sustainable?"
 
 
