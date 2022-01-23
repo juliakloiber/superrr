@@ -21,7 +21,7 @@ Kernstück der Broschüre sind 15 Visionen, in denen zivilgesellschaftliche Orga
   </p>
 
 <p>
-Download der Broschüre und mehr Informationen unter: < a herf="https://digitalezivilgesellschaft.org/"> digitalezivilgesellschaft.org </a>
+Download der Broschüre und mehr Informationen unter: < a href="https://digitalezivilgesellschaft.org/"> digitalezivilgesellschaft.org </a>
   </p>
 
 
