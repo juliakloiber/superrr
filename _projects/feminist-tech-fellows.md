@@ -19,7 +19,7 @@ description: "The feminist tech fellows are artists, writers, activists, technol
 
 <img class="image-portrait" src="/assets/img/static/projects/feminist-tech-fellows-teaser.jpg">
 
-<p>The first installment of the Feminist Tech Fellowship was brought to you by Superrr with support from <a href="https://foundation.mozilla.org/en/">Mozilla</a>:</p>
+<p>The first installment of the Feminist Tech Fellowship was brought to you by Superrr with support from <a href="https://foundation.mozilla.org/en/">Mozilla</a>.</p>
 
-<p><a href="https://superrr.net/feministtech/fellows/" target="_blank">Website</a></p>
+<p><a href="https://superrr.net/feministtech/fellows/" target="_blank">To the project website</a></p>
 
