@@ -14,12 +14,11 @@ description: "“Learning from the crisis: strengthening digital civil society!�
 ---
 <h1>Strengthening digital civil society!</h1>
 <p>
-<p>Our motivation:</p>
-<p>In crisis situations like the COVID-19 pandemic, we see a massive shift of all parts of life into the digital sphere. This boost in usage also lays bare where digital infrastructure has been neglected. However, we also witness an inspiring willingness of people to step up and help others – from civil society in general, but also from digital communities. They have been building and providing services that are decentralized, privacy friendly, and resilient, and the crisis shows how much we rely on these products and the people behind them. 
-</p>
-
 <p>
-We want to direct public attention towards these communities and help them get the support that they need and deserve. 
+In 2020 we initiated the initiative Digitale Zivilgesellschaft. We developed a set of political demands for a sustainable and just digitalization. In 2021 we reworked the demands for the Federal Elections in Germany. Over 80 civil society organizations are part of the initative. In 2021 we published a publication with 15 visions with the title "Per Anhalter in die Digitale Zukunft." You can read more about it <a href="https://superrr.net/publication/digitale-zivilgesellschaft-broschuere/">here</a>.
+
+<p>Our motivation:</p>
+<p>Digitization is not a purely technical issue, but first and foremost a social issue: It is about fundamental social issues such as justice, solidarity, participation and access. To implement it sustainably and socially, the focus must be on societal needs and challenges. That is why we, as civil society organizations committed to an open and public good-oriented digital infrastructure and free access to knowledge, are calling for this.
 </p>
 
 <p>
