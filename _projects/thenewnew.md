@@ -17,10 +17,14 @@ description: "The New New is a space to explore our digital futures, what they h
 </p>
 
 <p>
-The New New is a joint program by the Bertelsmann Stiftung’s “Ethics of Algorithms” project and Superrr Lab. Fellowship funds are awarded by the Bertelsmann Stiftung.
+The New New is a joint program by the Bertelsmann Stiftung’s “Ethics of Algorithms” project and Superrr Lab in cooperation with The Goethe Institute and Allianz Kulturstiftung.
  </p>
 
 <p>Learn more about the program, the fellows and the advisory board on <a href="https://thenewnew.space/" target="_blank">the New New website</a></p>
+
+<p>
+<img class="img-responsive" src="/assets/img/static/projects/fellows.jpg">
+</p>
 
 
 
