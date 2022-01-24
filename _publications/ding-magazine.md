@@ -36,7 +36,7 @@ The 2020 issue reflecting on crises and the future. You can download the PDF Ver
 The 2019 issue investigating different futures. You can download the PDF Version here. Supported by Mozilla. 
  </li>
 
-<p>All magazines can be read and downloaded on:<a href="http://dingdingding.org" target="_blank">dingdingding.org</a></p>
+<p>All magazines can be read and downloaded on: <a href="http://dingdingding.org" target="_blank">dingdingding.org</a></p>
 <img class="img-responsive" src="/assets/img/static/projects/ding3.jpg">
 
 </ul>
