@@ -4,7 +4,7 @@ header_type: lab
 order: 0
 layout: project
 teaser_img: "/assets/img/static/projects/thenewnew.png"
-hero_img: "/assets/img/static/projects/thenewnewhero.png"
+hero_img: "/assets/img/static/projects/thenewnewhero.jpg"
 external_link: ""
 link: '/project/thenewnew'
 description: "The New New is a space to explore our digital futures, what they hold for us, and how we can shape them."
