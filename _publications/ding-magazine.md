@@ -7,7 +7,7 @@ teaser_img: "/assets/img/static/projects/ding-teaser.png"
 hero_img: "/assets/img/static/projects/ding.jpg"
 external_link: ""
 link: '/publication/ding-magazine'
-description: "Ding magazine is a collection of essays and visions of different futures. Artists, technologists, designers and many others contributed to this edition of the magazine. Ding was developed in collaboration with the Mozilla Foundation."
+description: "Ding magazine is a collection of essays and visions of different futures. There are three issues. All published in print and digitally."
 
 
 
