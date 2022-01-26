@@ -1,7 +1,7 @@
 ---
 title: "Francesca Schmidt - Feminist Tech Principles"
 slug: "francesca-schmidt"
-order: 9
+order: 10
 layout: fellow
 img: "/assets/img/static/contributors/francesca.png"
 firstname: "Francesca"
