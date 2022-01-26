@@ -5,7 +5,7 @@ author: Elisa Lindinger
 title: Wie sehen gerechte digitale öffentliche Räume der Zukunft aus? 
 description: Am 15. September wurde diese Frage auf dem Zukunftsforum diskutiert.
 ---
-<img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
+<img src="/assets/img/blog/Blogpost_Zukunftsforum_neu.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
 <h1>Wie sehen gerechte digitale öffentliche Räume der Zukunft aus? </h1>
 <p>Digitale Räume die für die Menschen gemacht sind statt für Konzerne und Werbung.</p>
