@@ -19,7 +19,7 @@ Mit dabei sind:
 
 <ul>
 <li><a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> – Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz</li>
-<li><a href="https://juliareda.eu/en/">Julia Reda</a> – Projektleitung bei der<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>, ehemals Mitglied des Europäischen Parlaments </li>
+<li><a href="https://felixreda.eu//">Felix Reda</a> – Projektleitung bei der<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>, ehemals Mitglied des Europäischen Parlaments </li>
 <li><a href="https://kateboss5000.neocities.org/">Victoria Kure-Wu</a> – UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a></li>
 <li>Julia Köpper – Architektin und Stadtplanerin bei <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a></li>
 </ul>
