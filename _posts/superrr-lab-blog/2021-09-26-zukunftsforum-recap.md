@@ -8,7 +8,7 @@ description: Dieser Post ist eine Zusammenfassung der Diskussion beim Zukunftsfo
 <img src="/assets/img/blog/Zukunftsforum-Diskussionsrunde.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
 <p>
-Dazu diskutierten am 15. September 2021 <a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), <a href="https://juliareda.eu/en/">Julia Reda</a> (<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>), <a href="https://kateboss5000.neocities.org/">Victoria Kure-Wu</a> (UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a>) und Julia Köpper (Architektin und Stadtplanerin, <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a>).
+Dazu diskutierten am 15. September 2021 <a href="https://rita-hagl-kehl.de/">Rita Hagl-Kehl</a> (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), <a href="https://felixreda.eu/">Felix Reda</a> (<a href="https://freiheitsrechte.org/">Gesellschaft für Freiheitsrechte</a>), <a href="https://kateboss5000.neocities.org/">Victoria Kure-Wu</a> (UX-Designerin und Initiatorin von <a href="https://www.ichbinkeinvirus.org/">ichbinkeinvirus.org</a>) und Julia Köpper (Architektin und Stadtplanerin, <a href="http://www.octagon-architekturkollektiv.net/kollektiv/">Octagon Architekturkollektiv</a>).
 </p>
 
 <p>
@@ -23,7 +23,7 @@ Rita Hagl-Kehl spricht den grundsätzlichen Interessenskonflikt an, der sich in 
 </p>
 
 <p>
-Julia Reda macht sich für ein Verbandsklagerecht für Verbraucher:innen stark, um ihre Rechte zeitnah durchsetzen zu können: 
+Felix Reda macht sich für ein Verbandsklagerecht für Verbraucher:innen stark, um ihre Rechte zeitnah durchsetzen zu können: 
 </p>
 <p>
 <i>"Wenn ich in meiner Ausübung von demokratischem Diskurs auf einer Plattform eingeschränkt werde, oder jedesmal, wenn ich hatespeech bekomme, muss ich Klage einreichen - das ist zu viel verlangt. Letztenendes wollen wir, dass sich der Raum als ganzes ändert und ich nicht Jahre oder auch nur Wochen später recht bekommen will. Denn dann ist die öffentliche Debatte schon längst weitergezogen."</i>
