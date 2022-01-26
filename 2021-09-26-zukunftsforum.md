@@ -11,7 +11,7 @@ description: Am 15. September wurde diese Frage auf dem Zukunftsforum diskutiert
 <p>Digitale Räume die für die Menschen gemacht sind statt für Konzerne und Werbung.</p>
 
 <p>
-Dazu diskutierten am 15. September 2021 Rita Hagl-Kehl (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), Julia Reda (Gesellschaft für Freiheitsrechte), Victoria Kure-Wu (UX-Designerin und Initiatorin von ichbinkeinvirus.org) und Julia Köpper (Architektin und Stadtplanerin, Octagon Architekturkollektiv).
+Dazu diskutierten am 15. September 2021 Rita Hagl-Kehl (Parlamentarische Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz), Felix Reda (Gesellschaft für Freiheitsrechte), Victoria Kure-Wu (UX-Designerin und Initiatorin von ichbinkeinvirus.org) und Julia Köpper (Architektin und Stadtplanerin, Octagon Architekturkollektiv).
 </p>
 <p>
 Ihre Perspektiven auf das Thema waren unterschiedlich, aber ihr Appell war klar: Es besteht Handlungsbedarf.
@@ -24,7 +24,7 @@ Rita Hagl-Kehl spricht den grundsätzlichen Interessenskonflikt an, der sich in 
 </p>
 
 <p>
-Julia Reda macht sich für ein Verbandsklagerecht für Verbraucher:innen stark, um ihre Rechte zeitnah durchsetzen zu können: 
+Felix Reda macht sich für ein Verbandsklagerecht für Verbraucher:innen stark, um deren Rechte zeitnah durchsetzen zu können: 
 
 <i>"Wenn ich in meiner Ausübung von demokratischem Diskurs auf einer Plattform eingeschränkt werde, oder jedesmal, wenn ich hatespeech bekomme, muss ich Klage einreichen - das ist zu viel verlangt. Letztenendes wollen wir, dass sich der Raum als ganzes ändert und ich nicht Jahre oder auch nur Wochen später recht bekommen will. Denn dann ist die öffentliche Debatte schon längst weitergezogen."</i>
 
