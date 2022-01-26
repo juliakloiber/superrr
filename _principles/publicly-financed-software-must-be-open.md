@@ -6,7 +6,7 @@ img: "/assets/img/static/principles/1000x1000.png"
 description: 'In this way, anyone can build upon public investment and create something new. Public funders have to value maintenance and care for critical systems at least as much as innovation.'
 ---
 
-## Julia Reda:
+## Felix Reda:
 
 »Public spending provides important income for the technology sector, but it seldom supports technology that empowers the public. 
 
