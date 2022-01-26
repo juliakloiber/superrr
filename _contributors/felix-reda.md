@@ -1,7 +1,7 @@
 ---
 title: "Felix Reda - Feminist Tech Principles"
 slug: "felix-reda"
-order: 12
+order: 8
 layout: fellow
 img: "/assets/img/static/contributors/felix.png"
 firstname: "Felix"
