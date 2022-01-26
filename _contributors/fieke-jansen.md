@@ -1,7 +1,7 @@
 ---
 title: "Fieke Jansen - Feminist Tech Principles"
 slug: "fieke-jansen"
-order: 8
+order: 9
 layout: fellow
 img: "/assets/img/static/contributors/fieke.png"
 firstname: "Fieke"
