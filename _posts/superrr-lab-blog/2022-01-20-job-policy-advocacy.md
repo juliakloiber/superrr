@@ -15,7 +15,7 @@ description: Tech Policy und Advocacy Lead (m/w/d) gesucht
 <br>Bewerbungsfrist: 15.02.2022
 <br>Arbeitsbeginn: 01.05.2022 (vorbehaltlich der Finanzierung)
 <br>Vertragslaufzeit: 3 Jahre, Vollzeit
-<br>Rund 53.000 € Bruttogehalt (angelehnt an TV-ÖD 13/3 inkl. eines 13. Monatsgehalts)</p>
+<br>Rund 64.000 € Bruttogehalt (angelehnt an TV-ÖD 13/3 inkl. eines 13. Monatsgehalts)</p>
 
 
 <p><b>Wer wir sind und wen wir suchen:</b></p>
