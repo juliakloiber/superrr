@@ -21,5 +21,5 @@ description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in De
 
 <p>Wir danken allen Organisationen und den Menschen dahinter, die ihre Erfahrungen in Tiefeninterviews mit uns geteilt und die Studie damit erst möglich gemacht haben: <a href="https://www.acker.co/">Acker</a>, <a href="https://www.arbeiterkind.de/">ArbeiterKind.de</a>, <a href="https://brandnewbundestag.de/">Brand New Bundestag</a>, <a href="https://decolonize-your.net/">dechainé</a>, <a href="https://www.primolevi.de/">Förderverein des Primo-Levi-Gymnasiums</a>, <a href="https://gladt.de/">GLADT</a>, <a href="https://kickfair.org">KICKFAIR</a>, <a href="https://www.bvmd.de/unsere-arbeit/projekte/mit-sicherheit-verliebt/">Mit Sicherheit Verliebt</a>, <a href="https://zweitzeugen.de/">Zweitzeugen</a>.
 
-Die Studie wurde gefördert durch
+<p>Die Studie wurde gefördert durch</p>
 <img src="assets/img/static/projects/dsee-logo.png" alt="Logo Deutsche Stiftung für Engagement und Ehrenamt" style="max-width: 200px;">
