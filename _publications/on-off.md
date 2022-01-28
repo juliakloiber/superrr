@@ -4,7 +4,7 @@ header_type: lab
 order: 1
 layout: project
 teaser_img: "assets/img/static/projects/onoff-header.jpg"
-hero_img: "assets/img/static/projects/onoff-hero.jpg"
+hero_img: "/assets/img/static/projects/onoff-hero.jpg"
 external_link: ""
 link: '/publication/on-off'
 description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in Deutschland?"
