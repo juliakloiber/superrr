@@ -1,0 +1,21 @@
+---
+title: "ON/OFF"
+header_type: lab
+order: 1
+layout: project
+teaser_img: "/assets/img/static/projects/Playbook-1.png"
+hero_img: "/assets/img/static/projects/Playbook-3.png"
+external_link: ""
+link: '/publication/on-off'
+description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in Deutschland?"
+
+---
+
+<p>Mit unserer neuen <a href="assets/downloads/ON-OFF-Digitale-Handlungsfaehigkeit.pdf">Studie "ON/OFF"</a> werfen wir einen Blick auf den deutschen Engagementsektor und den Stand der Digitalisierung.</p>
+
+<p>Digitale Werkzeuge, digitale Infrastruktur und digitales Arbeiten sind aus dem Engagementbereich kaum noch wegzudenken. Aber nicht nur das Umsatteln auf digitale Werkzeuge und Arbeitsabläufe kostet Ressourcen, sondern auch die kontinuierliche Betreuung, Auswertung und Instandhaltung – Ressourcen wie Zeit, Geld und Wissen, die im Engagementbereich ohnehin schon knapp sind.</p> 
+
+<p>Die Studie „ON/OFF“ ist eine Bestandsaufnahme der aktuellen Herausforderungen, denen sich die Zivilgesellschaft und der Engagementsektor stellen müssen, wenn sie sich digital aufstellen oder weiterentwickeln wollen. Sie stellt außerdem dar, welche Wünsche, Visionen und konkrete Bedürfnisse Zivilgesellschafts- und Engagementorganisationen umtreiben, wenn es um die öffentliche digitale Infrastruktur geht.</p>
+
+<p>Neben den Einflussfaktoren auf die digitale Handlungsfähigkeit legt die Studie ein Augenmerk auf Zielkonflikte, denen sich Engagementorganisationen stellen müssen, wenn sie sich für (oder gegen) digitales Arbeiten, digitale Kommunikation oder digitale Angebote entscheiden.</p>
+
