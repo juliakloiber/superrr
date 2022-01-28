@@ -3,8 +3,8 @@ title: "ON/OFF"
 header_type: lab
 order: 1
 layout: project
-teaser_img: "assets/img/blog/ONOFF_01A.png"
-hero_img: "assets/img/blog/ONOFF_02B.png"
+teaser_img: "assets/img/static/projects/ONOFF_01A.png"
+hero_img: "assets/img/static/projects/ONOFF_02B.png"
 external_link: ""
 link: '/publication/ON-OFF'
 description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in Deutschland?"
