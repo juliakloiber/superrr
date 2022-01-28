@@ -6,7 +6,7 @@ layout: project
 teaser_img: "assets/img/blog/ONOFF_01A.png"
 hero_img: "assets/img/blog/ONOFF_02B.png"
 external_link: ""
-link: '/publication/on-off'
+link: '/publication/ON-OFF'
 description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in Deutschland?"
 
 ---
