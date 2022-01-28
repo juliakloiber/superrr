@@ -7,7 +7,7 @@ teaser_img: "assets/img/static/projects/onoff-header.jpg"
 hero_img: "/assets/img/static/projects/onoff-hero.jpg"
 external_link: ""
 link: '/publication/on-off'
-description: "Studie – Wie digital handlungsfähig ist der Engagementsektor in Deutschland?"
+description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in Deutschland? Gefördert von der Stiftung für Engagement und Ehrenamt."
 
 ---
 
