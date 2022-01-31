@@ -579,9 +579,7 @@
     Controller.prototype.onScroll = function(){
         var st = $(this).scrollTop();
 
-        console.log('st ', st)
-
-        if(st){
+        if(st != null){
             if($scrollHint){
                 if(!$scrollHint.hasClass('gone')){
                     $scrollHint.addClass('gone');
@@ -606,10 +604,11 @@
                 $naviToggle.removeClass('gone');
                 //show header ticker
                 $html.removeClass('ticker-hidden');
-
+                console.log('show ticker');
             } else {
                 //hide header ticker
                 if(!$html.hasClass('ticker-hidden')) $html.addClass('ticker-hidden');
+                console.log('hide ticker');
             }
 
             lastScrollTop = st;
