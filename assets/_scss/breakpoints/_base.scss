@@ -220,6 +220,15 @@ html{
     }
   }
 
+  &.ticker-hidden {
+    .header-wrap {
+      transform: translateY(-100%);
+    }
+    .page-wrap {
+      padding-top: 0;
+    }
+  }
+
 }
 
 html, body{
@@ -615,6 +624,10 @@ p {
   width: 100%;
   margin: 0 auto;
   height: 100%;
+  position: relative;
+  padding-top: 12vh;
+
+  @include transition(padding-top .25s ease);
 
   min-height: 100%;
 
@@ -776,6 +789,8 @@ p {
 HEADER STYLES
 *********************/
 .header-wrap{
+  @include transition(transform .25s ease);
+  transform: translateY(0%);
   position: fixed;
   width: 100%;
   z-index: 10;
@@ -1346,11 +1361,6 @@ a.bg-hover{
 /*********************
 PAGE & SECTIONS
 *********************/
-
-.page-wrap{
-  width: 100%;
-  position: relative;
-}
 
 .content-wrap-inner{
   width: 88%;

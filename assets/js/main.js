@@ -11,7 +11,7 @@
 
     };
 
-    var ref, $, $header, $headerSpacer, $headerWrap, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
+    var ref, $, $header, $headerSpacer, $headerWrap, $html, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
         superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
     function Controller(jQuery){
 
@@ -43,6 +43,7 @@
         Logger.log("header spacer -> " + $('.header-spacer').length);
 
 
+        $html = $('html');
         $body = $('body');
         $headerWrap = $('.header-wrap');
         $header = $('.header');
@@ -365,7 +366,7 @@
         if(ref.viewport().width < 414){
             return '12vw';
         } else if(ref.viewport().width >= 414 && ref.viewport().width < 768) {
-            return '8vw';
+            return '12vw';
         } else if(ref.viewport().width >= 768 && ref.viewport().width < 1024) {
             return '7vw';
         } else if(ref.viewport().width >= 1024 && ref.viewport().width < 1200) {
@@ -577,32 +578,39 @@
      *********************/
     Controller.prototype.onScroll = function(){
         var st = $(this).scrollTop();
-        if($scrollHint){
-            if(!$scrollHint.hasClass('gone')){
-                $scrollHint.addClass('gone');
-            } else {
-                if(st == 0){
-                    $scrollHint.removeClass('gone');
+        if(st){
+            if($scrollHint){
+                if(!$scrollHint.hasClass('gone')){
+                    $scrollHint.addClass('gone');
+                } else {
+                    if(st == 0){
+                        $scrollHint.removeClass('gone');
+                    }
                 }
             }
-        }
 
-        if(ref.viewport().width < 960){
-            if (st > lastScrollTop){
-                // downscroll code
-                $naviToggle.addClass('gone');
-            } else {
-                // upscroll code
-                $naviToggle.removeClass('gone');
+            if(ref.viewport().width < 960){
+                if (st > lastScrollTop){
+                    // downscroll code
+                    //$naviToggle.addClass('gone');
+                } else {
+                    // upscroll code
+                    $naviToggle.removeClass('gone');
+                }
             }
+
+            if(st < 10){
+                $naviToggle.removeClass('gone');
+                //show header ticker
+                if($html.hasClass('ticker-hidden')) $html.removeClass('ticker-hidden');
+
+            } else {
+                //hide header ticker
+                if(!$html.hasClass('ticker-hidden')) $html.addClass('ticker-hidden');
+            }
+
+            lastScrollTop = st;
         }
-
-        if(st < 10){
-            $naviToggle.removeClass('gone');
-        }
-
-        lastScrollTop = st;
-
     };
 
     /*********************
@@ -610,7 +618,7 @@
     *********************/
     Controller.prototype.resize = function(){
         if(!hasLargeHeader){
-            TweenMax.set($pageWrap,{paddingTop: $header.height()+'px', scrollPaddingTop: $header.height()+'px'});
+            TweenMax.set($pageWrap,{scrollPaddingTop: $header.height()+'px'});
             TweenMax.set($('html'),{scrollPaddingTop: ($header.height()+50)+'px'});
         }
         if(ref.viewport().width >= 960){
