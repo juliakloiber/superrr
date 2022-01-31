@@ -604,11 +604,9 @@
                 $naviToggle.removeClass('gone');
                 //show header ticker
                 $html.removeClass('ticker-hidden');
-                console.log('show ticker');
             } else {
                 //hide header ticker
                 if(!$html.hasClass('ticker-hidden')) $html.addClass('ticker-hidden');
-                console.log('hide ticker');
             }
 
             lastScrollTop = st;
