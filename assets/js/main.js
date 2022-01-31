@@ -578,6 +578,9 @@
      *********************/
     Controller.prototype.onScroll = function(){
         var st = $(this).scrollTop();
+
+        console.log('st ', st)
+
         if(st){
             if($scrollHint){
                 if(!$scrollHint.hasClass('gone')){
@@ -602,7 +605,7 @@
             if(st < 10){
                 $naviToggle.removeClass('gone');
                 //show header ticker
-                if($html.hasClass('ticker-hidden')) $html.removeClass('ticker-hidden');
+                $html.removeClass('ticker-hidden');
 
             } else {
                 //hide header ticker
