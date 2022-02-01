@@ -23,5 +23,4 @@ description: "Studie: Wie digital handlungsfähig ist der Engagementsektor in De
 
 <p><a href="/assets/downloads/on-off-digitale-handlungsfaehigkeit.pdf">Hier geht's zum Download.</a></p>
   
-<p>Die Studie wurde gefördert durch</p>
 <img src="/assets/img/blog/dsee-logo.jpg" alt="Logo Deutsche Stiftung für Engagement und Ehrenamt" style="max-width: 200px;">
