@@ -22,7 +22,7 @@ Illustration by Laura Breiling <3
 
 
 <p>This is a joint event series by SUPERRR Lab and <a href="https://yanagi.berlin">Yanagi Jutaijutsu Berlin e. V.</a><br>
-The course will be taught by Eva Dingel, Founder of Yanagi.</p>
+The course will be taught by Eva Dingel, Founder of Yanagi and 3rd level black belt in Jutaijutsu.</p>
 <p><h2>Sign up!</h2></p><p>Drop us an email: info[at]yanagi.berlin</p>
 
 
