@@ -9,7 +9,7 @@ description: Join us for a culinary self defense course
 Illustration by Laura Breiling <3
 
 <p><h2> Join us for self defense and carbs! March 25th till May 20th 2022</h2></p>
-<p><b>About:</b>This is a culinary self-defense class for cis and trans-women, trans men and non-binary folx. It is designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. It focuses on learning about our environment, ourselves and the others around us from a physical and emotional self-defense perspective. This means we will do some fun exercises that allow us new insights into these things, learn some basic martial arts techniques, and familiarize ourselves with our (physical) strength.</p>
+<p><b>About:</b> This is a culinary self-defense class for cis and trans-women, trans men and non-binary folx. It is designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. It focuses on learning about our environment, ourselves and the others around us from a physical and emotional self-defense perspective. This means we will do some fun exercises that allow us new insights into these things, learn some basic martial arts techniques, and familiarize ourselves with our (physical) strength.</p>
 
 <ul>
   <li><b>When?</b> Every Friday, starting March 25 till May 20th, 2022, from 7.30 PM to 9.30 PM.</li>
