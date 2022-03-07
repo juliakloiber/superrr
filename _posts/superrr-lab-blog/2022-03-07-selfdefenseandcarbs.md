@@ -8,12 +8,12 @@ description: Join us for a culinary self defense course
 <img src="/assets/img/blog/selfdefense.jpg" alt="Illustration of people practicing self defense and eating carbs" width="1000" height="720">
 Illustration by Laura Breiling <3
 
-<p> Sign up and join us for self defense and carbs! March 25th till  </p>
+<p> Sign up and join us for self defense and carbs! March 25th till May 20th 2022</p>
 <p> This is a culinary self-defense class for cis and trans-women, trans men and non-binary folx. It is designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. It focuses on learning about our environment, ourselves and the others around us from a physical and emotional self-defense perspective. This means we will do some fun exercises that allow us new insights into these things, learn some basic martial arts techniques, and familiarize ourselves with our (physical) strength.</p>
 
-<p><b>When?</b>Every Friday, starting March 25, 2022, from 7.30pm to 9.30pm.</p>
-<p><b>Where?</b>Location is Steinmetzstr. 46, 10783 Berlin</p>
-<p><b>Carbs?</b>Dinner is served on May 6, 2022 at Superrrr Lab, Berlin Moritzplatz</p>
+<p><b>When?</b>Every Friday, starting March 25, 2022, from 7.30pm to 9.30pm.<br>
+<b>Where?</b>Location is Steinmetzstr. 46, 10783 Berlin<br>
+<b>Carbs?</b>Dinner is served on May 6, 2022 at Superrrr Lab, Berlin Moritzplatz<br>
 <p><b>Costs?</b>You can choose to pay anywhere from 20 EUR to 70 EUR for this class. The dinner will be 15 EUR on top.</p>
 <p><b>What to bring?</b>Comfortable sports clothes, e.g. jogging pants and T-Shirt or similar.</p>
 <p>Beginners welcome, no prior knowledge necessary.</p>
