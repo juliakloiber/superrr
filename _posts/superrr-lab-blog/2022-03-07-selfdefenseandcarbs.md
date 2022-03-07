@@ -8,11 +8,11 @@ description: Join us for a culinary self defense course
 <img src="/assets/img/blog/selfdefense.jpg" alt="Illustration of people practicing self defense and eating carbs" width="1000" height="720">
 Illustration by Laura Breiling <3
 
-<p><h2> Join us for self defense and carbs! <br>March 25th till May 20th, 2022</h2></p>
+<p><h2> Join us for self defense and carbs! <br>March 25th till May 27th, 2022</h2></p>
 <p><b>About:</b> This is a culinary self-defense class for cis and trans-women, trans men and non-binary folx. It is designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. It focuses on learning about our environment, ourselves and the others around us from a physical and emotional self-defense perspective. This means we will do some fun exercises that allow us new insights into these things, learn some basic martial arts techniques, and familiarize ourselves with our (physical) strength.</p>
 
 <ul>
-  <li><b>When?</b> Every Friday, starting March 25 till May 20th, 2022, from 7.30 PM to 9.30 PM.</li>
+  <li><b>When?</b> Every Friday, starting March 25 till May 27th, 2022, from 7.30 PM to 9.30 PM.</li>
   <li><b>Where?</b> Steinmetzstr. 46, 10783 Berlin</li>
   <li><b>Carbs?</b> Dinner is served on May 20th at Superrrr Lab, Berlin Moritzplatz</li>
   <li><b>Costs?</b> You can choose to pay anywhere from 20 EUR to 70 EUR for this class. The dinner will be 15 EUR on top.</li>
@@ -22,7 +22,7 @@ Illustration by Laura Breiling <3
 
 
 <p>This is a joint event series by <a href="https://yanagi.berlin">Yanagi Jutaijutsu Berlin e. V.</a> and SUPERRR Lab<br>
-The course will be taught by Eva Dingel, Founder of Yanagi and 3rd level black belt in Jutaijutsu.</p>
+The course will be taught by Eva Dingel, founder of Yanagi and Ilaria Bruzzone, both 3rd level black belts in Jutaijutsu.</p>
 <p><h2>Sign up!</h2></p><ul><li><p>To sign up drop us an email: info[at]yanagi.berlin</p></li></ul>
 
 
@@ -36,7 +36,7 @@ What’s our personal ‘circle’ and why is this important? How do we react wh
 <li><b>Session 4:</b> April 29th. Mind & body, in this case: confronting some physical challenges, and using our breathing as well as different strategies to overcome them</li>
 <li><b>Session 5:</b> May 6th. Getting physical, part II: repeating and strengthening the techniques we trained, plus adding a few new ones</li>
 <li><b>Session 6:</b> May 13th. Recap, using all the things we’ve learned, plus surprise amazing experience!!!!</li>
-<li><b>Dinner:</b>May 20th. Yummy food, plus the space to talk and share together. At SUPERRR Lab Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor). 2G rules apply. We ask you to present proof of vaccination or recovery.</li>
+<li><b>Dinner:</b>May 27th. Yummy food, plus the space to talk and share together. At SUPERRR Lab Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor). 2G rules apply. We ask you to present proof of vaccination or recovery.</li>
  </ul>
  
  <p>Questions?</p> Drop us an email: info[at]yanagi.berlin
