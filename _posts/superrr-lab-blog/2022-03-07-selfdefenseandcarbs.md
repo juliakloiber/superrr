@@ -39,6 +39,7 @@ What’s our personal ‘circle’ and why is this important? How do we react wh
 <li><b>Dinner:</b>May 27th. Yummy food, plus the space to talk and share together. At SUPERRR Lab Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor). 2G rules apply. We ask you to present proof of vaccination or recovery.</li>
  </ul>
  
- <p>Questions?</p> Drop us an email: info[at]yanagi.berlin
+ <p>Questions?</p>
+Check out the <a href="https://yanagi.berlin/">Yanagi Berlin</a> website for more info and the Code of Conduct or drop us an email: info[at]yanagi.berlin
 
  
