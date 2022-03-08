@@ -36,7 +36,7 @@ What’s our personal ‘circle’ and why is this important? How do we react wh
 <li><b>Session 4:</b> April 29th. Mind & body, in this case: confronting some physical challenges, and using our breathing as well as different strategies to overcome them</li>
 <li><b>Session 5:</b> May 6th. Getting physical, part II: repeating and strengthening the techniques we trained, plus adding a few new ones</li>
 <li><b>Session 6:</b> May 13th. Recap, using all the things we’ve learned, plus surprise amazing experience!!!!</li>
-<li><b>Dinner:</b>May 27th. Yummy food, plus the space to talk and share together. At SUPERRR Lab Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor). 2G rules apply. We ask you to present proof of vaccination or recovery.</li>
+<li><b>Dinner:</b> May 27th. Yummy food, plus the space to talk and share together. At SUPERRR Lab Space, Oranienstr. 58 A, Berlin (on Moritzplatz, straight across from Modulor). 2G rules apply. We ask you to present proof of vaccination or recovery.</li>
  </ul>
  
  <p>Questions?</p>
