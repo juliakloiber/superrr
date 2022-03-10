@@ -43,7 +43,7 @@ We speak up, we write books and papers, we make music and create art and it live
 
 <p><b>Anja:</b> Sure. Shortly about the following poem:  It is a numbered poem and will mean a thousand different things to a thousand different people. Memories are not linear and so aren’t my poems. It might look chaotic or confusing and you may miss aline,  have to  re-read or jump to another line but that is exactly how our brains work, too. We never remember precisely. So, here goes “unnamed”. </p>
 
-<img src="/assets/img/blog/poem1.jpg" alt="" style="max-width: 200px;">
-<img src="/assets/img/blog/poem2.jpg" alt="" style="max-width: 200px;">
+<img src="/assets/img/blog/poem1.jpg" alt="" style="max-width: 600px;">
+<img src="/assets/img/blog/poem2.jpg" alt="" style="max-width: 600px;">
 
 <p><b>SUPERRR:</b> Thank you so much, dear Anja! Wishing you all the best for your upcoming projects – and here’s to future memories!</p>
