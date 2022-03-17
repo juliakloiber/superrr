@@ -11,7 +11,7 @@ description: Studentische Mitarbeit (40-60h/Monat) für ein rassismuskritisches 
 
 <h3>Wir suchen: Werkstudent*in (40-60h/Monat) für ein rassismuskritisches und dekoloniales Projekt (m/w/d)</h3>
 
-<p>Ort: Berlin, Deutschland.
+<p>Ort: Berlin, Deutschland
 <br>Bewerbungsfrist: 31.03.2022
 <br>Arbeitsbeginn: 01.05.2022 (vorbehaltlich der Finanzierung)
 <br>Vertragslaufzeit: 1 Jahr mit Möglichkeit zur Verlängerung
