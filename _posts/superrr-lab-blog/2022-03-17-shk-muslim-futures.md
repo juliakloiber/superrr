@@ -12,7 +12,7 @@ description: Studentische Mitarbeit (40-60h/Monat) für ein rassismuskritisches 
 <h3>Wir suchen: Werkstudent*in (40-60h/Monat) für ein rassismuskritisches und dekoloniales Projekt (m/w/d)</h3>
 
 <p>Ort: Berlin, Deutschland
-<br>Bewerbungsfrist: 31.03.2022
+<br>Bewerbungsfrist: verlängert bis 15.04.2022
 <br>Arbeitsbeginn: 01.05.2022 (vorbehaltlich der Finanzierung)
 <br>Vertragslaufzeit: 1 Jahr mit Möglichkeit zur Verlängerung
 <br>13€ Stundenlohn</p>
@@ -58,7 +58,7 @@ description: Studentische Mitarbeit (40-60h/Monat) für ein rassismuskritisches 
 </ul>    
 
 <p><b>Haben wir dein Interesse geweckt?</b></p>
-<p>Sende uns deinen Lebenslauf (ohne Foto und Geburtsdatum) und ein Anschreiben, warum du den Job spannend findest, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Die Bewerbungsfrist endet am 31.03.2022.</p>
+<p>Sende uns deinen Lebenslauf (ohne Foto und Geburtsdatum) und ein Anschreiben, warum du den Job spannend findest, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Die Bewerbungsfrist endet am 15.04.2022.</p>
 
 <p>Als feministische Organisation verpflichten wir uns zu einem Bewerbungsprozess, der auf Gleichbehandlung und Chancengleichheit basiert.</p> 
 
