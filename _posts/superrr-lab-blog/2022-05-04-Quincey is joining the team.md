@@ -2,8 +2,8 @@
 layout: post
 type: lab
 author: Quincey Stumptner
-title: New team member on board – Welcome Quincey!
-description: In this blogpost we introduce our new teammember Quincey. 
+title: SUPERRR Lab is growing – welcome Quincey!
+description: Get to know our new team member. 
 ---
 
 <img src="/assets/img/blog/quincey.png" alt="Portrait of Quincey" width="500" height="600">
