@@ -19,5 +19,5 @@ description: Superrr Lab wird zur zivilgesellschaftlichen Foresight-Organisation
 <p>Eine kontinuierliche Arbeit an diesem Thema, das uns sehr am Herzen liegt, wäre nicht möglich ohne langfristige finanzielle Unterstützung, mit der wir uns als Organisation weiterentwickeln und wachsen können. Wir freuen uns und danken der Stiftung Mercator, dass sie unsere Anliegen teilt und uns mit einer institutionellen Förderung von 800.000 Euro in den nächsten drei Jahren ermöglicht, das zu tun, was uns wichtig ist.  
 Langfristig streben wir an, dass über intersektionale Foresight in europäischer und deutscher Digitalpolitik nicht mehr nachgedacht wird, sondern es in die tägliche Policy-Arbeit eingewoben ist. Damit wäre Politik und Zivilgesellschaft befähigt, gemeinsam proaktiv eine gesamtgesellschaftliche Agenda zu setzten und eigene Vorstellungen von inklusiven und chancengerechten Zukünften umzusetzen.</p>
 
-<p></em>SUPERRR Lab wird gefördert durch die Stiftung Mercator.</em><p>
+<p><em>SUPERRR Lab wird gefördert durch die Stiftung Mercator.</em><p>
 
