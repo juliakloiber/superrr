@@ -2,8 +2,8 @@
 layout: post
 type: lab
 author: Nushin Yazdani
-title: Building worlds and homes: The New New projects, one year on 
-description: Interview with Banlieue du Turfu and Beyond the Green
+title: Building worlds and homes – The New New projects, one year on 
+description: Interview with the New New projects Banlieue du Turfu and Beyond the Green
 ---
 
 <img src="/assets/img/blog/New-New_Blogpost-1_linkedin.jpg" alt="Image showing a graphic purple sky with clouds and stars, and three spotlights highlighting the New New fellows Camila, Makan and Hugo" width="500" height="600">
