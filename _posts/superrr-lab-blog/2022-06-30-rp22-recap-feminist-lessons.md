@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Quincey Stumptner
 title: republica 2022 recap: Feminist lessons from the digital frontier
-description: This post is a recap of our panel discussion "Sorry for the late reply - Feminist lessons from the digital frontier" at re:publica 2022.
+description: This post is a recap of our panel discussion at re:publica 2022.
 ---
 <img src="/assets/img/blog/republica 2022 Panel_feminist frontier.jpg" alt="The photo shows the four panelists, Ellen Ehmke, Hera Hussein, Michelle Thorne and Julia Kloiber sitting on stage with a large sign behind them depicting the logo of republica." width="500" height="600">
 
