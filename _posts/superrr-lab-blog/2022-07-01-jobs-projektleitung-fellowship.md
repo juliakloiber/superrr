@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Elisa Lindinger
-title: SUPERRR is hiring: Projektleitung für ein Fellowship-Programm (m/w/d)
+title: SUPERRR is hiring: Projektleitung für ein Fellowship-Programm
 description: Zusammen mit dir unterstützen wir Menschen und Projekte in ganz Europa.
 ---
 
