@@ -6,7 +6,7 @@ title: We're Hiring – Part 1
 description: Wir suchen eine Projektleitung für ein europaweites Fellowship
 ---
 
-<h1>Wir suchen: Projektleitung für ein europaweites Fellowship-Programm bei SUPERRR Lab in Vollzeit (m/w/d)</h1>
+<h3>Wir suchen: Projektleitung für ein europaweites Fellowship-Programm bei SUPERRR Lab in Vollzeit (m/w/d)</h3>
 
 <p>Ort: Berlin, Deutschland.
 <br>Bewerbungsfrist: 24.07.2022
@@ -14,7 +14,7 @@ description: Wir suchen eine Projektleitung für ein europaweites Fellowship
 <br>Vertragslaufzeit: bis 31.10.2023, Vollzeit
 <br>Gehalt angelehnt an TV-ÖD 13 inkl. eines 13. Monatsgehalts</p>
 
-<h2>Wer wir sind und wen wir suchen: </h2>
+<h3>Wer wir sind und wen wir suchen: </h3>
 
 <p>Wir sind SUPERRR Lab, eine gemeinnützige feministische Organisation mit Sitz in Berlin, die sich in ihrer Arbeit für gerechte und inklusive digitale Zukünfte einsetzt. Wir forschen an Themen, wie den Chancen und Herausforderungen der Digitalisierung für die Gesellschaft. Wir organisieren Fellowship-Programme, veröffentlichen Publikationen, entwerfen Policy-Empfehlungen und Visionen für digitale Zukünfte. Im letzten Jahr haben wir unter anderem für und mit den folgenden Institutionen gearbeitet: Stiftung Mercator, Bundeministerium der Justiz und für Verbraucherschutz, Robert-Bosch-Stiftung, Allianz Kulturstiftung, Deutsche Stiftung für Engagement und Ehrenamt, Bertelsmann Stiftung, dem Auswärtigen Amt und vielen weiteren.</p>
 
@@ -41,7 +41,7 @@ description: Wir suchen eine Projektleitung für ein europaweites Fellowship
   <li>Du identifizierst dich mit den Werten von SUPERRR Lab.</li>
 </ul></p>
 
-<h2>Was wir dir bieten:</h2>
+<h3>Was wir dir bieten:</h3>
 <p>Superrr bietet dir ein Arbeitsumfeld mit viel Gestaltungsspielraum und Entfaltungsmöglichkeiten: </p>
 
 <p><ul>
@@ -52,7 +52,7 @@ description: Wir suchen eine Projektleitung für ein europaweites Fellowship
 	<li>Arbeit in einem vielseitigen, engagierten Team, das kontinuierlich voneinander lernt, sich unterstützt und Erfolge zusammen feiert.</li>
 </ul></p>
 
-<h2>Und so bewirbst du dich:</h2>
+<h3>Und so bewirbst du dich:</h3>
 <p>Sende uns deinen Lebenslauf (ohne Foto und Geburtsdatum) und ein Anschreiben, warum du den Job spannend findest und welche Fähigkeiten du mitbringst, um ihn zu erfüllen, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Bitte gib an, dass du dich auf die Projektleitung des Fellowship-Programms bewirbst, damit wir deine Bewerbung richtig zuordnen. Die Bewerbungsfrist endet am 24.07.2022. Als feministische Organisation verpflichten wir uns zu einem Bewerbungsprozess, der auf Gleichbehandlung und Chancengerechtigkeit basiert.</p>
 
 <p>Wir freuen uns auf deine Bewerbung!</p>
