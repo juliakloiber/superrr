@@ -14,7 +14,7 @@ description: Zusammen mit dir unterstützen wir Menschen und Projekte in ganz Eu
 
 <p><b>Wer wir sind und wen wir suchen: </b></p>
 
-<p>Wir sind SUPERRR Lab, eine gemeinnützige feministische Organisation mit Sitz in Berlin, die sich in ihrer Arbeit für gerechte und inklusive digitale Zukünfte einsetzt. Wir forschen an Themen, wie den Chancen und Herausforderungen der Digitalisierung für die Gesellschaft. Wir organisieren Fellowship-Programme, veröffentlichen Publikationen, entwerfen Policy-Empfehlungen und Visionen für digitale Zukünfte. Im letzten Jahr haben wir unter anderem für und mit den folgenden Institutionen gearbeitet: Stiftung Mercator, Bundeministerium der Justiz und für Verbraucherschutz, Robert-Bosch-Stiftung, Allianz Kulturstiftung, Deutsche Stiftung für Engagement und Ehrenamt, Bertelsmann Stiftung, dem Auswärtigen Amt und vielen weiteren.</p>
+<p>Wir sind SUPERRR Lab, eine gemeinnützige feministische Organisation mit Sitz in Berlin, die sich in ihrer Arbeit für gerechte und inklusive digitale Zukünfte einsetzt. Wir forschen an Themen wie den Chancen und Herausforderungen der Digitalisierung für die Gesellschaft. Wir organisieren Fellowship-Programme, veröffentlichen Publikationen, entwerfen Policy-Empfehlungen und Visionen für digitale Zukünfte. Im letzten Jahr haben wir unter anderem für und mit den folgenden Institutionen gearbeitet: Stiftung Mercator, Bundeministerium der Justiz und für Verbraucherschutz, Robert-Bosch-Stiftung, Allianz Kulturstiftung, Deutsche Stiftung für Engagement und Ehrenamt, Bertelsmann Stiftung, dem Auswärtigen Amt und vielen weiteren.</p>
 
 <p>Gemeinsam mit einer international tätigen Stiftung werden wir ein Fellowship-Programm entwickeln und durchführen. Das europaweite Fellowship richtet sich an Personen, die sich zivilgesellschaftlich engagieren oder künstlerisch tätig sind und daran arbeiten, gerechte digitale Zukünfte zu imaginieren, zu diskutieren und Wirklichkeit werden zu lassen. Ihre Arbeit erschließt neue oder bisher wenig beachtete Themen, Methoden und Communities, stellt ihre Bedürfnisse dar und macht die Vielfalt digitaler wünschenswerter Zukünfte sichtbar.</p>
 
@@ -24,7 +24,7 @@ description: Zusammen mit dir unterstützen wir Menschen und Projekte in ganz Eu
 <p><ul>
   <li>Du verfügst über Einordnungswissen zu Themen an der Schnittstelle von Technologie und Gesellschaft.</li>
   <li>Dich interessieren unterschiedliche Ausdrucksformen und Medien – von Kunst, Design über Aktivismus, bis hin zu Recherche und wissenschaftlicher Forschung.</li>
-  <li>Du hast Erfahrung im Community Building diverser, internationaler Gruppen.</li>
+  <li>Du hast Erfahrung im Community-Building diverser, internationaler Gruppen.</li>
   <li>Du bist ein Organisationstalent und kannst deine Arbeit gut selbst strukturieren.</li>
   <li>Du wirst gerne kreativ und arbeitest mit den Fellows daran, ihre Arbeit interessant zu kommunizieren und einem breiten Publikum bekannt zu machen.</li>
   <li>Du besitzt gute bis sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.</li>
