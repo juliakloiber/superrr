@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Quincey Stumptner
-title: republica 2022 recap: Feminist lessons from the digital frontier
+title: republica 2022 recap - Feminist lessons from the digital frontier
 description: Read up on our discussion with Hera Hussain, Michelle Thorne and Ellen Ehmke.
 ---
 
