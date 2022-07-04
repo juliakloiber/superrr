@@ -12,10 +12,10 @@ description: Read up on our discussion with Hera Hussain, Michelle Thorne and El
 We are superrr happy to have been able to host a panel on intersectional feminist approaches to tech policy at this years <a href="https://re-publica.com/de/session/sorry-late-reply-feminist-lessons-digital-frontier/">re:publica</a>. We were specifically thrilled to bring together four amazing women in one panel who talked about the impact of feminist practices on tech development, how a feminist perspective can help to build a better internet and how we all can move forward with our struggles to create more inclusive and equitable digital futures. We were able to welcome on stage <a href="https://re-publica.com/de/user/13512">Hera Hussain</a>, the founder and CEO of Chayn, a civil society organization fighting gender-based violence. Moreover we were joined by <a href="https://michellethorne.cc/about/">Michelle Thorne</a>, research director of Mozzilla’s sustainability program, as well as by <a href="https://re-publica.com/de/user/12575/">Ellen Ehmke</a>, a senior expert on inequality at the Robert Bosch Foundation. The session was moderated by our very own <a href="https://juliakloiber.com/">Julia Kloiber</a> from SUPERRR Lab.
 </p>
 
-</p>
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v45W_m7SOPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-</p>
+
 
 <p>
 From the very beginning on it became apparent that in technology, as in all other areas, different systems of oppression such as patriarchy, racism, socioeconomic inequality, etc. intersect and shape the world we live in as well as our individual experiences in it. The panelists highlighted the incredible intersectional feminist tradition and heritage we all draw upon in our daily work to change technologies and the internet for the better. 
@@ -87,5 +87,5 @@ To start off our own feminist practises, we need to speak up, cooperate, and let
 
 <p>
 <i><b>“A starting point for feminist practice: use your power, read, write, cite, listen, open your mind, vote correctly, volunteer, donate, have challening conversations and always be learning!”</b> - Hera Hussain<i>
-</p>
+
 
