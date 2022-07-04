@@ -5,6 +5,7 @@ author: Quincey Stumptner
 title: republica 2022 recap: Feminist lessons from the digital frontier
 description: Read up on our discussion with Hera Hussain, Michelle Thorne and Ellen Ehmke.
 ---
+
 <img src="/assets/img/blog/republica 2022 Panel_feminist frontier.jpg" alt="The photo shows the four panelists, Ellen Ehmke, Hera Hussain, Michelle Thorne and Julia Kloiber sitting on stage with a large sign behind them depicting the logo of republica." width="500" height="600">
 
 <p>
@@ -12,7 +13,7 @@ We are superrr happy to have been able to host a panel on intersectional feminis
 </p>
 
 </p>
-  <iframe src="https://www.youtube.com/watch?v=v45W_m7SOPM" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v45W_m7SOPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 </p>
 
