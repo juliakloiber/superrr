@@ -10,7 +10,7 @@ description: Du baust unsere Advocacy-Arbeit aus.
 <br>Bewerbungsfrist: 24.07.2022
 <br>Arbeitsbeginn: 01.09.2022 oder 15.09.2022
 <br>Vertragslaufzeit: bis 31.12.2023 in Vollzeit. Wir bemühen uns, die Stelle zu verlängern.
-<br>Gehalt angelehnt an TV-ÖD 13 inkl. eines 13. Monatsgehalts</p>
+<br>Gehalt angelehnt an <a href="https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2022&matrix=1">TV-ÖD 13</a> inkl. eines 13. Monatsgehalts</p>
 
 <p><b>Wer wir sind und wen wir suchen: </b></p>
 
@@ -49,6 +49,11 @@ description: Du baust unsere Advocacy-Arbeit aus.
 	<li>Faire und wettbewerbsfähige Bezahlung, die in adäquatem Verhältnis zu deiner Berufserfahrung steht.</li>
 	<li>Arbeit in einem vielseitigen, engagierten Team, das kontinuierlich voneinander lernt, sich unterstützt und Erfolge zusammen feiert.</li>
 </ul></p>
+
+<p>
+Barrierefreiheit:
+Unser aktuelles Büro ist nicht ebenerdig zugänglich. Für Rollstuhlfahrer*innen bieten wir Remote Work und Teamtreffen, an mit Rollstuhl zugänglichen Orten an. Wir arbeiten an einem Umzug in barrierefreie Räume. Geplant für Herbst 2023.
+</p>
 
 <p><b>Und so bewirbst du dich:</b></p>
 <p>Sende uns deinen Lebenslauf (ohne Foto und Geburtsdatum) und ein Anschreiben, warum du den Job spannend findest und welche Fähigkeiten du mitbringst, um ihn zu erfüllen, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Bitte gib an, dass du dich auf die Advocacy- und Kommunikationsstelle bewirbst, damit wir deine Bewerbung richtig zuordnen. Die Bewerbungsfrist endet am 24.07.2022. Als feministische Organisation verpflichten wir uns zu einem Bewerbungsprozess, der auf Gleichbehandlung und Chancengerechtigkeit basiert.</p>
