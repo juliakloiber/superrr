@@ -18,3 +18,5 @@ description: "How can we better assess what impact new technologies and their re
 
 <p>With this project, we take the 12 <a href="https://superrr.net/feministtech/">Feminist Tech Principles</a> and test how we can translate them into a deployable framework.</p>
 
+
+<a href="https://www.bosch-stiftung.de/de" target="_blank"> <img src="{{ site.baseurl }}/assets/img/static/organizations/bosch.png" /></a>
