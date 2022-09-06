@@ -1,7 +1,7 @@
 ---
 title: "Zukunftsforum"
 header_type: lab
-order: 1
+order: 4
 layout: project
 teaser_img: "/assets/img/static/projects/zukunftsforum.jpg"
 hero_img: "/assets/img/static/projects/zukunftsforum-hero.jpg"
