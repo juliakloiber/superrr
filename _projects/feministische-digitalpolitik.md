@@ -12,28 +12,28 @@ description: "SUPERRR Lab setzt sich schon seit 2019 für einen Paradigmenwechse
 
 
 ---
-<p><h2> Digitalisierung gerecht gestalten: <br>Hin zu einer Feministischen Digitalpolitik</h2></p>
+<p><b> Digitalisierung gerecht gestalten: <br>Hin zu einer Feministischen Digitalpolitik</b></p>
 <p>
-<i><b>Eine feministische Digitalpolitik begegnet gegenwärtigen Herausforderungen der Digitalisierung und Technologieregulierung. Sie erkennt gesellschaftliche Komplexitäten an, stellt die Grundrechte in den Mittelpunkt ihrer Arbeit und schafft visionäre Leitbilder für eine gerechte digitale Zukunft.</b> - SUPERRR Lab, Juni 2022</i>
+<i>Eine feministische Digitalpolitik begegnet gegenwärtigen Herausforderungen der Digitalisierung und Technologieregulierung. Sie erkennt gesellschaftliche Komplexitäten an, stellt die Grundrechte in den Mittelpunkt ihrer Arbeit und schafft visionäre Leitbilder für eine gerechte digitale Zukunft.</i> - SUPERRR Lab, Juni 2022
 </p>
 
 <p>
 Mit welchen Prioritäten die Politik Digitalisierung in den nächsten Jahren gestaltet, wird maßgeblichen beeinflussen, wer von ihr profitiert. Wird unsere Gesellschaft als Ganzes die Vorteile der neuen Entwicklungen spüren, oder werden digitale Technologien bestehende Machtungleichgewichte weiter festschreiben? Die <a href="https://digitalstrategie-deutschland.de/medien/">Nennung feministischer Digitalpolitik</a> in der Digitalstrategie der Bundesregierung zeigt, dass es neue Ansätze braucht, um die Probleme und Herausforderungen aktueller digitaler Technologien zu lösen. Denn die Gestaltungsmacht im Netz liegt momentan in den Händen weniger großer Tech-Akteure. Sie gestalten die Leitbilder für die digitale Welt der Zukunft und die Politik reagiert oft nur auf diese Entwicklungen, ohne eigene progressive Visionen und Gestaltungsziele. Die Leidtragenden sind Nutzer*innen digitaler Technologien, welche beständig vor der Herausforderung stehen, ihre Rechte durchzusetzen.
 </p>
 
-<p><h3>Potenziale einer feministischen Digitalpolitik</h3></p>
+<p><b>Potenziale einer feministischen Digitalpolitik</b></p>
 
 <p>
 SUPERRR Lab setzt sich schon seit 2019 für einen Paradigmenwechsel hin zu einer intersektional-feministischen Digitalpolitik ein. Denn diese begegnet den aktuellen Herausforderungen, indem sie Grundrechte in den Mittelpunkt rückt und für Transparenz, Mitgestaltung und Zukunftsfähigkeit einsteht. Sie versteht Technologien nicht als Allheilmittel, sondern hinterfragt deren Sinnhaftigkeit, evaluiert vorausschauend ihre negativen Auswirkungen und zeigt Chancen auf, es besser zu machen. Damit bietet sie einen Rahmen für eine progressive Digitalpolitik, deren fester Bestandteil sozialpolitische und Umweltthemen sind.
 </p>
 
-<p><h3>Grundsätze einer feministischen Digitalpolitik</h3></p>
+<p><b>Grundsätze einer feministischen Digitalpolitik</b></p>
 
 <p>
 Mit den <a href="https://superrr.net/feministtech/principles/">“Feminist Tech Principles”</a> erarbeitete SUPERRR Lab letztes Jahr Grundprinzipien einer feministischen Digitalpolitik. Dabei wird Digitalpolitik als Gesellschaftspolitik verstanden und als solche gestaltet. Sie stellt Grundrechte und Chancengerechtigkeit ins Zentrum von Technologieentwicklung und -regulierung und traut sich, Macht gerechter zu verteilen. Dies gelingt ihr in kontinuierlicher Zusammenarbeit mit der Zivilgesellschaft und den Bezug auf zahlreiche verschiedene Stakeholder*innen und deren Expertise. Dabei werden politische Entscheidungen auf Basis folgender Werte getroffen: Transparenz, Fürsorge, Selbstbestimmung, Mitgestaltung und Chancengerechtigkeit.
 </p>
 
-<p><h3>Eine feministische Digitalpolitik …</h3></p>
+<p><b>Eine feministische Digitalpolitik…</b></p>
 
 <ul>
   <li><b>ist zukunftsfähig:</b> Desinformation und Manipulation durch staatliche und wirtschaftliche Akteur*innen bedrohen die Demokratie. Eine feministische Digitalpolitik setzt diesen Auswüchsen klare Grenzen. Sie steht für Transparenz, Fakten und gesellschaftlichen Dialog.</li>
@@ -47,13 +47,13 @@ Wie eine feministische Digitalpolitik konkrete Policy-Herausforderungen wie die 
 </p>
 
 
-<p><h3>Die feministische Außenpolitik macht es vor</h3></p>
+<p><b>Die feministische Außenpolitik macht es vor</b></p>
 
 <p>
 Mehrere Länder weltweit verfolgen bereits eine feministische Außenpolitik, in Deutschland wurde sie im Koalitionsvertrag festgehalten. In einer Zeit, in der Tech-Konzerne weltweit massiven Einfluss besitzen und als quasi-staatliche Entitäten handeln, muss eine feministische Digitalpolitik die feministische Außenpolitik ergänzen. Nur mit ihr können wir Chancengerechtigkeit, Nachhaltigkeit und Teilhabe im Digitalen erreichen.
 </p>
 
-<p><h3>Empfehlung an die Bundesregierung</h3></p>
+<p><b>Empfehlung an die Bundesregierung</b></p>
 
 <p>
 Wir als Menschen hinter SUPERRR Lab freuen uns sehr, dass die Idee der feministischen Digitalpolitik mit der neuen Digitalstrategie Einzug in den politischen Diskurs in Deutschland erhalten hat. Doch müssen nun auch Taten folgen: Um feministische Ansätze in die Digitalpolitik zu einzuführen, muss vor allem das vielseitige Wissen, die innovativen Ideen und die lösungsorientierten Vorschläge der Zivilgesellschaft stärker in digitalpolitischen Aushandlungsprozessen berücksichtigt werden. Im SUPERRR Lab entwickeln wir täglich Anwendungswissen, wie feministische Perspektiven und Ideale digitalpolitische Probleme lösen können. Und neben uns gibt es noch viele andere, deren gemeinsames Wissen die Digitalisierung in Deutschland auf einen erfolgreichen Pfad bringen kann. Wir freuen uns über diesen ersten Schritt, den die Bundesregierung mit der Digitalstrategie gegangen ist und werden weiter daran arbeiten, das Konzept im digitalpolitischen Diskurs zu verankern.
