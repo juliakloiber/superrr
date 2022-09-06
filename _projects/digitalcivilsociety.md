@@ -1,7 +1,7 @@
 ---
 title: "Campaign: Digital civil society"
 header_type: lab
-order: 3
+order: 4
 layout: project
 teaser_img: "/assets/img/static/projects/civil-teaser.png"
 hero_img: "/assets/img/static/projects/civil.png"
