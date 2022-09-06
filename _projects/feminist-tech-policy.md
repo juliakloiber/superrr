@@ -1,7 +1,7 @@
 ---
 title: "Feminist Tech Policy"
 header_type: lab
-order: 0
+order: 1
 layout: project
 teaser_img: "/assets/img/static/projects/feminist-tech-policy.jpg"
 hero_img: "/assets/img/static/projects/feminist-tech-policy-hero.jpg"
