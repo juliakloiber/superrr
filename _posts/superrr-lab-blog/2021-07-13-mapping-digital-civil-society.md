@@ -6,7 +6,7 @@ title: A mapping of digital civil society
 description: We took a close look at the German digital civil society for the Goethe-Institut.
 ---
 
-<p>Now also in English: Our <a href="https://www.goethe.de/resources/files/pdf228/gi-mapping-digitale-zivilgesellschaft_en1.pdf">Mapping of Digital Civil Society</a> in Germany. But what exactly is digital civil society?</p>
+<p>Now also in English: Our <a href="https://www.goethe.de/resources/files/pdf264/gi-mapping-dt-zivilgesellschaft_en-v2.pdf">Mapping of Digital Civil Society</a> in Germany. But what exactly is digital civil society?</p>
 
 <p>For this, we have developed a definition as part of the report: 
 
