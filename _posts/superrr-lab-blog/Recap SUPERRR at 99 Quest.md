@@ -6,7 +6,7 @@ title: SUPERRR Lab at the "99 Questions Gathering Impulse Sessions"
 description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse Sessions" - read up on what we have learned there!
 ---
 
-<img src="/assets/img/blog/molemo_moiloa_ora _speaking.png" alt= Molemo Moiloa of Open Restituion Africa holding a presentation width="500" height="600">
+<img src="/assets/img/blog/molemo_moiloa_ora_speaking.png" alt= Molemo Moiloa of Open Restituion Africa holding a presentation width="500" height="600">
 <p> Molemo Moiloa of Open Restitution Africa speaking</p>
 
 <h1>SUPERRR Lab at the "99 Questions Gathering's" Impulse Sessions</h1>
@@ -22,7 +22,7 @@ The impulse sessions, hosted by curator Michael Dieminger, were split into three
 <br>
 
 <h2>"The essence of Western technology (…) is capitalism.“</h2>
-<p>Sara Garzón></p>
+<p>Sara Garzón</p>
 
 <p>
 In contrast to Western-derived technology, indigenous technology - which Garzón described as "the technological "- is not interested in mechanization; instead, practices and connections between humans and (non-human) deities are privileged. Furthermore, indigenous technologies are based on cultivating and enabling life and are deeply rooted in indigenous cosmologies. In contrast, Western technology as logic is based/premised on violence and domination, as historically, it has always been an aid to capitalism. This is discernible when considering the underpinnings of the Western patriarchal tradition of seeing oneself as "Homo Faber" (transl. "Maker Man") - as the sole creator of the world.
@@ -41,7 +41,7 @@ That begs questions like: "How is data in digital collections stored? How is it 
 <p>Open Restitution Africa</p>
 
 <p>
-Today, there is a considerable shift in how restitution is discussed (online). Still, both the public and academic narratives rarely includes African authors when in reality, most people writing about restitution and carrying the conversation forward are Africans. But who is referenced the most? Who takes up most space in these discourses? Non-Africans. Here, we see how even in digital spaces, the power dynamics of racism barely differ from those "offline". There are many reasons for the lack of inclusion of Africans on- and offline. Regardless, it is vital to understand that simply moving the conversation into a digital realm does not disperse existing power dynamics since most of the architects behind our digital spaces are white men. Learn more about the restitution in Open Restitution Africa's report <b><a href="https://openrestitution.africa/reclaiming-restitution-report/„>“Reclaiming Restitution“</a></b> and their podcast <b><a href="https://openrestitution.africa/resources/podcast/„>“Access For Who“.</a></b>
+Today, there is a considerable shift in how restitution is discussed (online). Still, both the public and academic narratives rarely includes African authors when in reality, most people writing about restitution and carrying the conversation forward are Africans. But who is referenced the most? Who takes up most space in these discourses? Non-Africans. Here, we see how even in digital spaces, the power dynamics of racism barely differ from those "offline". There are many reasons for the lack of inclusion of Africans on- and offline. Regardless, it is vital to understand that simply moving the conversation into a digital realm does not disperse existing power dynamics since most of the architects behind our digital spaces are white men. Learn more about the restitution in Open Restitution Africa's report <b><a href="https://openrestitution.africa/reclaiming-restitution-report/„>“Reclaiming Restitution“</a></b> and their podcast <b><a href="https://openrestitution.africa/resources/podcast/>“Access For Who“.</a></b>
 </p>
 <p>
 Subsequently, artist <b>Jim Chuchu</b> and filmmaker <b>Dr Njoki Ngumi</b> from the Nairobi-based art collective<b><a href="https://www.thisisthenest.com/>“The Nest“</a></b> critically examined the language of ritual behind the processes of return and restitution. 
