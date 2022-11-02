@@ -1,0 +1,65 @@
+---
+layout: post
+type: lab
+author: Feven Keleta
+title: SUPERRR Lab is growing – welcome Sayda!
+description: Get to know our most recent addition to the team. 
+---
+
+<img src="/assets/img/blog/Sayda.png" alt="Portrait of Sayda" width="500" height="600">
+<p><em>We are very excited to announce a new addition to our team! ✨ Sayda will join SUPERRR as the program assistant in the Muslim Futures project.</em></p>
+
+<p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Sayda?
+</p>
+<p><b>Sayda:</b> I've been volunteering for different projects in my community since my teenage years, for example, organizing charity events. 
+I love going on walks - by myself, with friends, in the city, through the forest - it's the best way to calm down and clear my head.
+I'm not talented or patient enough to excel in one particular hobby. 
+But I always like trying new things like calligraphy, gardening (somebody needs to save my plants) or baking.
+</p>
+
+<p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future? Something you would use every day and cannot imagine living without?
+</p>
+<p><b>Sayda:</b> I recently smelt a certain perfume, which instantly brought me back to the time I used it. And it reminded me how much of our memories can be connected to scents. We can record sounds or images in many ways, but we can't save scents. I would love to have a device that can preserve smells in the future. 
+ </p>
+  
+<p><b>SUPERRR:</b> What's your biggest energy sucker these days?</p>
+
+<p><b>Sayda:</b> Overthinking, I guess.</p>
+
+<p><b>SUPERRR:</b> What's your biggest energy sucker these days?</p>
+
+<p><b>Sayda:</b> I'm thinking of new Muslim perspectives on the future, which often are not included. So I'm glad to be part of a project focusing on Muslim creativity. I'm excited to see what the futurists have in mind and how they might inspire my outlook on the future.
+</p>
+
+<p><b>SUPERRR:</b> What is a small humble change you would like to see in the world? How can we work towards it?</p>
+
+<p><b>Sayda:</b> A change I would looove to see is our planet getting cleaner. Living in Berlin always reminds me how important cleanliness is. I wish people would look after themselves more and perhaps their environment as well. Even if it's the smallest thing, throw it in the bin.</p>
+
+<p><b>SUPERRR:</b> What communities are you part of?</p>
+
+<p><b>Sayda:</b> I'm in a Muslim, multi-ethnic community. Faith has always played a big part in my life; that's why it's important for me to have people around me who have that in common and who can support me. In my community, we are united first and foremost by our faith and sense of responsibility to contribute to society.
+</p>
+
+<p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:
+</p>
+
+<p><b>Sayda:</b> 
+<ul>
+  <li> It's probably the most basic book out there, but if you like Harry Potter and have yet to read the books...DO IT!</li>
+  <li> "Beyond Bilal "by Mustafa Briggs is a Book about Black history in Islam. A topic that isn't discussed enough within the Muslim community and beyond. Black Muslims still get asked if their reverts - ignoring the fact that there are millions of black Muslims worldwide and that they always were part of Islamic history.</li>
+  <li> "Malcolm X " (1992), directed by Spike Lee. For me, Malcolm X is such a complex person with an interesting life story that is important not only for Americans but also Muslims worldwide. I think it's hard to tell somebody's entire life, but the film managed to create a clear picture of it. </li>
+</ul>
+  </p>
+
+<p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
+
+<p><b>Sayda:</b> 
+<ul>
+<li> "IT'S CORN!" - from Tiktok.
+Just watching it makes me happy.
+  <p><img src="/assets/img/blog/corn-kid-brands-culture-2022-1.png" alt="Meme" style="max-width: 300px;"> </li>
+<li> <a href="https://www.youtube.com/watch?v=UyZoRtrvJMU">"Was ist denn hier loooos?!":</a> My friends and I used this phrase for months.</li>
+</ul>
+ </p>
+
+<p><b>SUPERRR:</b> Thank you so much Sayda! It's great to have you onboard.</p>
