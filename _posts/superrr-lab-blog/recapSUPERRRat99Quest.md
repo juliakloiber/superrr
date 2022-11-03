@@ -20,7 +20,7 @@ The impulse sessions, hosted by curator Michael Dieminger, were split into three
 
 <br>
 
-<em><h2>"The essence of Western technology (…) is capitalism."</h2></em>
+<h2>"The essence of Western technology (…) is capitalism."</h2>
 <p><a href="https://www.newmediacaucus.org/membership-spotlight-sara-garzon/">– Sara Garzón</a>
 </p>
 
@@ -31,7 +31,7 @@ According to Garzón, it quickly becomes clear how most Indigenous cosmologies b
 
 <p> In the <b>"Collections, Data, Violence Against Knowledge Systems"</b> session, <a href="https://twitter.com/ChaoTayiana"><b>Chao Tayiana Maino</b></a> and <b>Molemo Moiloa</b> (<a href="https://openrestitution.africa"><b>Open Restitution Africa</b></a>) described how digital restitution barely distinguishes itself from the process of physical restitution, mainly because of colonial continuities solidifying in the digital realm. </p>
 
-<em><h2>"Digital Decisions are human decisions."</h2></em>
+<h2>"Digital Decisions are human decisions."</h2>
 <p><a href="https://twitter.com/ChaoTayiana">– Chao Tayiana Maino</a>
 </p>
 
@@ -39,7 +39,7 @@ According to Garzón, it quickly becomes clear how most Indigenous cosmologies b
 That begs questions like: "How is data in digital collections stored? How is it accessed and presented? On whose precedent work do these digital collections rely?" and "What do the back ends of these collections look like?" These questions shed light on the many, many consequential errors that piled up, generation after generation, during the processes of acquiring and cataloguing these objects.</p>
 <p>Like Sara Garzón, Chao Tayiana Maino and Molemo Moiloa stress how western technology was primarily used as a tool for domination and, ultimately, colonization. Think about how most objects were obtained: mainly through brute force enabled by the most advanced technology at the time.</p>
 
-<em><h2>"Only 1 in 24 authors on restitution of African heritage is actually African."</h2></em>
+<h2>"Only 1 in 24 authors on restitution of African heritage is actually African."</h2>
 <p><a href="https://twitter.com/OpenRestitution">– Open Restitution Africa</a>
 </p>
 
