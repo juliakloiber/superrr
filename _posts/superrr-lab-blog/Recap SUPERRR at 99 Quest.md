@@ -9,7 +9,7 @@ description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse
 <img src="/assets/img/blog/molemo_moiloa_ora_speaking.png" alt= Molemo Moiloa of Open Restituion Africa holding a presentation width="500" height="600">
 <p> Molemo Moiloa of Open Restitution Africa speaking</p>
 
-<h1>SUPERRR Lab at the "99 Questions Gathering's" Impulse Sessions</h1>
+<h1>SUPERRR Lab at the "99 Questions Gathering" Impulse Sessions</h1>
 
 <p>
 SUPERRR lab was invited to join the "99 Questions Gathering Impulse Sessions", which took place on Thursday, October 27th, where we had the privilege to learn from and listen to 5 brilliant minds engaging with questions pertaining to the future.
