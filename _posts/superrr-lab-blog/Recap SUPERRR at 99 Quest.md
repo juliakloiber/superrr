@@ -16,12 +16,12 @@ SUPERRR lab was invited to join the "99 Questions Gathering Impulse Sessions", w
 </p>
 
 <p>
-The impulse sessions, hosted by curator Michael Dieminger, were split into three parts, with <b>art historian</b>, <b>curator</b> and <b>writer</b> <b>Sara Garzón</b> holding the initial presentation (<b>The Counter-Commemoration Movement: Indigenous Robotics and the Embodiment of Relational Epistemologies“</b>). Her session concentrated on the decoloniality and ecocriticism of Indigenous art.
+The impulse sessions, hosted by curator Michael Dieminger, were split into three parts, with <b>art historian</b>, <b>curator</b> and <b>writer</b> <b>Sara Garzón</b> holding the initial presentation (<b>"The Counter-Commemoration Movement: Indigenous Robotics and the Embodiment of Relational Epistemologies"</b>). Her session concentrated on the decoloniality and ecocriticism of Indigenous art.
 </p>
 
 <br>
 
-<h2>"The essence of Western technology (…) is capitalism.“</h2>
+<h2>"The essence of Western technology (…) is capitalism."</h2>
 <p>– Sara Garzón</p>
 
 <p>
@@ -29,16 +29,16 @@ In contrast to Western-derived technology, indigenous technology - which Garzón
 According to Garzón, it quickly becomes clear how most Indigenous cosmologies believe they were created by the world, as they relate to land.
 </p>
 
-<p> In the <b>“Collections, Data, Violence Against Knowledge Systems“</b> session, <b>Chao Tayiana Maino</b> and <b>Molemo Moiloa</b> from <a href="https://openrestitution.africa"><b> Open Restitution Africa </b></a> described how digital restitution barely distinguishes itself from the process of physical restitution, mainly because of colonial continuities solidifying in the digital realm. </p>
+<p> In the <b>"Collections, Data, Violence Against Knowledge Systems"</b> session, <b>Chao Tayiana Maino</b> and <b>Molemo Moiloa</b> from <a href="https://openrestitution.africa"><b> Open Restitution Africa </b></a> described how digital restitution barely distinguishes itself from the process of physical restitution, mainly because of colonial continuities solidifying in the digital realm. </p>
 
-<h2>“Digital Decisions are human decisions.“</h2>
+<h2>"Digital Decisions are human decisions."</h2>
 <p>– Chao Tayiana Maino</p>
 
 <p>
 That begs questions like: "How is data in digital collections stored? How is it accessed and presented? On whose precedent work do these digital collections rely?" and "What do the back ends of these collections look like?" These questions shed light on the many, many consequential errors that piled up, generation after generation, during the processes of acquiring and cataloguing these objects.</p>
 <p>Like Sara Garzón, Chao Tayiana Maino and Molemo Moiloa stress how western technology was primarily used as a tool for domination and, ultimately, colonization. Think about how most objects were obtained: mainly through brute force enabled by the most advanced technology at the time.</p>
 
-<h2>“Only 1 in 24 authors on restitution of African heritage is actually African.“</h2>
+<h2>"Only 1 in 24 authors on restitution of African heritage is actually African."</h2>
 <p>– Open Restitution Africa</p>
 
 <p>
