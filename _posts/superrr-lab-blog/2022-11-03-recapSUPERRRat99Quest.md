@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta
 title: SUPERRR Lab at the "99 Questions Gathering Impulse Sessions"
-description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse Sessions" - read up on what we have learned there!
+description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse Sessions" - read up on what we have learned there.
 ---
 
 <img src="/assets/img/blog/99questions.png" alt= Molemo Moiloa of Open Restituion Africa holding a presentation width="500" height="600">
