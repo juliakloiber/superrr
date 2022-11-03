@@ -11,7 +11,7 @@ description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse
 <h1>SUPERRR Lab at the "99 Questions Gathering" Impulse Sessions</h1>
 
 <p>
-SUPERRR lab was invited to join the <a href="https://www.humboldtforum.org/en/programm/event/meetup-en/99-fragen-gathering-55557"><b>"99 Questions Gathering Impulse Sessions"</b></a>, which took place on Thursday, October 27th, where we had the privilege to learn from and listen to 5 brilliant minds engaging with questions pertaining to the future. For two days, the programme highlighted a combination of artistic impulses and talks concentrating on matters ranging from ecologies and of knowledge to technology and digitalisation regarding restitution. 
+SUPERRR lab was invited to join the <a href="https://www.humboldtforum.org/en/programm/event/meetup-en/99-fragen-gathering-55557"><b>"99 Questions Gathering Impulse Sessions"</b></a>, which took place on Thursday, October 27th, where we had the privilege to learn from and listen to 5 brilliant minds engaging with questions pertaining to the future. For two days, the programme highlighted a combination of artistic impulses and talks concentrating on matters ranging from ecologies of knowledge to technology and digitalisation regarding restitution processes. 
 </p>
 
 <p>
