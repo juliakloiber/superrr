@@ -1,7 +1,7 @@
 ---
 title: "Feministische Digitalpolitik"
 header_type: lab
-order: 0
+order: 2
 layout: project
 teaser_img: "/assets/img/static/projects/platzhalter.jpg"
 hero_img: "/assets/img/static/projects/platzhalter-hero.jpg"
