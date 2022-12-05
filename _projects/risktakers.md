@@ -1,7 +1,7 @@
 ---
 title: "Risktakers Fellowship"
 header_type: lab
-order: 1
+order: 0
 layout: project
 teaser_img: "/assets/img/static/projects/risktakers-teaser.jpeg"
 hero_img: "/assets/img/static/projects/risktakers-hero.jpeg"
@@ -17,5 +17,5 @@ description: "The Risktakers Fellowship aims to create spaces to dream and plan 
 
 <p>The Risktakers Fellowship kicked off on December 5th, 2023 and will be working with ten fellows over the course of eight months.</p>
 
-<p>“The Risktakers Fellowship – Daring to shape new digital futures” is a fellowship programme by Allianz Foundation and SUPERRR LAB. 
+<p>“The Risktakers Fellowship – Daring to shape new digital futures” is a fellowship programme by Allianz Foundation and SUPERRR Lab. 
 Learn more about the programme on <a href="https://risktakers.space/">the Risktakers Fellowship website</a>.</p>
