@@ -1,7 +1,7 @@
 ---
 title: "Muslim Futures"
 header_type: lab
-order: 1
+order: 0
 layout: project
 teaser_img: "/assets/img/static/projects/muslim-futures-teaser.png"
 hero_img: "/assets/img/static/projects/muslim-futures-hero.png"
