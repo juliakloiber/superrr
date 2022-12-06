@@ -6,7 +6,6 @@ title: Launch of the Risktakers Fellowship
 description: Our new fellowship programm kicked off and we are super excited! Read up on the Risktakers Fellowship and help us shape new narratives.
 ---
 
-<img src="/assets/img/project/risktakers-hero.jpeg" alt= screenshot of the project website width="500" height="600">
 
 <h1>The Risktakers Fellowship – Apply now!</h1>
 
