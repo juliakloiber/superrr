@@ -22,5 +22,5 @@ The Risktakers Fellowship aims to create a space to rethink dominant systems and
 </p>
 
 <p>
-“The Risktakers Fellowship – Daring to shape new digital futures” is a fellowship programme by Allianz Foundation and SUPERRR Lab. 
+“The Risktakers Fellowship – Daring to shape new digital futures” is a fellowship programme by <a href="https://allianzfoundation.org/">Allianz Foundation</a> and SUPERRR Lab. 
 </p>
