@@ -194,6 +194,8 @@ In verschiedenen Ministerien wurden Stellen aus der Beschwerdeabteilung in Fores
 Ausgewählte Beratungs- und Unterstützungskapazitäten werden an demokratisch legitimierte, zivilgesellschaftlich gestützte Strukturen abgegeben, die wichtige Hilfsangebote übernehmen. Die Digitalisierung steht im Dienste der Menschen.
 </p>  
 
+<p>
+</p>
 
 <p>
 <h3>Wie stellt ihr euch das Jahr 2035 vor? Welche Visionen habt ihr für digitale Zukünfte? Wenn ihr Ideen oder Gedanken habt, kontaktiert uns oder die CDR-Initiative gerne!</h3>
