@@ -198,7 +198,7 @@ Ausgewählte Beratungs- und Unterstützungskapazitäten werden an demokratisch l
 </p>
 
 <p>
-<h3>Wie stellt ihr euch das Jahr 2035 vor? Welche Visionen habt ihr für digitale Zukünfte? Wenn ihr Ideen oder Gedanken habt, kontaktiert uns oder die CDR-Initiative gerne!</h3>
+<b>Wie stellt ihr euch das Jahr 2035 vor? Welche Visionen habt ihr für digitale Zukünfte? Wenn ihr Ideen oder Gedanken habt, kontaktiert uns oder die CDR-Initiative gerne!</b>
 </p>
 
 <p>
