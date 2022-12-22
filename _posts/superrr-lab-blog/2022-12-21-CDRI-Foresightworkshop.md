@@ -82,7 +82,7 @@ Dieses Jahr wurde ein historischer Tiefpunkt von Hatespeech im Internet gemessen
 </p>
 
 <p>
-Seit soziale Medien nicht mehr unter Profitdruck stehen, ist der Umgangston humaner geworden. Da kontroverse Inhalte nicht mehr gepusht werden, funktioniert das Erfolgsrezept der Trolls nicht mehr.
+Seit soziale Medien nicht mehr unter Profitdruck stehen, ist der Umgangston respektvoller geworden. Da kontroverse Inhalte nicht mehr gepusht werden, funktioniert das Erfolgsrezept der Trolls nicht mehr.
 </p>
 
 <p>
