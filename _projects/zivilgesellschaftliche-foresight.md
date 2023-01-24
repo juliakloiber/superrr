@@ -68,3 +68,6 @@ Wir glauben, dass es neue Formen der Auseinandersetzung über unsere digitalen Z
 <i>*Wir verwenden den Begriff  „Zukünfte“ (Mehrzahl von Zukunft), weil wir so darauf aufmerksam machen wollen, dass es nicht die eine Zukunft gibt, sondern viele mögliche Zukünfte koexistieren.</i>
 
 </p>
+<p>
+<b>SUPERRR Lab wird gefördert durch die Stiftung Mercator.</b>
+</p>
