@@ -69,5 +69,5 @@ Wir glauben, dass es neue Formen der Auseinandersetzung über unsere digitalen Z
 
 </p>
 <p>
-<b>SUPERRR Lab wird gefördert durch die Stiftung Mercator.</b>
+SUPERRR Lab wird gefördert durch die Stiftung Mercator.
 </p>
