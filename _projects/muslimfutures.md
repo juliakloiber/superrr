@@ -17,6 +17,7 @@ description: "Wer denkt über Zukünfte nach, und wer nicht?"
 <h1>Was ist Muslim Futures?</h1>
 
 <p>Wer denkt über Zukünfte nach, und wer nicht? Wem werden die Chance und die Räume geboten, über die herausfordernden Erlebnisse von heute und die vielen Kämpfe im Jetzt hinaus ein Morgen zu imaginieren, das gerechter, inklusiver und ermächtigender ist? Was wäre, wenn... es einen solchen Raum gäbe, der es Muslim:innen erlaubt, Zukünfte zu zeichnen, zu verhandeln und anzuvisieren, für die es sich im Heute zu streiten lohnt? Zukünfte, und die vielen wünschenswerten Nuancen hiervon, die die Vielschichtigkeit muslimischen Lebens und von Muslim:innen fokussiert, die nicht in rassistischer Manier kategorisiert und homogenisiert, die nicht Muslim:innen kriminalisiert und zum „Anderen“ erklärt? Was wäre, wenn wir diesen Raum „Muslim Futures“ nennen? </p>
+<p><a href="https://muslimfutures.de">Zur Projektwebsite</a></p>
 
 <p>Inspiriert von den Arbeiten zu Afro-Futurism möchte Muslim Futures an diese Tradition anschließen und spezifisch muslimisch-intersektionale Zukünfte fokussieren. Das rassismuskritische und dekoloniale Projekt bedient sich der Methoden der kritischen Zukunftsforschung und des kritischen Zukünfte-Denkens (Futures Thinking) und macht sie fruchtbar für die politische und künstlerische Bildungsarbeit. Muslim Futures ist somit auf vielfältige Art und Weise eine disruptive Praxis: In der politischen Bildungsarbeit, im Bereich der Zukunftsforschung und in antimuslimisch-hegemoniale Denk– und Handlungspraktiken.</p>
 
