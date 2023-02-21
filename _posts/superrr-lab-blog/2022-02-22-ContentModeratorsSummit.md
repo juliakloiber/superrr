@@ -33,4 +33,3 @@ Content moderators’ work is global work, affecting workers and social media au
 <p>
 The Berlin summit is just one part of a rising tide of worker power taking the fight to Big Tech, alongside the newly founded qoks council at Tik Tok Germany and former content moderator Daniel Motaung’s lawsuit against Facebook and their outsourcing company Sama in Kenya. Workers are realising the power they hold, working together and taking back control. 
 </p>
-
