@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Julia Kloiber
-title: Moderators of the World Unite: landmark summit in Berlin of social media content moderators fighting for fairer workplaces
+title: Moderators of the World Unite – landmark summit in Berlin of social media content moderators fighting for fairer workplaces
 description: On the March 9 and 10, we are proud to be co-hosting a landmark content moderator summit in Berlin, alongside our partners Foxglove, German union ver.di and Aspiration Tech.
 ---
 
