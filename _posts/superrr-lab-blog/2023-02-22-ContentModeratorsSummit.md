@@ -16,7 +16,7 @@ Social media as we know it depends on the work of tens of thousands of content m
 These platforms simply couldn’t exist without moderators working every day to remove millions of toxic posts from our feeds. They keep the internet safe for all of us. Yet despite their essential role, which comes at a terrible cost to their mental health, they remain underpaid and outsourced.
 </p>
 <p>
-That’s why, on the March 9-10, we are proud to be co-hosting a landmark content moderator summit in Berlin, alongside our partners <a href="https://www.foxglove.org.uk/">Foxglove</a>, German union ve.rdi and <a href="https://aspirationtech.org/">Aspiration</a>.
+That’s why, on the March 9-10, we are proud to be co-hosting a landmark content moderator summit in Berlin, alongside our partners <a href="https://www.foxglove.org.uk/">Foxglove</a>, German union ver.di and <a href="https://aspirationtech.org/">Aspiration</a>.
 </p>
 <p>
 This will be the first ever gathering of social media content moderators from across Germany. Forty or so content moderators from multiple social media companies will connect and develop relationships with organisers, policymakers, and lawyers, to build collective power and demand better pay and working conditions at Facebook, TikTok, YouTube and more.
@@ -31,5 +31,5 @@ Moderators will discuss what needs to change to make moderation work safe, fair 
 Content moderators’ work is global work, affecting workers and social media audiences worldwide. Reflecting that, the Berlin summit will be the first of three content moderator summits in the pipeline, which will be held around the world. 
 </p>
 <p>
-The Berlin summit is just one part of a rising tide of worker power taking the fight to Big Tech, alongside the newly founded qoks council at Tik Tok Germany and former content moderator Daniel Motaung’s lawsuit against Facebook and their outsourcing company Sama in Kenya. Workers are realising the power they hold, working together and taking back control. 
+The Berlin summit is just one part of a rising tide of worker power taking the fight to Big Tech, alongside the <a href="https://mmm.verdi.de/medienwirtschaft/tiktok-hat-erstmals-einen-betriebsrat-84757">newly founded works council at TikTok Germany </a> and former content moderator Daniel Motaung’s lawsuit against Facebook and their outsourcing company Sama in Kenya. Workers are realising the power they hold, working together and taking back control. 
 </p>
