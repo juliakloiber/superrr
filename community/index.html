@@ -30,18 +30,20 @@ type: community
 <div class="navigation-left-victim">
     {% assign cities = site.cities | sort: 'order' %}
     {% for city in cities %}
-    {% assign tags = city.tags | join:' ' %}
-    {% assign tags = "" | append:tags %}
+        {% assign tags = city.tags | join:' ' %}
+        {% assign tags = "" | append:tags %}
 
-    {% assign index = forloop.index0 %}
-
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
-    {% else %}
-    {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
-    {% endif %}
+        {% if city.hidden != true%}
+            {% assign index = forloop.index0 %}
+            {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+            {% if thecycle == 'odd' %}
+            {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+            {% else %}
+            {% include sections/city-teaser-left.liquid index=index tags=tags deeplink=city.deeplink event_date=city.event_date img=city.img link=city.link city=city.city date=city.date %}
+            {% endif %}
+        {% endif %}
     {% endfor %}
+
 </div>
 
 <script>

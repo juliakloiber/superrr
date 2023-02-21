@@ -9,6 +9,7 @@ event_year: "2019"
 tags: "#tech #media #education"
 link: '/city/beirut'
 email: superrr.beirut@gmail.com
+hidden: true
 
 hosts:
 - name: 'Racha Ghamlouch'

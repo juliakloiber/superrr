@@ -9,6 +9,7 @@ event_year: "2021"
 tags: "#remote #art #science #journalism #activism"
 link: '/city/london'
 email: london@superrr.net
+hidden: true
 
 hosts:
 

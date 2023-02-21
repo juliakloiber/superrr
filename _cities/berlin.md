@@ -4,11 +4,12 @@ order: 1
 city: "Berlin"
 layout: city
 img: "/assets/img/static/batches/Superrr-Berlin.svg"
-event_date: "September 8th"
-event_year: "2021"
+event_date: "March 15th 2023"
+event_year: "2023"
 tags: "#art #science #activism"
 link: '/city/berlin'
 email: hello@superrr.net
+hidden: false
 
 hosts:
 
