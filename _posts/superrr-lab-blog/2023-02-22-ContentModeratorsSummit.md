@@ -31,6 +31,6 @@ Moderators will discuss what needs to change to make moderation work safe, fair 
 Content moderators’ work is global work, affecting workers and social media audiences worldwide. Reflecting that, the Berlin summit will be the first of three content moderator summits in the pipeline, which will be held around the world. 
 </p>
 <p>
-The Berlin summit is just one part of a rising tide of worker power taking the fight to Big Tech, alongside the <a href="https://mmm.verdi.de/medienwirtschaft/tiktok-hat-erstmals-einen-betriebsrat-84757">newly founded works council at TikTok Germany </a> and former content moderator Daniel Motaung’s lawsuit against Facebook and their outsourcing company Sama in Kenya. Workers are realising the power they hold, working together and taking back control. 
+The Berlin summit is just one part of a rising tide of worker power taking the fight to Big Tech, alongside the <a href="https://mmm.verdi.de/medienwirtschaft/tiktok-hat-erstmals-einen-betriebsrat-84757">newly founded works council at TikTok Germany </a> and former content moderator <a href="https://time.com/6253180/meta-kenya-lawsuit-motaung/">Daniel Motaung’s lawsuit against Facebook</a> and their outsourcing company Sama in Kenya. Workers are realising the power they hold, working together and taking back control. 
 </p>
 <p> This work is supported by a grant from <a href="https://www.reset.tech/">reset.tech</a> </p>
