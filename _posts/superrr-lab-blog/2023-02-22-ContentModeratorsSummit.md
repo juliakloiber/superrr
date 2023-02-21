@@ -16,7 +16,7 @@ Social media as we know it depends on the work of tens of thousands of content m
 These platforms simply couldn’t exist without moderators working every day to remove millions of toxic posts from our feeds. They keep the internet safe for all of us. Yet despite their essential role, which comes at a terrible cost to their mental health, they remain underpaid and outsourced.
 </p>
 <p>
-That’s why, on the March 9-10, we are proud to be co-hosting a landmark content moderator summit in Berlin, alongside our partners <a href="https://www.foxglove.org.uk/">Foxglove</a>, German union Ve.rdi and <a href="https://aspirationtech.org/">Aspiration</a>.
+That’s why, on the March 9-10, we are proud to be co-hosting a landmark content moderator summit in Berlin, alongside our partners <a href="https://www.foxglove.org.uk/">Foxglove</a>, German union ve.rdi and <a href="https://aspirationtech.org/">Aspiration</a>.
 </p>
 <p>
 This will be the first ever gathering of social media content moderators from across Germany. Forty or so content moderators from multiple social media companies will connect and develop relationships with organisers, policymakers, and lawyers, to build collective power and demand better pay and working conditions at Facebook, TikTok, YouTube and more.
