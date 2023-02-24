@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta
 title: Black History Month - A Reading List
-description: We have compiled a list of 12 must-read books that centre Black voices and provide powerful perspectives
+description: We have compiled a list of 12 must-read books that centre Black voices and provide powerful perspectives.
 ---
 
 
