@@ -24,7 +24,7 @@ This anthology features essays and stories from Afro-German women, sharing their
 
 <p>
 <b><a href="https://und-toechter.de/produkt/schwarz-wird-grossgeschrieben/">3. "Schwarz wird großgeschrieben" edited by Evein Obulor and Rosa Mag:</a></b>
-This anthology features essays and stories from Afro-German women, sharing their experiences and tracing the history of Blackness in Germany.
+brings together the voices of Black people living in Germany, who share their perspectives, experiences, and identities in essays and personal narratives.
 </p>
 
 <p>
