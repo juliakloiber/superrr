@@ -19,7 +19,7 @@ Black History Month is a time to celebrate the achievements and recognise the co
 This book delves into the complex relationship between anti-fatness as anti- blackness, providing a critical analysis of the intersections of race, body, and gender.</p>
 
 <p>
-<b>2."Farbe bekennen: Afro-deutsche Frauen auf den Spuren ihrer Geschichte"
+<b>2. "Farbe bekennen: Afro-deutsche Frauen auf den Spuren ihrer Geschichte"
 edited by May Ayim, Katharina Oguntoye, and Dagmar Schultz:</b>
 This anthology features essays and stories from Afro-German women, sharing their experiences and tracing the history of Blackness in Germany.
 </p>
