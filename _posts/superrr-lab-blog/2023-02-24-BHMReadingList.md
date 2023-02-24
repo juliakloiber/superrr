@@ -28,7 +28,7 @@ brings together the voices of Black people living in Germany, who share their pe
 </p>
 
 <p>
-<b><a href="https://www.brandicheyenneharper.com/knitting-for-radical-self-care/">4. "Knitting for Radical Self-Care: A Modern Guide" by Brandi Cheyenne Harper",</a></b>
+<b><a href="https://www.brandicheyenneharper.com/knitting-for-radical-self-care/">4. "Knitting for Radical Self-Care: A Modern Guide" by Brandi Cheyenne Harper,</a></b>
 provides a fresh and modern perspective on the art of knitting, along with lessons on radical self-care and practical ways to incorporate into daily life.</p>
 
 <p>
@@ -46,8 +46,7 @@ provides a critical analysis of Black liberation struggles and Black anarchism �
 <b><a href="https://www.penguinrandomhouse.com/books/206173/freedom-dreams-by-robin-dg-kelley/">8. In "Freedom Dreams: The Black Radical Imagination", Robin D.G. Kelley</a></b> provides an in-depth examination of the various visions, theories, and approaches to freedom that have been developed since the emergence of Black Radicalism(s) over the last century. Drawing on the insights of influential activists of the African diaspora like C. L. R. James, Aimé Césaire, and Malcolm X, Kelley discusses the potential of Communism, the surrealist mentality, the impact of Black Radical Feminism(s), and the ongoing dream of reparations for slavery and Jim Crow.</p>
 
 <p>
- <b><a href="https://www.versobooks.com/books/2785-how-europe-underdeveloped-africa/">9. In "How Europe Undeveloped Africa"</a></b>
-Walter Rodney offers a comprehensive analysis of the centuries-old economic exploitation of Africa by Europe. The book investigates how this exploitation has resulted in the unequal development of African nations, as Europe's capitalist growth was inextricably linked to the intentional underdevelopment of Africa over the centuries.</p>
+ <b><a href="https://www.versobooks.com/books/2785-how-europe-underdeveloped-africa/">9. In "How Europe Undeveloped Africa" Walter Rodney</a></b> offers a comprehensive analysis of the centuries-old economic exploitation of Africa by Europe. The book investigates how this exploitation has resulted in the unequal development of African nations, as Europe's capitalist growth was inextricably linked to the intentional underdevelopment of Africa over the centuries.</p>
 
 <p>
 <b><a href="https://www.penguin.co.uk/books/57385/the-wretched-of-the-earth-by-frantz-fanon-trans-constance-farrington-preface-by-jean-paul-sartre/9780141186542/">10. "The Wretched of the Earth" by Frantz Fanon</a></b>
