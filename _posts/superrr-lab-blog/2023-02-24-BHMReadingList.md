@@ -54,9 +54,9 @@ Walter Rodney offers a comprehensive analysis of the centuries-old economic expl
 offers a powerful analysis of the brutal impact of colonisation on both the individual and society. By utilising psychoanalysis, Fanon exposes the dehumanising consequences of colonialism. Furthermore, he delves into the political, cultural and social implications of creating a movement aimed at decolonizing individuals and entire nations.</p>
 
 <p>
-<b><a href="https://www.penguin.co.uk/books/289838/homegoing-by-gyasi-yaa/9780241975237/"><b>11. "Homegoing" by Yaa Gyasi</a></b>
+<b><a href="https://www.penguin.co.uk/books/289838/homegoing-by-gyasi-yaa/9780241975237/">11. "Homegoing" by Yaa Gyasi</a></b>
 is a novel that tells the story of an Asante family torn apart by the effects of the Transatlantic Slave trade. The book traces the lives of the family's descendants through seven generations as they navigate their experiences and, after two centuries, finally reunite in Ghana.</p>
 
 <p>
-<b><a href="https://www.headline.co.uk/titles/octavia-e-butler/kindred/9781472258229/"><b>12. "Kindred" by Octavia Butler</a></b>
+<b><a href="https://www.headline.co.uk/titles/octavia-e-butler/kindred/9781472258229/">12. "Kindred" by Octavia Butler</a></b>
 is a captivating book that delves into the deplorable system of slavery, the complexities of family relationships, and the weight of social responsibility. The story follows the main character as she sets out on a journey back in time, which ultimately compels her to face the harsh realities of the present day. Everything in this book is interconnected, highlighting the intricate nature of life's relationships.</p>
