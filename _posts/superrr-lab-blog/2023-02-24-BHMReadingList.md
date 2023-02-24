@@ -7,7 +7,7 @@ description: We have compiled a list of 12 must-read books that centre Black voi
 ---
 
 
-<img src="/assets/img/blog/bhm reading list small.png" alt="Das Bild zeigt ein rosa und türksifarbenen Kasten mit dem SUPERRR Lab Logo oben rechts, auf der linken Seite steht geschrieben Black History Month Reading List" width="540" height="540">
+<img src="/assets/img/blog/BHM Reading List.png" alt="Das Bild zeigt ein rosa und türksifarbenen Kasten mit dem SUPERRR Lab Logo oben rechts, auf der linken Seite steht geschrieben Black History Month Reading List" width="540" height="540">
 
 <p>
 Black History Month is a time to celebrate the achievements and recognise the contributions of Black visionaries who have shaped history and had a lasting impact on our societies. However, it's important to remember that their legacy should be honoured and their stories elevated beyond just one month a year. Consequently, it's essential to turn to books and literature to learn about and amplify the voices of Black authors, activists, and thinkers who are shaping our conversations on race, gender and class.</p>
