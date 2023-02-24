@@ -15,7 +15,7 @@ Black History Month is a time to celebrate the achievements and recognise the co
 <p>That’s why we have compiled a list of 12 must-read books that centre Black voices and provide powerful perspectives:</p>
 
 <p>
-<b>1. "Belly of the Beast" by Da’Shaun L. Harrison:</b>
+<b><a href="https://dashaunharrison.com/shop/belly-of-the-beast/">1. "Belly of the Beast" by Da’Shaun L. Harrison:</a></b>
 This book delves into the complex relationship between anti-fatness as anti- blackness, providing a critical analysis of the intersections of race, body, and gender.</p>
 
 <p>
