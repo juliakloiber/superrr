@@ -35,7 +35,7 @@ provides a fresh and modern perspective on the art of knitting, along with lesso
 <b><a href="https://www.akpress.org/undrowned.html/">5. "Undrowned: Black Feminist Lessons from Marine Mammals" by Alexis Pauline Gumbs </a></b>
 blends Black feminist theory with lessons learned from marine mammals, exploring how communities can thrive in even in challenging times.</p>
 
-<p><b><a href="https://www.routledge.com/Sisters-of-the-Yam-Black-Women-and-Self-Recovery/hooks/p/book/9781138821682">6."Sisters of the Yam" by bell hooks</a></b>
+<p><b><a href="https://www.routledge.com/Sisters-of-the-Yam-Black-Women-and-Self-Recovery/hooks/p/book/9781138821682">6. "Sisters of the Yam" by bell hooks</a></b>
 is a powerful examination of the effects of sexism and racism on the emotional health of Black women and explores their experiences with imploring their own identities, and self-recovery. You can read this book on your own; however, it is also recommended to be read in a group setting.</p>
 
 <p>
