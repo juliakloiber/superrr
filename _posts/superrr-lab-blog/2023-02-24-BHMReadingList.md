@@ -28,7 +28,7 @@ This anthology features essays and stories from Afro-German women, sharing their
 </p>
 
 <p>
-<b><a href="https://www.brandicheyenneharper.com/knitting-for-radical-self-care/">4. ""Knitting for Radical Self-Care: A Modern Guide" by Brandi Cheyenne Harper",</a></b>
+<b><a href="https://www.brandicheyenneharper.com/knitting-for-radical-self-care/">4. "Knitting for Radical Self-Care: A Modern Guide" by Brandi Cheyenne Harper",</a></b>
 provides a fresh and modern perspective on the art of knitting, along with lessons on radical self-care and practical ways to incorporate into daily life.</p>
 
 <p>
