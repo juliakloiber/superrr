@@ -28,7 +28,7 @@ Last year, we proudly announced "Muslim Futures", a project that imagines a spac
 
 <p><b>Risktakers Fellowship</b></p>
 
-<img src="/assets/img/blog/rtf.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="640" height="360">
+<img src="/assets/img/blog/rtfsmall.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1024" height="576">
 <p><i>Design by <a href="https://rainbow-unicorn.com/#welcome">Rainbow Unicorn</a></i></p>
 
 <p>After dropping hints throughout the year, we were finally able to reveal and launch one of our superrrr-secret projects in December: The Risktakers Fellowship!
