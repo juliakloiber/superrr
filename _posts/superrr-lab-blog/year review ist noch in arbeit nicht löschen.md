@@ -31,7 +31,7 @@ If you are curious about the futurists, upcoming events and special occasions, m
 <p><b>Risktakers Fellowship</b><p>
 
 <img src="/assets/img/blog/rtf.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
-<p></i>Design by <a href="https://rainbow-unicorn.com/#welcome">Rainbow Unicorn</a></i></p>
+<p><i>Design by <a href="https://rainbow-unicorn.com/#welcome">Rainbow Unicorn</a></i></p>
 
 <p>After dropping hints throughout the year, we were finally able to reveal and launch one of our superrrr-secret projects in December: The Risktakers Fellowship!
 The Risktakers project aims to create a space for fellows to dream, plan and explore the possibilities to reimagine the status quo in the digital world and beyond. We received 900 applications and are currently heads-down in the review phase. You can stay up to date on <a href="https://risktakers.space">the website</a> and sign up for the Risktakers newsletter <a href="https://space.us7.list-manage.com/subscribe?u=0357d29dc2e41ff0157fda5f4&id=5d9d37864f">here</a>.</p>
