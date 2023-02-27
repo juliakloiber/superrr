@@ -39,7 +39,7 @@ The Risktakers project aims to create a space for fellows to dream, plan and exp
 <p><b> Digital Futures Gathering</b></p>
 
 <img src="/assets/img/blog/dig fut gather.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="840" height="450">
-<p></i>Design by</i></p>
+<p><i>Design by</i></p>
 
 <p>In September 2022, civil society organisations, researchers, and activists from around the world gathered in Berlin for the Digital Futures Gathering. During the event, participants discussed, planned, and dreamed of sustainable, just, feminist, and decolonial digital futures.
 The <a href="https://digitalfutures.space/"> documentation website</a> is full of recommendations, wishes and deep dives that you should not miss. A list of all the participants can be found on the website. We thank everyone who was part of the gathering!</p>
@@ -51,12 +51,12 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <p>Throughout 2022, we started developing a theoretical framework for a feminist approach to tech policy, which critically analyses existing power relations and works towards establishing justice. It requires an intersectional feminist lens focusing on social groups most affected by digitalisation's negative consequences. 
 <a href="https://feministtechpolicy.org/">We created a living repository</a> for all things feminist tech policy with the latest analyses and takes on current policy developments such as CSA regulation. Stay up to date on new case studies through our <a href="https://buttondown.email/FeministischeDigitalpolitik“>newsletter.</a></p>
   
-<img src="/assets/img/blog/alexandra geese nakeema julia.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="2194" height="1280">
-<p></i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
+<img src="/assets/img/blog/alexandra geese nakeema julia.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="768" height="448">
+<p><i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
 
 <p>As part of the Feminist Foreign Policy Summit of the CFFP, we had an excellent discussion with Alexandra Geese and Dr Nakeema Stefflbauer on what a feminist digital policy can look like – and what we can learn from the adoption of feminist foreign policy frameworks. <a href="https://youtu.be/WaJdh7DJwVc">Rewatch here.</a></p>
   
-<img src="/assets/img/blog/Frances Haugen.png" alt="The photo shows Elisa Lindinger,Frances Haugen, and Julia Kloiber" width="536" height="384">
+<img src="/assets/img/blog/frances haugen small.png" alt="The photo shows Elisa Lindinger,Frances Haugen, and Julia Kloiber" width="819" height="614">
 <p><i>Elisa and Julia at the Feminist Tech Dinner with Facebook Whistleblower Frances Haugen.</i></p>
 <br><br>
 <p><b>SUPERRR Lab joins German Digital Strategy Advisory Board</b></p>
