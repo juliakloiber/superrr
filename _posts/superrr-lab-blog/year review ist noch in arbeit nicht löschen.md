@@ -22,9 +22,10 @@ The futurists during their kick-off (from left to right): <a href="https://www.l
 <p>
 Last year, we proudly announced "Muslim Futures", a project that imagines a space in which joy, love, community and empowerment are centered on a Muslim positionality.
 Our seven futurists have been working together to create and imagine inclusive, fair and just visions of Muslim Futures. They are implementing projects from artistic, cultural, political and inter/anti-disciplinary approaches into practice.
-If you are curious about the futurists, upcoming events and special occasions, make sure to check out <a href="https://www.muslimfutures.de/“>the website</a>. Muslim Futures is funded by the Bundeszentrale für Politische Bildung.
+If you are curious about the futurists, upcoming events and special occasions, make sure to check out 
+<a href="https://www.muslimfutures.de/“>the website</a>. Muslim Futures is funded by the Bundeszentrale für Politische Bildung.</p>
 
-Upcoming in 2023: Exhibition and presentation of the futurists and their work.
+<p>Upcoming in 2023: Exhibition and presentation of the futurists and their work.
 </p>
 
 <p><b>Risktakers Fellowship</b><p>
@@ -33,9 +34,9 @@ Upcoming in 2023: Exhibition and presentation of the futurists and their work.
 <p></i>Design by <a href="https://rainbow-unicorn.com/#welcome">Rainbow Unicorn</a></i></p>
 
 <p>After dropping hints throughout the year, we were finally able to reveal and launch one of our superrrr-secret projects in December: The Risktakers Fellowship!
-The Risktakers project aims to create a space for fellows to dream, plan and explore the possibilities to reimagine the status quo in the digital world and beyond. We received 900 applications and are currently heads-down in the review phase. You can stay up to date on <a href="https://risktakers.space">the website</a> and sign up for the Risktakers newsletter <a href="https://space.us7.list-manage.com/subscribe?u=0357d29dc2e41ff0157fda5f4&id=5d9d37864f">here</a>.
+The Risktakers project aims to create a space for fellows to dream, plan and explore the possibilities to reimagine the status quo in the digital world and beyond. We received 900 applications and are currently heads-down in the review phase. You can stay up to date on <a href="https://risktakers.space">the website</a> and sign up for the Risktakers newsletter <a href="https://space.us7.list-manage.com/subscribe?u=0357d29dc2e41ff0157fda5f4&id=5d9d37864f">here</a>.</p>
 
-Upcoming in 2023: Announcement of the Fellows in March</p>
+<p>Upcoming in 2023: Announcement of the Fellows in March</p>
 
 <p><b> Digital Futures Gathering</b></p>
 
@@ -51,11 +52,13 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 
 <p>Throughout 2022, we started developing a theoretical framework for a feminist approach to tech policy, which critically analyses existing power relations and works towards establishing justice. It requires an intersectional feminist lens focusing on social groups most affected by digitalisation's negative consequences. 
 <a href="https://feministtechpolicy.org/">We created a living repository</a> for all things feminist tech policy with the latest analyses and takes on current policy developments such as CSA regulation. Stay up to date on new case studies through our <a href="https://buttondown.email/FeministischeDigitalpolitik“>newsletter</a>.</p>
+  
 <img src="/assets/img/blog/alexandra geese nakeema julia.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="480" height="320">
 <p></i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
 
 <p>As part of the Feminist Foreign Policy Summit of the CFFP, we had an excellent discussion with Alexandra Geese and Dr Nakeema Stefflbauer on what a feminist digital policy can look like – and what we can learn from the adoption of feminist foreign policy frameworks. <a href="https://youtu.be/WaJdh7DJwVc">Rewatch here</a>.</p>
-<img src="/assets/img/blog/Frances Haugen.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="536" height="384">
+  
+<img src="/assets/img/blog/Frances Haugen.jpeg" alt="The photo shows Elisa Lindinger,Frances Haugen, and Julia Kloiber" width="536" height="384">
 <p></i>Elisa and Julia at the Feminist Tech Dinner with Facebook Whistleblower Frances Haugen.</i></p>
 
 <p><b>SUPERRR Lab joins German Digital Strategy Advisory Board</b></p>
