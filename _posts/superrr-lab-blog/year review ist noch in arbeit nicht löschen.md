@@ -71,9 +71,7 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
   
 <p>We kicked the spring off with "Self-love and Carbs" - a culinary self-defence class for cis and trans-women, trans men and non-binary folx, which was designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. We thank Eva Dingel from <a href="https://yanagi.berlin/">Yanagi Jutaijutsu Berlin e.V</a> and Abir Ghattas for creating this joint event with us!</p>
   
-<img src="/assets/img/blog/self love and carbs 2.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="559" height="559">
-  
-<img src="/assets/img/blog/self love and carbs 3.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="559" height="559">
+<img src="/assets/img/blog/self love and carbs.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1120" height="630">
   
 <p><i>Throwback to when <a href="https://www.instagram.com/amalthevegan/">@amalthevegan</a> cooked a yummy vegan Levantine menu for the closing dinner of the Self Love and Carbs series. We spent a lovely evening chatting about food, memories and feminism!</i></p>
 
