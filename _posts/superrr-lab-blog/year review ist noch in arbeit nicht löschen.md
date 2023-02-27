@@ -63,14 +63,18 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 
 <p><b>SUPERRR Community<b><p>
 <p>Due to the pandemic, our SUPERRR community had to move into a more digital realm to keep in touch. Still, there was an effort and need to meet up outside of digital spaces, and when possible, we tried to make it a reality.</p>
-<img src="/assets/img/blog/self love and carbs.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
 
 <p><b>Self-Love and Carbs</b></p>
+<img src="/assets/img/blog/self love and carbs.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="747" height="533">
 <p><i>Illustration by <a href="http://www.laurabreiling.de/">Laura Breiling</a>.</i></p>
+  
 <p>We kicked the spring off with "Self-love and Carbs" - a culinary self-defence class for cis and trans-women, trans men and non-binary folx, which was designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. We thank Eva Dingel from <a href="https://yanagi.berlin/">Yanagi Jutaijutsu Berlin e.V</a> and Abir Ghattas for creating this joint event with us!</p>
-<img src="/assets/img/blog/self love and carbs 2.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
-<img src="/assets/img/blog/self love and carbs 3.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
-<p><i>Throwback to when <a href="https://www.instagram.com/amalthevegan/„>@amalthevegan</a> cooked a yummy vegan Levantine menu for the closing dinner of the Self Love and Carbs series. We spent a lovely evening chatting about food, memories and feminism!</i></p>
+  
+<img src="/assets/img/blog/self love and carbs 2.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="559" height="559">
+  
+<img src="/assets/img/blog/self love and carbs 3.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="559" height="559">
+  
+<p><i>Throwback to when <a href="https://www.instagram.com/amalthevegan/">@amalthevegan</a> cooked a yummy vegan Levantine menu for the closing dinner of the Self Love and Carbs series. We spent a lovely evening chatting about food, memories and feminism!</i></p>
 
 <p><b>UPCOMING: March 2023</b></p>
 <p>On March 15th, re:publica and SUPERRR Lab will be hosting a community event that explores the relationship between feminism and cash. The details of the event are yet to be announced, but it promises to be an exciting and engaging discussion. Stay tuned! In addition to this, there are two more events on the horizon that are worth checking out: First, from March 9th-10th, the Content Moderators Summit will bring together content moderators from across Germany to discuss how to improve their working conditions. This event is being organized in collaboration with  <a href="https://www.foxglove.org.uk/who-we-are/">Foxglove.</a> and <a href="https://www.verdi.de/">ver.di.</a> 
