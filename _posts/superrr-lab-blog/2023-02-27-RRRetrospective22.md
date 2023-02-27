@@ -12,7 +12,6 @@ As we move forward into the new year, it's important to take a moment to reflect
 <p><b>Muslim Futures</b><p>
 
 <img src="/assets/img/blog/mufu futurists.jpeg" alt="The photo shows some of the Muslim Futures futurists, namely Kader Bagli, Ouassima Laabich, Nilgün Akıncı, Anja Saleh, Elif Çelik and Fatih Maraşlıoğlu. " width="1080" height="810">
-
 <p><i>
 The futurists during their kick-off (from left to right): <a href="https://www.linkedin.com/in/kader-bagli/?originalSubdomain=de/">Kader Bagli</a>, Ouassima Laabich, <a href="https://re-publica.com/de/user/12173/"> Nilgün Akıncı</a>,
 <a href="https://anja-saleh.com/">Anja Saleh</a>, <a href="https://www.elifcelik.de/">Elif Çelik</a>, <a href="https://www.instagram.com/fatih.maraslioglu/"> Fatih Maraşlıoğlu</a>.
