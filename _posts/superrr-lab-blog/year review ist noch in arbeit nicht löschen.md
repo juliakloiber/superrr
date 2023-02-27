@@ -39,7 +39,7 @@ The Risktakers project aims to create a space for fellows to dream, plan and exp
 <p><b> Digital Futures Gathering</b></p>
 
 <img src="/assets/img/blog/dig fut gather.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="840" height="450">
-<p><i>Design by</i></p>
+<p><i>Design by <a href="https://ousa.info/startseite-de/">Ousa Collective.</a></i></p>
 
 <p>In September 2022, civil society organisations, researchers, and activists from around the world gathered in Berlin for the Digital Futures Gathering. During the event, participants discussed, planned, and dreamed of sustainable, just, feminist, and decolonial digital futures.
 The <a href="https://digitalfutures.space/"> documentation website</a> is full of recommendations, wishes and deep dives that you should not miss. A list of all the participants can be found on the website. We thank everyone who was part of the gathering!</p>
