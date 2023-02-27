@@ -61,7 +61,7 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <p><b>SUPERRR Lab joins German Digital Strategy Advisory Board</b></p>
 <p>We're proudly announcing that Julia Kloiber joined the Advisory board for Digital Strategy which meets up monthly and consists of 19 members from the areas of science, economy, and civil society. Learn more <a href="https://digitalstrategie-deutschland.de/beirat/">here</a>.</p>
 
-<p><b>SUPERRR Community<b><p>
+<p><b>SUPERRR Community</b><p>
 <p>Due to the pandemic, our SUPERRR community had to move into a more digital realm to keep in touch. Still, there was an effort and need to meet up outside of digital spaces, and when possible, we tried to make it a reality.</p>
 
 <p><b>Self-Love and Carbs</b></p>
