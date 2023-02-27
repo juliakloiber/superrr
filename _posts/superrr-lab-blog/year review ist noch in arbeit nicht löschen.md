@@ -20,8 +20,10 @@ The futurists during their kick-off (from left to right): <a href="https://www.l
 </i></p>
 
 <p>
-Last year, we proudly announced "Muslim Futures", a project that imagines a space in which joy, love, community and empowerment are centered on a Muslim positionality. Our seven futurists have been working together to create and imagine inclusive, fair and just visions of Muslim Futures. They are implementing projects from artistic, cultural, political and inter/anti-disciplinary approaches into practice. If you are curious about the futurists, upcoming events and special occasions, make sure to check out 
-<a href="https://www.muslimfutures.de/“>the website</a>. Muslim Futures is funded by the Bundeszentrale für Politische Bildung.</p>
+Last year, we proudly announced "Muslim Futures", a project that imagines a space in which joy, love, community and empowerment are centered on a Muslim positionality. Our seven futurists have been working together to create and imagine inclusive, fair and just visions of Muslim Futures. They are implementing projects from artistic, cultural, political and inter/anti-disciplinary approaches into practice.</p>
+<p>If you are curious about the futurists, upcoming events and special occasions, make sure to check out 
+<a href="https://www.muslimfutures.de/“>the website.</a></p>
+<p>Muslim Futures is funded by the Bundeszentrale für Politische Bildung.</p>
 
 <p>Upcoming in 2023: Exhibition and presentation of the futurists and their work.
 </p>
@@ -38,7 +40,7 @@ The Risktakers project aims to create a space for fellows to dream, plan and exp
 
 <p><b> Digital Futures Gathering</b></p>
 
-<img src="/assets/img/blog/dig fut gather.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
+<img src="/assets/img/blog/dig fut gather.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="840" height="450">
 <p></i>Design by</i></p>
 
 <p>In September 2022, civil society organisations, researchers, and activists from around the world gathered in Berlin for the Digital Futures Gathering. During the event, participants discussed, planned, and dreamed of sustainable, just, feminist, and decolonial digital futures.
