@@ -51,7 +51,7 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <p>Throughout 2022, we started developing a theoretical framework for a feminist approach to tech policy, which critically analyses existing power relations and works towards establishing justice. It requires an intersectional feminist lens focusing on social groups most affected by digitalisation's negative consequences. 
 <a href="https://feministtechpolicy.org/">We created a living repository</a> for all things feminist tech policy with the latest analyses and takes on current policy developments such as CSA regulation. Stay up to date on new case studies through our <a href="https://buttondown.email/FeministischeDigitalpolitik“>newsletter.</a></p>
   
-<img src="/assets/img/blog/alexandra geese nakeema julia.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="480" height="320">
+<img src="/assets/img/blog/alexandra geese nakeema julia.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="2194" height="1280">
 <p></i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
 
 <p>As part of the Feminist Foreign Policy Summit of the CFFP, we had an excellent discussion with Alexandra Geese and Dr Nakeema Stefflbauer on what a feminist digital policy can look like – and what we can learn from the adoption of feminist foreign policy frameworks. <a href="https://youtu.be/WaJdh7DJwVc">Rewatch here.</a></p>
