@@ -25,7 +25,7 @@ The futurists during their kick-off (from left to right): <a href="https://www.l
 
 <p>Upcoming in 2023: Exhibition and presentation of the futurists and their work.
 </p>
-
+<br><br>
 <p><b>Risktakers Fellowship</b></p>
 
 <img src="/assets/img/blog/rtfsmall.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1024" height="576">
@@ -35,7 +35,7 @@ The futurists during their kick-off (from left to right): <a href="https://www.l
 The Risktakers project aims to create a space for fellows to dream, plan and explore the possibilities to reimagine the status quo in the digital world and beyond. We received 900 applications and are currently heads-down in the review phase. You can stay up to date on <a href="https://risktakers.space">the website</a> and sign up for the Risktakers newsletter <a href="https://space.us7.list-manage.com/subscribe?u=0357d29dc2e41ff0157fda5f4&id=5d9d37864f">here</a>.</p>
 
 <p>Upcoming in 2023: Announcement of the Fellows in March</p>
-
+<br><br>
 <p><b> Digital Futures Gathering</b></p>
 
 <img src="/assets/img/blog/dig fut gather.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="840" height="450">
@@ -43,7 +43,7 @@ The Risktakers project aims to create a space for fellows to dream, plan and exp
 
 <p>In September 2022, civil society organisations, researchers, and activists from around the world gathered in Berlin for the Digital Futures Gathering. During the event, participants discussed, planned, and dreamed of sustainable, just, feminist, and decolonial digital futures.
 The <a href="https://digitalfutures.space/"> documentation website</a> is full of recommendations, wishes and deep dives that you should not miss. A list of all the participants can be found on the website. We thank everyone who was part of the gathering!</p>
-
+<br><br>
 <p><b>Feminist Tech Policy</b></p>
 <img src="/assets/img/blog/feminist tech.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
 <p><i>Design by <a href="https://ousa.info/startseite-de/">Ousa Collective.</a></i></p>
@@ -58,10 +58,10 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
   
 <img src="/assets/img/blog/Frances Haugen.jpeg" alt="The photo shows Elisa Lindinger,Frances Haugen, and Julia Kloiber" width="536" height="384">
 <p><i>Elisa and Julia at the Feminist Tech Dinner with Facebook Whistleblower Frances Haugen.</i></p>
-
+<br><br>
 <p><b>SUPERRR Lab joins German Digital Strategy Advisory Board</b></p>
 <p>We're proudly announcing that Julia Kloiber joined the Advisory board for Digital Strategy which meets up monthly and consists of 19 members from the areas of science, economy, and civil society. Learn more <a href="https://digitalstrategie-deutschland.de/beirat/">here.</a></p>
-
+<br><br>
 <p><b>SUPERRR Community</b><p>
 <p>Due to the pandemic, our SUPERRR community had to move into a more digital realm to keep in touch. Still, there was an effort and need to meet up outside of digital spaces, and when possible, we tried to make it a reality.</p>
 
