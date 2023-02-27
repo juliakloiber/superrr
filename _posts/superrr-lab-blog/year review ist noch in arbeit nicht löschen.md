@@ -28,9 +28,9 @@ If you are curious about the futurists, upcoming events and special occasions, m
 <p>Upcoming in 2023: Exhibition and presentation of the futurists and their work.
 </p>
 
-<p><b>Risktakers Fellowship</b><p>
+<p><b>Risktakers Fellowship</b></p>
 
-<img src="/assets/img/blog/rtf.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1080" height="810">
+<img src="/assets/img/blog/rtf.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="640" height="360">
 <p><i>Design by <a href="https://rainbow-unicorn.com/#welcome">Rainbow Unicorn</a></i></p>
 
 <p>After dropping hints throughout the year, we were finally able to reveal and launch one of our superrrr-secret projects in December: The Risktakers Fellowship!
