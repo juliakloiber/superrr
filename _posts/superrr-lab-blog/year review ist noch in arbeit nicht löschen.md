@@ -56,20 +56,20 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <img src="/assets/img/blog/alexandra geese nakeema julia.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="480" height="320">
 <p></i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
 
-<p>As part of the Feminist Foreign Policy Summit of the CFFP, we had an excellent discussion with Alexandra Geese and Dr Nakeema Stefflbauer on what a feminist digital policy can look like – and what we can learn from the adoption of feminist foreign policy frameworks. <a href="https://youtu.be/WaJdh7DJwVc">Rewatch here</a>.</p>
+<p>As part of the Feminist Foreign Policy Summit of the CFFP, we had an excellent discussion with Alexandra Geese and Dr Nakeema Stefflbauer on what a feminist digital policy can look like – and what we can learn from the adoption of feminist foreign policy frameworks. <a href="https://youtu.be/WaJdh7DJwVc">Rewatch here.</a></p>
   
 <img src="/assets/img/blog/Frances Haugen.jpeg" alt="The photo shows Elisa Lindinger,Frances Haugen, and Julia Kloiber" width="536" height="384">
-<p></i>Elisa and Julia at the Feminist Tech Dinner with Facebook Whistleblower Frances Haugen.</i></p>
+<p><i>Elisa and Julia at the Feminist Tech Dinner with Facebook Whistleblower Frances Haugen.</i></p>
 
 <p><b>SUPERRR Lab joins German Digital Strategy Advisory Board</b></p>
-<p>We're proudly announcing that Julia Kloiber joined the Advisory board for Digital Strategy which meets up monthly and consists of 19 members from the areas of science, economy, and civil society. Learn more <a href="https://digitalstrategie-deutschland.de/beirat/">here</a>.</p>
+<p>We're proudly announcing that Julia Kloiber joined the Advisory board for Digital Strategy which meets up monthly and consists of 19 members from the areas of science, economy, and civil society. Learn more <a href="https://digitalstrategie-deutschland.de/beirat/">here.</a></p>
 
 <p><b>SUPERRR Community</b><p>
 <p>Due to the pandemic, our SUPERRR community had to move into a more digital realm to keep in touch. Still, there was an effort and need to meet up outside of digital spaces, and when possible, we tried to make it a reality.</p>
 
 <p><b>Self-Love and Carbs</b></p>
 <img src="/assets/img/blog/self love and carbs.jpeg" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="747" height="533">
-<p><i>Illustration by <a href="http://www.laurabreiling.de/">Laura Breiling</a>.</i></p>
+<p><i>Illustration by <a href="http://www.laurabreiling.de/">Laura Breiling.</a></i></p>
   
 <p>We kicked the spring off with "Self-love and Carbs" - a culinary self-defence class for cis and trans-women, trans men and non-binary folx, which was designed to give all participants some extra resources that will come in handy when navigating a patriarchal, cis-hetero-normative world every day. We thank Eva Dingel from <a href="https://yanagi.berlin/">Yanagi Jutaijutsu Berlin e.V</a> and Abir Ghattas for creating this joint event with us!</p>
   
@@ -80,5 +80,6 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <p><i>Throwback to when <a href="https://www.instagram.com/amalthevegan/">@amalthevegan</a> cooked a yummy vegan Levantine menu for the closing dinner of the Self Love and Carbs series. We spent a lovely evening chatting about food, memories and feminism!</i></p>
 
 <p><b>UPCOMING: March 2023</b></p>
+
 <p>On March 15th, re:publica and SUPERRR Lab will be hosting a community event that explores the relationship between feminism and cash. The details of the event are yet to be announced, but it promises to be an exciting and engaging discussion. Stay tuned! In addition to this, there are two more events on the horizon that are worth checking out: First, from March 9th-10th, the Content Moderators Summit will bring together content moderators from across Germany to discuss how to improve their working conditions. This event is being organized in collaboration with <a href="https://www.foxglove.org.uk/who-we-are/">Foxglove.</a> and <a href="https://www.verdi.de/">ver.di.</a> 
 Read more <a href="https://superrr.net/2023/02/22/ContentModeratorsSummit.html">here.</a> And finally, <a href="https://www.weizenbaum-institut.de/events/weizenbaum-debate-1-macht-mittel/">the Weizenbaum Debate #1</a> will feature Elisa Lindinger from SUPERRR Lab and Sabine Frank from YouTube discussing the question of "Macht und Mittel. Wer gestaltet den digitalen Raum?" Keep an eye out for further details on these events as they are expected to offer valuable insights and provoke thought-provoking discussions.</p>
