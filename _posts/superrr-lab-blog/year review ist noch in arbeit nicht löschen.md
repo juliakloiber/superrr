@@ -20,9 +20,7 @@ The futurists during their kick-off (from left to right): <a href="https://www.l
 </i></p>
 
 <p>
-Last year, we proudly announced "Muslim Futures", a project that imagines a space in which joy, love, community and empowerment are centered on a Muslim positionality.
-Our seven futurists have been working together to create and imagine inclusive, fair and just visions of Muslim Futures. They are implementing projects from artistic, cultural, political and inter/anti-disciplinary approaches into practice.
-If you are curious about the futurists, upcoming events and special occasions, make sure to check out 
+Last year, we proudly announced "Muslim Futures", a project that imagines a space in which joy, love, community and empowerment are centered on a Muslim positionality. Our seven futurists have been working together to create and imagine inclusive, fair and just visions of Muslim Futures. They are implementing projects from artistic, cultural, political and inter/anti-disciplinary approaches into practice. If you are curious about the futurists, upcoming events and special occasions, make sure to check out 
 <a href="https://www.muslimfutures.de/“>the website</a>. Muslim Futures is funded by the Bundeszentrale für Politische Bildung.</p>
 
 <p>Upcoming in 2023: Exhibition and presentation of the futurists and their work.
