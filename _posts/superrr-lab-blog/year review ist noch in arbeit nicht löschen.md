@@ -49,7 +49,8 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <p><i>Design by <a href="https://ousa.info/startseite-de/">Ousa Collective.</a></i></p>
 
 <p>Throughout 2022, we started developing a theoretical framework for a feminist approach to tech policy, which critically analyses existing power relations and works towards establishing justice. It requires an intersectional feminist lens focusing on social groups most affected by digitalisation's negative consequences. 
-<a href="https://feministtechpolicy.org/">We created a living repository</a> for all things feminist tech policy with the latest analyses and takes on current policy developments such as CSA regulation. Stay up to date on new case studies through our <a href="https://buttondown.email/FeministischeDigitalpolitik“>newsletter.</a></p>
+<a href="https://feministtechpolicy.org/">We created a living repository</a> for all things feminist tech policy with the latest analyses and takes on current policy developments such as CSA regulation.</p>
+<p>Stay up to date on new case studies through our <a href="https://buttondown.email/FeministischeDigitalpolitik/“>newsletter.</a></p>
   
 <img src="/assets/img/blog/alexandra geese nakeema julia.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="768" height="448">
 <p><i>Alexandra Geese, Dr Nakeema Stefflbauer and Julia Kloiber discussing the ins and outs of feminist digital policy.</i></p>
@@ -74,7 +75,7 @@ The <a href="https://digitalfutures.space/"> documentation website</a> is full o
 <img src="/assets/img/blog/self love and carbs.png" alt="The photo shows the Risktakers Logo, in the colors orange-red and purple" width="1120" height="630">
   
 <p><i>Throwback to when <a href="https://www.instagram.com/amalthevegan/">@amalthevegan</a> cooked a yummy vegan Levantine menu for the closing dinner of the Self Love and Carbs series. We spent a lovely evening chatting about food, memories and feminism!</i></p>
-
+<br><br>
 <p><b>UPCOMING: March 2023</b></p>
 
 <p>On March 15th, re:publica and SUPERRR Lab will be hosting a community event that explores the relationship between feminism and cash. The details of the event are yet to be announced, but it promises to be an exciting and engaging discussion. Stay tuned! In addition to this, there are two more events on the horizon that are worth checking out: First, from March 9th-10th, the Content Moderators Summit will bring together content moderators from across Germany to discuss how to improve their working conditions. This event is being organized in collaboration with <a href="https://www.foxglove.org.uk/who-we-are/">Foxglove.</a> and <a href="https://www.verdi.de/">ver.di.</a> 
