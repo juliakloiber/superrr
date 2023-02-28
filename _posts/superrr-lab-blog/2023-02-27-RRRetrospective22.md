@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta
 title: RRRetrospective 2022 
-description: A look back at what we did last year
+description: A look back at what we did last year.
 ---
 
 <p>
