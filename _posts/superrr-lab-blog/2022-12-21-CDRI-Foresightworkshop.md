@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Quincey Stumptner
 title: Foresightworkshop "Visionsentwicklung als strategisches Mittel" - CDR-Initiative meets SUPERRR Lab
-description: Hier sind Eindrücke und die Dokumentation unseres Foresightworkshops mit der CDR-Initiative.
+description: Hier sind Eindrücke und die Dokumentation unseres Foresight-Workshops mit der CDR-Initiative.
 ---
 
 
