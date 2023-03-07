@@ -82,7 +82,7 @@ In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld s
 </p>
 
 <p>
-<i><b>„The future belongs to those who prepare for it today."</b> - Malcolm X, 1964</i>
+<i><b>"The future belongs to those who prepare for it today."</b> - Malcolm X, 1964</i>
 </p>
 
 
