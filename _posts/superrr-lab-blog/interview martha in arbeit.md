@@ -37,7 +37,7 @@ Daniel's case is fighting for fairer conditions for moderators and the right to 
 <p><b>SUPERRR:</b> Yes, indeed. When you were telling me about Daniel Motaung's case, I was struck by its historical significance – I’m sure, people will talk about this case in the future, if not now!</p>
 <p><b>Martha:</b> Yeah! It's the first case, to my knowledge across the world of a content moderator bringing a case against Facebook. So I think it's a really interesting and important landmark case!</p>
 
-<p><b>SUPERRR:</b> It's amazing to see how Foxglove is making an impact on the fight against Big Tech.Who are the key players and networks that empower and uplift your work, and what are the partnerships you rely on to drive meaningful change?
+<p><b>SUPERRR:</b> It's amazing to see how Foxglove is making an impact on the fight against Big Tech. Who are the key players and networks that empower and uplift your work, and what are the partnerships you rely on to drive meaningful change?
 </p>
 <p><b>Martha:</b> Yeah, so we're really pleased to be partnering with everybody that we're partnering with on the summit. So, ver.di is an amazing union. And it's lovely to be working with them. The idea for the summit came from the Digital Futures Gathering that SUPERRR Lab hosted back in October, an Aspiration are going to be amazing facilitators and help make a really good conversation happen. So we're excited about that. But all Foxglove's work is taken in partnership. We always work with either in the case of algorithmic systems we work with either impacted individuals or groups, and in the cases against Big Tech.</p>
 
