@@ -49,7 +49,8 @@ Denn alternative, wünschenswerte Zukünfte zu entwickeln, bedeutet auch, sich v
 <p>
 
 <p>
-<i><b>“Durch die Auseinandersetzung mit Philosophen verschiedener afrikanischer Länder während meines Studiums und während meiner Arbeit im außereuropäischen Ausland habe ich festgestellt, dass mir ein europäischer oder vielmehr ein eurozentristischer Referenzrahmen nicht reicht, um unsere heutigen gesellschaftlichen Herausforderungen anzugehen. Eurozentristische Sichtweisen auf die Welt haben meinem Erachten nach über die letzten Jahrhunderte fruchtbares Leid, Zerstörung und große Probleme hervorgebracht. Wenn wir wirklich an Lösungen interessiert sind, müssen wir aktiv unsere Perspektiven erweitern, da wir sonst Gefahr laufen, doch wieder Altes zu reproduzieren und viele wichtige Ansätze bisher marginalisierten Wissens zu ignorieren."</b> - Quincey, SUPERRR Lab</i>
+<i><b>“Durch die Auseinandersetzung mit Philosophen verschiedener afrikanischer Länder während meines Studiums und während meiner Arbeit im außereuropäischen Ausland habe ich festgestellt, dass mir ein europäischer oder vielmehr ein eurozentristischer Referenzrahmen nicht reicht, um unsere heutigen gesellschaftlichen Herausforderungen anzugehen. Eurozentristische Sichtweisen auf die Welt haben meinem Erachten nach über die letzten Jahrhunderte fruchtbares Leid, Zerstörung und große Probleme hervorgebracht. Wenn wir wirklich an Lösungen interessiert sind, müssen wir aktiv unsere Perspektiven erweitern, da wir sonst Gefahr laufen, doch wieder Altes zu reproduzieren und viele wichtige Ansätze bisher marginalisierten Wissens zu ignorieren."
+</b> - Quincey, SUPERRR Lab</i>
 </p>
   
 <p>
