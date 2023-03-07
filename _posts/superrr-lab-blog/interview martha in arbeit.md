@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Feven Keleta
-title: Foxglove Founder Martha Dark Talks Tech for Good: From Challenging Big Tech Workplace Abuse to Making Tech Accessible for All -An Interview 
+title: Foxglove Founder Martha Dark Talks Tech for Good: From Challenging Big Tech Workplace Abuse to Making Tech Accessible for All - An Interview 
 description: Foxglove, a London-based non-profit organisation and advocacy group dedicated to improving the working conditions of content moderators, among other things. 
 
 ---
