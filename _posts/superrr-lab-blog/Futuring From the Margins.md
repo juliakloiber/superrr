@@ -33,7 +33,7 @@ Bisher gehen wir diese Fragen an, indem wir versuchen, Räume wie <a href="https
 </p>
 
 <p>
-<i><b>„In meinem Studium habe ich mich intensiv mit den theoretischen Grundlagen afrodiasporischer Futurismen beziehungsweise Surrealismen beschäftigt. Diese haben meinen Blick auf dekoloniale und feministische Anliegen nachhaltig geprägt. Solche Perspektiven fehlen leider immer noch häufig in unseren Diskursen um unsere gemeinsamen Zukünfte. Daher bringe ich sie aktiv in meine Forschung und Arbeit mit ein, um realistischere gesellschaftliche Bilder zeichnen zu können.“ </b> - Feven, SUPERRR Lab</i>
+<i><b>„In meinem Studium habe ich mich intensiv mit den theoretischen Grundlagen afrodiasporischer Futurismen beziehungsweise Surrealismen beschäftigt. Diese haben meinen Blick auf dekoloniale und feministische Anliegen nachhaltig geprägt. Solche Perspektiven fehlen leider immer noch häufig in unseren Diskursen um unsere gemeinsamen Zukünfte. Daher bringe ich sie aktiv in meine Forschung und Arbeit mit ein, um realistischere Gesellschaftsbilder zeichnen zu können.“ </b> - Feven, SUPERRR Lab</i>
 </p>
 
 <h1>
