@@ -2,13 +2,13 @@
 layout: post
 type: lab
 author: Feven Keleta
-title: Foxglove Founder Martha Dark Talks Tech for Good: From Challenging Big Tech Workplace Abuse to Making Tech Accessible for All 
-description: An Interview 
+title: Foxglove Founder Martha Dark Talks Tech for Good: From Challenging Big Tech Workplace Abuse to Making Tech Accessible for All -An Interview 
+description: Foxglove, a London-based non-profit organisation and advocacy group dedicated to improving the working conditions of content moderators, among other things. 
 
 ---
 
 <img src="/assets/img/blog/Martha Dark Quote small.png" alt="Illustration of Martha Dark" width="1056" height="594">
-<p><em>Introduction: <a href="https://www.foxglove.org.uk/who-we-are/people/martha-dark-director/"> Martha Dark</a> is the co-founder and director of Foxglove, a London-based non-profit organization and advocacy group dedicated to improving the working conditions of content moderators. In addition to investigating, litigating, and campaigning on technology and social justice matters, Foxglove strives to challenge the harms caused by Big Tech and make technology fair and accessible to everyone. Today, we have the pleasure of talking to Martha about these crucial issues.</em></p>
+<p><em><a href="https://www.foxglove.org.uk/who-we-are/people/martha-dark-director/"> Martha Dark</a> is the co-founder and director of Foxglove, a London-based non-profit organisation and advocacy group dedicated to improving the working conditions of content moderators. In addition to investigating, litigating, and campaigning on technology and social justice matters, Foxglove strives to challenge the harms caused by Big Tech and make technology fair and accessible to everyone. Today, we have the pleasure of talking to Martha about these crucial issues.</em></p>
 
 
 <p><b>SUPERRR:</b> Dear Martha, how would you describe Foxglove to someone who has never heard of it?</p>
@@ -44,4 +44,3 @@ We will have between 40 and 50 moderators gathering in Berlin from across German
 <p><b>SUPERRR:</b> I agree! Thank you for sharing your insights and experiences with us, Martha. It was truly inspiring to hear about the work that Foxglove is doing!</p>
 
 <p> Illustration: Anna Niedhart, <a href="https://rainbow-unicorn.com/">Rainbow Unicorn</a>.</p>
-
