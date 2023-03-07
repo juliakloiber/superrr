@@ -6,7 +6,7 @@ title: Futuring From the Margins – Towards an Intersectional and Decolonial Fu
 description: Ein Zwischenstand unserer Arbeit zu intersektionaler und dekolonialer Zukünfte-Arbeit.
 ---
 
-<img src="/assets/img/blog/platzhalter-hero-3.jpg" alt="The photo shows a blue, green, red pattern of colores morphing into one another. " width="500" height="600">
+<img src="/assets/img/blog/fanon.jpeg" alt="The photo shows a black and white photograph of Frantz Fanon with a white blindfold. The photo features a caption saying Why the mask? What is he hiding? What does he fear?" width="676" height="636">
 
 <h1> Futuring im SUPERRR Lab </h1>
 
