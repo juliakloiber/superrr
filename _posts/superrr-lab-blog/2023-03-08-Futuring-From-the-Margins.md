@@ -1,7 +1,7 @@
 ---
 layout: post
 type: lab
-author: Quincey Stumptner
+author: Quincey Stumptner and Feven Keleta
 title: Futuring From the Margins – Towards an Intersectional and Decolonial Futures Practice
 description: Ein Zwischenstand unserer Arbeit zu intersektionaler und dekolonialer Zukünfte-Arbeit.
 ---
