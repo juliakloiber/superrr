@@ -39,7 +39,7 @@ Daniel's case is fighting for fairer conditions for moderators and the right to 
 
 <p><b>SUPERRR:</b> It's amazing to see how Foxglove is making an impact on the fight against Big Tech. Who are the key players and networks that empower and uplift your work, and what are the partnerships you rely on to drive meaningful change?
 </p>
-<p><b>Martha:</b> Yeah, so we're really pleased to be partnering with the summit team. So, ver.di is an amazing union. And it's lovely to be working with them. The idea for the summit came from the <a href=“digitalfutures.space/“>Digital Futures Gathering</a> that SUPERRR Lab hosted back in October, and Aspiration Tech are going to be amazing facilitators and help make a really good conversation happen. So we're excited about that. But all Foxglove's cases are taken in partnership.</p>
+<p><b>Martha:</b> Yeah, so we're really pleased to be partnering with the summit team. So, ver.di is an amazing union. And it's lovely to be working with them. The idea for the summit came from the <a href="digitalfutures.space/">Digital Futures Gathering</a> that SUPERRR Lab hosted back in October, and Aspiration Tech are going to be amazing facilitators and help make a really good conversation happen. So we're excited about that. But all Foxglove's cases are taken in partnership.</p>
 
 <p><b>SUPERRR:</b> Last, but not least, please fill in the gaps: "I know we are winning, when...."</p>
 <p><b>Martha:</b> "......Big Tech is broken up, it's too big to exist is a threat to our societies, our democracies and our workplaces."</p>
