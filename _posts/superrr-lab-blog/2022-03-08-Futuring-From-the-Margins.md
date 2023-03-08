@@ -87,4 +87,4 @@ In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld s
 </p>
 
 
-
+<p>Image credits: Grove Press, Frantz Fanon.</p>
