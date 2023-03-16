@@ -10,7 +10,7 @@ description: Content Moderator*innen aus ganz Deutschland kämpfen gemeinsam fü
 <img src="/assets/img/blog/moderators.png" alt="Image saying Moderators unite" width="500" height="600">
 
 <p>
-Am 09. Und 10. März kamen in Berlin knapp 50 Social Media Content Moderator*innen zu einem Content Moderators Summit zusammen. Der Summit wurde von der Gewerkschaft <a href="https://www.verdi.de/">ver.di</a> und den gemeinnützigen Organisationen SUPERRR Lab, < a href="https://www.foxglove.org.uk/">Foxglove</a> und <a href="https://aspirationtech.org/">Aspiration</a> ausgerichtet. Die Idee zum Summit kam von den Moderator*innen.
+Am 09. Und 10. März kamen in Berlin knapp 50 Social Media Content Moderator*innen zu einem Content Moderators Summit zusammen. Der Summit wurde von der Gewerkschaft <a href="https://www.verdi.de/">ver.di</a> und den gemeinnützigen Organisationen SUPERRR Lab, <a href="https://www.foxglove.org.uk/">Foxglove</a> und <a href="https://aspirationtech.org/">Aspiration</a> ausgerichtet. Die Idee zum Summit kam von den Moderator*innen.
 </p>
 <p>
 Das erste Treffen dieser Art hatte mehrere Ziele: Ein Ziel war es, mit der Kultur der Intransparenz und Geheimhaltung zu brechen und den Moderator*innen einen Raum zu geben, in dem sie sich über unterschiedliche Firmen hinweg austauschen und 
