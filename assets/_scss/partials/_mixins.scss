@@ -148,7 +148,7 @@ probably best not to use it. I mean, were you going to anyway? */
 @mixin bordered-box() {
   background-color: white;
   border-radius: 30px;
-  padding: 1.25rem 1.25rem 2rem 1.25rem;
+  padding: 1.75rem;
   display: block;
 
   @include media-breakpoint-up(sm) {

@@ -1,19 +1,22 @@
 {% if post.link.size > 0 %}
-    <a href="{{ post.link }}" target="_blank" class="talk-teaser with-shadow mb-5">
-{% else %}
-    <div class="talk-teaser with-shadow mb-5">
-{% endif %}
-    <div class="row">
-        <div class="col-24 col-sm-6">
-            <h3 class="fontsize-40 uppercase">{{ post.date | date: "%b %-d"}}<br>{{ post.date | date: "%Y"}}</h3>
-            <span class="fontsize-22">{{ post.location }}</span>
+<a href="{{ post.link }}" target="_blank" class="talk-teaser talk-teaser__link with-shadow mb-4 mb-md-5">
+    {% else %}
+    <div class="talk-teaser with-shadow mb-4 mb-md-5">
+        {% endif %}
+        <div class="row">
+            <div class="col-24 col-sm-4">
+                <h3 class="fontsize-22 mb-4"><span class="uppercase d-block mb-1">{{ post.date | date: "%b %-d"}},&nbsp;{{ post.date | date: "%Y"}}</span></h3>
+            </div>
+            <div class="col-24 col-sm-20">
+                <h3 class="fontsize-40 uppercase">{{ post.title }}</h3>
+                <div class="talk-teaser-info">
+                    <div class="fontsize-22 capitalize">{{ post.location }}</div>
+                    <div class="fontsize-22 orange uppercase">{{ post.type }}</div>
+                </div>
+
+            </div>
         </div>
-        <div class="col-24 col-sm-18">
-            <h3 class="fontsize-40 uppercase">{{ post.title }}</h3>
-            <span class="fontsize-22 orange uppercase">{{ post.type }}</span>
-        </div>
-    </div>
-{% if post.link.size > 0 %}
+        {% if post.link.size > 0 %}
 </a>
 {% else %}
 </div>

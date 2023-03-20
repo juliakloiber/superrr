@@ -53,6 +53,9 @@ input:-webkit-autofill {
 .uppercase{
   text-transform: uppercase;
 }
+.capitalize{
+  text-transform: capitalize;
+}
 
 .lowercase{
   text-transform: lowercase;
@@ -149,6 +152,16 @@ input:-webkit-autofill {
 }
 .bg-red{
   background-color: $secondary-color;
+}
+
+.lh-1 {
+  line-height: 1;
+}
+.lh-1-1 {
+  line-height: 1.1;
+}
+.lh-1-2 {
+  line-height: 1.2;
 }
 
 .no-margin{
@@ -263,9 +276,11 @@ input:-webkit-autofill {
 }
 
 .with-shadow{
+  @include transition(box-shadow 0.25s linear);
   -webkit-box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
   box-shadow: 0px 0px 40px -4px rgba(0,0,0,0.12);
   z-index: 1;
+
 }
 
 .img-responsive{
@@ -279,6 +294,17 @@ input:-webkit-autofill {
 }
 .margin-top-100{
   margin-top: 100px;
+}
+
+.margin-bottom-50{
+  margin-bottom: 50px;
+}
+.margin-top-50{
+  margin-top: 50px;
+}
+
+.ws-nowrap {
+  white-space: nowrap;
 }
 
 .img-responsive-height{
