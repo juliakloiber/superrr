@@ -1833,8 +1833,10 @@ TALKS
       max-width: 750px;
     }
 
+    border: 1px solid $grey;
+
     &__link {
-      border: 2px solid $grey;
+      border: 1px solid $orange;
       &:hover, &:active {
         -webkit-box-shadow: 0px 0px 50px -4px rgba(0,0,0,0.3);
         box-shadow: 0px 0px 50px -4px rgba(0,0,0,0.3);
