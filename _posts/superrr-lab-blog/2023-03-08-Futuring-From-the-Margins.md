@@ -3,7 +3,8 @@ layout: post
 type: lab
 author: Quincey Stumptner and Feven Keleta
 title: Futuring From the Margins
-description: Towards an Intersectional and Decolonial Futures Practice: Ein Zwischenstand unserer Arbeit zu intersektionaler und dekolonialer Zukünfte-Arbeit.
+description: Towards an Intersectional and Decolonial Futures Practice -  Ein Zwischenstand unserer Arbeit zu intersektionaler und dekolonialer 
+Zukünfte-Arbeit.
 ---
 
 <img src="/assets/img/blog/fanon.jpeg" alt="The photo shows a black and white photograph of Frantz Fanon with a white blindfold. The photo features a caption saying Why the mask? What is he hiding? What does he fear?" width="676" height="636">
