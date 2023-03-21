@@ -8,7 +8,7 @@ description: Ein Zwischenstand unserer Arbeit zu intersektionaler und dekolonial
 
 <img src="/assets/img/blog/fanon.jpeg" alt="The photo shows a black and white photograph of Frantz Fanon with a white blindfold. The photo features a caption saying Why the mask? What is he hiding? What does he fear?" width="676" height="636">
 
-<h1> Futuring im SUPERRR Lab </h1>
+<h3> Futuring im SUPERRR Lab </h3>
 
 <p>
 Bei SUPERRR Lab beschäftigen wir uns schon seit mehreren Jahren in unterschiedlichen Facetten mit dem Thema Zukünfte. Wir haben <a href="https://dingdingding.org/category/essays/">mehrere Magazine</a> zu dem Thema herausgegeben, unterstützen mit Fellowship-Programmen wie <a href="https://superrr.net/project/thenewnew/">The New New</a> Projekte und Menschen, ihre Visionen für gerechte digitale Zukünfte umzusetzen und organisieren Zukünfte-Workshops mit verschiedensten Akteuren aus Politik und Zivilgesellschaft.
@@ -36,9 +36,9 @@ Bisher gehen wir diese Fragen an, indem wir versuchen, Räume wie <a href="https
 <i><b>„In meinem Studium habe ich mich intensiv mit den theoretischen Grundlagen afrodiasporischer Futurismen beziehungsweise Surrealismen beschäftigt. Diese haben meinen Blick auf dekoloniale und feministische Anliegen nachhaltig geprägt. Solche Perspektiven fehlen leider immer noch häufig in unseren Diskursen um unsere gemeinsamen Zukünfte. Daher bringe ich sie aktiv in meine Forschung und Arbeit mit ein, um realistischere Gesellschaftsbilder zeichnen zu können.“ </b> - Feven, SUPERRR Lab</i>
 </p>
 
-<h1>
+<h3>
 Intersektionale und dekoloniale Zukünfte
-</h1>
+</h3>
 
 <p>
 Daher untersuchen Feven und Quincey aus dem SUPERRR Lab Team momentan verschiedene Herangehensweisen zu Intersektionalität und Dekolonialität auf dem Gebiet der Zukünfte-Arbeit.
@@ -73,10 +73,10 @@ Dies sind nur einige der Fragen, von denen wir glauben, dass es wichtig ist, sie
 Unser bisheriger Ansatz soll natürlich nicht die aktiven Stimmen marginalisierter Gruppen in Zukunftsprozessen ersetzen. Wir versuchen einen zusätzlichen Zugang für dekoloniale und intersektionale Perspektiven in Zukunftsprozessen zu schaffen, um diese Herangehensweisen weiter in die Breite zu tragen. 
 </p>
 
-<h1> Die nächsten Schritte </h1>
+<h3> Die nächsten Schritte </h3>
 
 <p>
-In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld sprechen und in einen Austausch darüber gehen, wie intersektionale und dekoloniale Ansätze in der Zukünfte-Arbeit gestärkt werden können. Denn wir sind überzeugt davon, dass es für nachhaltige positive Zukünfte eine Stärkung dieser Ansätze in der gängigen Zukunftsarbeit und in Foresightprozessen braucht. Ob dabei ein Reflexionsansatz entsteht, den andere einfach anwenden können oder wir auf eine tiefere Ebene der Methodenentwicklung gehen müssen, steht dabei noch aus. Auf der Diesjährigen re:publica werden wir dieses Thema auch einbringen und in weiteren Formaten im Laufe des Jahres aufgreifen und erproben.
+In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld sprechen und in einen Austausch darüber gehen, wie intersektionale und dekoloniale Ansätze in der Zukünfte-Arbeit gestärkt werden können. Denn wir sind überzeugt davon, dass es für nachhaltige positive Zukünfte eine Stärkung dieser Ansätze in der gängigen Zukunftsarbeit und in Foresightprozessen braucht. Ob dabei ein Reflexionsansatz entsteht, den andere einfach anwenden können oder wir auf eine tiefere Ebene der Methodenentwicklung gehen müssen, steht dabei noch aus. Auf der diesjährigen re:publica werden wir dieses Thema auch einbringen und in weiteren Formaten im Laufe des Jahres aufgreifen und erproben.
 </p>
 
 <p> Wir freuen uns über euer Feedback und weitere Anregungen. Wenn ihr Ideen habt oder mit uns gemeinsam an dem Thema arbeiten möchtet, zögert nicht, euch bei uns zu melden!
