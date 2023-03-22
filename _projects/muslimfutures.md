@@ -14,7 +14,7 @@ description: "Wer denkt über Zukünfte nach, und wer nicht?"
 <p><em>Meet the Futurists: <a href="https://www.linkedin.com/in/kader-bagli/">Kader Bagli</a>, Ouassima Laabich, <a href="https://re-publica.com/de/user/12173">Nilgün Akıncı</a>, <a href="https://www.anjasaleh.com">Anja Saleh</a>, <a href="https://www.elifcelik.de">Elif Çelik</a> und <a href="https://www.instagram.com/fatih.maraslioglu/">Fatih Maraşlıoğlu</a>. Auf dem Foto fehlen <a href="https://www.instagram.com/ozkeskinkilic/">Ozan Zakariya Keskinkılıç</a> und Hafssa El Bouhamouchi.</em></p>
 
 
-<h1>Was ist Muslim Futures?</h1>
+<h3>Was ist Muslim Futures?</h3>
 
 <p>Wer denkt über Zukünfte nach, und wer nicht? Wem werden die Chance und die Räume geboten, über die herausfordernden Erlebnisse von heute und die vielen Kämpfe im Jetzt hinaus ein Morgen zu imaginieren, das gerechter, inklusiver und ermächtigender ist? Was wäre, wenn... es einen solchen Raum gäbe, der es Muslim:innen erlaubt, Zukünfte zu zeichnen, zu verhandeln und anzuvisieren, für die es sich im Heute zu streiten lohnt? Zukünfte, und die vielen wünschenswerten Nuancen hiervon, die die Vielschichtigkeit muslimischen Lebens und von Muslim:innen fokussiert, die nicht in rassistischer Manier kategorisiert und homogenisiert, die nicht Muslim:innen kriminalisiert und zum „Anderen“ erklärt? Was wäre, wenn wir diesen Raum „Muslim Futures“ nennen? </p>
 <p><a href="https://muslimfutures.de">Zur Projektwebsite</a></p>
