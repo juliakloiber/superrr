@@ -1,7 +1,7 @@
 ---
 title: "Feminist Tech Fellowship"
 header_type: lab
-order: 6
+order: 10
 layout: project
 teaser_img: "/assets/img/static/projects/feminist-tech-fellows-teaser.jpg"
 hero_img: "/assets/img/static/projects/feminist-tech-fellows.jpg"
