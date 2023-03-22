@@ -24,13 +24,13 @@ description: "Since 2019, SUPERRR Lab has been advocating an intersectional-femi
 
 <p>
 
-We at SUPERRR are convinced: Digital policy needs to be understood as social policy as it addresses social issues such as accessibility, active participation, sustainability and equity.
+We at SUPERRR Lab are convinced: Digital policy needs to be understood as social policy as it addresses social issues such as accessibility, active participation, sustainability and equity.
 
 This requires an intersectional feminist approach to focus on those societal groups that are most affected by the negative consequences of digitisation. Feminist digital policy stands for a paradigm shift:
 
 Away from “higher, faster, further” to “more sustainable, equitable, people-centred”.
-
-SUPERRR has been working on feminist perspectives on tech since our inception in 2019 and for example developed  for example developed <a href="https://superrr.net/feministtech/principles/"> feminist tech principles</a>.
+<br>
+SUPERRR has been working on feminist perspectives on tech since our inception in 2019 and for example developed the <a href="https://superrr.net/feministtech/principles/"> feminist tech principles</a>.
 
 In 2022 we started a dedicated project on feminist tech policy, working to introduce feminist perspectives in politics and administration in Berlin, Brussels, and beyond.
 
@@ -44,6 +44,6 @@ Our website <a href="https://feministtechpolicy.org/">feministtechpolicy.org</a>
 
 <p> <a href="mailto:corinna@superrr.net">Corinna Vetter</a> coordinates the Feminist Tech Policy Project at SUPERRR as the Advocacy Lead since autumn 2022.</p>
 
-<p>Our efforts towards feminist tech policy are made possible by the support of the Open Society Foundation.<p>
+<p><i>Our efforts towards feminist tech policy are made possible by the support of the Open Society Foundation.</i><p>
 
 <img src="/assets/img/static/organizations/osf.png" alt="Logo Open Society Foundation" style="max-width: 200px;">
