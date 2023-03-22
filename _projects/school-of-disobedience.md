@@ -1,7 +1,7 @@
 ---
 title: "Tech for Disobedience"
 header_type: lab
-order: 6
+order: 11
 layout: project
 teaser_img: "/assets/img/static/projects/school-of-disobedience-teaser.png"
 hero_img: "/assets/img/static/projects/disobedience.jpg"
