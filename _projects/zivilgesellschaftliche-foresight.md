@@ -1,7 +1,7 @@
 ---
 title: "Zivilgesellschaftliche Foresight"
 header_type: lab
-order: 1
+order: 4
 layout: project
 teaser_img: "/assets/img/static/projects/platzhalter.jpg"
 hero_img: "/assets/img/static/projects/platzhalter-hero.jpg"
