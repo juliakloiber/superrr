@@ -33,7 +33,7 @@ Bisher gehen wir diese Fragen an, indem wir versuchen, Räume wie <a href="https
 </p>
 
 <p>
-<i><b>„In meinem Studium habe ich mich intensiv mit den theoretischen Grundlagen afrodiasporischer Futurismen beziehungsweise Surrealismen beschäftigt. Diese haben meinen Blick auf dekoloniale und feministische Anliegen nachhaltig geprägt. Solche Perspektiven fehlen leider immer noch häufig in unseren Diskursen um unsere gemeinsamen Zukünfte. Daher bringe ich sie aktiv in meine Forschung und Arbeit mit ein, um realistischere Gesellschaftsbilder zeichnen zu können.“ </b> - Feven, SUPERRR Lab</i>
+<i>„In meinem Studium habe ich mich intensiv mit den theoretischen Grundlagen afrodiasporischer Futurismen beziehungsweise Surrealismen beschäftigt. Diese haben meinen Blick auf dekoloniale und feministische Anliegen nachhaltig geprägt. Solche Perspektiven fehlen leider immer noch häufig in unseren Diskursen um unsere gemeinsamen Zukünfte. Daher bringe ich sie aktiv in meine Forschung und Arbeit mit ein, um realistischere Gesellschaftsbilder zeichnen zu können.“- Feven, SUPERRR Lab</i>
 </p>
 
 <h3>
@@ -49,8 +49,8 @@ Denn alternative, wünschenswerte Zukünfte zu entwickeln, bedeutet auch, sich v
 <p>
 
 <p>
-<i><b>“Durch die Auseinandersetzung mit Philosophen verschiedener afrikanischer Länder während meines Studiums und während meiner Arbeit im außereuropäischen Ausland habe ich festgestellt, dass mir ein europäischer oder vielmehr ein eurozentristischer Referenzrahmen nicht reicht, um unsere heutigen gesellschaftlichen Herausforderungen anzugehen. Eurozentristische Sichtweisen auf die Welt haben meinem Erachten nach über die letzten Jahrhunderte furchtbares Leid, Zerstörung und große Probleme hervorgebracht. Wenn wir wirklich an Lösungen interessiert sind, müssen wir aktiv unsere Perspektiven erweitern, da wir sonst Gefahr laufen, doch wieder Altes zu reproduzieren und viele wichtige Ansätze bisher marginalisierten Wissens zu ignorieren."
-</b> - Quincey, SUPERRR Lab</i>
+<i>“Durch die Auseinandersetzung mit Philosophen verschiedener afrikanischer Länder während meines Studiums und während meiner Arbeit im außereuropäischen Ausland habe ich festgestellt, dass mir ein europäischer oder vielmehr ein eurozentristischer Referenzrahmen nicht reicht, um unsere heutigen gesellschaftlichen Herausforderungen anzugehen. Eurozentristische Sichtweisen auf die Welt haben meinem Erachten nach über die letzten Jahrhunderte furchtbares Leid, Zerstörung und große Probleme hervorgebracht. Wenn wir wirklich an Lösungen interessiert sind, müssen wir aktiv unsere Perspektiven erweitern, da wir sonst Gefahr laufen, doch wieder Altes zu reproduzieren und viele wichtige Ansätze bisher marginalisierten Wissens zu ignorieren."
+ - Quincey, SUPERRR Lab</i>
 </p>
   
 <p>
