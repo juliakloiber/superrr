@@ -25,7 +25,7 @@ Uns beschäftigt dabei immer wieder, wie wir intersektionale und dekoloniale Asp
 
 
 <p>
-<i>Wer denkt über Zukünfte nach, und wer nicht? Wem werden die Chance und die Räume geboten, über die herausfordernden Erlebnisse von heute und die vielen Kämpfe im Jetzt hinaus ein Morgen zu imaginieren, das gerechter, inklusiver und ermächtigender ist?</i>
+Wer denkt über Zukünfte nach, und wer nicht? Wem werden die Chance und die Räume geboten, über die herausfordernden Erlebnisse von heute und die vielen Kämpfe im Jetzt hinaus ein Morgen zu imaginieren, das gerechter, inklusiver und ermächtigender ist?
 </p>
 
 <p>
@@ -62,7 +62,7 @@ Aufbauend auf diesen verschiedenen Ansätzen erproben wir momentan, wie mittels 
 </p>
 
 <p>
-<i>Bevorzugt die imaginierte Zukunft eine bestimmte Gruppe von Menschen? Wer hat die Macht in dieser Zukunft, wer nicht? Wie wird Macht in dieser Zukunft hergestellt? Beabsichtigt die imaginierte Zukunft „universell“ oder „global“ in ihrer Ausrichtung zu sein? Wie unterscheidet sich das Zukunftsszenario vom heutigen Status quo? Baut es auf extraktiven Ansätzen in Bezug zur Natur, zu Wissen, zu anderen Kulturen oder zu Menschen auf oder beinhaltet es diese?</i>
+Bevorzugt die imaginierte Zukunft eine bestimmte Gruppe von Menschen? Wer hat die Macht in dieser Zukunft, wer nicht? Wie wird Macht in dieser Zukunft hergestellt? Beabsichtigt die imaginierte Zukunft „universell“ oder „global“ in ihrer Ausrichtung zu sein? Wie unterscheidet sich das Zukunftsszenario vom heutigen Status quo? Baut es auf extraktiven Ansätzen in Bezug zur Natur, zu Wissen, zu anderen Kulturen oder zu Menschen auf oder beinhaltet es diese?
 </p>
 
 <p>
@@ -76,14 +76,14 @@ Unser bisheriger Ansatz soll natürlich nicht die aktiven Stimmen marginalisiert
 <h3> Die nächsten Schritte </h3>
 
 <p>
-In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld sprechen und in einen Austausch darüber gehen, wie intersektionale und dekoloniale Ansätze in der Zukünfte-Arbeit gestärkt werden können. Denn wir sind überzeugt davon, dass es für nachhaltige positive Zukünfte eine Stärkung dieser Ansätze in der gängigen Zukunftsarbeit und in Foresightprozessen braucht. Ob dabei ein Reflexionsansatz entsteht, den andere einfach anwenden können oder wir auf eine tiefere Ebene der Methodenentwicklung gehen müssen, steht dabei noch aus. Auf der diesjährigen re:publica werden wir dieses Thema auch einbringen und in weiteren Formaten im Laufe des Jahres aufgreifen und erproben.
+In den nächsten Monaten werden wir mit verschiedenen Expert*innen in dem Feld sprechen und in einen Austausch darüber gehen, wie intersektionale und dekoloniale Ansätze in der Zukünfte-Arbeit gestärkt werden können. Denn wir sind überzeugt davon, dass es für nachhaltige positive Zukünfte eine Stärkung dieser Ansätze in der gängigen Zukunftsarbeit und in Foresightprozessen braucht. Ob dabei ein Reflexionsansatz entsteht, den andere einfach anwenden können oder wir auf eine tiefere Ebene der Methodenentwicklung gehen müssen, steht dabei noch aus. Auf der diesjährigen <a href="https://re-publica.com/de"> re:publica </a> werden wir dieses Thema auch einbringen und in weiteren Formaten im Laufe des Jahres aufgreifen und erproben.
 </p>
 
 <p> Wir freuen uns über euer Feedback und weitere Anregungen. Wenn ihr Ideen habt oder mit uns gemeinsam an dem Thema arbeiten möchtet, zögert nicht, euch bei uns zu melden!
 </p>
 
 <p>
-<i><b>"The future belongs to those who prepare for it today."</b> - Malcolm X, 1964</i>
+<i>"The future belongs to those who prepare for it today." - Malcolm X, 1964</i>
 </p>
 
 
