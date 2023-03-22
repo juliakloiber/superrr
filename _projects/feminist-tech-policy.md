@@ -1,7 +1,7 @@
 ---
 title: "Feminist Tech Card Deck"
 header_type: lab
-order: 2
+order: 5
 layout: project
 teaser_img: "/assets/img/static/projects/feminist-tech-policy.jpg"
 hero_img: "/assets/img/static/projects/feminist-tech-policy-hero.jpg"
