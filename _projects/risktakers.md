@@ -1,7 +1,7 @@
 ---
 title: "Risktakers Fellowship"
 header_type: lab
-order: 0
+order: 1
 layout: project
 teaser_img: "/assets/img/static/projects/risktakers-teaser.jpeg"
 hero_img: "/assets/img/static/projects/risktakers-hero.jpeg"
