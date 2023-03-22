@@ -27,8 +27,7 @@ description: "Since 2019, SUPERRR Lab has been advocating an intersectional-femi
 We at SUPERRR Lab are convinced: Digital policy needs to be understood as social policy as it addresses social issues such as accessibility, active participation, sustainability and equity.
 
 This requires an intersectional feminist approach to focus on those societal groups that are most affected by the negative consequences of digitisation. Feminist digital policy stands for a paradigm shift:
-
-Away from “higher, faster, further” to “more sustainable, equitable, people-centred”.
+away from “higher, faster, further” to “more sustainable, equitable, people-centred”.
 <br>
 SUPERRR has been working on feminist perspectives on tech since our inception in 2019 and for example developed the <a href="https://superrr.net/feministtech/principles/"> feminist tech principles</a>.
 
