@@ -1,5 +1,5 @@
 ---
-title: "Feminist Tech Policy"
+title: "Feminist Tech Policy Card Deck"
 header_type: lab
 order: 2
 layout: project
