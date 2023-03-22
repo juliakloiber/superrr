@@ -4,13 +4,13 @@ title: "Feminist Tech Policy"
 
 header_type: lab
 
-order: 2
+order: 0
 
 layout: project
 
-teaser_img: "/assets/img/static/projects/feministische-digitalpolitik.png"
+teaser_img: "/assets/img/static/projects/header-feministische-digitalpolitik.png"
 
-hero_img: "/assets/img/static/projects/feministische-digitalpolitik.png"
+hero_img: "/assets/img/static/projects/header-feministische-digitalpolitik.png"
 
 external_link: ""
 
