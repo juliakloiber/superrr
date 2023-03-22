@@ -1,7 +1,7 @@
 ---
 title: "Towards a Societal Tech Impact Assessment"
 header_type: lab
-order: 2
+order: 7
 layout: project
 teaser_img: "/assets/img/static/projects/platzhalter.jpg"
 hero_img: "/assets/img/static/projects/platzhalter-hero.jpg"
