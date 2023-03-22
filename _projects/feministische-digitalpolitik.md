@@ -41,7 +41,7 @@ Our website <a href="https://feministtechpolicy.org/">feministtechpolicy.org</a>
 
 </p>
 
-<p> <a href="mailto:corinna@superrr.net">Corinna Vetter</a> coordinates the Feminist Tech Policy Project at SUPERRR as the Advocacy Lead since autumn 2022.</p>
+<p> <a href="mailto:corinna@superrr.net">Corinna Vetter</a> coordinates the Feminist Tech Policy Project at SUPERRR Lab as the Advocacy Lead since autumn 2022.</p>
 
 <p><i>Our efforts towards feminist tech policy are made possible by the support of the Open Society Foundation.</i><p>
 
