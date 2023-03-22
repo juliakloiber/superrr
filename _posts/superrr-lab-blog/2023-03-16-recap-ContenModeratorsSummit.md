@@ -37,5 +37,5 @@ Eine weitere Teilnehmerin erzählte davon, wie sie während des Bewerbungsgespr�
 Presseberichterstattung:
 <p> <a href="https://www.zeit.de/digital/internet/2023-03/tiktok-meta-moderatoren-gewerkschaft">Zeit online: Zusammen im Kampf gegen Trauma und Ausbeutung </a></p>
 <p><a href="https://www.wired.com/story/tiktok-and-metas-moderators-form-a-united-front-in-germany/"> Wired: TikTok and Meta’s Moderators Form a United Front in Germany </a></p>
-<p> <a href="https://www.ft.com/content/63a0ba72-e052-4279-922a-402105eacd4d">The Financial Times: Social media content moderators lead charge for better rights </></p>
+<p> <a href="https://www.ft.com/content/63a0ba72-e052-4279-922a-402105eacd4d">The Financial Times: Social media content moderators lead charge for better rights </a></p>
   
