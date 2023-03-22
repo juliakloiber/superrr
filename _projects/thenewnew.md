@@ -1,7 +1,7 @@
 ---
 title: "The New New"
 header_type: lab
-order: 3
+order: 6
 layout: project
 teaser_img: "/assets/img/static/projects/thenewnew.png"
 hero_img: "/assets/img/static/projects/thenewnewhero.jpg"
