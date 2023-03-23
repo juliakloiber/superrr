@@ -15,7 +15,7 @@ and will be used across all viewports.
 FONTSIZES
 *********************/
 
-$fontsize-120: 3rem !important;
+$fontsize-120: 2.75rem !important;
 $fontsize-70: 2.5rem !important;
 $fontsize-50: 2.25rem !important;
 $fontsize-40: 1.5rem !important;
@@ -1370,7 +1370,7 @@ PAGE & SECTIONS
 
   &.full{
     width: 100%;
-    padding: 0 1rem;
+    padding: 0 1.5rem;
     max-width: none;
   }
   &.news{
