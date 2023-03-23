@@ -2,9 +2,9 @@
 FONTSIZES
 *********************/
 
-$fontsize-120: 4.5rem !important;
+$fontsize-120: 4.25rem !important;
 $fontsize-70: 3rem !important;
-$fontsize-50: 2.75rem !important;
+$fontsize-50: 2.25rem !important;
 $fontsize-40: 1.75rem !important;
 $fontsize-28: 1.6rem !important;
 $fontsize-24: 1.6rem !important;
@@ -81,7 +81,7 @@ LAYOUT & GRID STYLES
   }
   &.mobile-padded{
     /* for menu mobile top padding*/
-    padding: 100px 0 0 0 !important;
+    padding: 80px 0 0 0 !important;
   }
 }
 
@@ -188,10 +188,6 @@ TALKS
 
 }
 
-.post-info-text {
-  padding-left: 3rem;
-}
-
 /*********************
 CITY
 *********************/
@@ -293,7 +289,8 @@ CONTRIBUTORS
 .content-wrap-inner {
   width: 90%;
   &.full{
-    width: 88%;
+    padding: 0;
+    width: 90%;
   }
 }
 
@@ -359,7 +356,7 @@ CONTRIBUTORS
       .teaser-card-text{
         padding: 25px;
         p{
-          margin-bottom: 1rem;
+          margin-bottom: 2.5rem;
         }
       }
     }

@@ -118,8 +118,9 @@ PAGE & SECTIONS
     }
   }
 
-  &.full {
-    width: 80%;
+  &.full, &.news {
+    width: 100%;
+    padding: 0 4rem;
   }
 
 }
@@ -231,6 +232,12 @@ CITY
   }
   .event-tags{
     font-size: 2rem;
+  }
+}
+
+.organizations-wrap{
+  a{
+    margin: 20px 40px;
   }
 }
 
@@ -411,4 +418,13 @@ TALKS
     margin-bottom: 120px;
   }
 
+}
+
+.more-btn {
+  .more-btn-inner {
+    &:after {
+      width: 46px;
+      height: 68px;
+    }
+  }
 }

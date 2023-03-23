@@ -15,8 +15,8 @@ and will be used across all viewports.
 FONTSIZES
 *********************/
 
-$fontsize-120: 4rem !important;
-$fontsize-70: 2.75rem !important;
+$fontsize-120: 3rem !important;
+$fontsize-70: 2.5rem !important;
 $fontsize-50: 2.25rem !important;
 $fontsize-40: 1.5rem !important;
 $fontsize-28: 1.4rem !important;
@@ -292,6 +292,7 @@ LAYOUT & GRID STYLES
 }
 
 .section-headline{
+  line-height: 1;
   font-size: $fontsize-70;
   a {
     font-size: $fontsize-70;
@@ -299,9 +300,9 @@ LAYOUT & GRID STYLES
   text-transform: uppercase;
   width: 100%;
   text-align: center;
-  padding: 0px 25px 40px 25px;;
+  padding: 25px 25px 12.5px 25px;
   margin-bottom: 0;
-  max-width: 800px;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
 
@@ -345,7 +346,7 @@ LAYOUT & GRID STYLES
 
   &.mobile-padded{
      /* for menu mobile top padding*/
-     padding: 75px 0 !important;
+     padding: 75px 0 35px 0 !important;
    }
 
   &.padded {
@@ -878,7 +879,7 @@ HEADER STYLES
 }
 
 .home-claim{
-  line-height: 0.9;
+  line-height: 1;
   color: $secondary-color;
 }
 .home-icon-wrap{
@@ -1368,7 +1369,8 @@ PAGE & SECTIONS
   max-width: 1280px;
 
   &.full{
-    width: 80%;
+    width: 100%;
+    padding: 0 1rem;
     max-width: none;
   }
   &.news{
@@ -1381,6 +1383,7 @@ PAGE & SECTIONS
 
 .posts-holder {
   &.home {
+    margin-top: 25px;
     padding-bottom: 0;
   }
 }
@@ -1851,10 +1854,6 @@ TALKS
   }
 }
 
-.post-info-text {
-  padding-left: 1.75rem;
-}
-
 /*********************
 CONTRIBUTORS
 *********************/
@@ -1983,6 +1982,7 @@ FOOTER STYLES
   color: $fellow-color;
   display: block;
   margin: 0.5em 0;
+  line-height: 1;
 }
 .footer-wrap {
   margin: 0 !important;
@@ -2246,7 +2246,7 @@ FOOTER STYLES
     display: block;
 
     img{
-      height: 40px;
+      height: 35px;
       width: auto;
       display: inline-block;
     }

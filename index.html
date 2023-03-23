@@ -13,27 +13,26 @@ type: lab
         <div class="section mobile-padded fullwidth home-hero d-flex">
             <div class="content-wrap-inner full d-flex">
                 <div class="row w-100">
-                    <div class="col-24 col-sm-12 d-flex align-items-center align-items-sm-start align-items-md-center justify-content-center">
-                        <div class="home-claim fontsize-120 uppercase pr-sm-4 d-flex flex-column">
-                            <span class="outlined-text">Building</span>
-                            <span>Diverse&nbsp;&<br>Equal<br></span>
-                        <span class="outlined-text">futures<br>
-                        in tech<br>and<br>beyond</span>
+                    <div class="col-24 col-sm-12 d-block d-md-flex align-items-center align-items-sm-start align-items-xmd-center justify-content-center no-padding">
+                        <div class="home-claim fontsize-120 uppercase pr-sm-4 pr-xmd-5">
+                            <span class="outlined-text">Laboratory<br></span>
+                            <span class="outlined-text">for&nbsp;</span><span>feminist<br>digital<br></span>
+                        <span class="outlined-text">futures</span>
                         </div>
                     </div>
                     <div class="col-24 col-sm-12 d-flex align-items-center justify-content-center">
                         <div class="d-flex flex-wrap home-info">
-                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-sm-0 mb-sm-5">
+                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-sm-0 mb-sm-3 mb-md-4 mb-slg-5 mb-lg-5">
                                 <a href="/about" class="d-block">
                                     <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-lab.svg" type="image/svg+xml" ></object>
                                 </a>
                             </div>
-                            <div class="fontsize-40 mb-5">
+                            <div class="fontsize-40 mb-5 mb-md-4 mb-lg-5">
                                 <p class="m-0 home-text">
                                     We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. Superrr is playful, visionary and feminist.
                                 </p>
                             </div>
-                            <div class="more-btn-wrap mb-5 mb-sm-0">
+                            <div class="more-btn-wrap my-2 mb-sm-0">
                                 <a href="/about" class="event-link more-btn  fade-in animated fadeInUp full-visible">
                                     <span class="more-btn-inner"><span>Rrread more!</span></span>
                                 </a>
@@ -44,7 +43,7 @@ type: lab
             </div>
         </div>
         <div class="section fullwidth bg-grey-light">
-            <h3 class="section-headline">Superrr Projects</h3>
+            <h3 class="section-headline">Projects</h3>
             <div class="card-holder" data-category="projects">
                 {% assign projects = site.projects | sort: 'order' %}
                 {% for post in projects %}
@@ -53,7 +52,7 @@ type: lab
             </div>
         </div>
         <div class="section fullwidth">
-            <h3 class="section-headline">Superrr Publications</h3>
+            <h3 class="section-headline">Publications</h3>
             <div class="card-holder" data-category="publications">
                 {% assign publications = site.publications | sort: 'order' %}
                 {% for post in publications %}
@@ -68,7 +67,7 @@ type: lab
                 </div>
             </div>
             <div class="content-wrap-inner shrinked">
-                <h3 class=" fontsize-70 uppercase">Superrr Community</h3>
+                <h3 class=" fontsize-70 uppercase">Superrr<br>Community</h3>
                 <p class="fontsize-40">
                     Superrr Community is a network of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more. We meet on a regular basis in Berlin and London.
                 </p>
@@ -79,9 +78,9 @@ type: lab
                 </div>
             </div>
         </div>
-        <div class="section fullwidth bg-white padded">
+        <div class="section fullwidth bg-white padded-organisations">
             <div class="content-wrap-inner news home">
-                <h3 class="section-headline">News and Ressources</h3>
+                <h3 class="section-headline pt-0">News &<br>Ressources</h3>
                 <div class="posts-holder home">
                     {% assign index = 0 %}
                     {% for post in site.posts %}
@@ -106,10 +105,10 @@ type: lab
 
         <div class="section fullwidth bg-grey-light padded-organisations">
             <div class="content-wrap-inner">
-                <h3 class="section-headline">Organizations the Lab has worked with</h3>
+                <h3 class="section-headline pt-0">Organizations the Lab has worked with</h3>
             </div>
                 <div class="content-wrap-inner">
-                    <div class="organizations-wrap d-flex flex-wrap justify-content-center">
+                    <div class="organizations-wrap d-flex flex-wrap justify-content-center mt-4">
                         <a href="https://superrr.net/2022/05/16/blick-in-die-zukunft.html" target="_blank">    
                          <img src="{{ site.baseurl }}/assets/img/static/organizations/Stiftung_Mercator_Schwarz_RGB.png" />
                         </a>

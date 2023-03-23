@@ -2,13 +2,13 @@
 FONTSIZES
 *********************/
 
-$fontsize-120: 6.5vw !important;
+$fontsize-120: 6vw !important;
 $fontsize-50: 2.75rem !important;
-$fontsize-40: 2rem !important;
+$fontsize-40: 1.75rem !important;
 $fontsize-28: 1.75rem !important;
 $fontsize-24: 1.5rem !important;
 $fontsize-22: 1.375rem !important;
-$fontsize-70: 3rem !important;
+$fontsize-70: 3.5rem !important;
 
 .fontsize-120 {
   p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
@@ -57,7 +57,8 @@ $fontsize-70: 3rem !important;
 }
 
 .section-headline {
-  padding: 75px;
+  max-width: 700px;
+  padding: 75px 25px 25px 25px;
   font-size: $fontsize-70;
   a {
     font-size: $fontsize-70;
@@ -100,6 +101,10 @@ PAGE & SECTIONS
   font-size: $fontsize-28;
 }
 
+.organizations-wrap a img {
+  height: 40px;
+}
+
 /*********************
 CITY
 *********************/
@@ -115,12 +120,14 @@ CITY
   /*grid-auto-rows: 1fr;*/
 
   &.home {
+    margin-top: 50px;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 50px;
   }
 
   .post-teaser{
-    padding: 0 50px;
-    margin-bottom: 50px;
+    padding: 0;
+    margin-bottom: 0;
   }
 }
 

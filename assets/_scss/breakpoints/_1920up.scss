@@ -1,4 +1,60 @@
-$fontsize-70: 4.5rem !important;
+/*********************
+FONTSIZES
+*********************/
+
+$fontsize-120: 7.5rem !important;
+$fontsize-50: 2.75rem !important;
+$fontsize-40: 1.9rem !important;
+$fontsize-28: 1.75rem !important;
+$fontsize-24: 1.5rem !important;
+$fontsize-22: 1.375rem !important;
+$fontsize-70: 3.75rem !important;
+
+.fontsize-120 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-120;
+  }
+  font-size: $fontsize-120;
+}
+
+.fontsize-70 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-70;
+  }
+  font-size: $fontsize-70;
+}
+
+
+.fontsize-50 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-50;
+  }
+  font-size: $fontsize-50;
+}
+.fontsize-40 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-40;
+  }
+  font-size: $fontsize-40;
+}
+.fontsize-28 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-28;
+  }
+  font-size: $fontsize-28;
+}
+.fontsize-24 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-24;
+  }
+  font-size: $fontsize-24;
+}
+.fontsize-22 {
+  p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font-size: $fontsize-22;
+  }
+  font-size: $fontsize-22;
+}
 
 .section-headline {
   font-size: $fontsize-70;
