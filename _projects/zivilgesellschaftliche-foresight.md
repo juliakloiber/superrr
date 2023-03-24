@@ -10,7 +10,7 @@ layout: project
 
 teaser_img: "/assets/img/static/projects/zivilgesellschaftliche-foresight.png"
 
-hero_img: "assets/img/static/projects/zivligesellschaftliche-foresight.png"
+hero_img: "/assets/img/static/projects/zivligesellschaftliche-foresight.png"
 
 external_link: ""
 
