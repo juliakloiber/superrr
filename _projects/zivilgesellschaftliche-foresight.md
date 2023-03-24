@@ -30,7 +30,7 @@ Unser Ziel ist es, alternative Ansätze, Narrative und Visionen von Digitalisier
 
 Für uns ist Foresight ein durch Methoden geleiteter Prozess, um neue Szenarien für gesellschaftliche Zukunft zu entwickeln. Dabei legen wir den Fokus auf Zukunftsgestaltung statt Vorhersage. Unsere Foresight-Methoden sind zwar themenagnostisch, inhaltlich konzentrieren wir uns aber auf das Erarbeiten von fairen Zukunftsszenarien im digitalen Bereich.
 
-Dabei beziehen wir auch intersektionale und dekoloniale Perspektiven mit ein, wie zum Beispiel die bei den <a href="https://superrr.net/feministtech/principles/">"Feminist Tech Principles"</a>.
+Dabei beziehen wir auch intersektionale und dekoloniale Perspektiven mit ein, wie beispielsweise bei den <a href="https://superrr.net/feministtech/principles/">"Feminist Tech Principles"</a>.
 
 </p>
 
