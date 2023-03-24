@@ -26,7 +26,7 @@ description: "SUPERRR Lab ist die erste zivilgesellschaftliche Foresight-Organis
 
 SUPERRR Lab ist die erste zivilgesellschaftliche Foresight-Organisation, die zusammen mit Politik, Zivilgesellschaft und anderen Akteur*innen daran arbeitet, wünschenswerte digitale Zukünfte zu entwickeln und diese umzusetzen. 
 Unser Ziel ist es, alternative Ansätze, Narrative und Visionen von Digitalisierungsprozessen aufzuzeigen und gemeinsam Pläne für eine digitale Zukunft zum Wohle aller zu entwickeln.
-<br>
+<br><br>
 Für uns ist Foresight ein durch Methoden geleiteter Prozess, um neue Szenarien für gesellschaftliche Zukunft zu entwickeln. Dabei legen wir den Fokus auf Zukunftsgestaltung statt Vorhersage. Unsere Foresight-Methoden sind zwar themenagnostisch, inhaltlich konzentrieren wir uns aber auf das Erarbeiten von fairen Zukunftsszenarien im digitalen Bereich.
 
 Dabei beziehen wir auch intersektionale und dekoloniale Perspektiven mit ein, wie beispielsweise bei den <a href="https://superrr.net/feministtech/principles/">"Feminist Tech Principles"</a>.
