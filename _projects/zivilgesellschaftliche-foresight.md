@@ -10,7 +10,7 @@ layout: project
 
 teaser_img: "/assets/img/static/projects/zivilgesellschaftliche-foresight.png"
 
-hero_img: "/assets/img/static/projects/zivligesellschaftliche-foresight.png"
+hero_img: "/assets/img/static/projects/zivilgesellschaftliche-foresight.png"
 
 external_link: ""
 
@@ -34,7 +34,7 @@ Dabei beziehen wir auch intersektionale und dekoloniale Perspektiven mit ein, wi
 
 </p>
 
-<p>Wir glauben, dass es neue Formen der Auseinandersetzung über unsere digitalen Zukünfte braucht, die wir mit unserer Arbeit gesellschaftlich fördern. Unser Ziel ist es, den Handlungsspielraum von Politik und Zivilgesellschaft in Bezug auf neue Technologien zu erhöhen und gemeinsam von einer reaktiven zu einer aktiven Gestaltung unserer gemeinsamen Zukünfte zu gelangen.</p>
+<p>Wir glauben, dass es neue Formen der Auseinandersetzung über unsere digitalen Zukünfte braucht, die wir mit unserer Arbeit gesellschaftlich fördern. Unser Ziel ist es, den Handlungsspielraum von Politik und Zivilgesellschaft in Bezug auf neue Technologien zu erhöhen und zusammen von einer reaktiven zu einer aktiven Gestaltung unserer gemeinsamen Zukünfte zu gelangen.</p>
 
 <p> <a href="mailto:quincey@superrr.net">Quincey Stumptner</a> koordiniert das Projekt bei SUPERRR Lab als Foresight Policy Lead seit Mai 2022.</p>
 
