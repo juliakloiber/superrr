@@ -3,8 +3,8 @@ title: "Muslim Futures"
 header_type: lab
 order: 3
 layout: project
-teaser_img: "/assets/img/static/projects/muslim-futures-teaser.png"
-hero_img: "/assets/img/static/projects/muslim-futures-hero.png"
+teaser_img: "/assets/img/static/projects/MUFU_Design.jpg"
+hero_img: "/assets/img/static/projects/MUFU_Design.jpg"
 external_link: ""
 link: '/project/muslimfutures'
 description: "Wer denkt über Zukünfte nach, und wer nicht?"
