@@ -8,7 +8,7 @@ description: SUPERRR Lab was invited to join the "99 Questions Gathering Impulse
 
 <img src="/assets/img/blog/99questions.png" alt= Molemo Moiloa of Open Restituion Africa holding a presentation width="500" height="600">
 
-<h1>SUPERRR Lab at the "99 Questions Gathering" Impulse Sessions</h1>
+<h3>SUPERRR Lab at the "99 Questions Gathering" Impulse Sessions</h3>
 
 <p>
 SUPERRR lab was invited to join the <a href="https://www.humboldtforum.org/en/programm/event/meetup-en/99-fragen-gathering-55557"><b>"99 Questions Gathering Impulse Sessions"</b></a>, which took place on Thursday, October 27th, where we had the privilege to learn from and listen to 5 brilliant minds engaging with questions pertaining to the future. For two days, the programme highlighted a combination of artistic impulses and talks concentrating on matters ranging from ecologies of knowledge to technology and digitalisation regarding restitution processes. 
@@ -20,7 +20,7 @@ The impulse sessions, hosted by curator <a href="https://twitter.com/klartraum/"
 
 <br>
 
-<h2>"The essence of Western technology (…) is capitalism."</h2>
+<h3>"The essence of Western technology (…) is capitalism."</h3>
 <p><a href="https://www.newmediacaucus.org/membership-spotlight-sara-garzon/">– Sara Garzón</a>
 </p>
 
@@ -31,7 +31,7 @@ According to Garzón, it quickly becomes clear how most Indigenous cosmologies b
 
 <p> In the <b>"Collections, Data, Violence Against Knowledge Systems"</b> session, <a href="https://twitter.com/ChaoTayiana"><b>Chao Tayiana Maino</b></a> and <b>Molemo Moiloa</b> (<a href="https://openrestitution.africa"><b>Open Restitution Africa</b></a>) described how digital restitution barely distinguishes itself from the process of physical restitution, mainly because of colonial continuities solidifying in the digital realm. </p>
 
-<h2>"Digital Decisions are human decisions."</h2>
+<h3>"Digital Decisions are human decisions."</h3>
 <p><a href="https://twitter.com/ChaoTayiana">– Chao Tayiana Maino</a>
 </p>
 
@@ -39,14 +39,14 @@ According to Garzón, it quickly becomes clear how most Indigenous cosmologies b
 That begs questions like: "How is data in digital collections stored? How is it accessed and presented? On whose precedent work do these digital collections rely?" and "What do the back ends of these collections look like?" These questions shed light on the many, many consequential errors that piled up, generation after generation, during the processes of acquiring and cataloguing these objects.</p>
 <p>Like Sara Garzón, Chao Tayiana Maino and Molemo Moiloa stress how western technology was primarily used as a tool for domination and, ultimately, colonization. Think about how most objects were obtained: mainly through brute force enabled by the most advanced technology at the time.</p>
 
-<h2>"Only 1 in 24 authors on restitution of African heritage is actually African."</h2>
+<h3>"Only 1 in 24 authors on restitution of African heritage is actually African."</h3>
 <p><a href="https://twitter.com/OpenRestitution">– Open Restitution Africa</a>
 </p>
 
 <p>
 Today, there is a considerable shift in how restitution is discussed (online). Still, both the public and academic narratives rarely include African authors when in reality, most people writing about restitution and carrying the conversation forward are Africans. But who is referenced the most? Who takes up most space in these discourses? Non-Africans. Here, we see how even in digital spaces, the power dynamics of racism barely differ from those "offline". There are many reasons for the lack of inclusion of Africans on- and offline. Regardless, it is vital to understand that simply moving the conversation into a digital realm does not disperse existing power dynamics since most of the architects behind our digital spaces are white men. Learn more about this topic in Open Restitution Africa's report <b><a href="https://openrestitution.africa/reclaiming-restitution-report/">“Reclaiming Restitution“</a></b> and their podcast <b><a href="https://openrestitution.africa/resources/podcast/">“Access For Who“</a></b>.</p>
 
-<h2>"We need an intentional focus."</h2>
+<h3>"We need an intentional focus."</h3>
 <p><a href="https://twitter.com/njokingumi">– Dr Njoki Ngumi</a>
 </p>
 
