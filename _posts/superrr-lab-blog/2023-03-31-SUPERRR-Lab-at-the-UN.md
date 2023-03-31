@@ -12,13 +12,14 @@ description: Our contribution to CSW67 | Gender-responsive technology design, de
 
 ---
 
-<h3>Our contribution to CSW67: Gender-responsive technology design, development and deployment</h3>
 
 <p>This is a shortened version of SUPERRR Lab’s contribution to the expert panel at the Commission of the Status of Women (CSW) 67. The CSW is a commission of the Economic and Social Council of the UN and has been taking place annually since 1946. This year’s priority theme was “Innovation and technological change, and education in the digital age for achieving gender equality and the empowerment of all women and girls”, making this the first ever CSW to be dedicated to digital topics. Apart from nation states representatives, civil society organisations from around the globe flock to the UN headquarters in New York to weigh in on the discussion.</p>
 
 <p>The CSW does usually not create binding policy but publishes agreed conclusions that outline intended steps and recommendations for the member states to put into action. In light of a global conservative backlash, the main focus understandably lay on defending agreed language and trying to push for adoption of intersectional approaches. The technical debate therefore was not very detailed overall.</p>
 
 <p>SUPERRR Lab had the honour to take part in the only interactive expert panel that was part of the official programme, speaking to the question of how we can foster gender-responsive technology design, development and deployment. We tried to address topics that we believe were not receiving enough attention during the debates at CSW67. This is our slightly edited written statement; a recording of the oral statement can be found <a href="https://media.un.org/en/asset/k1l/k1l3ikdmj6/">here</a>.</p>
+
+<h3>Our contribution to CSW67: Gender-responsive technology design, development and deployment</h3>
 
 <p>When talking about technology and the equality of all genders, it is a common trend to focus on the issues that arise where human users and digital applications meet: on the big platforms or when using digital applications and services, where disinformation and hate speech take place and where discrimination through tech becomes visible. However, fundamental decisions about the fairness, accessibility, and feasibility of these applications are already decided on other levels of the technical stack, in the development process of technology, and when regulating it. If we want gender-responsive technology, we need to address the inner workings of digital technology and what needs to change in creating, deploying, and assessing it.</p>
 
