@@ -82,43 +82,42 @@ Support structures for experts on gender equality as well as for young women com
 
 <p><b>References:</b></p>
 
-[1] 	United Nations, General Assembly, Promotion and protection of the right to freedom of 	opinion and expression: Note by the Secretary-General, A/76/258 (30 July 2021), available from <a href="https://undocs.org/en/A/76/258">https://undocs.org/en/A/76/258</a>.
+<p>[1] 	United Nations, General Assembly, Promotion and protection of the right to freedom of 	opinion and expression: Note by the Secretary-General, A/76/258 (30 July 2021), available from <a href="https://undocs.org/en/A/76/258">https://undocs.org/en/A/76/258</a>.</p>
 
-[2] 	United Nations, Human Rights Council, Disinformation and freedom of opinion and 	expression: Report of the Special Rapporteur, A/HRC/47/25 (13 April 2021), available from <a href="https://undocs.org/en/A/HRC/47/25">https://undocs.org/en/A/HRC/47/25</a>.	
+<p>[2] 	United Nations, Human Rights Council, Disinformation and freedom of opinion and 	expression: Report of the Special Rapporteur, A/HRC/47/25 (13 April 2021), available from <a href="https://undocs.org/en/A/HRC/47/25">https://undocs.org/en/A/HRC/47/25</a>.</p>
 
-[3]	SUPERRR Lab, Concept for a Feminist Digital Policy (2022). Available from 	
- 	<a href="https://feministtechpolicy.org/en/">https://feministtechpolicy.org/en</a>.
+<p>[3]	SUPERRR Lab, Concept for a Feminist Digital Policy (2022). Available from 	
+ 	<a href="https://feministtechpolicy.org/en/">https://feministtechpolicy.org/en</a>.</p>
 
-[4] 	e.g. <a href="https://www.chayn.co/">Chayn</a> or 
- 	<a href="https://www.endcyberabuse.org/">End Cyber Abuse</a> 
+<p>[4] e.g. <a href="https://www.chayn.co/">Chayn</a> or <a href="https://www.endcyberabuse.org/">End Cyber Abuse</a></p>
 
-[5] 	Privacy International’s submission to the UN High Commissioner for Human Rights’ 	report on the practical application of the United Nations Guiding Principles on Business 	and Human Rights to the activities of technology companies (23 February 2022), 	available from <a href="https://www.ohchr.org/sites/default/files/2022-03/PrivacyInternational.pdf">https://www.ohchr.org/sites/default/files/2022-03/PrivacyInternational.pdf</a>. 
+<p>[5] Privacy International’s submission to the UN High Commissioner for Human Rights’ 	report on the practical application of the United Nations Guiding Principles on Business 	and Human Rights to the activities of technology companies (23 February 2022), 	available from <a href="https://www.ohchr.org/sites/default/files/2022-03/PrivacyInternational.pdf">https://www.ohchr.org/sites/default/files/2022-03/PrivacyInternational.pdf</a>.</p>
 
-[6] 	United Nations, Human Rights Council, The right to privacy in the digital age: Report of 	the Office of the United Nations High Commissioner for Human Rights, A/HRC/51/17 (4 August 2022), available from <a href="https://undocs.org/en/A/HRC/51/17">https://undocs.org/en/A/HRC/51/17</a>.	
+<p>[6] United Nations, Human Rights Council, The right to privacy in the digital age: Report of 	the Office of the United Nations High Commissioner for Human Rights, A/HRC/51/17 (4 August 2022), available from <a href="https://undocs.org/en/A/HRC/51/17">https://undocs.org/en/A/HRC/51/17</a>.</p>
 
-[7] 	e.g. Protect the Stack, available from <a href="https://protectthestack.org/">https://protectthestack.org</a>.
+<p>[7] e.g. Protect the Stack, available from <a href="https://protectthestack.org/">https://protectthestack.org</a>.</p>
 
-[8] Alina Sorgner, The impact of new digital technologies on gender equality in developing countries. Inclusive and Sustainable Industrial Development Working Paper Series WP 20/2019, available from <a href="https://www.unido.org/api/opentext/documents/download/16760725/unido-file-16760725./">here.</a>
+<p>[8] Alina Sorgner, The impact of new digital technologies on gender equality in developing countries. Inclusive and Sustainable Industrial Development Working Paper Series WP 20/2019, available from <a href="https://www.unido.org/api/opentext/documents/download/16760725/unido-file-16760725./">here.</a></p>
 
-[9] 	As of 2020, men globally were 21% more likely to be online: OECD, Bridging the Digital Gender Divide (2018). Available from <a href="https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf/">https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf</a>.
+<p>[9] As of 2020, men globally were 21% more likely to be online: OECD, Bridging the Digital Gender Divide (2018). Available from <a href="https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf/">https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf</a>.</p>
 
-[10]	Carlos Iglesias, Web Foundation, The gender gap in internet access: using a women-centred method (10 March 2020). Available from <a href="https://webfoundation.org/2020/03/the-gender-gap-in-internet-access-using-a-women-centred-method/">https://webfoundation.org/2020/03/the-gender-gap-in-internet-access-using-a-women-centred-method</a>.
+<p>[10]	Carlos Iglesias, Web Foundation, The gender gap in internet access: using a women-centred method (10 March 2020). Available from <a href="https://webfoundation.org/2020/03/the-gender-gap-in-internet-access-using-a-women-centred-method/">https://webfoundation.org/2020/03/the-gender-gap-in-internet-access-using-a-women-centred-method</a>.</p>
 
-[11] 	Web Foundation, REACT with Gender-Responsive ICT Policy (2017). Available from <a href="https://webfoundation.org/docs/2017/09/REACT-with-Gender-Responsive-ICT-Policy.pdf/">https://webfoundation.org/docs/2017/09/REACT-with-Gender-Responsive-ICT-Policy.pdf</a>.
+<p>[11] 	Web Foundation, REACT with Gender-Responsive ICT Policy (2017). Available from <a href="https://webfoundation.org/docs/2017/09/REACT-with-Gender-Responsive-ICT-Policy.pdf/">https://webfoundation.org/docs/2017/09/REACT-with-Gender-Responsive-ICT-Policy.pdf</a>.</p>
 
-[12]	e.g. on the context of online abuse: Anri van der Spuy and Namita, Mapping gaps in research in gender and information society (10 September 2017). Available from <a href="https://www.genderit.org/editorial/editorial-mapping-gaps-research-gender-and-information-society/">https://www.genderit.org/editorial/editorial-mapping-gaps-research-gender-and-information-society</a>.
+<p>[12]	e.g. on the context of online abuse: Anri van der Spuy and Namita, Mapping gaps in research in gender and information society (10 September 2017). Available from <a href="https://www.genderit.org/editorial/editorial-mapping-gaps-research-gender-and-information-society/">https://www.genderit.org/editorial/editorial-mapping-gaps-research-gender-and-information-society</a>.</p>
 
-[13]	UN Women WRD Knowledge Hub, Six-step guide to gender and age inequality informed data: Missing Voices (August 2021). Available from <a href="https://wrd.unwomen.org/practice/listing-toolbox/six-step-guide-gender-and-age-inequality-informed-data-missing-voices/">https://wrd.unwomen.org/practice/listing-toolbox/six-step-guide-gender-and-age-inequality-informed-data-missing-voices</a>.
+<p>[13]	UN Women WRD Knowledge Hub, Six-step guide to gender and age inequality informed data: Missing Voices (August 2021). Available from <a href="https://wrd.unwomen.org/practice/listing-toolbox/six-step-guide-gender-and-age-inequality-informed-data-missing-voices/">https://wrd.unwomen.org/practice/listing-toolbox/six-step-guide-gender-and-age-inequality-informed-data-missing-voices</a>.</p>
 
-[14] 	Ronnie Downes, Lisa von Trapp and Scherie Nicol, Gender budgeting in OECD countries. OECD Journal on Budgeting Volume 2016/3, available from <a href="https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf/">https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf</a>.
+<p>[14] 	Ronnie Downes, Lisa von Trapp and Scherie Nicol, Gender budgeting in OECD countries. OECD Journal on Budgeting Volume 2016/3, available from <a href="https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf/">https://www.oecd.org/gender/Gender-Budgeting-in-OECD-countries.pdf</a>.</p>
 
-[15]	OECD, Toolkit for Mainstreaming and Implementing Gender Equality, Gender-disaggregated data and information is available and used to inform gender analysis. Available from <a href="https://www.oecd.org/gender/governance/toolkit/government/assessment-of-gender-impact/disaggregated-data/">https://www.oecd.org/gender/governance/toolkit/government/assessment-of-gender-impact/disaggregated-data</a>.
+<p>[15]	OECD, Toolkit for Mainstreaming and Implementing Gender Equality, Gender-disaggregated data and information is available and used to inform gender analysis. Available from <a href="https://www.oecd.org/gender/governance/toolkit/government/assessment-of-gender-impact/disaggregated-data/">https://www.oecd.org/gender/governance/toolkit/government/assessment-of-gender-impact/disaggregated-data</a>.</p>
 
-[16]  IETF Administration LLC, IETF Community Survey (13 August 2021). Available 	from <a href="https://www.ietf.org/media/documents/IETF_Community_Survey_2021.pdf">https://www.ietf.org/media/documents/IETF_Community_Survey_2021.pd</a>.
+<p>[16]  IETF Administration LLC, IETF Community Survey (13 August 2021). Available 	from <a href="https://www.ietf.org/media/documents/IETF_Community_Survey_2021.pdf">https://www.ietf.org/media/documents/IETF_Community_Survey_2021.pd</a>.</p>
 
-[17] 	ICANN, ICANN64 By the Numbers. Available from <a href="https://www.icann.org/en/announcements/details/icann-publishes-icann64-by-the-numbers-report-9-4-2019-en/">[here](https://www.icann.org/en/announcements/details/icann-publishes-icann64-by-the-numbers-report-9-4-2019-en)</a>.
+<p>[17] 	ICANN, ICANN64 By the Numbers. Available from <a href="https://www.icann.org/en/announcements/details/icann-publishes-icann64-by-the-numbers-report-9-4-2019-en/">[here](https://www.icann.org/en/announcements/details/icann-publishes-icann64-by-the-numbers-report-9-4-2019-en)</a>.</p>
 
-[18]	IGF 2022 Participation and Programme Statistics. Available from <a href="https://www.intgovforum.org/en/content/igf-2022-participation-and-programme-statistics/">https://www.intgovforum.org/en/content/igf-2022-participation-and-programme-statistics</a>.
+<p>[18]	IGF 2022 Participation and Programme Statistics. Available from <a href="https://www.intgovforum.org/en/content/igf-2022-participation-and-programme-statistics/">https://www.intgovforum.org/en/content/igf-2022-participation-and-programme-statistics</a>.</p>
 
-[19] 	Sachini Perera, White paper on feminist internet research. (2022) Available from <a href="https://www.apc.org/sites/default/files/firn-whitepaper-2022_0.pdf/">https://www.apc.org/sites/default/files/firn-whitepaper-2022_0.pdf</a>.
+<p>[19] 	Sachini Perera, White paper on feminist internet research. (2022) Available from <a href="https://www.apc.org/sites/default/files/firn-whitepaper-2022_0.pdf/">https://www.apc.org/sites/default/files/firn-whitepaper-2022_0.pdf</a>.</p>
 
