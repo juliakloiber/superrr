@@ -98,7 +98,7 @@ These steps are a prerequisite if we want to enable women and girls to not just 
 
 [7] 	e.g. Protect the Stack, available from <a href="https://protectthestack.org/">https://protectthestack.org</a>.
 
-[8] Alina Sorgner, The impact of new digital technologies on gender equality in developing countries. Inclusive and Sustainable Industrial Development Working Paper Series WP 20 | 2019, available from <a href="https://www.unido.org/api/opentext/documents/download/16760725/unido-file-16760725./">here.</a>
+[8] Alina Sorgner, The impact of new digital technologies on gender equality in developing countries. Inclusive and Sustainable Industrial Development Working Paper Series WP 20/2019, available from <a href="https://www.unido.org/api/opentext/documents/download/16760725/unido-file-16760725./">here.</a>
 
 [9] 	As of 2020, men globally were 21% more likely to be online: OECD, Bridging the Digital Gender Divide (2018). Available from <a href="https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf/">https://www.oecd.org/digital/bridging-the-digital-gender-divide.pdf</a>.
 
