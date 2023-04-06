@@ -8,7 +8,7 @@ author: Corinna Vetter
 
 title: Mozfest 2023 | "Towards Feminist Digital Futures – an Interactive Foresight Workshop"
 
-description: In the Mozfest 2023 Workshop "Towards feminist digital futures," participants applied feminist tech approaches and the principles of solidarity to envision online spaces free from gender-based violence.
+description: In the Mozfest 2023 Workshop "Towards Feminist Digital Futures," participants applied feminist tech approaches and the principles of solidarity to envision online spaces free from gender-based violence.
 
 ---
 <img src="/assets/img/blog/Mozfest23 dw und superrr logo new.png" alt=" A variety of red and green bridges on a purple background." width="540" height="540">
