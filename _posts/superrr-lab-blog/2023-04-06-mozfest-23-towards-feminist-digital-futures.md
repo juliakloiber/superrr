@@ -14,7 +14,7 @@ description: In the Mozfest 2023 Workshop "Towards Feminist Digital Futures," pa
 <img src="/assets/img/blog/Mozfest23 dw und superrr logo new.png" alt=" A variety of red and green bridges on a purple background." width="540" height="540">
 
 
-<p>What kind of futures do we envision for ourselves, our societies, our workplaces? What role will tech play? How can these futures be shaped by feminist values such as  justice, care and sustainability? And: How do we get there? These were the questions we asked ourselves and our participants during the MozFest 2023 Workshop „Towards feminist digital futures – an interactive foresight workshop“ co-lead by Anastasia Karagianni, co-founder of DATAWO and Corinna Vetter, feminist tech expert at SUPERRR Lab.</p>
+<p>What kind of futures do we envision for ourselves, our societies, our workplaces? What role will tech play? How can these futures be shaped by feminist values such as  justice, care and sustainability? And: How do we get there? These were the questions we asked ourselves and our participants during the MozFest 2023 Workshop „Towards Feminist Digital Futures – an interactive foresight workshop“ co-led by Anastasia Karagianni, co-founder of DATAWO and Corinna Vetter, feminist tech expert at SUPERRR Lab.</p>
 
 <h3>Feminist Tech Policy</h3>
 
