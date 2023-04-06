@@ -6,7 +6,7 @@ type: lab
 
 author: Feven Keleta
 
-title: Beyond the Surface | “Deconstructing Afrofuturism(s)”
+title: Beyond the Surface | "Deconstructing Afrofuturism(s)"
 
 description: A Short Primer on the Subversive Power of Afrofuturism(s) in Challenging Dominant Narratives in Futuring
 
