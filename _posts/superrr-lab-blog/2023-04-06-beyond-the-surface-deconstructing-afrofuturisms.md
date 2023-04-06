@@ -21,7 +21,7 @@ By transcending the confines of spatial and temporal linearity, the protagonist 
 
 <p>To all appearances, much of Dery’s definition presumes that Afrofuturism is only limited to the field of literary speculative fiction, but as (a) complex and diverse genre(s), it includes a large variety of people who are specialized in different forms of cultural production and spans across various creative disciplines.</p>
 
-<p>According to self-proclaimed Afrofuturist theorist, scholar and artist Ytasha Womack, “Afrofuturism” is “…both and artistic aesthetic and a framework for critical theory, [it] combines elements of science fiction, historical fiction, Afrocentricity and magic realism with non-Western beliefs… it’s a total re-envisioning of the past and speculation, about the future rife with cultural critiques”. [3]</p>
+<p>According to self-proclaimed Afrofuturist theorist, scholar and artist Ytasha Womack, “Afrofuturism” is “…both and artistic aesthetic and a framework for critical theory, [it] combines elements of science fiction, historical fiction, Afrocentricity and magic realism with non-Western beliefs…it’s a total re-envisioning of the past and speculation, about the future rife with cultural critiques”. [3]</p>
 
 <p>The innovative, visionary and mythological richness of Black and African diaspora(s), 
 as well as of the continent is particularly visible in Afrofuturist art, allowing for a wide variety of nuances within Black futurist and speculative imagination. Black artists, writers, musicians and cultural theorists – from RAMM:ELL:ZEE, Drexciya, Octavia Butler to Greg Tate, for example – 
@@ -39,7 +39,7 @@ Most Black and African (diasporic) liberation movements, for instance, have been
 
 <p>Structural racism and other forms of discrimination, such as discrimination against gender identity, sexual orientation, class, among others, have been a pervasive problem in society and consequently, also in digital spaces. 
 The oppression of Black people and other racialised people is directly translated from the physical to the digital.
-In the age of Social Media, It is often times Black people that set trends in the way we communicate online
+In the age of Social Media, it is often times Black people that set trends in the way we communicate online
 (cf. <a href="https://www.researchgate.net/publication/265828408_Black_Twitter_Racial_Hashtags_Networks_and_Contagion">Black Twitter</a>, Memes, <a href="https://escholarship.org/uc/item/91d9k96z">Digital Blackface</a>).
 However, Black people in digital spaces are often under- and misrepresented. Unsurprisingly, it is often times Black and racialised people who are targets of hate speech and misinformation on Social Media, further perpetuating harmful attitudes and behaviours against them. [7][8]
 
