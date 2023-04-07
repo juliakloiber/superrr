@@ -62,7 +62,7 @@ From: Flame Wars: The Discourse of Cyber Culture</a>.</p>
 
 <p>[3] Ytasha Womack, Afrofuturism: The World of Black Sci-Fi & Culture (2013)</p>
 
-<p>[4] <a href="https://thirdrailquarterly.org/wp-content/uploads/thirdrail_spring2014_final_msyms.pdf">Martine Syms: The Mundane Afrofuturist Manifesto</a></p>
+<p>[4] <a href="http://thirdrailquarterly.org/wp-content/uploads/thirdrail_spring2014_final_msyms.pdf">Martine Syms: The Mundane Afrofuturist Manifesto</a></p>
 
 <p>[5] <a href="https://www.blackpast.org/african-american-history/combahee-river-collective-statement-1977/">Combahee River Collective Statement</a></p>
 
