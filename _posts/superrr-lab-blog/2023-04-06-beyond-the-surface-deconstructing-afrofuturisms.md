@@ -21,7 +21,7 @@ By transcending the confines of spatial and temporal linearity, the protagonist 
 
 <p>To all appearances, much of Dery’s definition presumes that Afrofuturism is only limited to the field of literary speculative fiction, but as (a) complex and diverse genre(s), it includes a large variety of people who are specialized in different forms of cultural production and spans across various creative disciplines.</p>
 
-<p>According to self-proclaimed Afrofuturist theorist, scholar and artist Ytasha Womack, “Afrofuturism” is “…both and artistic aesthetic and a framework for critical theory, [it] combines elements of science fiction, historical fiction, Afrocentricity and magic realism with non-Western beliefs…it’s a total re-envisioning of the past and speculation, about the future rife with cultural critiques”. [3]</p>
+<p>According to self-proclaimed Afrofuturist theorist, scholar and artist Ytasha Womack, “Afrofuturism” is “…both an artistic aesthetic and a framework for critical theory, [it] combines elements of science fiction, historical fiction, Afrocentricity and magic realism with non-Western beliefs…it’s a total re-envisioning of the past and speculation, about the future rife with cultural critiques”. [3]</p>
 
 <p>The innovative, visionary and mythological richness of Black and African diaspora(s), 
 as well as of the continent is particularly visible in Afrofuturist art, allowing for a wide variety of nuances within Black futurist and speculative imagination. Black artists, writers, musicians and cultural theorists – from RAMM:ELL:ZEE, Drexciya, Octavia Butler to Greg Tate, for example – 
