@@ -7,7 +7,7 @@ description: An Interview with Makda Isak
 ---
 
 <img src="/assets/img/blog/Makda Isak_.png" alt="Illustration of Martha Dark" width="1056" height="594">
-<p><em> Makda Isak (M.A. Sociology) is active in various self-organised contexts as a Black Feminist educator and researcher. Thematic focuses include Critical Race Theory, Black Feminist theory, and decoloniality. She has been working as an educational consultant at Each One Teach One since 2020, where she currently co-leads the Competence Network Anti-Black Racism (<a href="https://kompad.de/en/">KomPAD</a>).</em></p>
+<p><em> Makda Isak (M.A. Sociology) is active in various self-organised contexts as a Black Feminist educator and researcher. Thematic focuses include Critical Race Theory, Black Feminist theory, and decoloniality. She has been working as an educational consultant at <a href="https://eoto-archiv.de/">Each One Teach One e.V.</a> since 2020, where she currently co-leads the Competence Network Anti-Black Racism (<a href="https://kompad.de/en/">KomPAD</a>).</em></p>
 
 
 <p><b>SUPERRR:</b> Makda, what do our futures hold?</p>
