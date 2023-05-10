@@ -40,10 +40,10 @@ Over half of the moderators in the room are not from Kenya. They are from all ov
 <p>During this Labour Day morning, many content moderators speak up and share their personal stories. A whole spectrum of emotions are present: anger, courage, sadness and hope. The feeling of solidarity connects everything and runs like a thread through the day. Solidarity among the moderators, no matter what background they have or where they come from. They stand united in their fight for better working conditions. All they ask for are fundamental human rights and labour rights. They demand fair pay, professionalisation of their job, adequate social and psychological support, transparency and a good work environment. The day closes with a vote  — a vote on the formation of a union. When the moment comes, all hands go up. It feels like a historic moment on May 1st in the conference room of the Mövenpick Hotel in Nairobi, Kenya – at the world’s largest gathering of content moderators. With this vote, the moderators are one step closer to a union that protects their rights and the rights of future generations of content moderators.</p>
 
 <p>The union will stand for you. You don't have to stand alone.</p>
++++++++++++++++++++++++++++++++++++++++++++++
 <p><i>In the next couple of weeks the moderators will work with local partners to get the union off the ground. 
-  </p>
   <p>
-  Here's some further reading and newspaper coverage of the event:</i><p>
+  Here's some further reading and newspaper coverage of the event:</i></p>
 <ul>
   <li><a href="https://time.com/6275995/chatgpt-facebook-african-workers-union/">Time Magazine – "150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting"</a></li>
   <li><a href="https://nation.africa/kenya/business/technology/facebook-youtube-and-tiktok-content-moderators-in-kenya-form-labour-union-4219046/">Nation Africa – "Facebook, Youtube and TikTok Content Moderators In Kenya Form Labour Union"</a></li>
