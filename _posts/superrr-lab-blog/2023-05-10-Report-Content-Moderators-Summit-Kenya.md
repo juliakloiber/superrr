@@ -43,7 +43,7 @@ Over half of the moderators in the room are not from Kenya. They are from all ov
 +++++++++++++++++++++++++++++++++++++++++++++
 <p><i>In the next couple of weeks the moderators will work with local partners to get the union off the ground. 
   <p>
-  Here's some further reading and newspaper coverage of the event:</i></p>
+  Here's some further reading and newspaper coverage of the event:</p>
 <ul>
   <li><a href="https://time.com/6275995/chatgpt-facebook-african-workers-union/">Time Magazine – "150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting"</a></li>
   <li><a href="https://nation.africa/kenya/business/technology/facebook-youtube-and-tiktok-content-moderators-in-kenya-form-labour-union-4219046/">Nation Africa – "Facebook, Youtube and TikTok Content Moderators In Kenya Form Labour Union"</a></li>
