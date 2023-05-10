@@ -6,10 +6,6 @@ title: “Without Us, There Are No Social Media Platforms”
 description: A report from the Content Moderators Summit in Nairobi, Kenya
 ---
 
-
-<img src="/assets/img/blog/stickynotescontentmodsummit.png" alt="Image showing sticky notes, depicting possible names for union" width="500" height="600">
-<img src="/assets/img/blog/contentmodsummitnairobi1.png" alt="Image depicting gathering of content moderators in Nairobi, Kenya" width="500" height="600">
-
 <p><i>Content warning: The following  content might include references, for example, to topics such as self-harm, sexual abuse, suicide and violence.</i></p>
 <p>
 In 2019 Daniel Motaung, content moderator at Sama by that time, was in the process of formally filing trade union papers when he got fired.
