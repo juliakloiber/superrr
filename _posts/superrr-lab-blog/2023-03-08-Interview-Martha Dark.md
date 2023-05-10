@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta
 title: Foxglove Co-Founder Martha Dark Talks About Challenging Big Tech Workplace Abuse and Making Tech Fair for All - An Interview 
-description: Foxglove, a London-based non-profit organisation and advocacy group dedicated to improving the working conditions of content moderators, among other things. 
+description: Foxglove is a London-based non-profit organisation and advocacy group dedicated to improving the working conditions of content moderators, among other things. 
 
 ---
 
