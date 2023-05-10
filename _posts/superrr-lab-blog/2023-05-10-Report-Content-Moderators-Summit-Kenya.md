@@ -41,11 +41,15 @@ Over half of the moderators in the room are not from Kenya. They are from all ov
 
 <p>The union will stand for you. You don't have to stand alone.</p>
 <p><i>In the next couple of weeks the moderators will work with local partners to get the union off the ground. 
-  Some newspaper coverage of the event and further background information:</i><p>
+  </p>
+  <p>
+  Here's some further reading and newspaper coverage of the event:</i><p>
 <ul>
-  <li><a href="https://time.com/6275995/chatgpt-facebook-african-workers-union/">"150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting"</a></li>
-  <li><a href="https://nation.africa/kenya/business/technology/facebook-youtube-and-tiktok-content-moderators-in-kenya-form-labour-union-4219046/">"Facebook, Youtube and TikTok Content Moderators In Kenya Form Labour Union"</a></li>
-  <li><a href="https://www.wired.com/story/meta-kenya-lawsuit-outsourcing-content-moderation/">"Meta’s Gruesome Content Broke Him. Now He Wants It to Pay"</a></li>
+  <li><a href="https://time.com/6275995/chatgpt-facebook-african-workers-union/">Time Magazine – "150 African Workers for ChatGPT, TikTok and Facebook Vote to Unionize at Landmark Nairobi Meeting"</a></li>
+  <li><a href="https://nation.africa/kenya/business/technology/facebook-youtube-and-tiktok-content-moderators-in-kenya-form-labour-union-4219046/">Nation Africa – "Facebook, Youtube and TikTok Content Moderators In Kenya Form Labour Union"</a></li>
+  <li><a href="https://www.wired.com/story/meta-kenya-lawsuit-outsourcing-content-moderation/">Wired Magazine – "Meta’s Gruesome Content Broke Him. Now He Wants It to Pay"</a></li>
+    <li><a href="https://nairobinews.nation.africa/moderators-in-case-against-meta-hold-demos-at-sama-offices/">Nairobi News – "Moderators in case against Meta hold demos at Sama offices"</a></li>
+      <li><a href="https://www.change.org/p/facebook-and-sama-obey-court-orders-and-pay-us">Change Petition – "‘Facebook’ and ‘Samasource’- Obey Court Orders And Pay Us!"</a></li>
   </ul>
   
 <p><i>For updates on the work of content moderators in Kenya, make sure to follow <a href="https://twitter.com/ContmoderatorAf/">@ContmoderatorAf</a> on Twitter.</i></p>
