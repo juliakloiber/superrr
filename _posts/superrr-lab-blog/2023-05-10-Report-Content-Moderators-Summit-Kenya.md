@@ -6,7 +6,8 @@ title: “Without Us, There Are No Social Media Platforms”
 description: A report from the Content Moderators Summit in Nairobi, Kenya
 ---
 
-<p><i>This post is a report from the Content Moderators Summit in Nairobi, Kenya. Content warning: The following  content might include references, for example, to topics such as self-harm, sexual abuse, suicide and violence.</i></p>
+<p>This post is a report from the Content Moderators Summit in Nairobi, Kenya.</p>
+<p><i>Content warning: The following  content might include references, for example, to topics such as self-harm, sexual abuse, suicide and violence.</i></p>
 <p>
 <a href="https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/">In 2019 Daniel Motaung</a>, content moderator at Sama by that time, was in the process of formally filing trade union papers when he got fired.
 Five  years later, on May 1st 2023, 150 moderators from different platforms gather in a conference room at the Mövenpick Hotel in Nairobi to collectively fight for better working conditions. It's the largest gathering of content moderators ever to take place. The date – Labour Day – is well chosen. After arriving and signing in at the registration desk, the participants move on to a wall with three names on it: “Platform Workers Union”, “Content Moderators Union”, and “Content Protectors Union”. Sticky notes mark the favourite name choice.
