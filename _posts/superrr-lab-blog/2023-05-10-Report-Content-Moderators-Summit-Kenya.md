@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Julia Kloiber
-title: “Without Us, There Are No Social Media Platforms”
+title: "Without Us, There Are No Social Media Platforms"
 description: A report from the Content Moderators Summit in Nairobi, Kenya
 ---
 
