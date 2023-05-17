@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: Ein Blick in die Zukunft
-description: Superrr Lab wird zur zivilgesellschaftlichen Foresight-Organisation 
+description: Superrr Lab wird zur zivilgesellschaftlichen Foresight-Organisation. 
 ---
 
 <p>Als Superrr Lab machen wir uns seit unserer Gründung 2019 für inklusive und gerechte digitale Zukünfte stark. Dies geht nur unter Einbezug ganz unterschiedlicher Perspektiven, Hintergründe und Lebensrealitäten. Gemeinsam mit unseren Partner*innen machen wir auf Missstände aufmerksam und treten dafür ein, dass diese beseitigt werden. Viele der Probleme, die uns im Bereich der Digitalisierung begegnen, sind aber systemisch, sie sind tief in unseren Gesellschaftsstrukturen verwurzelt: Rassismus, soziale Ungerechtigkeit und Ungleichheiten. Es gibt unzählige Beispiele dafür, wie die Digitalisierung diese Misstände verschärft.</p>
