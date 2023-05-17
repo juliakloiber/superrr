@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta and Quincey Stumptner
 title: Redefining Progress - The Role of Decolonial and Intersectional Black Feminist Perspectives in Shaping the Future 
-description: An Interview with Makda Isak
+description: An Interview with Makda Isak.
 ---
 
 <img src="/assets/img/blog/Makda Isak_.png" alt="Illustration of Martha Dark" width="1056" height="594">
