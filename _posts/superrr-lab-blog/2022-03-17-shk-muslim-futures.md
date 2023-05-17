@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: SUPERRR is hiring!
-description: Studentische Mitarbeit (40-60h/Monat) für ein rassismuskritisches und dekoloniales Projekt 
+description: Studentische Mitarbeit (40-60h/Monat) für ein rassismuskritisches und dekoloniales Projekt. 
 ---
 
 <img src="/assets/img/blog/jobs_policy.png" alt="Image with Logo and SUPERRR Jobs text" width="500" height="600">
