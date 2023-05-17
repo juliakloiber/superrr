@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Ouassima Laabich-Mansour
 title: Watch now – 10 Propositions for Claiming Better Futures 
-description: Re-watch the recording of our closing event for The New New Fellowship online
+description: Re-watch the recording of our closing event for The New New Fellowship online.
 ---
 
 <p>We wondered: how can we find a suitable closing for the first The New New Fellowship round? How can we pay tribute to the inspiring times we had, the discussions we learned from and the exciting journeys the fellows are taking.</p>
