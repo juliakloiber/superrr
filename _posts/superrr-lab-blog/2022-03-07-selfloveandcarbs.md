@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Self Love and Carbs
-description: Join us for a culinary self defense course
+description: Join us for a culinary self-defense course.
 ---
 <img src="/assets/img/blog/selfdefense.jpg" alt="Illustration of people practicing self defense and eating carbs" width="1000" height="720">
 Illustration by Laura Breiling <3
