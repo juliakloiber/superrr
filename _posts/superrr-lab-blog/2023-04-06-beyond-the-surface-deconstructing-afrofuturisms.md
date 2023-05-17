@@ -8,7 +8,7 @@ author: Feven Keleta
 
 title: Beyond the Surface | "Deconstructing Afrofuturism(s)"
 
-description: A short primer on the subversive power of Afrofuturism(s) in challenging dominant narratives in futuring
+description: A short primer on the subversive power of Afrofuturism(s) in challenging dominant narratives in futuring.
 
 ---
 
