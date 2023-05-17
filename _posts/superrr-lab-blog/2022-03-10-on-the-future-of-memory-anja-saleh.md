@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Ouassima Laabich-Mansour
 title: On The Future of Memory
-description: An Interview with the poet and cultural advisor Anja Saleh
+description: An Interview with the poet and cultural advisor Anja Saleh.
 ---
 <img src="/assets/img/blog/anja-saleh.jpg" alt="Illustration of Anja Saleh" width="500" height="600">
 
