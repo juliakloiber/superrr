@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Moderators Unite!
-description: Content Moderator*innen aus ganz Deutschland kämpfen gemeinsam für bessere Arbeitsbedingungen
+description: Content Moderator*innen aus ganz Deutschland kämpfen gemeinsam für bessere Arbeitsbedingungen.
 ---
 
 
