@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: Strengthening our foundations
-description: Open Society Foundation supports SUPERRR Lab with structural funding
+description: Open Society Foundation supports SUPERRR Lab with structural funding.
 ---
 
 <p>We love our projects - but translating their results into actionable policy demands and proposals is a lengthy process. Playing this long game is a challenge for most non-profits, and it definitely has been a challenge for us. We are therefore excited to announce that we received support to strengthen the advocacy and policy work of SUPERRR Lab! </p>
