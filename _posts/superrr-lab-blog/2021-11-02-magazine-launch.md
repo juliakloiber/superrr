@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Julia Kloiber
 title: Magazin launch party
-description: The Superrr Network is hosting a magazine launch meetup on November 6th
+description: The Superrr Network is hosting a magazine launch meetup on November 6th.
 ---
 <img src="/assets/img/blog/ding_image.png" alt="Image of the new magazine" width="500" height="400">
 <p> A new edition of DING magazine is out - which means that it's time to celebrate!</p>
