@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Nushin Yazdani
 title: Playful concepts and serious games – The New New projects, one year on 
-description: Interview with the New New project Algorithms of Late Capitalism by internet teapot
+description: Interview with the New New project Algorithms of Late Capitalism by internet teapot.
 ---
 
 <img src="/assets/img/blog/Cards promo.jpg" alt="A mock-up of game components for the first playable prototype of the Algorithms of Late Capitalism board game." width="500" height="600">
