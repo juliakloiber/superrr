@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Nushin Yazdani
 title: Einladung zum Zukunftsforum am 15. September 2021
-description: Eine digitale Diskussionsveranstaltung zum Thema "Digitale Räume der Zukunft"
+description: Eine digitale Diskussionsveranstaltung zum Thema "Digitale Räume der Zukunft".
 ---
 <img src="/assets/img/blog/Blogpost_Zukunftsforum_neu.jpg" alt="Bild mit dem Titel Was macht gerechte digitale öffentliche Räume aus und den Fotos der vier Vortragenden und der Moderatorin" width="500" height="600">
 
