@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: 10 Propositions for Claiming Better Futures
-description: An hour of thought-provoking proposals on diverse and inclusive digital futures – October 7th, 6pm-7:15pm CET, online
+description: An hour of thought-provoking proposals on diverse and inclusive digital futures – October 7th, 6pm-7:15pm CET, online.
 ---
 <img src="/assets/img/blog/thenewnew-better-futures-post.png" alt="event teaser image" width="500" height="600">
 
