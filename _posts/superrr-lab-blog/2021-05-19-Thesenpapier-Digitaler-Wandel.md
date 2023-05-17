@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: Digitaler Wandel und Organisations&shy;entwicklung im Engagement&shy;sektor
-description: Ein Thesenpapier zur Digitalen Transformation für das Bundesnetzwerk Bürgerschaftliches Engagement
+description: Ein Thesenpapier zur Digitalen Transformation für das Bundesnetzwerk Bürgerschaftliches Engagement.
 ---
 
 Für das [Bundesnetzwerk Bürgerschaftliches Engagement (BBE)](https://www.b-b-e.de/) haben wir gemeinsam mit Anna Wohlfarth von der [Stiftung Neue Verantwortung](https://www.stiftung-nv.de/) ein Thesenpapier zum den Stand der digitalen Transformation im Dritten Sektor entwickelt. Das Thesenpapier entstand im Rahmen des Forums Digitalisierung und Engagement des Bundesnetzwerks Bürgerschaftliches Engagement, in dem die Grundlagen für ein gemeinsames Verständnis der Chancen und Risiken der Digitalisierung für das bürgerschaftliche Engagement in Deutschland erarbeitet werden. 
