@@ -1,7 +1,7 @@
 ---
 layout: post
 type: lab
-author: Elisa Lindinger and Ouassima Laabich
+author: Ouassima Laabich and Elisa Lindinger 
 title: Olds and News
 description: Reflections on Politics, Technicalities and Practicalities of Archiving
 ---
