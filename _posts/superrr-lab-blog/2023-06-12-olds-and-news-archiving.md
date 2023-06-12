@@ -2,9 +2,10 @@
 layout: post
 type: lab
 author: Elisa Lindinger and Ouassima Laabich
-title: Olds and News – Reflections on Politics, Technicalities and Practicalities of Archiving
-description: Questions, thoughts, and starting points arising from a mutual exchange with the Intersectional Black European Studies working group on Transnational Archives at Yale University.
+title: Olds and News
+description: Reflections on Politics, Technicalities and Practicalities of Archiving
 ---
+<h3> Reflections on Politics, Technicalities and Practicalities of Archiving</h3>
 
 <p>Archives are collections of things – of written, spoken or sung records, of seeds and fossils, of art and books and beauty, of the most terrible, most wondrous and most tedious of our histories. They are born of a desire to preserve and to this end, they freeze time, enabling those who will have access to the archive to re-visit these moments. They thus speak as much of the present and future as they do of the past.</p>
 
