@@ -13,8 +13,9 @@ description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 <h3>Der UN Global Digital Compact – Globales Buzzwordbingo oder echte Gestaltungschance für ein #SustainableDigitalAge</h3>
 
 <img src="/assets/img/blog/UN Sustainable Age Copyright Lea Wulf.jpeg" width="500" height="600">
+<p><i>Von links nach rechts: Dr. Julia Pohle, Elisa Lindinger und Marcel Dorsch </i></p>
 
-<p>Was genau ist der <a href="https://www.un.org/techenvoy/global-digital-compact/">„Global Digital Compact”</a>? Welche Ziele verfolgt er und wie können wir uns als (Welt-)Gesellschaft effektiv daran beteiligen? Darüber diskutierten am Montagabend Elisa Lindinger (Co-Founderin SUPERRR Lab) gemeinsam mit Dr. Julia Pohle (<a href="https://www.wzb.eu/de/">Wissenschaftszentrum Berlin für Sozialforschung</a>), Matthias Spielkamp (Mitgründer und Geschäftsführer <a href="algorithmwatch.org/"> Algorithm Watch</a>) in der von Marcel Dorsch (<a href="https://www.codes.global/">Coalition for Digital Environmental Sustainability CODES</a>) moderierten Panelrunde Fragen rund um den "Global Digital Compact", der auf dem im September 2024 stattfindenden Zukunftsgipfel der Vereinten Nationen verabschiedet werden soll.</p>
+<p>Was genau ist der <a href="https://www.un.org/techenvoy/global-digital-compact/">„Global Digital Compact”</a>? Welche Ziele verfolgt er und wie können wir uns als (Welt-)Gesellschaft effektiv daran beteiligen? Darüber diskutierten am Montagabend Elisa Lindinger (Co-Founderin SUPERRR Lab) gemeinsam mit Dr. Julia Pohle (<a href="https://www.wzb.eu/de/">Wissenschaftszentrum Berlin für Sozialforschung</a>), in der von Marcel Dorsch (<a href="https://www.codes.global/">Coalition for Digital Environmental Sustainability CODES</a>) moderierten Panelrunde Fragen rund um den "Global Digital Compact", der auf dem im September 2024 stattfindenden Zukunftsgipfel der Vereinten Nationen verabschiedet werden soll.</p>
 
 <h3>Content Moderation: Exploitation as a Service</h3>
 
