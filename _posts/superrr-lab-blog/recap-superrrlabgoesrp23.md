@@ -12,7 +12,7 @@ description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 
 <h3>Der UN Global Digital Compact – Globales Buzzwordbingo oder echte Gestaltungschance für ein #SustainableDigitalAge</h3>
 
-<img src="/assets/img/blog/UN Sustainable Age Copyright Lea Wulf.jpeg" alt=The image depicts the panelists" width="500" height="600">
+<img src="/assets/img/blog/UN Sustainable Age Copyright Lea Wulf.jpeg" width="500" height="600">
 
 <p>Was genau ist der <a href="https://www.un.org/techenvoy/global-digital-compact/">„Global Digital Compact”</a>? Welche Ziele verfolgt er und wie können wir uns als (Welt-)Gesellschaft effektiv daran beteiligen? Darüber diskutierten am Montagabend Elisa Lindinger (Co-Founderin SUPERRR Lab) gemeinsam mit Dr. Julia Pohle (<a href="https://www.wzb.eu/de/">Wissenschaftszentrum Berlin für Sozialforschung</a>), Matthias Spielkamp (Mitgründer und Geschäftsführer <a href="algorithmwatch.org/"> Algorithm Watch</a>) in der von Marcel Dorsch (<a href="https://www.codes.global/">Coalition for Digital Environmental Sustainability CODES</a>) moderierten Panelrunde Fragen rund um den "Global Digital Compact", der auf dem im September 2024 stattfindenden Zukunftsgipfel der Vereinten Nationen verabschiedet werden soll.</p>
 
@@ -28,8 +28,8 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
 
 <h3>Today Is Gonna Be the Day: Auf dem Weg zu einer feministischen Digitalpolitik</h3>
  
-<img src="/assets/img/blog/Panel-Feministische-Digitalpolitik-MK-1.jpg" width="500" height="600">
-<p><i>Von links nach rechts: Elisa Lindinger, MdB Anna Kassautzki, Bianca Herlo, MdB Misbah Khan</i></p>
+<img src="/assets/img/blog/Panel-Feministische-Digitalpolitik-CM-2.jpeg" width="500" height="600">
+<p><i>Von links nach rechts: Elisa Lindinger, MdB Anna Kassautzki, MdB Misbah Khan und Bianca Herlo</i></p>
 
 <p>Der Andrang und das Interesse waren groß in der gut besuchten Session zur feministischer Digitalpolitik, die am Mittwoch stattfand. Dort diskutierten Elisa Lindinger (SUPERRR Lab), Mitglieder des Bundestags <a href="https://misbah-khan.de/">Misbah Khan</a> (Bündnis 90/Die Grünen) und <a href="https://annakassautzki.de/">Anna Kassautzki</a> (SPD) sowie Designforscherin <a href="https://www.weizenbaum-institut.de/portrait/p/bianca-herlo/#page=1&sort=date/">Dr. Bianca Herlo</a> (Weizenbaum Institute for the Networked Society) über Machtstrukturen und Komplexität - und darüber, wie diese aufgebrochen werden könnten. In einem regen Austausch wurden Vorstellungen und Ideen einer Digitalpolitik entwickelt, die aus einer feministischen Perspektive heraus agiert, und gesellschaftliche Bedürfnisse im Blick behält. Wie verschieben sich unsere Prioritäten, und was können wir konkret tun, um endlich loszulegen mit der gerechten Digitalisierung? Welche Maßnahmen müssen wir als nächstes ergreifen, um die Versprechen einer feministischen Digitalpolitik “Gerechtigkeit, Chancengleichheit, Nachhaltigkeit” einzulösen?</p>
 
@@ -44,29 +44,30 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
 <p>Fazit: Es ist an der Zeit, unsere Denkweisen zu erweitern und die tiefgreifenden Veränderungen anzugehen, die für eine wirklich feministische Digitalpolitik erforderlich sind.</p>
 
 <h3>Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures</h3>
-
+                                                               
 <img src="/assets/img/blog/Muslim Futures Republica Panel.jpeg" width="500" height="600">
 
-<p>Bei dem Panel "Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures" tauschten sich Muslim Futures Lead <a href"=https://muslimfutures.de/">Ouassima Laabich</a>, Autorin, Künstlerin, Kuratorin und Muslim Futurist <a href="https://anjasaleh.com/">Anja Saleh</a>, Autor und Künstler <a href="http://www.banlieueduturfu.xyz/">Makan Fofana</a> (La Banlieue du Turfu) sowie Doktorandin <a href="https://www.universiteitleiden.nl/en/staffmembers/sara-bolghiran#tab-1/">Sara Bolghiran</a> (Islamic Studies, Leiden University) zu dekolonisierenden Ansätzen bei der kreativen Vorstellung positiver Zukunftsperspektiven aus. 
-Ouassima Laabich eröffnete die Runde mit folgender Fragestellung:</p>
-<p><b><i>“What happens when we dare to dream, dare to be delusional?”</i></b>, welche die Panelist*innen dazu anregte, über die Möglichkeiten des Träumens und das Verlassen konventioneller Denkmuster im Kontext dekolonialer, muslimischer Zukünfte nachzudenken.
+<p>Bei dem Panel "Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures" tauschten sich Muslim Futures Lead <a href="https://muslimfutures.de/">Ouassima Laabich</a>, Autorin, Künstlerin, Kuratorin und Muslim Futurist <a href="https://anjasaleh.com/">Anja Saleh</a>, Autor und Künstler <a href="http://www.banlieueduturfu.xyz/">Makan Fofana</a> (La Banlieue du Turfu) sowie Doktorandin <a href="https://www.universiteitleiden.nl/en/staffmembers/sara-bolghiran#tab-1/">Sara Bolghiran</a> (Islamic Studies, Leiden University) zu dekolonisierenden Ansätzen bei der kreativen Vorstellung positiver Zukunftsperspektiven aus.</p> 
+
+<p>Ouassima Laabich eröffnete die Runde mit folgender Fragestellung:
+<b><i>“What happens when we dare to dream, dare to be delusional?”</i></b>, welche die Panelist*innen dazu anregte, über die Möglichkeiten des Träumens und das Verlassen konventioneller Denkmuster im Kontext dekolonialer, muslimischer Zukünfte nachzudenken.</p>
 <br>
 <p>Anja Saleh, die über ihre Arbeit mit Kindern, Jugendlichen und jungen Erwachsenen berichtete, betonte die Notwendigkeit, Träume aktiv zu dekolonisieren und forderte zu Folgendem auf:
-<b><i>“They [children, teenagers and young adults] are taught what they are allowed to dream. We have to break with that. Our dreams are colonised."</b></i>
+<b><i>“They [children, teenagers and young adults] are taught what they are allowed to dream. We have to break with that. Our dreams are colonised."</i></b></p>
 <br>
- 
-Makan Fofana teilte eine eindrückliche Beobachtung über sein Projekt “La Banlieue du Turfu”:
-<b><i>"If I ask my friends if it's possible to become successful without leaving the banlieue, they say no. It's unimaginable... Songs, movies all show people on their way out, not a future in which they can and want to stay.”</i></b>
+<p>Makan Fofana teilte eine eindrückliche Beobachtung über sein Projekt “La Banlieue du Turfu”:
+<b><i>"If I ask my friends if it's possible to become successful without leaving the banlieue, they say no. It's unimaginable... Songs, movies all show people on their way out, not a future in which they can and want to stay.”</i></b></p>
 <br>
- 
-Sara Bolghiran betonte die Bedeutung der Verbindung von Vergangenheit, Gegenwart und letztendlich der Zukunft in dekolonialen Räumen. Sie erklärte:
+<p>Sara Bolghiran betonte die Bedeutung der Verbindung von Vergangenheit, Gegenwart und letztendlich der Zukunft in dekolonialen Räumen. Sie erklärte:
 <b><i>"Quite often in decolonial spaces there is the idea that you have to replace basically everything, every concept. 
-But thinkers were always interconnected. Histories are interconnected. This needs to be acknowledged, it is at the core of decolonising.”</i></b>
+But thinkers were always interconnected. Histories are interconnected. This needs to be acknowledged, it is at the core of decolonising.”</i></b></p>
+
 
 <p>Das Muslim Futures Panel verdeutlicht die immense Wichtigkeit, bestehende (Zukunfts-)Vorstellungen und Normen zu erkennen, kritisch zu hinterfragen und  selbstbestimmte Räume für kreative und dekolonisierte Träume und Visionen zu schaffen.
 Indem Vergangenheit, Gegenwart und Zukunft miteinander verbunden und eine breitere Palette an Möglichkeiten in Betracht gezogen werden, können transformative und inklusive Visionen für positive Zukünfte kreiert werden.</p>
 
 <h3>Critiquing Futuring and Foresight: How to Move From the Centre to the Margins</h3>
+                                                                                                               
 <img src="/assets/img/blog/futuring from the margins meetup.jpeg" width="500" height="600">
 
 <p>Ebenfalls im Rahmen von dekolonisierenden Zukünften verfolgten Quincey Stumptner (Foresight Lead) und <a href="https://afronaut.space/">Feven M. Keleta</a>(Communications Lead), die bei SUPERRR Lab am Projekt <a href="https://superrr.net/2023/03/08/Futuring-From-the-Margins.html/">"Futuring from the Margins"</a> arbeiten, in ihrem Workshop sowie Meetup eine intersektional-dekoloniale Heransgehensweise an der Schnittstelle zu kritischem Futures Thinking. Der Workshop und das Meetup waren eine Plattform für den Austausch als auch Vernetzung mit den Teilnehmer*innen und eine Möglichkeit, gemeinsam Wege des Denkens abseits der dominanten Diskurse innerhalb der Zukünftegestaltung zu beschreiten.
