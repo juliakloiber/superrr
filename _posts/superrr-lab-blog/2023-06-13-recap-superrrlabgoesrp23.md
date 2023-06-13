@@ -12,7 +12,7 @@ description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 
 <h3>Der UN Global Digital Compact – Globales Buzzwordbingo oder echte Gestaltungschance für ein #SustainableDigitalAge</h3>
 
-<img src="/assets/img/blog/UN Sustainable Age Copyright Lea Wulf.jpeg" width="500" height="600">
+<img src="/assets/img/blog/UN Sustainable Age Copyright Lea Wulf quer.png" width="500" height="600">
 <p><i>Von links nach rechts: Dr. Julia Pohle, Elisa Lindinger und Marcel Dorsch </i></p>
 
 <p>Was genau ist der <a href="https://www.un.org/techenvoy/global-digital-compact/">„Global Digital Compact”</a>? Welche Ziele verfolgt er und wie können wir uns als (Welt-)Gesellschaft effektiv daran beteiligen? Darüber diskutierten am Montagabend Elisa Lindinger (Co-Founderin SUPERRR Lab) gemeinsam mit Dr. Julia Pohle (<a href="https://www.wzb.eu/de/">Wissenschaftszentrum Berlin für Sozialforschung</a>), in der von Marcel Dorsch (<a href="https://www.codes.global/">Coalition for Digital Environmental Sustainability CODES</a>) moderierten Panelrunde Fragen rund um den "Global Digital Compact", der auf dem im September 2024 stattfindenden Zukunftsgipfel der Vereinten Nationen verabschiedet werden soll.</p>
@@ -30,7 +30,7 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
 
 <h3>Today Is Gonna Be the Day: Auf dem Weg zu einer feministischen Digitalpolitik</h3>
  
-<img src="/assets/img/blog/Panel-Feministische-Digitalpolitik-CM-2.jpeg" width="500" height="600">
+<img src="/assets/img/blog/Panel-Feministische-Digitalpolitik-CM-2-quer.png" width="500" height="600">
 <p><i>Von links nach rechts: Elisa Lindinger, MdB Anna Kassautzki, MdB Misbah Khan und Bianca Herlo</i></p>
 
 <p>Der Andrang und das Interesse waren groß in der gut besuchten Session zur feministischer Digitalpolitik, die am Mittwoch stattfand. Dort diskutierten Elisa Lindinger (SUPERRR Lab), Mitglieder des Bundestags <a href="https://misbah-khan.de/">Misbah Khan</a> (Bündnis 90/Die Grünen) und <a href="https://annakassautzki.de/">Anna Kassautzki</a> (SPD) sowie Designforscherin <a href="https://www.weizenbaum-institut.de/portrait/p/bianca-herlo/#page=1&sort=date/">Dr. Bianca Herlo</a> (Weizenbaum Institute for the Networked Society) über Machtstrukturen und Komplexität - und darüber, wie diese aufgebrochen werden könnten. In einem regen Austausch wurden Vorstellungen und Ideen einer Digitalpolitik entwickelt, die aus einer feministischen Perspektive heraus agiert, und gesellschaftliche Bedürfnisse im Blick behält. Wie verschieben sich unsere Prioritäten, und was können wir konkret tun, um endlich loszulegen mit der gerechten Digitalisierung? Welche Maßnahmen müssen wir als nächstes ergreifen, um die Versprechen einer feministischen Digitalpolitik “Gerechtigkeit, Chancengleichheit, Nachhaltigkeit” einzulösen?</p>
@@ -70,10 +70,10 @@ Indem Vergangenheit, Gegenwart und Zukunft miteinander verbunden und eine breite
 
 <h3>Critiquing Futuring and Foresight: How to Move From the Centre to the Margins</h3>
                                                                                                                
-<img src="/assets/img/blog/futuring from the margins meetup.jpeg" width="500" height="600">
+<img src="/assets/img/blog/futuring from the margins meetup quer.png" width="500" height="600">
  <p><i> Von links nach rechts: Quincey Stumptner und Feven M. Keleta</i></p>
 
-<p>Ebenfalls im Rahmen von dekolonisierenden Zukünften verfolgten Quincey Stumptner (Foresight Lead) und <a href="https://afronaut.space/">Feven M. Keleta</a>(Communications Lead), die bei SUPERRR Lab am Projekt <a href="https://superrr.net/2023/03/08/Futuring-From-the-Margins.html/">"Futuring from the Margins"</a> arbeiten, in ihrem Workshop sowie Meetup eine intersektional-dekoloniale Heransgehensweise an der Schnittstelle zu kritischem Futures Thinking. Der Workshop und das Meetup waren eine Plattform für den Austausch als auch Vernetzung mit den Teilnehmer*innen und eine Möglichkeit, gemeinsam Wege des Denkens abseits der dominanten Diskurse innerhalb der Zukünftegestaltung zu beschreiten.
+<p>Ebenfalls im Rahmen von dekolonisierenden Zukünften verfolgten Quincey Stumptner (Foresight Lead) und <a href="https://afronaut.space/">Feven M. Keleta</a> (Communications Lead), die bei SUPERRR Lab am Projekt <a href="https://superrr.net/2023/03/08/Futuring-From-the-Margins.html/">"Futuring from the Margins"</a> arbeiten, in ihrem Workshop sowie Meetup eine intersektional-dekoloniale Heransgehensweise an der Schnittstelle zu kritischem Futures Thinking. Der Workshop und das Meetup waren eine Plattform für den Austausch als auch Vernetzung mit den Teilnehmer*innen und eine Möglichkeit, gemeinsam Wege des Denkens abseits der dominanten Diskurse innerhalb der Zukünftegestaltung zu beschreiten.
 
 <p>Wir bedanken uns bei den fantastischen Organisator*innen und allen Teilnehmer*innen der re:publica 23 und freuen uns auf nächstes Jahr!</p>
 
