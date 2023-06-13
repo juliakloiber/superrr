@@ -70,7 +70,7 @@ description: The official manifesto signed by German content moderators.
 
 
 
-<h2 class="section-headline"> Signatories</h2>
+<h2 class="section-headline"> Signatories/Unterzeichner*innen</h2>
 
 <table>
 <thead><td>Name</td><td>Firma</td><td>Stadt</td></thead>
@@ -82,7 +82,6 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Nail Berkin Ayaydin</td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
-<tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Stamatios Ntounis</td><td>-</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
@@ -163,7 +162,7 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
-<tr><td>Anonym</td><td>-</td><td>-</td></tr>
+<tr><td>Anonym</td><td></td><td></td></tr>
 <tr><td>Omar abdelsalam </td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -180,7 +179,6 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Alex Azimi</td><td>-</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
-<tr><td>Anonym</td><td>Uber</td><td>Münich</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Tareq Alnaddaf</td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -263,7 +261,6 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Seda Ghasemi </td><td>-</td><td>Essen</td></tr>
-<tr><td>Anonym</td><td></td><td>Italia</td></tr>
 <tr><td>Ghiath Khorched </td><td>-</td><td>Essen</td></tr>
 <tr><td>Mohamed Daboul</td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -331,7 +328,6 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Tarik Al Masri</td><td>-</td><td>Essen</td></tr>
-<tr><td>Syed Masoud Sayedi </td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -354,7 +350,6 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Mhd wasim kalthoum</td><td>-</td><td>Essen</td></tr>
-<tr><td>Anonym</td><td></td><td></td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -379,6 +374,14 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
+<tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
+<tr><td>Gabor Radnai</td><td>-</td><td>Berlin</td></tr>
+<tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
+<tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
+<tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
+<tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
+<tr><td>Sina Zekavat</td><td>-</td><td>Berlin</td></tr>
+<tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 </table>
 
 
