@@ -57,7 +57,7 @@ $fontsize-70: 2.75rem !important;
 }
 
 .section-headline {
-  padding: 50px 25px 12.5px 25px;
+  padding: 50px 25px 35px 25px;
   font-size: $fontsize-70;
   a {
     font-size: $fontsize-70;
@@ -74,14 +74,14 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 3vw;
+  font-size: 3.5vw;
 }
 
 h3, .h3 {
   font-size: 2.5vw;
 }
 
-a, p, li, h4 {
+a, p, li, h4, table {
   font-size: 1.3rem;
 }
 
@@ -123,6 +123,10 @@ $main-column-width: 956px;
   margin: 50px auto;
 }
 
+.content-wrap-inner.shrinked {
+  width: 650px;
+}
+
 .section {
 
   &.padded{
@@ -141,6 +145,10 @@ $main-column-width: 956px;
 
 .home-icon-wrap{
   height: calc(30vh - 4vh);
+}
+
+.blog-post {
+  margin-top: 0;
 }
 
 .posts-holder {
@@ -169,7 +177,7 @@ $main-column-width: 956px;
 
   .nav-open-btn{
     margin-bottom: 2rem;
-    width: 68px;
+    width: 58px;
     height: 46px;
   }
 

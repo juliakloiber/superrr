@@ -300,13 +300,15 @@ LAYOUT & GRID STYLES
   text-transform: uppercase;
   width: 100%;
   text-align: center;
-  padding: 25px 25px 12.5px 25px;
+  padding: 25px 25px 35px 25px;
   margin-bottom: 0;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
 
   &.link {
+    max-width: none;
+    text-align: left;
     padding-left: 0 !important;
     padding-right: 0 !important;
 
@@ -570,13 +572,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 3rem;
+  font-size: 2.75rem;
   line-height: 1.1em;
   margin-bottom: 2rem;
 }
 
 h2, .h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 1.1em;
   margin-bottom: 2rem;
 }
@@ -603,7 +605,32 @@ h5, .h5 {
 /*********************
 *********************/
 
-a, p, li, h4 {
+table {
+  width: 100%;
+
+  thead tr td {
+    padding-bottom: 20px;
+    font-weight: normal;
+    font-family: $font-paelzer-grot-medium;
+    text-transform: uppercase;
+  }
+
+  tbody{
+    tr {
+      &:nth-child(odd) {
+        background-color: $grey-light;
+      }
+    }
+  }
+
+  tr {
+    td:last-of-type {
+      text-align: right;
+    }
+  }
+}
+
+a, p, li, h4, table {
   font-size: 1.25rem;
 }
 blockquote{
@@ -687,6 +714,7 @@ p {
         content: counter(counter);
         counter-increment: counter;
         font-size: 1.5em;
+        line-height: 1;
       }
 
     }
@@ -1535,7 +1563,7 @@ body{
       padding-left: 45px;
       &::before
       {
-        top: 3px;
+        top: 4px;
       }
     }
   }
@@ -1555,8 +1583,10 @@ BLOG
 }
 .blog-post{
 
+  margin-top: 25px;
+
   .post-header{
-    margin-bottom: 75px;
+    margin-bottom: 50px;
   }
 
   .post-headline{
