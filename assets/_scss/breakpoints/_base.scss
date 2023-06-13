@@ -1997,11 +1997,11 @@ FOOTER STYLES
   .post-teaser{
     margin-bottom: 50px;
     cursor: pointer;
-    h2 {
+    h2,h3 {
       @include transition(color .25s ease);
     }
-    &:hover {
-      h2 {
+    &:hover, &:active {
+      h2,h3 {
         color: $third-color;
       }
     }
