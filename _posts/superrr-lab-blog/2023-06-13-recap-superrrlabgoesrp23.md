@@ -20,6 +20,7 @@ description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 <h3>Content Moderation: Exploitation as a Service</h3>
 
 <img src="/assets/img/blog/Julia Daniel Keynote.jpeg" width="500" height="600">
+<p><i>Von links nach rechts: Daniel Motaung und Julia Kloiber</i></p>
 
 <p><b><i>"The biggest problem of content moderation is that we're [content moderators] expendable or easily replacable." — Daniel Motaung, Whistleblower und Labour Rights Activist</i></b></p>
 
@@ -47,7 +48,8 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
 <h3>Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures</h3>
                                                                
 <img src="/assets/img/blog/Muslim Futures Republica Panel.jpeg" width="500" height="600">
-
+<p><i> Von links nach rechts: Makan Fofana, Ouassima Laabich, Sara Bolghiran und Anja Saleh
+<br>
 <p>Bei dem Panel "Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures" tauschten sich Muslim Futures Lead <a href="https://muslimfutures.de/">Ouassima Laabich</a>, Autorin, Künstlerin, Kuratorin und Muslim Futurist <a href="https://anjasaleh.com/">Anja Saleh</a>, Autor und Künstler <a href="http://www.banlieueduturfu.xyz/">Makan Fofana</a> (La Banlieue du Turfu) sowie Doktorandin <a href="https://www.universiteitleiden.nl/en/staffmembers/sara-bolghiran#tab-1/">Sara Bolghiran</a> (Islamic Studies, Leiden University) zu dekolonisierenden Ansätzen bei der kreativen Vorstellung positiver Zukunftsperspektiven aus.</p> 
 
 <p>Ouassima Laabich eröffnete die Runde mit folgender Fragestellung:
@@ -70,6 +72,7 @@ Indem Vergangenheit, Gegenwart und Zukunft miteinander verbunden und eine breite
 <h3>Critiquing Futuring and Foresight: How to Move From the Centre to the Margins</h3>
                                                                                                                
 <img src="/assets/img/blog/futuring from the margins meetup.jpeg" width="500" height="600">
+ <p><i> Von links nach rechts: Quincey Stumptner und Feven M. Keleta</i></p>
 
 <p>Ebenfalls im Rahmen von dekolonisierenden Zukünften verfolgten Quincey Stumptner (Foresight Lead) und <a href="https://afronaut.space/">Feven M. Keleta</a>(Communications Lead), die bei SUPERRR Lab am Projekt <a href="https://superrr.net/2023/03/08/Futuring-From-the-Margins.html/">"Futuring from the Margins"</a> arbeiten, in ihrem Workshop sowie Meetup eine intersektional-dekoloniale Heransgehensweise an der Schnittstelle zu kritischem Futures Thinking. Der Workshop und das Meetup waren eine Plattform für den Austausch als auch Vernetzung mit den Teilnehmer*innen und eine Möglichkeit, gemeinsam Wege des Denkens abseits der dominanten Diskurse innerhalb der Zukünftegestaltung zu beschreiten.
 
