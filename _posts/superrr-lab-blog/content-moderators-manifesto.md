@@ -1,15 +1,9 @@
 ---
-
 layout: post
-
 type: lab
-
 author: Julia Koiber
-
 title: Social Media Content Moderators in Germany | Our Manifesto
-
 description: The official manifesto signed by German content moderators.
-
 ---
 
 <img src="/assets/img/blog/Content_Mod_Manifesto.png" alt="Illustration with a person sitting at a computer in the lower right corner, looking at a screen. The screen emmits light accross the entire illustration to the upper left hand corner, illuminating the words 'Content Moderators Manifesto'" width="1056" height="594">
@@ -19,7 +13,7 @@ description: The official manifesto signed by German content moderators.
 <p>
  <ol>
   <li>Content moderation work is highly skilled. Our work requires cultural and language expertise, and social media could not exist without us. <b>Our pay and benefit packages must reflect this.</b></li>
-  <li>Despite day-to-day exposure to toxic content, we earn no hazard pay. Companies must also provide <b/>a hazard bonus of at least 35% of moderators’ annual salary</b>. Clear policies must be consistently implemented, providing us with meaningful leave, holiday, breaks, overtime, and opportunities for promotion.</li>
+  <li>Despite day-to-day exposure to toxic content, we earn no hazard pay. Companies must also provide <b>a hazard bonus of at least 35% of moderators’ annual salary</b>. Clear policies must be consistently implemented, providing us with meaningful leave, holiday, breaks, overtime, and opportunities for promotion.</li>
   <li><b>Proper mental health care must be provided to all content moderators.</b>Content moderation poses serious risks to our mental health including depression, anxiety, insomnia and PSTD. Each company must obtain independent, expert advice on effective safeguards and implement recommendations without delay. In the meantime, access to an independent, mental health clinician must be provided to each of us, on a 24-hour basis.</li>
   <li>The<b> culture of secrecy and bullying must end.</b> We are made to sign non-disclosure agreements designed to scare us into silence. No NDA can legitimately stop us raising concerns about the conditions of our work. We must be allowed to speak about the conditions of their work, to ease the pressure we face, and to allow for organising. These NDAs must be dissolved with immediate effect.</li>
   <li>Social media companies must <b>encourage content moderators to collectively organise, bargain and join a union</b> of their choice as well as form work councils across the industry.</li>
@@ -29,7 +23,7 @@ description: The official manifesto signed by German content moderators.
 </ol>
 </p>
 
-<p><h2> Signatories</h2></p>
+<h2 class="section-headline"> Signatories</h2>
 
 <table>
 <thead><td>Name</td><td>Firma</td><td>Stadt</td></thead>
@@ -319,11 +313,11 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
-<tr><td>Alaa Abdulrahman </td><td>-</td><td>Essen</td></tr>
+<tr><td>Alaa Abdulrahman</td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
-<tr><td>Shimaa Abdelshafy </td><td>-</td><td>Essen</td></tr>
+<tr><td>Shimaa Abdelshafy</td><td>-</td><td>Essen</td></tr>
 <tr><td>Gunisigi Zan Diemer</td><td>-</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
@@ -334,7 +328,7 @@ description: The official manifesto signed by German content moderators.
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Csanád Szabó</td><td>-</td><td>Berlin</td></tr>
-<tr><td>Zaid Salah Mahdi Mahdi </td><td>-</td><td>Essen</td></tr>
+<tr><td>Zaid Salah Mahdi Mahdi</td><td>-</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
 <tr><td>Anonym</td><td>Telus</td><td>Essen</td></tr>
 <tr><td>Anonym</td><td>Majorel</td><td>Berlin</td></tr>
