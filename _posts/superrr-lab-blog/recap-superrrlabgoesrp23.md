@@ -21,7 +21,7 @@ description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 <img src="/assets/img/blog/Julia Daniel Keynote.jpeg" width="500" height="600">
 
 <p><b><i>"The biggest problem of content moderation is that we're [content moderators] expendable or easily replacable." — Daniel Motaung, Whistleblower und Labour Rights Activist</i></b></p>
-<br>
+
 <p>Julia Kloiber (Co-Founderin SUPERRR Lab) und Daniel Motaung kritisierten in ihrer eindringlichen Keynote am Dienstag die menschenverachtende Situation, in der sich Contentmoderator*innen seit Jahren befinden. Ohne die wichtige Arbeit der Contentmoderator*innen würden keine Social Media Plattformen existieren - doch trotz ihrer unverzichtbaren Rolle werden sie unter ausbeuterischen Umständen beschäftigt. Gemeinsam erörterten Whistleblower Daniel Motaung und Julia Kloiber, wie Widerstände zunehmen, und Arbeiter*innen sich zusammenschließen, um für ihre Rechte zu kämpfen und für  bessere und gerechtere Arbeitsbedingungen in der Zukunft einzustehen. 
 Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/">Stream</a> auf dem YouTube-Kanal der Re:publica verfügbar.<p>
 <br>
