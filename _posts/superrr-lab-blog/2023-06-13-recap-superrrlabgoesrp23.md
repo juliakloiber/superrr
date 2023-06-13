@@ -49,22 +49,21 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
                                                                
 <img src="/assets/img/blog/Muslim Futures Republica Panel.jpeg" width="500" height="600">
 <p><i> Von links nach rechts: Makan Fofana, Ouassima Laabich, Sara Bolghiran und Anja Saleh</i></p>
-<br>
+
 <p>Bei dem Panel "Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures" tauschten sich Muslim Futures Lead <a href="https://muslimfutures.de/">Ouassima Laabich</a>, Autorin, Künstlerin, Kuratorin und Muslim Futurist <a href="https://anjasaleh.com/">Anja Saleh</a>, Autor und Künstler <a href="http://www.banlieueduturfu.xyz/">Makan Fofana</a> (La Banlieue du Turfu) sowie Doktorandin <a href="https://www.universiteitleiden.nl/en/staffmembers/sara-bolghiran#tab-1/">Sara Bolghiran</a> (Islamic Studies, Leiden University) zu dekolonisierenden Ansätzen bei der kreativen Vorstellung positiver Zukunftsperspektiven aus.</p> 
 
 <p>Ouassima Laabich eröffnete die Runde mit folgender Fragestellung:
 <b><i>“What happens when we dare to dream, dare to be delusional?”</i></b>, welche die Panelist*innen dazu anregte, über die Möglichkeiten des Träumens und das Verlassen konventioneller Denkmuster im Kontext dekolonialer, muslimischer Zukünfte nachzudenken.</p>
-<br>
+
 <p>Anja Saleh, die über ihre Arbeit mit Kindern, Jugendlichen und jungen Erwachsenen berichtete, betonte die Notwendigkeit, Träume aktiv zu dekolonisieren und forderte zu Folgendem auf:
 <b><i>“They [children, teenagers and young adults] are taught what they are allowed to dream. We have to break with that. Our dreams are colonised."</i></b></p>
-<br>
+
 <p>Makan Fofana teilte eine eindrückliche Beobachtung über sein Projekt “La Banlieue du Turfu”:
 <b><i>"If I ask my friends if it's possible to become successful without leaving the banlieue, they say no. It's unimaginable... Songs, movies all show people on their way out, not a future in which they can and want to stay.”</i></b></p>
-<br>
+
 <p>Sara Bolghiran betonte die Bedeutung der Verbindung von Vergangenheit, Gegenwart und letztendlich der Zukunft in dekolonialen Räumen. Sie erklärte:
 <b><i>"Quite often in decolonial spaces there is the idea that you have to replace basically everything, every concept. 
 But thinkers were always interconnected. Histories are interconnected. This needs to be acknowledged, it is at the core of decolonising.”</i></b></p>
-
 
 <p>Das Muslim Futures Panel verdeutlicht die immense Wichtigkeit, bestehende (Zukunfts-)Vorstellungen und Normen zu erkennen, kritisch zu hinterfragen und  selbstbestimmte Räume für kreative und dekolonisierte Träume und Visionen zu schaffen.
 Indem Vergangenheit, Gegenwart und Zukunft miteinander verbunden und eine breitere Palette an Möglichkeiten in Betracht gezogen werden, können transformative und inklusive Visionen für positive Zukünfte kreiert werden.</p>
