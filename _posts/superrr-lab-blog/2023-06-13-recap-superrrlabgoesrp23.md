@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Feven Keleta
 title: Recap | SUPERRR Lab goes re:publica 23
-description: Beschreibung folgt
+description: Eine Übersicht unserer Beiträge auf der diesjährigen re:publica.
 ---
 
 <img src="/assets/img/blog/rp23-community-abend-minimal-2-3.png" alt="The background of the image shows this year’s republica logo. An orange background with bold black letters that display the word cash. In the middle of the image, the round SUPERRR Lab logo is depicted" width="500" height="600">
