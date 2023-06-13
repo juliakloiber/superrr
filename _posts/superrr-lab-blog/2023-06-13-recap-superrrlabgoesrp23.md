@@ -48,7 +48,7 @@ Die Keynote ist jetzt als <a href="https://www.youtube.com/watch?v=qD-qJasWkoM/"
 <h3>Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures</h3>
                                                                
 <img src="/assets/img/blog/Muslim Futures Republica Panel.jpeg" width="500" height="600">
-<p><i> Von links nach rechts: Makan Fofana, Ouassima Laabich, Sara Bolghiran und Anja Saleh
+<p><i> Von links nach rechts: Makan Fofana, Ouassima Laabich, Sara Bolghiran und Anja Saleh</i></p>
 <br>
 <p>Bei dem Panel "Muslim Futures - Empowering Approaches to Creatively Imagining Positive Futures" tauschten sich Muslim Futures Lead <a href="https://muslimfutures.de/">Ouassima Laabich</a>, Autorin, Künstlerin, Kuratorin und Muslim Futurist <a href="https://anjasaleh.com/">Anja Saleh</a>, Autor und Künstler <a href="http://www.banlieueduturfu.xyz/">Makan Fofana</a> (La Banlieue du Turfu) sowie Doktorandin <a href="https://www.universiteitleiden.nl/en/staffmembers/sara-bolghiran#tab-1/">Sara Bolghiran</a> (Islamic Studies, Leiden University) zu dekolonisierenden Ansätzen bei der kreativen Vorstellung positiver Zukunftsperspektiven aus.</p> 
 
