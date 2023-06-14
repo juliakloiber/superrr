@@ -51,8 +51,8 @@ description: The official manifesto signed by German content moderators.
 <h2> Manifest</h2>
 <p>Wir, die Content-Moderator*innen von Facebook, TikTok, Majorel und Telus, sorgen für die Sicherheit der Menschen online. Ohne uns würden die Social-Media-Unternehmen über Nacht zusammenbrechen. Trotzdem werden wir von diesen Unternehmen ausgebeutet und schikaniert. Doch wir werden nicht länger schweigen. Wir fordern einen branchenweiten Wandel. Soziale Medien können niemals sicher sein, solange unsere eigenen Arbeitsplätze nicht sicher sind.</p>
 
-<p>
- <ol>
+
+<ol>
   <li>Die Moderation von Inhalten ist eine hochqualifizierte Arbeit. Unsere Arbeit erfordert kulturelle und sprachliche Kompetenz, ohne uns könnten die sozialen Medien nicht existieren. <b>Unsere Gehälter und Arbeitgeberzusatzleistungen müssen dies widerspiegeln.</b></li>
   <li>Obwohl wir tagtäglich schädlichen Inhalten ausgesetzt sind, erhalten wir keine Gefahrenzulage. Wir fordern, dass die Unternehmen zusätzlich eine <b>Gefahrenprämie von mindestens 35% des Jahresgehalts</b> eines*einer Moderators*in bereitstellen. Klare Richtlinien, die uns einen angemessenen Freizeitausgleich, Urlaub, Pausen, Überstunden und Aufstiegsmöglichkeiten bieten, müssen konsequent umgesetzt werden.</li>
   <li><b>Für alle Content-Moderator*innen muss eine angemessene psychologische Betreuung gewährleistet sein.</b> Die Moderation von Inhalten birgt erhebliche Risiken für unsere psychische Gesundheit, wie z. B. Depressionen, Angstzustände, Schlaflosigkeit und posttraumatische Belastungsstörung. Jedes Unternehmen muss sich von unabhängigen Expert*innen über wirksame Schutzmaßnahmen beraten lassen und die Empfehlungen unverzüglich umsetzen. In der Zwischenzeit muss der Zugang zu  unabhängigen Psycholog*innen rund um die Uhr zur Verfügung stehen.</li>
@@ -65,12 +65,11 @@ description: The official manifesto signed by German content moderators.
   <li>Jegliche repressive und unangemessene <b>Überwachung und algorithmische Steuerung muss abgeschafft werden</b>.</li>
   <li>Die Social-Media-Unternehmen müssen <b>sicherstellen, dass gleiche Arbeit auch gleich entlohnt wird</b>. Es muss sichergestellt werden, dass Arbeitnehmer*innen unabhängig von ihrer Herkunft oder ihrem Aufenthaltsland gleich behandelt werden. Wir sind Content-Moderator*innen in Deutschland, aber wir sind solidarisch mit unseren Kolleg*innen auf der ganzen Welt, die die gleiche Arbeit für einen Bruchteil des amerikanischen oder europäischen Lohns und unter weitaus härteren Bedingungen leisten. Dieser digitale Kolonialismus muss beendet werden, indem alle Unterschiede bei der Bezahlung, den Leistungen und den Arbeitsbedingungen beseitigt und unsere Standards weltweit vereinheitlicht werden.</li>
 </ol>
-</p>
 
 
 
 
-<h2 class="section-headline"> Signatories/Unterzeichner*innen</h2>
+<h3 style="text-align:center; margin-top:1.5em;"> Signatories/<br>Unterzeichner*innen</h3>
 
 <table>
 <thead><td>Name</td><td>Firma</td><td>Stadt</td></thead>
