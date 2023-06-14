@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Fayrouz Eldebani
-title: Click Work: It's Complicated
+title: Click Work - It's Complicated
 description: folgt
 ---
 <h3> Introduction</h3>
