@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Fayrouz Eldebani
 title: Click Work - It's Complicated
-description: folgt
+description: Unveiling the 'hidden' role of click workers in artifical intelligence.
 ---
 <h3> Introduction</h3>
 
