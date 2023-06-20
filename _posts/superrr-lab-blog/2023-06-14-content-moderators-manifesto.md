@@ -4,7 +4,7 @@ layout: post
 
 type: lab
 
-author: Julia Koiber
+author: Julia Köoiber
 
 title: Social Media Content Moderators in Germany | Our Manifesto
 
