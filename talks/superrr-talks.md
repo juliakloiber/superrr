@@ -9,8 +9,7 @@
 
 <p><i>re:publica</i></p>
 <li><a href="https://www.youtube.com/watch?v=qD-qJasWkoM">Keynote Content Moderation – Exploitation as a Service | Julia Kloiber & Daniel Motaung</a></li>
-<li><a href="https://www.youtube.com/watch?v=ZmDzuIuXUKc">Today is gonna be the day – auf dem Weg zu einer feministischen Digitalpolitik | Elisa Lindinger, Misbah Khan, Bianca Herlo 
-& Anna Kassautzki</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZmDzuIuXUKc">Today is gonna be the day – auf dem Weg zu einer feministischen Digitalpolitik | Elisa Lindinger, Misbah Khan, Bianca Herlo & Anna Kassautzki</a></li>
 <br>
 <p>JANUARY</p>
 
