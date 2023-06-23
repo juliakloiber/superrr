@@ -6,12 +6,12 @@ title: Anhörung im Digitalausschuss "Arbeitsbedingungen in der Content Moderati
 description: Unser Beitrag zur 40. Anhörung des Ausschuss für Digitales im Deutschen Bundestag.
 ---
 
-<p>Am 14.06.2023 fand im Ausschuss für Digitales des Deutschen Bundestag ein Fachegspräch zu den Arbeitsbedingungen von Content Moderator*innen statt.</p>
+<p>Am 14.06.2023 fand im Ausschuss für Digitales des Deutschen Bundestag ein Fachegespräch zu den Arbeitsbedingungen von Content Moderator*innen statt. Zum ersten Mal wurden Content Moderator*innen von Mitgliedern des Deutschen Bundestags zu ihren Arbeitsbedingungen gehört.</p>
 <p>Neben den Moderatoren Cengiz Haksöz und Daniel Motaung, war Julia Kloiber von SUPERRR Lab als Expertin geladen. SUPERRR Lab war neben Foxglove Legal, Aspiration und der Gewerkschaft ver.di einer der Organisatoren des Content Moderators Summit. Das Fachgespräch kann in der <a href="https://www.bundestag.de/mediathek?videoid=7554708#url=L21lZGlhdGhla292ZXJsYXk/dmlkZW9pZD03NTU0NzA4&mod=mediathek"> Mediathek des Bundestages</a> nachgeschau werden.</p>
 
 <p>Es folgt das Statement von Julia KLoiber</p>
 
-<p>Content Moderatoren sind die Putzkräfte unserer Demokratie. Ohne ihre Arbeit wären die Social Media Netzwerke voll von Gewalt, Hass und Hetze. Sie sind es, die uns schützen, – sie schauen sich diese Inhalte an, damit wir sie nicht sehen müssen. Ohne ihre Arbeit gäbe es keine Social Media Plattformen.</p>
+<p>"Content Moderatoren sind die Putzkräfte unserer Demokratie. Ohne ihre Arbeit wären die Social Media Netzwerke voll von Gewalt, Hass und Hetze. Sie sind es, die uns schützen, – sie schauen sich diese Inhalte an, damit wir sie nicht sehen müssen. Ohne ihre Arbeit gäbe es keine Social Media Plattformen.</p>
 
 <p>Ich zitiere eine Content Moderatorin “Wir Moderatoren sind wie Minenarbeiter, die gefährliche Arbeiten ohne Sicherheitsausrüstung durchführen. Es ist so, als würde man uns wissentlich in einen Minenschacht schicken, der einsturzgefährdet ist.” 
 Sie haben sie outgesourct an Dritte, damit ihr Image sauber bleibt. Mehrere hundert Beiträge am Tag mit teils extremster Gewalt, – mit Kindesmissbrauch, mit Hinrichtungen – anzusehen, hinterlässt Schäden. Lebenslange Schäden. Lebenslange Schäden. Die Unterstützung, die die Moderatorinnen von ihren Arbeitgebern bekommen, nennt sich: Well-Being Counceling. Es ist eine reine Alibiveranstaltung, – keine fundierte psychologische Betreuung.</p>
@@ -35,7 +35,7 @@ Sie haben sie outgesourct an Dritte, damit ihr Image sauber bleibt. Mehrere hund
 <p><li>Drittens: Wir regen einen Austausch mit den Gremien des Bundestages an, die sich mit den Themen Arbeit und Soziales beschäftigen. Nur so kann sichergestellt werden, dass das Thema Content Moderation in all seinen Herausforderungen und Facetten behandelt wird. Wir stehen mit unserer Expertise jederzeit zur Verfügung.</li>
 
 
-<p>Es braucht viel Courage, um mit der Kultur der Geheimhaltung zu brechen. Ich übergebe jemand, der diese Courage hat: Cengiz Haksöz.</p>
+<p>Es braucht viel Courage, um mit der Kultur der Geheimhaltung zu brechen. Ich übergebe jemand, der diese Courage hat: Cengiz Haksöz."</p>
 
 
 
