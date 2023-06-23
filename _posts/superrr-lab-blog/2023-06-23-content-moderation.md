@@ -26,13 +26,13 @@ Sie haben sie outgesourct an Dritte, damit ihr Image sauber bleibt. Mehrere hund
 <p>Für die Moderatorinnen ist dies Arbeitsrealität. Die Ziele, die sie erreichen müssen, sind so hochgesteckt, dass Qualität und Mensch darunter leiden. Es ist Sisyphusarbeit, – kaum hat man ein Video gelöscht, kommen hundert weitere nach– Sisyphusarbeit ohne Wertschätzung. Für 14,40€ die Stunde.</p>
 
 <p>Sie fragen sich nun, was kann dieser Ausschuss tun?</p>
-<p><ul><li>Erstens: Es braucht mehr Informationen, um das System Content Moderation und die gesellschaftlichen Auswirkungen zu verstehen. Wir empfehlen der Bundesregierung eine fundierte empirische Studie Auftrag zu geben.</p></li>
+<p><ul><li>Erstens: Es braucht mehr Informationen, um das System Content Moderation und die gesellschaftlichen Auswirkungen zu verstehen. Wir empfehlen der Bundesregierung eine fundierte empirische Studie Auftrag zu geben.</li>
 
 
-<p><li>Zweitens: Wir empfehlen, dass sich die Bundesregierung auf europäischer Ebene dafür einsetzt, dass bei der Durch- und Umsetzung des DSA die Arbeitsbedingungen von Content-Moderator*innen deutlich verbessert werden. Insbesondere die für Online-Plattformen verpflichtende Risikobewertung und -minderung bieten hierfür großes Potenzial.</p></li>
+<p><li>Zweitens: Wir empfehlen, dass sich die Bundesregierung auf europäischer Ebene dafür einsetzt, dass bei der Durch- und Umsetzung des DSA die Arbeitsbedingungen von Content-Moderator*innen deutlich verbessert werden. Insbesondere die für Online-Plattformen verpflichtende Risikobewertung und -minderung bieten hierfür großes Potenzial.</li>
 
 
-<p><li>Drittens: Wir regen einen Austausch mit den Gremien des Bundestages an, die sich mit den Themen Arbeit und Soziales beschäftigen. Nur so kann sichergestellt werden, dass das Thema Content Moderation in all seinen Herausforderungen und Facetten behandelt wird. Wir stehen mit unserer Expertise jederzeit zur Verfügung.</p></li></ul>
+<p><li>Drittens: Wir regen einen Austausch mit den Gremien des Bundestages an, die sich mit den Themen Arbeit und Soziales beschäftigen. Nur so kann sichergestellt werden, dass das Thema Content Moderation in all seinen Herausforderungen und Facetten behandelt wird. Wir stehen mit unserer Expertise jederzeit zur Verfügung.</li>
 
 
 <p>Es braucht viel Courage, um mit der Kultur der Geheimhaltung zu brechen. Ich übergebe jemand, der diese Courage hat: Cengiz Haksöz.</p>
