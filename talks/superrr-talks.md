@@ -23,6 +23,6 @@
 <br>
 <p>JUNE</p>
 <li><a href="https://www.youtube.com/watch?v=v45W_m7SOPM">Sorry for the late reply - Feminist Lessons from the Digital Frontier | Julia Kloiber, Hera Hussain, Ellen Ehmke & Michelle Thorne</a></li>
-<br<
+<br>
 <p>MARCH</p>
 <li><a href="https://www.youtube.com/watch?v=WaJdh7DJwVc">Towards A Feminist Tech Policy | Julia Kloiber, Nakeema Stefflbauer, Alexandra Geese</a></li>
