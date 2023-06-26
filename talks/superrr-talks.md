@@ -10,7 +10,7 @@
 <br>
 <p>JANUARY</p>
 
-<li><a href="https://www.youtube.com/watch?v=9x8mL-izeZQ&t=6537s">Privacy Camp 2023: Critical. Digital. Crisis room Boudoir | Corinna Vetter, Elina Eickstädt & Brandon Van Alsenoy</a></li>
+<li><a href="https://www.youtube.com/watch?v=9x8mL-izeZQ&t=6537s">Privacy Camp 2023: Critical. Digital. Crisis room Boudoir | Corinna Vetter, Elina Eickstädt, Patrick Breyer & Ella Jakubowska</a></li>
 <br>
 <p><b>2022</b></p>
 
