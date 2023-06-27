@@ -1,7 +1,7 @@
 ---
-date: 2023-06-01
-title: Today is gonna be the day – auf dem Weg zu einer feministischen Digitalpolitik
+date: 2023-06-02
+title: Keynote Content Moderation – Exploitation as a Service
 type: Talk
-location: Elisa Lindinger, Misbah Khan, Bianca Herlo & Anna Kassautzki
-link: https://www.youtube.com/watch?v=ZmDzuIuXUKc
+location: Julia Kloiber & Daniel Motaung
+link: https://www.youtube.com/watch?v=qD-qJasWkoM
 ---

@@ -1,7 +1,7 @@
 ---
-date: 2022-10-01
-title: Bits & Bäume Panel: Building Just and Sustainable Digital Futures
-type: Talk
-location: Julia Kloiber, Camila Nobrega, Lynn Kaack, Katrin Fritsch & Aymara Llanque Zonta
-link: https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/EFDR8Q/
+date: 2023-01-01
+title: "Privacy Camp 2023: Critical. Digital. Crisis room Boudoir"
+type: Moderation
+location: Corinna Vetter, Elina Eickstädt, Patrick Breyer & Ella Jakubowska
+link: https://www.youtube.com/watch?v=9x8mL-izeZQ&t=6537s
 ---

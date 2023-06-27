@@ -1,7 +1,7 @@
 ---
-date: 2022-08-01
-title: Vier Takte zur Zukunft von Freiheit & Demokratie
+date: 2022-10-01
+title: "Bits & Bäume Panel: Building Just and Sustainable Digital Futures"
 type: Talk
-location: Julia Kloiber, Cesy Leonard, Paulina Fröhlich & Manouchehr Shamsrizi
-link: https://www.youtube.com/watch?v=v45W_m7SOPM
+location: Julia Kloiber, Camila Nobrega, Lynn Kaack, Katrin Fritsch & Aymara Llanque Zonta
+link: https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/EFDR8Q/
 ---
