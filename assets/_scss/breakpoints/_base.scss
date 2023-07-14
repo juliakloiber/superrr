@@ -351,7 +351,7 @@ LAYOUT & GRID STYLES
 
   &.mobile-padded{
      /* for menu mobile top padding*/
-     padding: 50px 0 !important;
+     padding: 50px 0 0 0 !important;
    }
 
   &.padded {
@@ -658,7 +658,7 @@ p {
   position: relative;
   padding-top: 12vh;
 
-  @include transition(padding-top .25s ease);
+  @include transition(padding-top .125s linear);
 
   min-height: 100%;
 
@@ -821,7 +821,7 @@ p {
 HEADER STYLES
 *********************/
 .header-wrap{
-  @include transition(transform .25s ease);
+  @include transition(transform .125s linear);
   transform: translateY(0%);
   position: fixed;
   width: 100%;
@@ -941,7 +941,7 @@ MAIN NAV
   }
 
   &.animated {
-    @include transition(transform .25s ease);
+    @include transition(transform .125s linear);
   }
 
   &.open {
@@ -978,7 +978,7 @@ MAIN NAV
 
   ul.main-nav{
 
-    @include transition(max-height .25s ease-in);
+    @include transition(max-height .125s linear-in);
     /*overflow: hidden;*/
 
     position: relative;
@@ -1061,14 +1061,14 @@ MAIN NAV
   &.post {
     padding-top: 20px;
   }
-  @include transition(transform .25s ease);
+  @include transition(transform .125s linear);
   &.nav-open{
     transform: translateX(320px);
-    @include transition(transform .25s ease);
+    @include transition(transform .125s linear);
   }
 }
 .navigation-left-open-wrap{
-  @include transition(background-color .5s ease .25s);
+  @include transition(background-color .5s linear .125s);
   padding-top: 1rem;
   position: absolute;
   top: 0px;
@@ -1079,7 +1079,7 @@ MAIN NAV
   width: 100vw;
 
 
-  @include transition(transform .25s ease);
+  @include transition(transform .125s linear);
 
   transform: translateY(0%);
 
@@ -1146,7 +1146,7 @@ MAIN NAV
 .navigation-wrap{
   ul.main-nav{
 
-    @include transition(max-height .25s ease-in);
+    @include transition(max-height .125s linear-in);
     /*overflow: hidden;*/
 
     position: relative;
@@ -1218,7 +1218,7 @@ MAIN NAV
 
 a.bg-hover{
   padding: 2px 4px;
-  @include transition(background-color .1s ease-out);
+  @include transition(background-color .1s linear-out);
   background-color: transparent;
 
   &:hover{
@@ -1486,7 +1486,7 @@ CONTENT
       bottom: -150px !important;
     }
 
-    @include transition(bottom .25s ease);
+    @include transition(bottom .125s linear);
 
   }
 
@@ -1524,7 +1524,7 @@ body{
 .intro-text{
   font-size: 1.25rem !important;
   a{
-    @include transition(background-color .2s ease);
+    @include transition(background-color .2s linear);
     background-color: $link-background-hover;
     border-bottom-width: 0 !important;
     padding: 0 5px;
@@ -1828,7 +1828,7 @@ CITY/FELLOW
 
 .event-participants, .event-hosts{
   a{
-    @include transition(background-color .2s ease);
+    @include transition(background-color .2s linear);
     background-color: $link-background-hover;
     &:hover{
       background-color: $third-color;
@@ -2004,7 +2004,7 @@ FOOTER STYLES
     margin-bottom: 50px;
     cursor: pointer;
     h2,h3 {
-      @include transition(color .25s ease);
+      @include transition(color .125s linear);
     }
     &:hover, &:active {
       h2,h3 {
@@ -2166,7 +2166,7 @@ FOOTER STYLES
       }
       .button {
 
-        @include transition(all .1s ease);
+        @include transition(all .1s linear);
 
         background-color: $link-background-hover;
         border: 1px solid $link-background-hover;

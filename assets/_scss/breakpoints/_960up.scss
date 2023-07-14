@@ -145,6 +145,11 @@ $main-column-width: 956px;
     padding: 75px 0 100px 0 !important;
   }
 
+  &.mobile-padded{
+    /* for menu mobile top padding*/
+    padding: 50px 0 50px 0 !important;
+  }
+
 }
 
 .home-icon-wrap{

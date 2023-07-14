@@ -29,7 +29,7 @@
 
                         <h1 class="section-headline">{{ page.title }}</h1>
                         {% if page.hero_img.size > 0 %}
-                                <img class="image-landscape mb-5" src="{{ site.baseurl }}{{ page.hero_img }}" />
+                                <img class="image-landscape pb-5 lazyload" data-src="{{ site.baseurl }}{{ page.hero_img }}" />
                         {% endif %}
                     </div>
                     <div class="content-wrap-inner shrinked">
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="content-wrap-inner shrinked">
-                        <div style="padding: 1rem 0 0 0;" class="pagination">
+                        <div class="pagination">
 
                                                 {% capture the_collection %}{{ page.collection }}{% endcapture %}
 

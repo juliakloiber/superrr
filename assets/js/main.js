@@ -492,6 +492,14 @@
 
     Controller.prototype.addEventHandlers = function(){
 
+
+        /*********************
+        scroll event
+        *********************/
+        //$(document.body).on('touchmove', ref.onScroll); // for mobile
+        $(window).on('scroll', ref.onScroll);
+        ref.onScroll();
+
         /*********************
         scroll to #id
         *********************/
@@ -555,13 +563,6 @@
             }, 50);
         });
         ref.resize();
-
-        /*********************
-         scroll event
-         *********************/
-            //$(document.body).on('touchmove', ref.onScroll); // for mobile
-        $(window).on('scroll', ref.onScroll);
-        ref.onScroll();
     };
 
     /*********************
