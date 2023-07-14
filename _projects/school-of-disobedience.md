@@ -25,8 +25,5 @@ The goal of this course is to get an overview over past and present examples of 
 <img class="img-responsive" src="/assets/img/static/projects/disobedience2.jpg">
 
 
-<p><a href="https://schoolofdisobedience.net/" target="_blank">schoolofdisobedience.net</a></p>
-
-
 
 

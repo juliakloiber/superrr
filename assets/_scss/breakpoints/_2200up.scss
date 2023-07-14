@@ -2,13 +2,13 @@
 FONTSIZES
 *********************/
 
-$fontsize-120: 7rem !important;
+$fontsize-120: 7.5rem !important;
 $fontsize-50: 2.75rem !important;
-$fontsize-40: 2rem !important;
+$fontsize-40: 1.9rem !important;
 $fontsize-28: 1.75rem !important;
 $fontsize-24: 1.5rem !important;
 $fontsize-22: 1.375rem !important;
-$fontsize-70: 3rem !important;
+$fontsize-70: 3.75rem !important;
 
 .fontsize-120 {
   p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
@@ -55,71 +55,85 @@ $fontsize-70: 3rem !important;
   }
   font-size: $fontsize-22;
 }
-a, p, li, h4, table {
-  font-size: 1.4rem;
+
+.section-headline {
+  font-size: $fontsize-70;
+  a {
+    font-size: $fontsize-70;
+  }
 }
 
-
-body.feminist-tech {
-  .intro-wrap {
-    padding-top: 100px;
-  }
+.project-headline{
+  font-size: $fontsize-70;
 }
 
 .ftf-quote {
   blockquote {
-    font-size: 2rem;
+    font-size: 2.25rem;
     span {
-      font-size: 2rem;
+      font-size: 2.25rem;
     }
   }
 }
 
+.section-headline {
+  padding-top: 150px;
+}
+
 /*********************
-BLOG
+LAYOUT & GRID STYLES
 *********************/
 
-.content-wrap-inner{
-  &.blog{
-    max-width: 50vw;
+body.feminist-tech {
+  h1, .h1 {
+    font-size: 4rem;
+    margin-bottom: 4rem;
   }
 }
 
-.section-headline {
-   padding-top: 125px;
- }
+.section {
+  &.first {
+    padding-top: 100px;
+  }
+}
+
+/*********************
+HOME
+*********************/
+.intro-text{
+  font-size: 2.25rem !important;
+}
+
 
 /*********************
 CITY
 *********************/
-.batch-wrap {
+
+.batch-wrap{
   &.fellows {
     width: 50%;
     margin: 0 auto;
-    padding: 120px 0;
+    padding: 150px 0;
+    .batch-svg {
+      width: 50%;
+    }
   }
-}
-
-.city-wrap{
-  padding: 50px 150px 50px 0px;
+  &.city{
+    padding: 50px 50px 0 200px;
+  }
 }
 
 .event-info-wrap{
 
-  &.vision {
-    padding-top: 145px;
-  }
-
   width: 70%;
 
   .event-intro{
-    font-size: 3.75rem;
+    font-size: 4.25rem;
   }
   .event-date{
-    font-size: 6rem;
+    font-size: 6.5rem;
   }
   .event-tags{
-    font-size: 2.75rem;
+
   }
 }
-

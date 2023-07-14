@@ -182,6 +182,16 @@ EVEN LARGER VIEWING SIZE (col-xlg)
 } // end of media query
 
 /*********************
+iMac etc
+*********************/
+@media only screen and (min-width: 2200px) {
+
+  // styles in 2200up.scss
+  @import "breakpoints/2200up";
+
+} // end of media query
+
+/*********************
 RETINA (2x RESOLUTION DEVICES)
 This applies to the retina iPhone (4s) and iPad (2,3) along with
 other displays with a 2x resolution. You can also create a media

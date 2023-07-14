@@ -16,8 +16,8 @@ FONTSIZES
 *********************/
 
 $fontsize-120: 2.75rem !important;
-$fontsize-70: 2.5rem !important;
-$fontsize-50: 2.25rem !important;
+$fontsize-70: 2.25rem !important;
+$fontsize-50: 2rem !important;
 $fontsize-40: 1.5rem !important;
 $fontsize-28: 1.4rem !important;
 $fontsize-24: 1.4rem !important;
@@ -227,6 +227,9 @@ html{
     .page-wrap {
       padding-top: 0;
     }
+    .navigation-left-open-wrap {
+      background-color: $grey-light;
+    }
   }
 
 }
@@ -292,7 +295,7 @@ LAYOUT & GRID STYLES
 }
 
 .section-headline{
-  line-height: 1;
+  line-height: normal;
   font-size: $fontsize-70;
   a {
     font-size: $fontsize-70;
@@ -300,7 +303,7 @@ LAYOUT & GRID STYLES
   text-transform: uppercase;
   width: 100%;
   text-align: center;
-  padding: 25px 25px 35px 25px;
+  padding: 35px 0;
   margin-bottom: 0;
   max-width: 500px;
   margin-left: auto;
@@ -348,7 +351,7 @@ LAYOUT & GRID STYLES
 
   &.mobile-padded{
      /* for menu mobile top padding*/
-     padding: 75px 0 35px 0 !important;
+     padding: 50px 0 !important;
    }
 
   &.padded {
@@ -956,7 +959,7 @@ MAIN NAV
   }
 
   .navigation-left-wrap-inner{
-    margin: 1rem;
+    margin: 2rem;
     height: 100%;
     justify-content: center;
     align-items: center;
@@ -1020,7 +1023,7 @@ MAIN NAV
       display: block;
       padding-left: 0 !important;
       padding-right: 0px;
-      margin-bottom: 20px !important;
+      margin-bottom: 10px !important;
 
       &:last-of-type{
         padding-right: 0;
@@ -1065,14 +1068,15 @@ MAIN NAV
   }
 }
 .navigation-left-open-wrap{
+  @include transition(background-color .5s ease .25s);
   padding-top: 1rem;
   position: absolute;
   top: 0px;
   left: 320px;
-  padding-left: 1rem;
+  padding-left: 1.5rem;
   cursor: pointer;
   background-color: transparent;
-  width: 100%;
+  width: 100vw;
 
 
   @include transition(transform .25s ease);
@@ -1102,7 +1106,7 @@ MAIN NAV
 
     width: 53px;
     height: 36px;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
 
   .nav-open-info{
@@ -1136,7 +1140,7 @@ MAIN NAV
 
   width: 36px;
   height: 36px;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .navigation-wrap{
@@ -1151,6 +1155,7 @@ MAIN NAV
     margin: 0 auto;
     line-height: 1;
     z-index: 5;
+    padding-left: 1rem;
 
     text-align: center;
 
@@ -1208,7 +1213,7 @@ MAIN NAV
 }
 
 .home-text{
-  line-height: 1.2em;
+  line-height: 1.3em;
 }
 
 a.bg-hover{
@@ -1392,9 +1397,11 @@ PAGE & SECTIONS
 *********************/
 
 .content-wrap-inner{
-  width: 88%;
+  width: 100%;
   margin: 0 auto;
   max-width: 1280px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 
   &.full{
     width: 100%;
@@ -1421,7 +1428,7 @@ CONTENT
 *********************/
 
 .content-block{
-  padding: 70px 0;
+  padding: 70px 1.5rem;
 }
 .image-block{
   padding-top: 70px;

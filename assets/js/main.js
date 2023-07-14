@@ -12,7 +12,7 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $html, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, hasLargeHeader, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
+        superrrTimeline, isFrontPage, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
     function Controller(jQuery){
 
         $ = jQuery;
@@ -31,15 +31,10 @@
 
     Controller.prototype.init = function(){
 
-        if($('.header-spacer').length > 0){
-            hasLargeHeader = true;
-        } else hasLargeHeader = false;
-
         isFrontPage = window.is_front_page;
 
         Logger.log("Startup page.");
         Logger.log("isFrontPage -> " + isFrontPage);
-        Logger.log("hasLargeHeader -> " + hasLargeHeader);
         Logger.log("header spacer -> " + $('.header-spacer').length);
 
 
@@ -58,8 +53,8 @@
 
         $navToggle = $('.nav-toggle');
         $navToggle.click(function(e){
-            ref.toggleMenu();
             e.preventDefault();
+            ref.toggleMenu();
         });
 
         $('.blog-post').fitVids();
@@ -152,8 +147,6 @@
             .staggerFrom($spansblock1, 0.05, {delay:.25,opacity:0, ease:Sine.easeIn}, .25)
             .staggerFrom($spansblock2, 0.05, {delay:.25, opacity:0, ease:Sine.easeIn}, .25);
 
-        initialized = true;
-
         $naviagtionLeftWrap = $('.navigation-left-wrap');
         $naviagtionLeftVictims = $('.navigation-left-victim');
         $('.nav-close-btn').click(function(){
@@ -215,6 +208,9 @@
                 }
             })
         });
+
+        initialized = true;
+
     };
 
     Controller.prototype.openLeftNavigation = function(){
@@ -234,29 +230,25 @@
      *********************/
     Controller.prototype.setupSuperrrAnimation = function(){
 
-        if(hasLargeHeader){
+        //the header ticker
+        sm_controller = new ScrollMagic.Controller();
+        superrrTimeline = new TimelineMax({delay:0})
+            .set($header, {height: '12vh', backgroundPosition: '0% 0%'})
+            .set($logo, {fontSize: ref.getTargetFontsize()})
+            .fromTo($header, 1, {backgroundPosition: '0% 0%', ease:Sine.easeInOut}, {backgroundPosition: '0% 100%', ease:Sine.easeInOut},'transform')
+            .addPause();
 
-            ref.setHeaderAnimation();
 
-        } else {
+        var h = ref.viewport().height - $header.height();
+        $('.navigation-left-wrap-inner').height(h);
 
-            //different animation on subpages
-            sm_controller = new ScrollMagic.Controller();
-            superrrTimeline = new TimelineMax({delay:0})
-                .set($header, {height: '12vh', backgroundPosition: '0% 0%'})
-                .set($logo, {fontSize: ref.getTargetFontsize()})
-                .fromTo($header, 2, {backgroundPosition: '0% 0%', ease:Sine.easeInOut}, {backgroundPosition: '0% 100%', ease:Sine.easeInOut},'transform')
-                .addPause();
 
-            var h = ref.viewport().height - $header.height();
-            $('.navigation-left-wrap-inner').height(h);
+        sm_scene = new ScrollMagic.Scene({triggerElement: "body", triggerHook: 'onLeave', duration: $('body').height(), offset: 0})
+            .setTween(superrrTimeline)
+            //.addIndicators({name: "#trigger"}) // add indicators (requires plugin)
+            .addTo(sm_controller);
 
-            sm_scene = new ScrollMagic.Scene({triggerElement: "body", triggerHook: 'onLeave', duration: $('body').height(), offset: 0})
-                .setTween(superrrTimeline)
-                //.addIndicators({name: "#trigger"}) // add indicators (requires plugin)
-                .addTo(sm_controller);
 
-        }
 
         //backgrounds
         $('.background-image').each(function(){
@@ -500,14 +492,6 @@
 
     Controller.prototype.addEventHandlers = function(){
 
-
-        /*********************
-        scroll event
-        *********************/
-        $(document.body).on('touchmove', ref.onScroll); // for mobile
-        $(window).on('scroll', ref.onScroll);
-        ref.onScroll();
-
         /*********************
         scroll to #id
         *********************/
@@ -571,6 +555,13 @@
             }, 50);
         });
         ref.resize();
+
+        /*********************
+         scroll event
+         *********************/
+            //$(document.body).on('touchmove', ref.onScroll); // for mobile
+        $(window).on('scroll', ref.onScroll);
+        ref.onScroll();
     };
 
     /*********************
@@ -617,10 +608,8 @@
     resize event handler
     *********************/
     Controller.prototype.resize = function(){
-        if(!hasLargeHeader){
-            TweenMax.set($pageWrap,{scrollPaddingTop: $header.height()+'px'});
-            TweenMax.set($('html'),{scrollPaddingTop: ($header.height()+50)+'px'});
-        }
+        TweenMax.set($pageWrap,{scrollPaddingTop: $header.height()+'px'});
+        TweenMax.set($('html'),{scrollPaddingTop: ($header.height()+50)+'px'});
         if(ref.viewport().width >= 960){
             $naviToggle.removeClass('gone');
         }

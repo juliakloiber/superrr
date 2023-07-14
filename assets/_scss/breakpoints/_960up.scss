@@ -64,6 +64,10 @@ $fontsize-70: 2.75rem !important;
   }
 }
 
+html.ticker-hidden .navigation-left-open-wrap {
+  background-color: transparent;
+}
+
 
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
