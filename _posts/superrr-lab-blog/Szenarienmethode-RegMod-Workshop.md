@@ -54,7 +54,7 @@ description: Reflections on Politics, Technicalities and Practicalities of Archi
 <p>Zunächst erfolgt eine umfassende Recherche. Auf dieser Basis werden anschließend für jeden der PESTLE-Felder diejenigen Einflussfaktoren ausgewählt, die als besonders relevant und deren zukünftige Entwicklungswege momentan gleichzeitig als besonders ungewiss erscheinen. Jeder Einflussfaktor hat mindestens zwei, häufig noch mehr Entwicklungsoptionen. Szenarien entstehen dann, wenn Optionen faktorenübergreifend gezielt miteinander kombiniert werden (siehe Grafik). Das Ergebnis: eine Handvoll schlüssiger und sehr unterschiedlicher Szenarien.
  </p>
 
-<img src="assets/img/blog/PESTLE_Grafik_RegMod_Methodentext.jpg" alt="Illustration with a person sitting at a computer in the lower right corner, looking at a screen. The screen emmits light accross the entire illustration to the upper left hand corner, illuminating the words 'Content Moderators Manifesto'" width="1056" height="594">
+<img src="/assets/img/blog/PESTLE_Grafik_RegMod_Methodentext.jpg" alt="Illustration with a person sitting at a computer in the lower right corner, looking at a screen. The screen emmits light accross the entire illustration to the upper left hand corner, illuminating the words 'Content Moderators Manifesto'" width="1056" height="594">
 
 
 <p><i>Die Grafik zeigt, wie aus möglichen Entwicklungspfaden einzelner Faktoren unterschiedliche Szenarien entstehen. In diesem Beispiel nutzen wir für jede PESTLE-Kategorie einen Einflussfaktor (mit jeweils zwei bis drei möglichen Entwicklungspfaden) – in größeren Szenario-Prozessen werden häufig auch mehrere Faktoren pro Kategorie verwendet (Grafik: Futures Probes).</i></p>
