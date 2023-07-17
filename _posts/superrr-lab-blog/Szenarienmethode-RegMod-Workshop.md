@@ -97,3 +97,6 @@ description: Ein methodischer Ansatz, um Digitalpolitik zukunftsfähig zu machen
 </ul></p>
 
 <p>Wie konkret kann es werden? Das zeigen unsere Prüfsteine für die Registermodernisierung – ein trockenes und komplexes Thema, bei dem es aber nicht nur heiß her ging, sondern auch anschaulich und greifbar blieb: <a href="https://feministtechpolicy.org/fallbeispiele/pruefsteine-regmod/">Registermodernisierung zukunftsfähig machen</a></p>
+
+<p>Hier findet ihr auch die Methode als PDF-Download.</p>
+
