@@ -6,9 +6,6 @@ title: Szenarien – ein methodischer Ansatz, um Digitalpolitik zukunftsfähig 
 description: Reflections on Politics, Technicalities and Practicalities of Archiving.
 ---
 
-<img src="/assets/img/blog/Content_Mod_Manifesto.png" alt="Illustration with a person sitting at a computer in the lower right corner, looking at a screen. The screen emmits light accross the entire illustration to the upper left hand corner, illuminating the words 'Content Moderators Manifesto'" width="1056" height="594">
-
-
 
 <p>Politik und Staat regulieren die Tech-Branche, gestalten aber auch selbst digitale Angebote mit großer sozialer Relevanz. Wie können wir sicherstellen, dass Regulierung und staatliche Digitalisierung für soziale Gerechtigkeit sorgen, anstatt bestehende Ungleichheiten zu verstärken? Notwendig ist dafür eine gesamtgesellschaftliche, vorausschauende Betrachtung der Auswirkungen neuer Technologien, Regulierungsansätze und Gestaltungsvorschriften – insbesondere im Hinblick auf Digitalpolitik und Verwaltung. Weil diese bislang fehlt, zeigen wir hier Ansätze auf, wie mithilfe von Szenario-Methoden eine breit gedachte, gesamtgesellschaftliche Risikoabschätzung digitaler Technologien gelingen kann.
 </p>
