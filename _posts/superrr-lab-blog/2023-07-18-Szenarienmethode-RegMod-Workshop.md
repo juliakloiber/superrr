@@ -5,6 +5,7 @@ author: SUPERRR Lab und Futures Probes
 title: Szenarien 
 description: Ein methodischer Ansatz, um Digitalpolitik zukunftsfähig zu machen.
 ---
+<img src="/assets/img/blog/Futuring Slide-Background3.jpg" alt="Das Bild zeigt ein komplexes Muster aus rosa und hellblauen Strichen, die sich kreuzen und zusammen immer wieder Kreise bilden." width="1056" height="594">
 
 <h3>Ein methodischer Ansatz, um Digitalpolitik zukunftsfähig zu machen</h3>
 
@@ -98,5 +99,5 @@ description: Ein methodischer Ansatz, um Digitalpolitik zukunftsfähig zu machen
 
 <p>Wie konkret kann es werden? Das zeigen unsere Prüfsteine für die Registermodernisierung – ein trockenes und komplexes Thema, bei dem es aber nicht nur heiß her ging, sondern auch anschaulich und greifbar blieb: <a href="https://feministtechpolicy.org/fallbeispiele/pruefsteine-regmod/">Registermodernisierung zukunftsfähig machen</a></p>
 
-<p>Hier findet ihr auch die Methode als PDF-Download.</p>
+<p><a href="https://superrr.net/assets/downloads/Szenarien-ein methodischer Ansatz-SUPERRR Lab-Futures Probes.pdf">Hier findet ihr auch die Methode als PDF-Download.</a></p>
 
