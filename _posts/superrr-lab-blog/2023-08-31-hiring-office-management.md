@@ -2,12 +2,9 @@
 layout: post
 type: lab
 author: Elisa Lindinger
-title: Stellenausschreibung
+title: Stellenausschreibung Office Manager*in und Teamassistenz
 description: Wir suchen eine*n Office Manager*in und Teamassistenz in Teilzeit
 ---
-
-<h2>SUPERRR is hiring – Office Manager*in und Teamassistenz
-</h2>
 
 <p>Ort: Berlin, Deutschland.
 <br>Bewerbungsfrist: 15.10.2023
