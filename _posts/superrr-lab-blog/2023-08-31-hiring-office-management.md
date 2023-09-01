@@ -3,7 +3,7 @@ layout: post
 type: lab
 author: Elisa Lindinger
 title: Stellenausschreibung Office Manager*in und Teamassistenz
-description: Wir suchen eine*n Office Manager*in und Teamassistenz in Teilzeit
+description: Bewirb dich bis 15.10.2023 
 ---
 
 <p>Ort: Berlin, Deutschland.
