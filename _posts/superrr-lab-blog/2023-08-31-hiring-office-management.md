@@ -9,12 +9,12 @@ description: Wir suchen eine*n Office Manager*in und Teamassistenz in Teilzeit
 <h2>SUPERRR is hiring – Office Manager*in und Teamassistenz
 </h2>
 
-<p>Ort: Berlin, Deutschland.</p>
-<p>Bewerbungsfrist: 15.10.2023</p>
-<p>Vertragsbeginn: flexibel zwischen 01.12.2023 und 01.02.2024</p>
-<p>Vertragslaufzeit: vorerst bis 31.12.2024, mit Aussicht auf Verlängerung</p>
-<p>Umfang: 20 Wochenstunden (50%)</p>  
-<p>Bezahlung nach <a href="https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1">TV-ÖD Bund E11/1</a> in Teilzeit 20h </p>
+<p>Ort: Berlin, Deutschland.
+<br>Bewerbungsfrist: 15.10.2023
+<br>Vertragsbeginn: flexibel zwischen 01.12.2023 und 01.02.2024
+<br>Vertragslaufzeit: vorerst bis 31.12.2024, mit Aussicht auf Verlängerung
+<br>Umfang: 20 Wochenstunden (50%)
+<br>Bezahlung nach <a href="https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1">TV-ÖD Bund E11/1</a> in Teilzeit 20h </p>
 
 <h3>Wer wir sind und wen wir suchen:</h3>
 
