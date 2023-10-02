@@ -9,12 +9,12 @@ description: Seeing in the future has always been considered a superpower, but w
 
 <img src="/assets/img/blog/joana_varon.jpg" alt="Image with Illustration of Joana Varon" width="500" height="600">
 
-<p><b>SUPERRR:</b>For people who've never heard about the Oracle for Transfeminist Technologies, what is it?
+<p><b>SUPERRR:</b> For people who've never heard about the Oracle for Transfeminist Technologies, what is it?
 </p>
 <p><b>Joana:</b> The Oracle is a card game inspired by the tarot, but with a different format and purpose. It is designed to trigger conversations about alternative tech around transfeminist technologies from the future, but in a playful manner. So it's meant to open up our imaginations about what formats and what values alternative technologies can have. It is a joint project led by myself from Coding Rights, Clara Juliano also from Coding Rights, and Sasha Costanza-Chock from Design Justice Network. We developed the Oracle over the years and through a series of workshops where we would play and experiment with the deck. The cards, the concepts and the game's logic changed and developed at every iteration.
 </p>
 
-<p><b>SUPERRR:</b>Can you tell us more about this iterative process? How was the idea born and how did it evolve?
+<p><b>SUPERRR:</b> Can you tell us more about this iterative process? How was the idea born and how did it evolve?
 </p>
 <p><b>Joana:</b> In November 2017, when many experts came to Rio de Janeiro for the Global Symposium on AI and Inclusion, we decided to host a small side event at the Coding Rights offices to consider the question: what would a feminist algorithm look like? We wanted to do something different to debating inclusion in AI, because inclusion sometimes means that you're going to be included in something that was developed by someone else, in someone else’s perspective. So we wanted to steer the conversation away from that kind of framing and deliberate on questions like, “What would a feminist algorithm do?" and “How do we envision that piece of tech when it comes from our needs and our desires, and our imaginations and our cosmologies?”. We held a workshop on these questions, and with that, we started to assemble post-its with values written on them, that in the end kickstarted ideation for what would later become, after a series of other workshops, the sum of the transfeminist values of the Oracle. And I don't know exactly when we shifted to the card game, but already we were assembling the values, playing with the post-its and using our imagination.
 <br><br>
