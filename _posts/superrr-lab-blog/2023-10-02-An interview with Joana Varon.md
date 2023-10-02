@@ -9,7 +9,7 @@ description: Seeing in the future has always been considered a superpower, but w
 
 <img src="/assets/img/blog/joana_varon.jpg" alt="Image with Illustration of Joana Varon" width="500" height="600">
 
-<p><b>SUPERRR:</b>  For people who've never heard about the Oracle for Transfeminist Technologies, what is it?
+<p><b>SUPERRR:</b>For people who've never heard about the Oracle for Transfeminist Technologies, what is it?
 </p>
 <p><b>Joana:</b> The Oracle is a card game inspired by the tarot, but with a different format and purpose. It is designed to trigger conversations about alternative tech around transfeminist technologies from the future, but in a playful manner. So it's meant to open up our imaginations about what formats and what values alternative technologies can have. It is a joint project led by myself from Coding Rights, Clara Juliano also from Coding Rights, and Sasha Costanza-Chock from Design Justice Network. We developed the Oracle over the years and through a series of workshops where we would play and experiment with the deck. The cards, the concepts and the game's logic changed and developed at every iteration.
 </p>
