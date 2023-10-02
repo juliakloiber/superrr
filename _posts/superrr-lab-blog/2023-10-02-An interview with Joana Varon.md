@@ -2,7 +2,8 @@
 layout: post
 type: lab
 author: Julia Kloiber
-title: Seeing in the future has always been considered a superpower, but what if a card game can help us envision the future we want? We sat down with Joana Varon, one of the creators of the Oracle for Transfeminist Technologies. In this interview we learn more about how the card game challenges the concept of universal technology and incorporates ancestral history in the creation of a future of technology made by the people who have so far been sidelined from it's creation and use.
+title: Between the Past, the Now and the Future – An interview with Joana Varon
+description: Seeing in the future has always been considered a superpower, but what if a card game can help us envision the future we want? We sat down with Joana Varon, one of the creators of the Oracle for Transfeminist Technologies. In this interview we learn more about how the card game challenges the concept of universal technology and incorporates ancestral history in the creation of a future of technology made by the people who have so far been sidelined from it's creation and use.
 
 ---
 
