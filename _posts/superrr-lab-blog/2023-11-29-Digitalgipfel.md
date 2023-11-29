@@ -19,7 +19,7 @@ description: Zukunftsworkshop für eine gemeinwohlorientierte Digitalisierung
 
 <p>Nach einer kurzen Einführung in Ziel und Methode des Workshops von Johanna Graf (Germanwatch) und Julia Kloiber (Superrr Lab) machten sich die sechs Kleingruppen daran aufzuschlüsseln, welche Regeln, Werte und Paradigmen hinter gängigen Digitalisierungserzählungen stecken. Ein Beispiel „Technische Innovation ist der Weg aus der Klimakrise“. Die Grafik zeigt wie die gängige Litanei dekonstruiert wurde.</p>
 
-<img src="/assets/img/blog/DigitalgipfelErgebnisse10.png" alt="Illustration of the workshop results" width="1056" height="594" style="border">
+<img src="/assets/img/blog/DigitalgipfelErgebnisse10.png" alt="Illustration of the workshop results" width="1056" height="594" style="border:1px black;">
 
 
 <p>Um die Gruppen gut zu durchmischen, wurden die Teilnehmenden den Kleingruppen zugelost. Nach dem Dekonstruieren bestehender Erzählungen wurden im nächsten Schritt alternative Erzählungen konstruiert und in einer abschließenden Pitch-Runde im Plenum präsentiert. Die Grafik zeigt, wie eine neue wünschbare Erzählung konstruiert wurde.</p>
