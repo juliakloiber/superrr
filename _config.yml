@@ -28,6 +28,8 @@ superrr_twitter: "https://twitter.com/superrrnetwork"
 superrr_facebook: ""
 superrr_insta: "https://www.instagram.com/superrrnetwork/"
 mailchimp_signup_link: "https://superrrr.us18.list-manage.com/subscribe?u=07794224f80eb3988af949760&id=2b1b3a01e0"
+support_us_text: "SUPPORT US"
+support_us_link: "https://www.betterplace.org/de/projects/124609-superrr-lab-gerechte-digitale-zukuenfte"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

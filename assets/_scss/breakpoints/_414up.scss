@@ -2,11 +2,11 @@
 FONTSIZES
 *********************/
 
-$fontsize-120: 3.7rem !important;
-$fontsize-70: 3rem !important;
-$fontsize-50: 2.25rem !important;
-$fontsize-40: 1.5rem !important;
-$fontsize-28: 1.4rem !important;
+$fontsize-120: 2.8rem !important;
+$fontsize-70: 2.2rem !important;
+$fontsize-50: 1.8rem !important;
+$fontsize-40: 1.6rem !important;
+$fontsize-28: 1.5rem !important;
 $fontsize-24: 1.4rem !important;
 $fontsize-22: 1.25rem !important;
 
@@ -101,8 +101,12 @@ PAGE & SECTIONS
 .content-wrap-inner{
   &.full{
     width: 100%;
-    padding: 0 2rem;
+    padding: 0 1.25rem;
     max-width: none;
   }
+}
+
+.card-holder .card .teaser-card-inner {
+  height: 525px;
 }
 

@@ -147,9 +147,13 @@ $main-column-width: 956px;
 
   &.mobile-padded{
     /* for menu mobile top padding*/
-    padding: 50px 0 50px 0 !important;
+    padding: 75px 0 50px 0 !important;
   }
 
+}
+
+.navigation-left-open-wrap {
+  left: 420px;
 }
 
 .home-icon-wrap{
@@ -169,8 +173,8 @@ $main-column-width: 956px;
 }
 .navigation-left-wrap {
   .community-batch-wrap{
-    width: 60%;
-    margin-top: 1rem;
+    width: calc(25vh - 4vh);
+    margin-top: 3rem;
   }
 }
 
@@ -212,7 +216,7 @@ $main-column-width: 956px;
   .card {
     scroll-snap-align: start;
     width: calc(calc(800px - calc(#{$cards-per-column} - 1) * #{$row-gap}) / #{$cards-per-column});
-    margin-right: 54px;
+    margin-right: 25px;
 
     .teaser-card-inner{
       height: 510px;

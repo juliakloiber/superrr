@@ -20,7 +20,7 @@
         lastScrollTop = 0;
 
         Logger.useDefaults();
-        Logger.setLevel(Logger.OFF);
+        //Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
@@ -75,28 +75,31 @@
         $('.batch-inner').mouseover(function() {
 
             if($(this).find('.batch-svg').length > 0){
-                var doc = $(this).find('.batch-svg')[0].getSVGDocument();
-                var superrr = doc.getElementById("super");
-                var $parent = $(this).closest('.section');
+
+                if($(this).find('.batch-svg')[0].getSVGDocument){
+                    var doc = $(this).find('.batch-svg')[0].getSVGDocument();
+                    var superrr = doc.getElementById("super");
+                    var $parent = $(this).closest('.section');
 
 
-                if(superrr){
-                    if($parent.hasClass('left')){
-                        TweenMax.to(superrr, 15, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
-                    } else {
-                        TweenMax.to(superrr, 15, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                    if(superrr){
+                        if($parent.hasClass('left')){
+                            TweenMax.to(superrr, 15, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                        } else {
+                            TweenMax.to(superrr, 15, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
+                        }
                     }
+
+
+                    /*
+                     var timeline = new TimelineMax({delay:0, paused:false, repeat:-1})
+                     .set(superrr, {perspective:800, transformOrigin:"50% 50%", transformStyle:"preserve-3d"})
+                     .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scale:0, skewX:-15, skewY:-15, rotation:45, ease:Sine.easeIn})
+                     .fromTo(superrr, 0.7, {scale:0, skewX:-15, skewY:-15, rotation:-45, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeOut})
+                     .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeIn})
+                     .fromTo(superrr, 0.7, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:360, ease:Sine.easeOut})
+                     */
                 }
-
-
-                /*
-                 var timeline = new TimelineMax({delay:0, paused:false, repeat:-1})
-                 .set(superrr, {perspective:800, transformOrigin:"50% 50%", transformStyle:"preserve-3d"})
-                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scale:0, skewX:-15, skewY:-15, rotation:45, ease:Sine.easeIn})
-                 .fromTo(superrr, 0.7, {scale:0, skewX:-15, skewY:-15, rotation:-45, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeOut})
-                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeIn})
-                 .fromTo(superrr, 0.7, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:360, ease:Sine.easeOut})
-                 */
             }
 
 
@@ -180,38 +183,56 @@
         }
         document.querySelectorAll(".card-holder").forEach((cardHolder) => {
             // Scroll cards into view.
+
             cardHolder.querySelectorAll('.card').forEach((card) => {
                 card.onclick = (event) => {
-                    var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
-                    var currentOffset = cardHolder.scrollLeft;
-                    var current = parseInt(cardHolder.scrollLeft/$('.card').width());
-                    $('.cards-navigation').find('.card-dot').each(function(){
-                        $(this).removeClass('active');
-                    });
-                    $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
-
-                    var rect = card.getBoundingClientRect()
-
-                    if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
-                        return true
-                    }
-
-                    Logger.log("cardHolder? ", cardHolder);
-
-                    cardHolder.scrollTo({
-                        top: 0,
-                        left: targetOffset,
-                        behavior: "smooth"
-                    })
-
+                    ref.nextCard(cardHolder, card);
                     return false
                 }
+
             })
+        });
+
+        console.log("$('.landing-batch') -> ", $('.landing-batch').length);
+        $('.batch-inner').mouseover(function() {
+            TweenMax.fromTo($(this).find('.svg-hover'), 1.5, {rotation:"0", transformOrigin:"50% 50%" }, {rotation:"720", transformOrigin:"50% 50%"});
+        }).mouseout(function() {
+
         });
 
         initialized = true;
 
     };
+
+    Controller.prototype.nextCard = function(cardHolder, card){
+        var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
+        var currentOffset = cardHolder.scrollLeft;
+        var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+        $('.cards-navigation').find('.card-dot').each(function(){
+            $(this).removeClass('active');
+        });
+        $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+        var rect = card.getBoundingClientRect()
+
+        if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+            return true
+        }
+
+        Logger.log("cardHolder? ", cardHolder);
+
+        cardHolder.scrollTo({
+            top: 0,
+            left: targetOffset,
+            behavior: "smooth"
+        })
+
+    }
+
+    Controller.prototype.onSwipe = function(e){
+        Logger.log("onSwipe -> ", e);
+        if(mainMenu) mainMenu.onSwipe(e);
+    }
 
     Controller.prototype.openLeftNavigation = function(){
         //open navigation
@@ -432,7 +453,7 @@
 
         var batches = document.getElementsByClassName("batch-svg");
 
-        $('.landing-teaser').mouseover(function() {
+        $('.landing-batch').mouseover(function() {
             TweenMax.fromTo($(this).find('.landing-batch'), 1, {rotation:"0", transformOrigin:"50% 50%"}, {rotation:"360", transformOrigin:"50% 50%"});
         }).mouseout(function() {
 
@@ -440,7 +461,8 @@
 
         for(var i = 0, length = batches.length; i < length; i++) {
             var batch = batches[i];
-            if(batch){
+            console.log("batch -> ", batch);
+            if(batch && batch.getSVGDocument){
                 var doc = batch.getSVGDocument();
 
                 var $parent = $(batch).closest('.section');
