@@ -246,6 +246,11 @@ html, body{
 .no-cursor{
   cursor: default;
 }
+.rounded-hover {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
 
 body {
 
@@ -914,7 +919,7 @@ HEADER STYLES
   color: $secondary-color;
 }
 .home-icon-wrap{
-  height: calc(25vh - 4vh);
+  height: calc(35vh - 4vh);
   max-height: 320px;
   width: 100%;
   object, svg{
@@ -2315,6 +2320,20 @@ FOOTER STYLES
   font-size: unset;
   text-align: left;
   white-space: initial;
+}
+
+/*********************
+SUPPORT US batch
+*********************/
+.batch-inner.support {
+  svg .support-us-text path {
+    @include transition(all 0.075s linear);
+  }
+  &:hover, &:active {
+    svg .support-us-text path {
+      fill: $primary-color;
+    }
+  }
 }
 
 @keyframes marquee {
