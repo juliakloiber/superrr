@@ -23,15 +23,11 @@
             <li {% if base_dir[1] == 'news' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/news">NEWS</a></li>
         </ul>
         <div class="community-batch-wrap">
-            {% if page.type == 'community' %}
-                <a href="/" class="batch-inner">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-lab.svg" type="image/svg+xml" ></object>
-                </a>
-            {% else %}
-                <a href="/community" class="batch-inner">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-community.svg" type="image/svg+xml" ></object>
-                </a>
-            {% endif %}
+            <a href="{{ site.support_us_link }}" class="batch-inner support">
+                                        <div class="img-responsive batch-svg" >
+                                            {% include svgs/superrr-support.liquid %}
+                                        </div>
+                                    </a>
         </div>
     </div>
 </div>

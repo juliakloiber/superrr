@@ -2,9 +2,9 @@
 FONTSIZES
 *********************/
 
-$fontsize-120: 3.25rem !important;
-$fontsize-70: 2.75rem !important;
-$fontsize-50: 2.25rem !important;
+$fontsize-120: 2.8rem !important;
+$fontsize-70: 2.2rem !important;
+$fontsize-50: 1.8rem !important;
 $fontsize-40: 1.5rem !important;
 $fontsize-28: 1.4rem !important;
 $fontsize-24: 1.4rem !important;
@@ -63,19 +63,18 @@ MAIN NAV
 *********************/
 
 .navigation-left-open-wrap {
-  left: 375px;
+  left: 363px;
 }
 .navigation-left-wrap {
-  transform: translateX(-375px);
-  width: 375px;
+  transform: translateX(-363px);
+  width: 363px;
   .community-batch-wrap{
-    width: 70%;
-    margin-top: 2rem;
+    width: 50%;
   }
 }
 .navigation-left-victim{
   &.nav-open{
-    transform: translateX(375px);
+    transform: translateX(363px);
   }
 }
 
@@ -94,4 +93,8 @@ MAIN NAV
   .content-wrap{
     width: 85%;
   }
+}
+
+.card-holder .card .teaser-card-inner {
+  height: 500px;
 }

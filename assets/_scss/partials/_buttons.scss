@@ -8,7 +8,7 @@
 
   &.orange{
     border-color:$third-color !important;
-    &:hover, .current {
+    &:hover, &.active, .current, .btn-donate {
       background-color: $third-color;
       border-color: $third-color;
     }
@@ -16,7 +16,7 @@
 
   &.lab{
     border-color:$third-color !important;
-    &:hover, .current {
+    &:hover, &.active, .current, .btn-donate {
       background-color: $third-color;
       border-color: $third-color;
     }
@@ -31,7 +31,7 @@
     border-width: 2px;
     border-color:$color-ftf-green !important;
     color: $color-ftf-lila;
-    &:hover{
+    &:hover, &.active{
       border-color:$color-ftf-green !important;
       color: white;
       @include ftf-text-glow(green);
@@ -45,7 +45,11 @@
 
   font-family: $font-paelzer-grot-medium;
   display: block;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
+
+  &.home {
+    padding-bottom: 20px;
+  }
 
   @keyframes animate-up {
     0% {
@@ -73,11 +77,11 @@
       background-repeat: no-repeat;
       content: '';
       position: relative;
-      width: 30px;
-      height: 44px;
+      width: 20px;
+      height: 30px;
       display: block;
       left:50%;
-      top: 30px;
+      top: 20px;
       transform: translateX(-50%);
       animation: animate-up 1s ease-in-out infinite;
     }
@@ -88,6 +92,9 @@
 }
 
 @media only screen and (min-width: 960px) {
+  .more-btn {
+    padding-bottom: 0 !important;
+  }
   .btn-rounded {
     padding: 1rem 12rem;
   }
@@ -96,8 +103,6 @@
 @media only screen and (min-width: 1024px) {
 
   .more-btn{
-
-    padding-bottom: 0;
 
     @keyframes animate {
       0% {
@@ -117,8 +122,8 @@
       background-repeat: no-repeat;
       content: '';
       position: relative;
-      width: 68px;
-      height: 46px;
+      width: 52px;
+      height: 38px;
       display: inline-block;
       top:12px;
       animation: animate 1s ease-in-out infinite;
@@ -135,7 +140,7 @@
     }
 
     &.fellow{
-      &:hover{
+      &:hover, &.active{
 
         span{
           color: white;
@@ -151,7 +156,7 @@
 
 
     &.blue-hover{
-      &:hover{
+      &:hover,  &.active{
         span{
           color: $primary-color;
         }

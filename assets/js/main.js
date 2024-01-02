@@ -12,7 +12,7 @@
     };
 
     var ref, $, $header, $headerSpacer, $headerWrap, $html, $body, $mainNav, $pageWrap, $navToggle, lastScrollTop, $logo, $scrollHint, $scrollHintWrap, $logoInner,
-        superrrTimeline, isFrontPage, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle;
+        superrrTimeline, isFrontPage, sm_controller, sm_scene, initialized, $naviagtionLeftWrap, $naviagtionLeftVictims, $naviToggle, batchBlock;
     function Controller(jQuery){
 
         $ = jQuery;
@@ -24,7 +24,9 @@
 
         var browser = ref.getBrowser();
         var name = browser.name.toLowerCase();
-        if(ref.isMobileDevice()) name+="-mobile";
+        if(ref.isMobileDevice()) {
+            name+="-mobile";
+        }
         $('body').addClass(name).addClass('version-' + browser.version.toLowerCase());
 
     };
@@ -70,47 +72,6 @@
         $('.fade-in').viewportChecker({
             classToAdd: 'animated fadeInUp',
             offset: 100
-        });
-
-        $('.batch-inner').mouseover(function() {
-
-            if($(this).find('.batch-svg').length > 0){
-                var doc = $(this).find('.batch-svg')[0].getSVGDocument();
-                var superrr = doc.getElementById("super");
-                var $parent = $(this).closest('.section');
-
-
-                if(superrr){
-                    if($parent.hasClass('left')){
-                        TweenMax.to(superrr, 15, {rotation:"-360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
-                    } else {
-                        TweenMax.to(superrr, 15, {rotation:"360", transformOrigin:"50% 50%", ease:Linear.easeNone, repeat:-1},'ani')
-                    }
-                }
-
-
-                /*
-                 var timeline = new TimelineMax({delay:0, paused:false, repeat:-1})
-                 .set(superrr, {perspective:800, transformOrigin:"50% 50%", transformStyle:"preserve-3d"})
-                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scale:0, skewX:-15, skewY:-15, rotation:45, ease:Sine.easeIn})
-                 .fromTo(superrr, 0.7, {scale:0, skewX:-15, skewY:-15, rotation:-45, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeOut})
-                 .fromTo(superrr, 0.7, {scale:1, skewX:0, skewY:0, rotation:0, ease:Sine.easeIn}, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeIn})
-                 .fromTo(superrr, 0.7, {scaleX:-1, scaleY:0, skewX:15, skewY:15, rotation:360, ease:Sine.easeOut}, {scale:1, skewX:0, skewY:0, rotation:360, ease:Sine.easeOut})
-                 */
-            }
-
-
-        }).mouseout(function() {
-
-
-            if($(this).find('.batch-svg').length > 0){
-                var doc = $(this).find('.batch-svg')[0].getSVGDocument();
-                var superrr = doc.getElementById("super");
-                if(superrr){
-                    TweenMax.to(superrr, 0.3, {rotation:"0", scale:1, skewX:0, skewY:0, transformOrigin:"50% 50%", ease:Bounce.easeOut},'ani')
-                }
-            }
-
         });
 
         if(!initialized) ref.addEventHandlers();
@@ -180,38 +141,65 @@
         }
         document.querySelectorAll(".card-holder").forEach((cardHolder) => {
             // Scroll cards into view.
+
             cardHolder.querySelectorAll('.card').forEach((card) => {
                 card.onclick = (event) => {
-                    var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
-                    var currentOffset = cardHolder.scrollLeft;
-                    var current = parseInt(cardHolder.scrollLeft/$('.card').width());
-                    $('.cards-navigation').find('.card-dot').each(function(){
-                        $(this).removeClass('active');
-                    });
-                    $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
-
-                    var rect = card.getBoundingClientRect()
-
-                    if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
-                        return true
-                    }
-
-                    Logger.log("cardHolder? ", cardHolder);
-
-                    cardHolder.scrollTo({
-                        top: 0,
-                        left: targetOffset,
-                        behavior: "smooth"
-                    })
-
+                    ref.nextCard(cardHolder, card);
                     return false
                 }
+
             })
         });
+
+        $('.batch-inner.support').mouseover(function() {
+            if(batchBlock) return;
+            batchBlock = true;
+            TweenMax.to($(this).find('.svg-hover'), 1.5, {rotation:"+=360", transformOrigin:"50% 50%", onComplete: ref.onBatchRotate });
+        }).mouseout(function() {
+
+        });
+
+        if($('html').hasClass('touch')) {
+            Logger.log("Add swipe events....");
+            document.addEventListener('swiped-left', function(e) {
+                if($naviagtionLeftWrap.hasClass('open')){
+                    ref.closeLeftNavigation();
+                }
+            });
+        }
 
         initialized = true;
 
     };
+
+    Controller.prototype.onBatchRotate = function(){
+        batchBlock = false;
+    }
+
+    Controller.prototype.nextCard = function(cardHolder, card){
+        var targetOffset = card.offsetLeft - cardHolder.childNodes[1].offsetLeft
+        var currentOffset = cardHolder.scrollLeft;
+        var current = parseInt(cardHolder.scrollLeft/$('.card').width());
+        $('.cards-navigation').find('.card-dot').each(function(){
+            $(this).removeClass('active');
+        });
+        $('.cards-navigation').find('.card-dot').eq(current).addClass('active');
+
+        var rect = card.getBoundingClientRect()
+
+        if (0 <= rect.left && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+            return true
+        }
+
+        Logger.log("cardHolder? ", cardHolder);
+
+        cardHolder.scrollTo({
+            top: 0,
+            left: targetOffset,
+            behavior: "smooth"
+        })
+
+    }
 
     Controller.prototype.openLeftNavigation = function(){
         //open navigation
@@ -432,7 +420,7 @@
 
         var batches = document.getElementsByClassName("batch-svg");
 
-        $('.landing-teaser').mouseover(function() {
+        $('.landing-batch').mouseover(function() {
             TweenMax.fromTo($(this).find('.landing-batch'), 1, {rotation:"0", transformOrigin:"50% 50%"}, {rotation:"360", transformOrigin:"50% 50%"});
         }).mouseout(function() {
 
@@ -440,7 +428,7 @@
 
         for(var i = 0, length = batches.length; i < length; i++) {
             var batch = batches[i];
-            if(batch){
+            if(batch && batch.getSVGDocument){
                 var doc = batch.getSVGDocument();
 
                 var $parent = $(batch).closest('.section');

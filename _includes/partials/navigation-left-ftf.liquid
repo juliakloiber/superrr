@@ -18,6 +18,14 @@
             <li {% if base_dir[2] == 'visions' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/visions">Visions</a></li>
             <li {% if base_dir[2] == 'contributors' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/contributors">Contributors</a></li>
             <li data-dir="{{ base_dir[2] }}" {% if base_dir[2] == 'fellows' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/fellows">Fellows</a></li>
+            <li ><a class="fontsize-50" href="/feministtech/contributors">Contributors</a></li>
         </ul>
+        <div class="community-batch-wrap">
+                    <a href="{{ site.support_us_link }}" title="{{ site.support_us_text }}" class="batch-inner">
+                                                <div class="img-responsive batch-svg" >
+                                                    {% include svgs/superrr-support.liquid %}
+                                                </div>
+                                            </a>
+                </div>
     </div>
 </div>

@@ -17,11 +17,11 @@ FONTSIZES
 
 $fontsize-120: 2.75rem !important;
 $fontsize-70: 2.25rem !important;
-$fontsize-50: 2rem !important;
-$fontsize-40: 1.5rem !important;
-$fontsize-28: 1.4rem !important;
-$fontsize-24: 1.4rem !important;
-$fontsize-22: 1.25rem !important;
+$fontsize-50: 1.6rem !important;
+$fontsize-40: 1.35rem !important;
+$fontsize-28: 1.25rem !important;
+$fontsize-24: 1.25rem !important;
+$fontsize-22: 1.1rem !important;
 
 .fontsize-120 {
   p, span, a, ol, ul, dl, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
@@ -246,6 +246,11 @@ html, body{
 .no-cursor{
   cursor: default;
 }
+.rounded-hover {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
 
 body {
 
@@ -351,7 +356,7 @@ LAYOUT & GRID STYLES
 
   &.mobile-padded{
      /* for menu mobile top padding*/
-     padding: 50px 0 0 0 !important;
+     padding: 75px 0 0 0 !important;
    }
 
   &.padded {
@@ -915,19 +920,22 @@ HEADER STYLES
 }
 .home-icon-wrap{
   height: calc(35vh - 4vh);
+  max-height: 320px;
   width: 100%;
-  object{
+  object, svg{
     height: 100%;
-    width: auto;
+    width: 100%;
   }
 }
+
+
 
 /*********************
 MAIN NAV
 *********************/
 .navigation-left-wrap{
 
-  transform: translateX(-320px);
+  transform: translateX(-316px);
 
   .nav-open-btn{
     pointer-events: auto;
@@ -968,7 +976,7 @@ MAIN NAV
     flex-direction: column;
   }
 
-  width: 320px;
+  width: 316px;
   height: 100%;
   position: fixed;
   z-index: 2;
@@ -1052,7 +1060,7 @@ MAIN NAV
 
   .community-batch-wrap{
      width: 50%;
-     margin-top: 1rem;
+     margin-top: 3rem;
    }
 
 }
@@ -1063,7 +1071,7 @@ MAIN NAV
   }
   @include transition(transform .125s linear);
   &.nav-open{
-    transform: translateX(320px);
+    transform: translateX(316px);
     @include transition(transform .125s linear);
   }
 }
@@ -1072,7 +1080,7 @@ MAIN NAV
   padding-top: 1rem;
   position: absolute;
   top: 0px;
-  left: 320px;
+  left: 316px;
   padding-left: 1.5rem;
   cursor: pointer;
   background-color: transparent;
@@ -1245,6 +1253,16 @@ a.bg-hover{
 }
 .batch-svg{
   pointer-events: none;
+  height: 100%;
+
+  &:hover, &:active {
+    svg .svg-hover {
+      path {
+        fill : $primary-color;
+      }
+    }
+  }
+
 }
 
 .card-holder {
@@ -1282,7 +1300,7 @@ a.bg-hover{
     flex-shrink: 0;
     overflow: hidden;
     border-width: 0;
-    margin-right: 20px;
+    margin-right: 12.5px;
     max-width: 956px;
     display: flex;
     flex-direction: column;
@@ -1290,13 +1308,14 @@ a.bg-hover{
 
     .teaser-card-inner{
 
-      height: 600px;
+      height: 450px;
       display:block;
       background-color: white;
       position: relative;
       border-radius: 1.5rem;
       overflow: hidden;
       margin: 0 auto;
+      cursor: grab;
 
       .teaser-card-image{
         padding: 0;
@@ -1305,6 +1324,7 @@ a.bg-hover{
         overflow: hidden;
 
         .teaser-card-image-inner {
+          pointer-events: none;
           display: flex;
           justify-content: center;
           width: 100%;
@@ -1319,7 +1339,7 @@ a.bg-hover{
       }
 
       .teaser-card-text{
-        padding: 25px;
+        padding: 10px 25px 10px 25px;
         p{
           margin-bottom: 1rem;
         }
@@ -1400,12 +1420,12 @@ PAGE & SECTIONS
   width: 100%;
   margin: 0 auto;
   max-width: 1280px;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 
   &.full{
     width: 100%;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
     max-width: none;
   }
   &.news{
@@ -2300,6 +2320,21 @@ FOOTER STYLES
   font-size: unset;
   text-align: left;
   white-space: initial;
+}
+
+/*********************
+SUPPORT US batch
+*********************/
+.batch-inner.support {
+  svg .support-us-text path {
+    @include transition(all 0.25s ease);
+  }
+  &:hover, &:active {
+    svg .support-us-text path {
+     transition: none;
+      fill: $primary-color;
+    }
+  }
 }
 
 @keyframes marquee {

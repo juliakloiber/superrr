@@ -1,5 +1,5 @@
 ---
-title: "Zukunftsforum"
+title: "Zukunfts&shy;forum"
 header_type: lab
 order: 8
 layout: project

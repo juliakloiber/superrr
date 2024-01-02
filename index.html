@@ -13,7 +13,7 @@ type: lab
         <div class="section mobile-padded fullwidth home-hero d-flex">
             <div class="content-wrap-inner full d-flex">
                 <div class="row w-100">
-                    <div class="col-24 col-sm-12 d-block d-md-flex align-items-center align-items-sm-start align-items-xmd-center justify-content-center no-padding">
+                    <div class="col-24 col-sm-12 d-block d-md-flex align-items-center align-items-sm-start align-items-xmd-center justify-content-center">
                         <div class="home-claim fontsize-120 uppercase pr-sm-4 pr-xmd-5">
                             <span class="outlined-text">Laboratory<br></span>
                             <span class="outlined-text">for&nbsp;</span><span>feminist<br>digital<br></span>
@@ -23,17 +23,19 @@ type: lab
                     <div class="col-24 col-sm-12 d-flex align-items-center justify-content-center">
                         <div class="d-flex flex-wrap home-info">
                             <div class="home-icon-wrap d-flex justify-content-center my-5 mt-sm-0 mb-sm-3 mb-md-4 mb-slg-5 mb-lg-5">
-                                <a href="/about" class="d-block">
-                                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-lab.svg" type="image/svg+xml" ></object>
+                                <a href="/about" class="d-block batch-inner">
+                                    <div class="img-responsive batch-svg">
+                                        {% include svgs/superrr-logo.liquid %}
+                                    </div>
                                 </a>
                             </div>
-                            <div class="fontsize-40 mb-5 mb-md-4 mb-lg-5">
+                            <div class="fontsize-40 mt-4 mt-mb-0 mb-5 mb-md-4 mb-lg-5">
                                 <p class="m-0 home-text">
                                     We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. Superrr is playful, visionary and feminist.
                                 </p>
                             </div>
                             <div class="more-btn-wrap my-2 mb-sm-0">
-                                <a href="/about" class="event-link more-btn  fade-in animated fadeInUp full-visible">
+                                <a href="/about" class="event-link more-btn home  fade-in animated fadeInUp full-visible">
                                     <span class="more-btn-inner"><span>Rrread more!</span></span>
                                 </a>
                             </div>

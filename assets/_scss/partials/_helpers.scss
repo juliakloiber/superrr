@@ -407,6 +407,12 @@ classes for viewportChecker fadein
   animation-name: fadeInUp;
 }
 
+.prevent-select {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
 /*********************
 animations
 *********************/
@@ -425,4 +431,18 @@ animations
 
 .up-and-down{
   animation: up-and-down 1.5s ease-in-out infinite;
+}
+
+.infinite-rotate {
+  animation: infinite-rotation 300s infinite linear;
+  transform-origin: center;
+}
+
+@keyframes infinite-rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-3600deg);
+  }
 }
