@@ -2327,10 +2327,11 @@ SUPPORT US batch
 *********************/
 .batch-inner.support {
   svg .support-us-text path {
-    @include transition(all 0.075s linear);
+    @include transition(all 0.25s ease);
   }
   &:hover, &:active {
     svg .support-us-text path {
+     transition: none;
       fill: $primary-color;
     }
   }
