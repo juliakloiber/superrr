@@ -36,8 +36,9 @@ Something you would use every day and cannot imagine living without?
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
 <p><b>Larissa:</b> Ah I am actually a meme librarian. I collect them and send my friends curated memes of the week. If I had to choose a meme that I do enjoy throughout the times, it may be these two: 
 </p>
-<img src="/assets/img/blog/larissaMeme1.png" alt="Designmeme1" width="500" height="600">
-<img src="/assets/img/blog/larissaMeme2.png" alt="Designmeme2" width="500" height="600">
+<img src="/assets/img/blog/larissaMeme1.png" alt="Designmeme1" style="max-width: 300px;">
+<img src="/assets/img/blog/larissaMeme2.png" alt="Designmeme2" style="max-width: 300px;">
+
 
 
 <p><b>SUPERRR:</b> Thank you so much Larissa, and once again: Welcome on board!</p>
