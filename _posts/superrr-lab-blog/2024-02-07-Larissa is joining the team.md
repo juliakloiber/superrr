@@ -7,10 +7,10 @@ description: Get to know our new team member.
 ---
 
 <img src="/assets/img/blog/larissaVorstellung.png" alt="Portrait of Larissa" width="500" height="600">
-<p><em>We are thrilled to announce that we have a new team member! ✨ Larissa just joined SUPERRR Lab and will help visualize our work on a feminist tech policy. To introduce and welcome him, we've asked him a couple of questions: </em></p>
+<p><em>We are thrilled to announce that we have a new team member! ✨ Larissa just joined SUPERRR Lab and will help visualize our work on a feminist tech policy. To introduce and welcome her, we've asked her a couple of questions: </em></p>
 
 <p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Larissa?</p>
-<p><b>Larissa:</b> Side projects love to live in my brain, occupy space and then vanish when more side projects get stuffed in! No, but  right now I am keen on researching for my bachelor thesis – which also includes playing some video games. Lucky me! I’m right in the middle of planning to design and program a video game, which means a lot of drawing, designing, and coding!</p>
+<p><b>Larissa:</b> Side projects love to live in my brain, occupy space and then vanish when more side projects get stuffed in! Right now I am keen on researching for my bachelor thesis – which also includes playing some video games. Lucky me! I’m right in the middle of planning to design and program a video game, which means a lot of drawing, designing, and coding!</p>
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future?
 Something you would use every day and cannot imagine living without?
@@ -28,9 +28,9 @@ Something you would use every day and cannot imagine living without?
 <p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:</p>
 
 <p><b>Larissa:</b> 
-<ul><li><a href="https://girlswhocode.com/">Girlswhocode!</a>Coding, especially women in coding, is a big interest of mine. Retelling the history of coding and giving credit to all the amazing people that contributed to it. Reshaping the image, of what a person who codes looks like. The numbers of women in coding is declining, so this platforms mission is reaching girls around the world and are on track to close the gender gap in new entry-level tech jobs by 2030.</li>
+<ul><li><a href="https://girlswhocode.com/">Girlswhocode! </a>Coding, especially women in coding, is a big interest of mine. Retelling the history of coding and giving credit to all the amazing people that contributed to it. Reshaping the image, of what a person who codes looks like. The numbers of women in coding is declining, so this platforms mission is reaching girls around the world and are on track to close the gender gap in new entry-level tech jobs by 2030.</li>
 
-<li><p>•The game <a href="https://store.steampowered.com/app/1102130/Florence/">Florence!</a>! Even if you have never ever played a single video game – this one you gotta play! Maybe it is because the protagonist is a woman in her mid 20s, confused about where to go in life and going through love and breakup and rediscovering her passions I love this game so much, or because of the insanely cool style and game mechanics. Well, overall it’s an incredible experience!</p></li>
+<li><p>•The game <a href="https://store.steampowered.com/app/1102130/Florence/">Florence!</a> Even if you have never ever played a single video game – this one you gotta play! Maybe it is because the protagonist is a woman in her mid 20s, confused about where to go in life and going through love and breakup and rediscovering her passions I love this game so much, or because of the insanely cool style and game mechanics. Well, overall it’s an incredible experience!</p></li>
 
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
