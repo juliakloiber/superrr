@@ -1566,6 +1566,9 @@ body{
 
 .more-btn{
   font-size: $fontsize-28;
+  &:hover, &:active {
+    color: $third-color !important;
+  }
 }
 
 .text-wrap{

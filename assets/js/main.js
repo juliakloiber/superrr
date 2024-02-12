@@ -480,6 +480,10 @@
 
     Controller.prototype.addEventHandlers = function(){
 
+        $('.more-btn').not('.initialized').click(function(e){
+            Logger.log("click -> ", $(this).attr('href'));
+            window.open($(this).attr('href'), "_self");
+        }).addClass('initialized');
 
         /*********************
         scroll event
@@ -498,6 +502,7 @@
             .not('[href="#0"]')
             .click(function(event) {
                 // On-page links
+
                 if (
                     location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
                     &&
