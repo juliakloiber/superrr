@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Larissa Rodiga
-title: Web Accessibility Training: A Better Internet for Alö
+title: Web Accessibility Training: A Better Internet for All
 description: A workshop by Accessibility Lab 
 ---
 
@@ -32,14 +32,14 @@ media, software) </li>
 <li>Ability to apply Web Content Accessibility Guidelines (WCAG) 2.2 effectively</li>
 <li>Increased awareness of the importance of inclusive design and its impact</li>
 <li>Resources and references for further learning and development in web accessibility</li>
-
+<br>
 
 <p><b>When: March 11th 2024, 1PM </b> </p>
 <p><b>Where: Superrr Lab, Oranienstraße 58A, 10969 Berlin </b> </p>
 <p><b>Language of the workshop is English. </b> </p>
 
-<p><em>Please register by sending a message to the following address: raashi@a11ylab.com</em></p>
-<p><em>Please do send us your name and by briefly your interest in the training. Registration closes: 
+<p><em>Please register by sending a message to the following address: raashi@a11ylab.com
+Please do send us your name and by briefly your interest in the training. Registration closes: 
 March 8th.</em></p>
 
 <p><b>About the host organization:</b> </p>
