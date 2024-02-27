@@ -2,7 +2,7 @@
 layout: post
 type: lab
 author: Larissa Rodiga
-title: Web Accessibility Training: A Better Internet for All
+title: Web Accessibility Training - A Better Internet for All
 description: A workshop by Accessibility Lab 
 ---
 
