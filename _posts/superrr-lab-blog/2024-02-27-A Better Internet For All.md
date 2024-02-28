@@ -12,14 +12,12 @@ description: A workshop by Accessibility Lab
 , will lead a 5-hour training session on applying accesibility tools and principles
 to create an inclusive environment catering to individuals with diverse needs and abilities. </em></p>
 
-<p><b>When: March 11th 2024, 1PM 
-Where: Superrr Lab, Oranienstraße 58A, 10969 Berlin 
-Language of the workshop is English. </b> </p>
+<p><b>When: March 11th 2024, 1PM </b> </p>
+<p><b>Where: Superrr Lab, Oranienstraße 58A, 10969 Berlin </b> </p>
+<p><b>Language of the workshop is English. </b> </p>
+<p><b>Tickets: </b><a href="https://pretix.eu/SUPERRR/betterinternet/">Get your pretix Ticket here</a> </p>
 <p><em>The current  location is not wheelchair accessible, but SUPERRR is in the process of relocating to a space that will be accessible soon.</em></p>
-
-<p><b>Tickets:</b><a href="https://pretix.eu/SUPERRR/betterinternet/">Get your pretix Ticket here</a> </p>
-<p><em>
-Please provide us with your name, along with any special requirements you may have, and express your interest in the workshop briefly. 
+<p><em>Please provide us with your name, along with any special requirements you may have, and express your interest in the workshop briefly. 
 Registration closes: March 8th.</em></p>
 
 <p>The workshop will delve into theoretical concepts and practical applications of accessibility, 
