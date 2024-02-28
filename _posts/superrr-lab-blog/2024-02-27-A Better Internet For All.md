@@ -9,7 +9,7 @@ description: A workshop by Accessibility Lab
 <img src="/assets/img/blog/accessibilitybanner.png" alt="visual invite" width="500" height="600">
 <p>Join us for a free Web Accessibility Training on March 11th at SUPERRR Lab.</p>
 <p><em>Nancy Reyes Flores and Raashi Saxena, two experienced experts from the organization <a href="https://www.a11ylab.com/?lang=EN">Accessibility Lab</a> 
-, will lead a 5-hour training session on applying accesibility tools and principles
+, will lead a 5-hour training session on applying accessibility tools and principles
 to create an inclusive environment catering to individuals with diverse needs and abilities. </em></p>
 
 <p><b>When: March 11th 2024, 1PM </b> </p>
