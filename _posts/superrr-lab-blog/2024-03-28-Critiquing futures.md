@@ -39,6 +39,11 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     Answering this question is definitely a work in progress. It is a process of constant iteration and learning. So far, Feven's and Quincey's approach has revolved a lot around creating space for reflection and critical questioning. It builds on the fantastic work of many activists, intellectuals, researchers and others who have pioneered intersectional and decolonial perspectives, like the Combahee River Collective or Frantz Fanon (for more, see the appendix at the bottom). It is an attempt to apply these perspectives to futures practices to create room for critical reflection.
 </p>
 
+<p>
+    We are always looking for feedback on our methods and work. Sadly, Feven left the project last year, but if you do have feedback or questions, please get in touch with <a href="mailto:quincey@superrr.net">quincey@superrr.net</a>.
+</p>
+
+
 <h3> Critical Futures Interrogation</h3>
 
 
@@ -50,9 +55,6 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     It is important to note that the questions do not represent the complete body of intersectional and decolonial theory. Moreover, they are not meant to be used as a token or relieve users of the responsibility to generate a better understanding of both concepts. Rather, we encourage everyone using the questions to regard them as a starting point to dig deeper, to further their understanding of both concepts and to change their perspectives on inequalities in our societies and how to approach them (for further reading, see the appendix).
 </p>
 
-<p>
-    We are always looking for feedback on our methods and work. If you have feedback or questions, please do get in touch with <a href="mailto:quincey@superrr.net">quincey@superrr.net</a>.
-</p>
 
 <h3>Questions</h3>
 
