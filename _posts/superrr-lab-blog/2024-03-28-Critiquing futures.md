@@ -28,7 +28,7 @@ description: An approach to reflect on biases in futures scenarios and ideas.
 </p>
 
 <p>
-    In the above example, questions arise like “Who is this town made for, and who might be excluded from it?". Receiving a free humanoid care robot seems to presuppose quite a number of privileges. Another question one could ask is, “Do dementia patients actually have a say in the development of these futures? Would they want to be cared for by a robot rather than a human being? Who has the power to decide?”
+    In the above example, questions arise like “Who is this town made for, and who might be excluded from it?". Receiving a free humanoid care robot seems to presuppose quite a number of privileges. Another question one could ask is, “Do dementia patients actually have a say in the development of these futures? Would they want to be cared for by a robot rather than a human being? Who has the power to decide?”.
 </p>
 
 <p>
@@ -85,7 +85,6 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     </li>
     <li>
         How do you dismantle or reproduce (historical) power imbalances in your scenario that elevate some over others (e.g. one nation over the other or one gender over another)?
-
         <ul>
             <li>
                 Is this what you intended?
@@ -94,22 +93,19 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     </li>
     <li>
         How does your scenario deal with exploitative approaches to nature, knowledge, culture or human beings?
-
         <ul>
             <li>
-                If it is built on such models of economy or politics, think about if this is what you explicitly chose to reproduce or if you intended to change this model in your scenario
+                If it is built on such models of economy or politics, think about if this is what you explicitly chose to reproduce or if you intended to change this model in your scenario.
             </li>
         </ul>
     </li>
     <li>Does your future scenario serve a specific interest? If yes, name it and make it explicit.</li>
     <li>How does your scenario dismantle or reproduce (neo-)colonial continuities?</li>
-
 </ul>
 
 <p><u>Exclusion</u></p>
 
 <ul>
-
     <li>For whom is your future scenario built (e.g. geography, language, ability, origin, education, class, gender, race, age, sexual orientation, religion), and for whom is it not built? Is that what you intended?</li>
     <li>
         How does this scenario affect different groups/entities/beings in society?
