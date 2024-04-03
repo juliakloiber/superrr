@@ -54,7 +54,7 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     We are always looking for feedback on our methods and work. If you have feedback or questions, please do get in touch with <a href="mailto:quincey@superrr.net">quincey@superrr.net</a>.
 </p>
 
-<p><b>Questions</b></p>
+<h3>Questions</h3>
 
 
 <p><u>Status Quo</u></p>
@@ -73,31 +73,14 @@ description: An approach to reflect on biases in futures scenarios and ideas.
 <ul>
     <li>Who holds power in your future, and how is it exercised?</li>
     <li>
-        How does the distribution of power affect groups of minorities?<ul>
-            <li>Can you make out adverse effects it might have on specific groups/entities/beings? If yes, what are these?</li>
-        </ul>
+        How does the distribution of power affect groups of minorities? Can you make out adverse effects it might have on specific groups/entities/beings?</li>
+    <li>
+        How do people affected by your scenario shape this common future? Do they have a voice and the ability to shape this future? If not, what is the reason?</li>
+    <li>
+        How do you dismantle or reproduce (historical) power imbalances in your scenario that elevate some over others (e.g. one nation over the other or one gender over another)? Is this what you intended?
     </li>
     <li>
-        How do people affected by your scenario shape this common future?
-        <ul>
-            <li>Do they have a voice and the ability to shape this future? If not, what is the reason?</li>
-        </ul>
-    </li>
-    <li>
-        How do you dismantle or reproduce (historical) power imbalances in your scenario that elevate some over others (e.g. one nation over the other or one gender over another)?
-        <ul>
-            <li>
-                Is this what you intended?
-            </li>
-        </ul>
-    </li>
-    <li>
-        How does your scenario deal with exploitative approaches to nature, knowledge, culture or human beings?
-        <ul>
-            <li>
-                If it is built on such models of economy or politics, think about if this is what you explicitly chose to reproduce or if you intended to change this model in your scenario.
-            </li>
-        </ul>
+        How does your scenario deal with exploitative approaches to nature, knowledge, culture or human beings? If it is built on such models of economy or politics, think about if this is what you explicitly chose to reproduce or if you intended to change this model in your scenario.
     </li>
     <li>Does your future scenario serve a specific interest? If yes, name it and make it explicit.</li>
     <li>How does your scenario dismantle or reproduce (neo-)colonial continuities?</li>
