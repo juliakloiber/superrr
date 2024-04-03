@@ -143,7 +143,7 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     </li>
 </ul>
 
-<h1>Appendix</h1>
+<h3>Appendix</h3>
 <p><b>Decoloniality</b></p>
 
 <p>
