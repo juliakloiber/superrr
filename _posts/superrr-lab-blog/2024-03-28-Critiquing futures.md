@@ -39,7 +39,7 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     Answering this question is definitely a work in progress. It is a process of constant iteration and learning. So far, Feven's and Quincey's approach has revolved a lot around creating space for reflection and critical questioning. It builds on the fantastic work of many activists, intellectuals, researchers and others who have pioneered intersectional and decolonial perspectives, like the Combahee River Collective or Frantz Fanon (for more, see the appendix at the bottom). It is an attempt to apply these perspectives to futures practices to create room for critical reflection.
 </p>
 
-<h1> Critical Futures Interrogation</h1>
+<h3> Critical Futures Interrogation</h3>
 
 
 <p>
