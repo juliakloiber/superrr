@@ -63,8 +63,7 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     <li>How is your future scenario different from today’s status quo?</li>
     <li>What types of societal patterns does your future reproduce that might discriminate against different types of groups/entities/beings?</li>
     <li>
-        Might your future scenario already be reality for some? (Especially relevant when building dystopian scenarios.)
-        <ul><li>If yes, how does this change your perspective on privilege? And what does a futures scenario look like where this existing reality is changed (to the better)?</li></ul>
+        Might your future scenario already be reality for some? (Especially relevant when building dystopian scenarios.) And what does a futures scenario look like where this existing reality is changed (to the better)?
     </li>
 </ul>
 
@@ -91,13 +90,11 @@ description: An approach to reflect on biases in futures scenarios and ideas.
 <ul>
     <li>For whom is your future scenario built (e.g. geography, language, ability, origin, education, class, gender, race, age, sexual orientation, religion), and for whom is it not built? Is that what you intended?</li>
     <li>
-        How does this scenario affect different groups/entities/beings in society?
-        <ul><li>Can you identify adverse effects it might have on specific groups/entities/beings, and what are these?</li></ul>
+        How does this scenario affect different groups/entities/beings in society? Can you identify adverse effects it might have on specific groups/entities/beings, and what are these?
     </li>
     <li>How does your future leave room for other, diverging or alternative futures?</li>
     <li>
-        Does your scenario describe a future that is supposed to be “universal” or “global” in scope?
-        <ul><li>If yes, does this include neglecting the existence of other cultures, approaches, and lifestyles, and how can you justify its universal claim?</li></ul>
+        Does your scenario describe a future that is supposed to be “universal” or “global” in scope? If yes, does this include neglecting the existence of other cultures, approaches, and lifestyles, and how can you justify its universal claim?
     </li>
     <li>How do you ensure that everyone affected by your scenario also has a say in creating this future?</li>
 </ul>
@@ -106,23 +103,16 @@ description: An approach to reflect on biases in futures scenarios and ideas.
 
 <ul>
     <li>
-        What assumptions and values underpin your future scenario? List them.
-        <ul><li>Are these the assumptions and values you intended to use?</li></ul>
+        What assumptions and values underpin your future scenario? Are these the assumptions and values you intended to use?
     </li>
     <li>
-        What past and present-day narratives influence your image(s) of the future(s)?
-        <ul><li>Do you want these influences to be part of your future?</li></ul>
+        What past and present-day narratives influence your image(s) of the future(s)? Do you want these influences to be part of your future?
     </li>
     <li>
-        Are you using any language(s), images, metaphors or assumptions in your scenario that claim to be “neutral” or “realistic”?
-        <ul><li>If yes, which are these? Where do they come from, and might they imply a specific worldview beneath their “neutrality”?</li></ul>
+        Are you using any language(s), images, metaphors or assumptions in your scenario that claim to be “neutral” or “realistic”? If yes, which are these? Where do they come from, and might they imply a specific worldview beneath their “neutrality”?
     </li>
     <li>
-        What type of language(s) are you using to describe your future?
-        <ul>
-            <li>Does this language hinder you from describing something new? Does this language keep you locked in the present?</li>
-            <li>If yes, what would be a different way/different words to describe your future?</li>
-        </ul>
+        What type of language(s) are you using to describe your future? Does this language hinder you from describing something new? Does this language keep you locked in the present? If yes, what would be a different way/different words to describe your future?
     </li>
 </ul>
 
