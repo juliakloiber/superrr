@@ -32,8 +32,8 @@ Something you would use every day and cannot imagine living without?
 
 <li><p>My other favourite project is <a href="https://www.youtube.com/@nprmusic">Tiny Desk Concert</a>. Whenever I want to hear some good, new music, I click on one of these humble, un-plugged concert videos and make my day better.
 </p></li>
-<li><p>And an amazing oud artist: Ara Dinkjian. I don’t know how many times I listened his <a href="https://open.spotify.com/album/03j7IQkfjhg96bbC5tSc9c?si=EahkeYsUQbq5JvW_LWo6mg">Conversations with Manol</a> album. A deep tissue massage for the soul.</li></p>
-</ul>
+<li><p>And an amazing oud artist: Ara Dinkjian. I don’t know how many times I listened his <a href="https://open.spotify.com/album/03j7IQkfjhg96bbC5tSc9c?si=EahkeYsUQbq5JvW_LWo6mg">Conversations with Manol</a> album. A deep tissue massage for the soul.</li></ul>
+
 
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
