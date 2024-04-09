@@ -28,11 +28,13 @@ Something you would use every day and cannot imagine living without?
 <p><b>SUPERRR:</b> Things we should all read/know about! Please share three of your favorite projects, texts, links, inspirations with us:</p>
 
 <p><b>Gürkan:</b> 
-<ul><li>I’m very excited and fascinated about the Prof. Türker Kılıç’s speeches and publishing lately. He’s discussing the changing narratives and methodologies in science in the last decades. A new narrative explaining the universe not through atoms but information, interconnectivity, and non-fragmented wholeness. His works are mostly in Turkish. I’m sharing <a href="https://www.worldacademy.org/files/ieee_july_2019/TKilic_A_Brain_Inspired_View_of_Life.pdf">an article published by WAAS.</a></li>
+<ul>
+  <li>I’m very excited and fascinated about the Prof. Türker Kılıç’s speeches and publishing lately. He’s discussing the changing narratives and methodologies in science in the last decades. A new narrative explaining the universe not through atoms but information, interconnectivity, and non-fragmented wholeness. His works are mostly in Turkish. I’m sharing <a href="https://www.worldacademy.org/files/ieee_july_2019/TKilic_A_Brain_Inspired_View_of_Life.pdf">an article published by WAAS.</a></li>
 
 <li><p>My other favourite project is <a href="https://www.youtube.com/@nprmusic">Tiny Desk Concert</a>. Whenever I want to hear some good, new music, I click on one of these humble, un-plugged concert videos and make my day better.
 </p></li>
-<li><p>And an amazing oud artist: Ara Dinkjian. I don’t know how many times I listened his <a href="https://open.spotify.com/album/03j7IQkfjhg96bbC5tSc9c?si=EahkeYsUQbq5JvW_LWo6mg">Conversations with Manol</a> album. A deep tissue massage for the soul.</li></ul>
+<li><p>And an amazing oud artist: Ara Dinkjian. I don’t know how many times I listened his <a href="https://open.spotify.com/album/03j7IQkfjhg96bbC5tSc9c?si=EahkeYsUQbq5JvW_LWo6mg">Conversations with Manol</a> album. A deep tissue massage for the soul.</p></li>
+</ul>
 
 
 
