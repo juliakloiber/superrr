@@ -36,5 +36,5 @@ Sie sind eine Sammlung von Fragen, die sich nicht mit ja oder nein beantworten l
 </p>
 
 <p>
-Die Policy Building Blocks findet ihr hier: <a href="/assets/downloads/on-off-digitale-handlungsfaehigkeit.pdf">Policy Building Blocks</a>. </p>.
+Die Policy Building Blocks findet ihr hier: <a href="/assets/downloads/PolicyBuildingBlocks_1.Auflage.pdf">Policy Building Blocks</a>. </p>.
 
