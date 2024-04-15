@@ -6,7 +6,7 @@ layout: project
 teaser_img: "/assets/img/static/projects/policybuilding_teaser.png"
 hero_img: "/assets/img/static/projects/policybuilding.png"
 external_link: ""
-link: '/publication/policy_building_blocks'
+link: '/publication/policy-building-blocks'
 description: "Wie können wir Digitalpolitik gerecht gestalten?"
 
 
