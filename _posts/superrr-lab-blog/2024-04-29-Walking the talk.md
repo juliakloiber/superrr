@@ -27,7 +27,7 @@ description: Insights into how we run a feminist organization
 <p>
 "Kannst du von deinem Job leben?" Diese Frage bekomme ich des öfteren gestellt. Gemeinnützige Arbeit und gute Bezahlung scheint für viele ein Widerspruch zu sein.<br><br>
 Wenn ich mit "ziemlich gut sogar" antworte – ernte ich interessierte Blicke. Wie kann das sein?<br><br>
-Ich leite eine feministische Organisation. Schon vor der Gründung war klar, dass wir Dinge anders angehen wollen. Dazu gehört auch gute Bezahlung. 
+Ich co-leite eine feministische Organisation. Schon vor der Gründung war klar, dass wir Dinge anders angehen wollen. Dazu gehört auch gute Bezahlung. 
 </p>
 
 <p>
