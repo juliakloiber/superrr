@@ -25,7 +25,7 @@ description: Insights into how we run a feminist organization
 </p>
 
 <p>
-"Kannst du von deinem Job leben?" Diese Frage bekomme ich des Öfteren gestellt. Gemeinnützige Arbeit und gute Bezahlung scheint für viele ein Widerspruch zu sein.<br><br>
+"Kannst du von deinem Job leben?" Diese Frage bekomme ich des öfteren gestellt. Gemeinnützige Arbeit und gute Bezahlung scheint für viele ein Widerspruch zu sein.<br><br>
 Wenn ich mit "ziemlich gut sogar" antworte – ernte ich interessierte Blicke. Wie kann das sein?<br><br>
 Ich leite eine feministische Organisation. Schon vor der Gründung war klar, dass wir Dinge anders angehen wollen. Dazu gehört auch gute Bezahlung. 
 </p>
@@ -43,7 +43,7 @@ Als feministische Organisation versuchen wir die Veränderungen im Kleinen, in u
 </p>
 
 
-<h3>Sharing is Caring:</h3> <p>Wir sind ein kleines Team, bestehend aus elf Personen. Unser Ziel ist und war es nie stark zu wachsen, sondern stattdessen auf Kollaborationen mit anderen Organisationen zu setzen. Damit können wir Ressourcen teilen und viel mehr unterschiedliche Perspektiven in die Arbeit miteinbeziehen. Wachstum wird oft als Gradmesser für Erfolg betrachtet, das sehen wir anders. Für uns sind der Gradmesser erfolgreiche Kollaborationen, in denen man gemeinsam mit anderen etwas bewegt. Solche Konstellationen sind nachhaltiger und resilienter, als wenn eine Organisation versucht, alles alleine zu stemmen. Ein Abundance Mindset im Bereich von Kollaborationen ist es, die eigenen Ressourcen mit anderen zu teilen, gemeinsame Anträge zu schreiben und Kontakte zu den eigenen Förderern herzustellen.
+<h3>Sharing is Caring</h3> <p>Wir sind ein kleines Team, bestehend aus elf Personen. Unser Ziel ist und war es nie stark zu wachsen, sondern stattdessen auf Kollaborationen mit anderen Organisationen zu setzen. Damit können wir Ressourcen teilen und viel mehr unterschiedliche Perspektiven in die Arbeit miteinbeziehen. Wachstum wird oft als Gradmesser für Erfolg betrachtet, das sehen wir anders. Für uns sind der Gradmesser erfolgreiche Kollaborationen, in denen man gemeinsam mit anderen etwas bewegt. Solche Konstellationen sind nachhaltiger und resilienter, als wenn eine Organisation versucht, alles alleine zu stemmen. Ein Abundance Mindset im Bereich von Kollaborationen ist es, die eigenen Ressourcen mit anderen zu teilen, gemeinsame Anträge zu schreiben und Kontakte zu den eigenen Förderern herzustellen.
 </p>
 
 
@@ -51,12 +51,12 @@ Als feministische Organisation versuchen wir die Veränderungen im Kleinen, in u
 </p>
 
 
- <h3>Keine kostenlose Arbeit:</h3> <p>Wenn wir von externen für Vorträge oder Workshops angefragt werden und nach Honoraren fragen, dann bekommen wir häufig die Antwort, dass keine Honorare vorgesehen sind. Es wird erwartet, dass Menschen für umsonst arbeiten. Gerade im gemeinnützigen Sektor geht man davon aus, dass man für den Dienst an der guten Sache keine Entlohnung braucht. Wenn uns als SUPERRR etwas aufregt, dann versuchen wir die Veränderung bei uns selbst anzusetzen. Wenn wir Menschen für Beiträge oder Vorträge anfragen, dann selbstverständlich mit Vergütung. Viele Menschen können es sich schlicht nicht leisten, ihre Arbeitszeit kostenlos zur Verfügung zu stellen. Wer auf kostenlose Arbeit setzt, der erreicht damit nur die Privilegierten, die sich so was leisten können. Ein Abundance Mindset bedeutet, Arbeit gut und gerecht zu entlohnen, selbst dann, wenn das Geld knapp ist.
+ <h3>Keine kostenlose Arbeit</h3> <p>Wenn wir von externen für Vorträge oder Workshops angefragt werden und nach Honoraren fragen, dann bekommen wir häufig die Antwort, dass keine Honorare vorgesehen sind. Es wird erwartet, dass Menschen für umsonst arbeiten. Gerade im gemeinnützigen Sektor geht man davon aus, dass man für den Dienst an der guten Sache keine Entlohnung braucht. Wenn uns als SUPERRR etwas aufregt, dann versuchen wir die Veränderung bei uns selbst anzusetzen. Wenn wir Menschen für Beiträge oder Vorträge anfragen, dann selbstverständlich mit Vergütung. Viele Menschen können es sich schlicht nicht leisten, ihre Arbeitszeit kostenlos zur Verfügung zu stellen. Wer auf kostenlose Arbeit setzt, der erreicht damit nur die Privilegierten, die sich so was leisten können. Ein Abundance Mindset bedeutet, Arbeit gut und gerecht zu entlohnen, selbst dann, wenn das Geld knapp ist.
 </p>
 
 
 
- <h3>Nobodys prefect:</h3> <p>Natürlich gibt es auch einige Baustellen und Verbesserungspotenzial. Wir sind auf der Suche nach einem Reinigungsdienstleister, der gute Arbeitsbedingungen und faire Löhne bietet, würden gerne eine organisationsweite vier Tage Woche einführen, damit die Balance zwischen Freizeit und Lohnarbeit besser wird und – last but not least – wir würden als Organisation gerne CO2 neutral werden.
+ <h3>Nobodys Prefect</h3> <p>Natürlich gibt es auch einige Baustellen und Verbesserungspotenzial. Wir sind auf der Suche nach einem Reinigungsdienstleister, der gute Arbeitsbedingungen und faire Löhne bietet, würden gerne eine organisationsweite vier Tage Woche einführen, damit die Balance zwischen Freizeit und Lohnarbeit besser wird und – last but not least – wir würden als Organisation gerne CO2 neutral werden.
 </p>
 
 <p>
@@ -93,7 +93,7 @@ As a feminist organization, we endeavor to implement on a small scale the change
 </p>
 
 
-<h3>Sharing is Caring:</h3> <p>We are a small team of eleven. Our goal has never been fast growth; rather, we focus on collaboration with other organizations. This allows us to share resources and include a wider range of perspectives in our work. While growth is often viewed as a measure of success, we measure ours by the success of our collaborations, achieving mutual goals. These cooperative efforts are more sustainable and resilient than if an organization tries to manage everything independently. In the realm of collaborations, an abundance mindset means sharing your resources, co-writing proposals, and establishing contacts with supporters.
+<h3>Sharing is Caring</h3> <p>We are a small team of eleven. Our goal has never been fast growth; rather, we focus on collaboration with other organizations. This allows us to share resources and include a wider range of perspectives in our work. While growth is often viewed as a measure of success, we measure ours by the success of our collaborations, achieving mutual goals. These cooperative efforts are more sustainable and resilient than if an organization tries to manage everything independently. In the realm of collaborations, an abundance mindset means sharing your resources, co-writing proposals, and establishing contacts with supporters.
 </p>
 
 
@@ -106,7 +106,7 @@ As a feminist organization, we endeavor to implement on a small scale the change
 
 
 
- <h3>Nobodys prefect:</h3> <p>Indeed, there are ongoing issues and areas for improvement. We are searching for a cleaning service that provides fair working conditions and wages, considering implementing an organization-wide four-day work week to better balance leisure and work, and aiming to achieve carbon neutrality.
+ <h3>Nobodys Prefect</h3> <p>Indeed, there are ongoing issues and areas for improvement. We are searching for a cleaning service that provides fair working conditions and wages, considering implementing an organization-wide four-day work week to better balance leisure and work, and aiming to achieve carbon neutrality.
 </p>
 
 <p>
