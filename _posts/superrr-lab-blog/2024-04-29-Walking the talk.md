@@ -8,9 +8,9 @@ author: Julia Kloiber
 
 title: Walking the Talk 
 
-description: Insights Into How We Run a Feminist Organization
+description: Insights into how we run a feminist organization
 ---
-<img src="/assets/img/blog/walking_the_talk1.jpg" alt="A ubahn entrance with colorful objects" width="540" height="540">
+<img src="/assets/img/blog/walking_the_talk_1.jpg" alt="A ubahn entrance with colorful objects" width="540" height="540">
 
 
 <p>
@@ -65,5 +65,55 @@ Als feministische Organisation versuchen wir die Veränderungen im Kleinen, in u
 
 <p>
 Dieser Post hat euch gefallen? In den nächsten Wochen und Monaten, werden wir unter dem Titel „Walking The Talk“ eine Reihe an weiteren Einblicken in unsere organisationsinterne Arbeit, Struktur und unser Denken geben.
+</p>
+
+  <h3>++++++++++</h3>
+
+<p>
+<h2>From Scarcity to Abundance</h2>
+<h3>Embracing Feminist Practices of Optimism</h3>
+</p>
+
+<p>
+"Can you make a living from your job?" I am often asked this question. Many view non-profit work and good pay as contradictory.<br><br>
+Yet when I reply, "Pretty well, actually," it usually provokes intrigued looks. How can that be possible?<br><br>
+I co-lead a feminist organization. From the very beginning, it was our intent to approach things differently, which includes ensuring fair pay.
+</p>
+
+<p>
+Years ago, I learned about the concept of the "Abundance Mindset" at a feminist conference. It addressed how we, as feminist organizations, are frequently trapped in a mindset of scarce resources and limit ourselves accordingly. A scarcity mindset presumes that one person's gain is another's loss, fostering competitiveness, envy, and exploitation—all of which contradict our values and goals. Why not embrace an abundance mindset instead? This mindset posits that there is enough for everyone: options, choices, and resources. It replaces competitive thinking with thoughts of collective possibilities, which is also how we operate.
+</p>
+
+<p>
+As a feminist organization, we endeavor to implement on a small scale the changes we hope to see globally, encompassing values like justice, sustainability, and care. Naturally, we don't always succeed in every area every day; we don't always meet our own standards. Through a series of blog posts, we aim to provide insights into our methods and openly discuss what doesn't work as well.<br><br>What Does an Abundance Mindset Mean in Practice?
+</p>
+
+
+<h3>Fair pay</h3> <p>is crucial not only for our team but also when we engage with external parties, starting with our service providers, such as caterers for events. From the outset, we have chosen partners who offer their staff good working conditions, adhere to collective bargaining agreements, and prioritize sustainability, especially in industries where low wages and exploitation are common. It's not inexpensive, and it shouldn't be. If we can't afford to host events under fair conditions for everyone involved, we simply choose not to host them. An abundance mindset involves considering your environment and creating a win-win for all.
+</p>
+
+
+<h3>Sharing is Caring:</h3> <p>We are a small team of eleven. Our goal has never been fast growth; rather, we focus on collaboration with other organizations. This allows us to share resources and include a wider range of perspectives in our work. While growth is often viewed as a measure of success, we measure ours by the success of our collaborations, achieving mutual goals. These cooperative efforts are more sustainable and resilient than if an organization tries to manage everything independently. In the realm of collaborations, an abundance mindset means sharing your resources, co-writing proposals, and establishing contacts with supporters.
+</p>
+
+
+ <h3>Organizational Development versus Self-Promotion on Social Media </h3><p>A large part of our work remains unseen externally. Since SUPERRR's founding, we have dedicated numerous resources to organizational development. In joint sessions, our team explores how to collaborate effectively, what structures are needed for ongoing development and growth, and how to resolve conflicts collectively. This internal development is a core aspect of our feminist work; it lays the groundwork for our collaborations and enables us to embody our values. In a world that highly values visibility and self-presentation, focusing on internal structures is challenging but necessary for building a robust organization. This commitment to internal growth, while it may not garner public clicks and likes, is a long-term priority for our organization.
+</p>
+
+
+ <h3>No Unpaid Work</h3> <p>When approached by external entities for talks or workshops, we are often informed that no fees are involved, reflecting a common expectation of free labor in the non-profit sector. At SUPERRR, we challenge this norm by compensating for contributions. Many cannot afford to provide their labor without compensation. Focusing solely on free work limits reach to those who can afford to volunteer their time. An abundance mindset means fairly compensating work, even under financial constraints.
+</p>
+
+
+
+ <h3>Nobodys prefect:</h3> <p>Indeed, there are ongoing issues and areas for improvement. We are searching for a cleaning service that provides fair working conditions and wages, considering implementing an organization-wide four-day work week to better balance leisure and work, and aiming to achieve carbon neutrality.
+</p>
+
+<p>
+Despite our commitment to an abundance mindset, we continually encounter systemic obstacles that are difficult to overcome in the short term. We also recognize that our optimistic view might be a privilege not available to many in society. 
+</p>
+
+<p>
+Did you enjoy this post? Over the coming weeks and months, we will provide further insights into our internal workings, structures, and philosophies under the series "Walking The Talk."
 </p>
   
