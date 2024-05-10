@@ -24,14 +24,14 @@ Die Senior-Policy-Position bietet viele Entfaltungsmöglichkeiten und Freiraum, 
 <h3>Deine Fähigkeiten: </h3>
 
 <ul>
-    <li>Mehrjährige Arbeitserfahrung im Policy-Bereich, die du mit Arbeitsproben belegst</li>
-    <li>Sehr gutes netzpolitisches Einordnungswissen von loot boxes bis zu informed consent</li>
+    <li><b>Mehrjährige Arbeitserfahrung</b> im Policy-Bereich, die du mit Arbeitsproben belegst</li>
+    <li>Sehr gutes <b>netzpolitisches Einordnungswissen</b> von loot boxes bis zu informed consent</li>
     <li>Einfaches juristisches Einordnungswissen zu grundlegenden rechtlichen Fragen im Verbraucherschutz – DS-GVO und Co. sind kein Fremdwort für dich</li>
-    <li>Eigene Netzwerke im Bereich Netzpolitik und Verbraucherschutz</li>
-    <li>Agendasetting: Erkennen von strategisch relevanten Schwerpunktthemen im digitalen Verbraucher*innenschutz</li>
-    <li>Starke Kommunikations-Skills: Du weißt, wie man Themen im politischen Diskurs platziert, kannst die Inhalte aber auch für ein breites Publikum aufbereiten</li>
+    <li><b>Eigene Netzwerke</b> im Bereich Netzpolitik und Verbraucherschutz</li>
+    <li><b>Agendasetting:</b> Erkennen von strategisch relevanten Schwerpunktthemen im digitalen Verbraucher*innenschutz</li>
+    <li><b>Starke Kommunikations-Skills:</b> Du weißt, wie man Themen im politischen Diskurs platziert, kannst die Inhalte aber auch für ein breites Publikum aufbereiten</li>
     <li>Organisationstalent: Online- und Präsenzveranstaltungen konzipieren, organisieren und durchführen</li>
-    <li>Recherche-Skills: Über Desk Research und Interviews arbeitest du dich schnell ein und vertiefst dein Wissen rund um das Thema digitaler Verbraucherschutz</li>
+    <li><b>Recherche-Skills:</b> Über Desk Research und Interviews arbeitest du dich schnell ein und vertiefst dein Wissen rund um das Thema digitaler Verbraucherschutz</li>
     <li>Deutsch (C2) und sehr gute Englisch-Kenntnisse</li>
 </ul>
 
