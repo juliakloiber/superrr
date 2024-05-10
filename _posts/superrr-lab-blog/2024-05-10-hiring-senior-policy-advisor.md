@@ -21,8 +21,6 @@ Unser Ziel für die kommenden Jahre ist es, SUPERRR Lab zu einer zivilgesellscha
 Die Senior-Policy-Position bietet viele Entfaltungsmöglichkeiten und Freiraum, die feministische Agenda von SUPERRR mit uns zu formen. Beim Senior Policy Advisor sollen perspektivisch die  Policy-Fäden von SUPERRR Lab zusammenlaufen und Themen aktiv und vorausschauend mitgestaltet werden. Zu Beginn der Stelle wirst du selbstständig und in Abstimmung mit anderen Teammitgliedern arbeiten und im Verlauf auch Führungsaufgaben übernehmen.
 </p>
 
-
-
 <h3>Deine Fähigkeiten: </h3>
 
 <ul>
@@ -36,7 +34,6 @@ Die Senior-Policy-Position bietet viele Entfaltungsmöglichkeiten und Freiraum, 
     <li>Recherche-Skills: Über Desk Research und Interviews arbeitest du dich schnell ein und vertiefst dein Wissen rund um das Thema digitaler Verbraucherschutz</li>
     <li>Deutsch (C2) und sehr gute Englisch-Kenntnisse</li>
 </ul>
-
 
 <h3>Diese Kenntnisse sind von Vorteil:</h3>
 
