@@ -8,7 +8,7 @@ description: Bewirb dich!
 
 <p>Ort: Berlin, Deutschland.
 <br>Vertragsbeginn: flexibel ab dem 01.06.2024
-<br>Vertragslaufzeit: 24 Monate mit Aussciht auf Verlängerung
+<br>Vertragslaufzeit: 24 Monate mit Aussicht auf Verlängerung
 <br>Umfang: 40 Wochenstunden (100%)
 <br>Bezahlung nach <a href="[https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1](https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1)">TV-ÖD Bund E13/3</a> in Vollzeit</p>
 
@@ -98,6 +98,6 @@ Wir sind SUPERRR Lab, eine gemeinnützige feministische Organisation mit Sitz in
 </p>
 
 <h3>Und so bewirbst du dich:</h3>
-<p>Sende uns deinen Lebenslauf (ohne Foto, Geburtsdatum und Familienstand) und ein Anschreiben, warum du den Job spannend findest und welche Fähigkeiten du mitbringst, um ihn zu erfüllen, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a>. Die Bewerbungsfrist endet am 15.10.2023.</p>
+<p>Sende uns deinen Lebenslauf (ohne Foto, Geburtsdatum und Familienstand) und ein Anschreiben, warum du den Job spannend findest und welche Fähigkeiten du mitbringst, um ihn zu erfüllen, an <a href="mailto:jobs@superrr.net">jobs@superrr.net</a></p>
 <p>Als feministische Organisation verpflichten wir uns zu einem Bewerbungsprozess, der auf Gleichbehandlung und Chancengleichheit basiert.</p>
 <p>Wir freuen uns auf deine Bewerbung!</p>
