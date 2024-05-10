@@ -10,7 +10,7 @@ description: Bewirb dich!
 <br>Vertragsbeginn: flexibel ab dem 01.06.2024
 <br>Vertragslaufzeit: 24 Monate mit Aussicht auf Verlängerung
 <br>Umfang: 40 Wochenstunden (100%)
-<br>Bezahlung nach <a href="[https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1](https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1)">TV-ÖD Bund E13/3</a> in Vollzeit</p>
+<br>Bezahlung nach <a href="https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1">TV-ÖD Bund E13/3</a> in Vollzeit</p>
 
 <h3>Digitale Vordenker*in und Gestalter*in gesucht!</h3>
 
