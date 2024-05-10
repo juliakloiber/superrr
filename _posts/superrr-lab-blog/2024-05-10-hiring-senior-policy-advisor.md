@@ -14,8 +14,8 @@ description: Bewirb dich!
 
 <h3>Digitale Vordenker*in und Gestalter*in gesucht!</h3>
 
-<p>tldr: Superrr Lab sucht eine*n Senior Policy Advisor, Vollzeit in Berlin. Ab Juni 2024 oder später für 24 Monate (mit Aussicht auf Verlängerung). Gehalt: TV-ÖD 13/3 (derzeit 5.392,57€/Monat)
-</p>
+<p><b>tldr: Superrr Lab sucht eine*n Senior Policy Advisor, Vollzeit in Berlin. Ab Juni 2024 oder später für 24 Monate (mit Aussicht auf Verlängerung). Gehalt: TV-ÖD 13/3 (derzeit 5.392,57€/Monat)
+</b></p>
 <p>Das Thema <b>digitaler Verbraucher*innenschutz / Digitale Fairness</b> wird in den nächsten zwei Jahren auf deutscher und EU-Ebene neu aufgestellt. Wir suchen eine*n <b>Senior Policy Advisor</b>, der*die den Themenschwerpunkt in unserer Organisation aufbaut und SUPERRR auf deutscher (und perspektivisch europäischer) Ebene als wichtigen Impulsgeber etabliert.
 Unser Ziel für die kommenden Jahre ist es, SUPERRR Lab zu einer zivilgesellschaftlichen Organisation auszubauen, die aus dem digitalpolitischen Diskurs nicht mehr wegzudenken ist. Dafür brauchen wir deine Unterstützung. 
 Die Senior-Policy-Position bietet viele Entfaltungsmöglichkeiten und Freiraum, die feministische Agenda von SUPERRR mit uns zu formen. Beim Senior Policy Advisor sollen perspektivisch die  Policy-Fäden von SUPERRR Lab zusammenlaufen und Themen aktiv und vorausschauend mitgestaltet werden. Zu Beginn der Stelle wirst du selbstständig und in Abstimmung mit anderen Teammitgliedern arbeiten und im Verlauf auch Führungsaufgaben übernehmen.
