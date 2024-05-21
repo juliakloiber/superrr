@@ -1,7 +1,7 @@
 ---
 title: "Per Anhalter durch die digitale Zukunft"
 header_type: lab
-order: 1
+order: 6
 layout: project
 teaser_img: "/assets/img/static/projects/digiziv.png"
 hero_img: "/assets/img/static/projects/digiziv-hero.png"
