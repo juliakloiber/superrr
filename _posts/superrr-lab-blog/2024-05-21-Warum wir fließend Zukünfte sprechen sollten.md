@@ -10,7 +10,7 @@ title: Warum wir fließend „Zukünfte“ sprechen sollten
 
 description: Zukünfte Denken als Kompetenz verstehen 
 ---
-<img src="/assets/img/blog/Futures_Literacy.jpg" alt="An abstract visual consisting of blob-like blue shapes and collage cutouts of flowers and eyes" width="540" height="540">
+<img src="/assets/img/blog/Futures_Literacy_v2.jpg" alt="An abstract visual consisting of blob-like blue shapes and collage cutouts of flowers and eyes" width="540" height="540">
 
 
 <p>
