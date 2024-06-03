@@ -1,7 +1,7 @@
 ---
 title: "Futures Literacy for Civil Society– A Gym for our Imagination Muscle"
 header_type: lab
-order: 8
+order: 1
 layout: project
 teaser_img: "/assets/img/static/projects/futuresliteracy.jpg"
 hero_img: "/assets/img/static/projects/futuresliteracy-hero.jpg"
