@@ -7,7 +7,7 @@ description: Bewirb dich!
 ---
 
 <p>Ort: Berlin, Deutschland.
-<br>Vertragsbeginn: flexibel ab dem 01.06.2024 oder später
+<br>Vertragsbeginn: flexibel ab dem 01.07.2024 oder später
 <br>Vertragslaufzeit: 24 Monate mit Aussicht auf Verlängerung
 <br>Umfang: 40 Wochenstunden (100%)
 <br>Bezahlung nach <a href="https://oeffentlicher-dienst.info/c/t/rechner/tvoed/bund?id=tvoed-bund-2024&matrix=1">TV-ÖD Bund E13/3</a> in Vollzeit</p>
