@@ -36,7 +36,7 @@ description: Zukünftekompetenz als (zivil)gesellschaftliche Praxis
 <p>Am 7. Juni starten wir unsere gemeinsame Reise, der so viele Gedanken und Gespräche und die Arbeit so vieler kluger und wunderbarer Futurist*innen, Aktivist*innen, Denker*innen, Praktiker*innen und Freund*innen vorausgegangen sind. Wir können es kaum erwarten zu sehen, wohin sie uns führt – welche neuen Wege und Verbindungslinien sich auftun, Lernerfahrungen, Inspirationen und Gedanken sich entfalten. Was passiert mit uns als (Zivil)Gesellschaft, wenn wir uns im Zukünfte sprechen üben, unser Imaginationsmuskel wächst, wir Futures Literacy als Alltagspraxis etablieren? Lasst es uns herausfinden!</p>
 
 <br>
-    <h3>++++++++++</h3>
+<h3>++++++++++</h3>
 <br>
 
 <p>
