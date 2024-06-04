@@ -7,7 +7,7 @@ teaser_img: "/assets/img/static/projects/futuresliteracy.jpg"
 hero_img: "/assets/img/static/projects/futuresliteracy-hero.jpg"
 external_link: ""
 link: '/project/futuresliteracy'
-description: "Together with Futures Probes and 16 people from 14 civil society organizations, we are setting out to test and establish futures literacy as a (civil) society practice and prepare the ground for more equitable futures."
+description: "Together with Futures Probes and 15 people from 13 civil society organizations, we are setting out to test and establish futures literacy as a (civil) society practice and prepare the ground for more equitable futures."
 
 
 
