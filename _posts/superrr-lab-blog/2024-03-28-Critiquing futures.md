@@ -118,6 +118,10 @@ description: An approach to reflect on biases in futures scenarios and ideas.
     </li>
 </ul>
 
+<p>
+You can download the entire collection of questions <a href="https://superrr.net/assets/downloads/Critiquing%20Futures_method.pdf">here</a>. 
+</p>
+
 <h3>Appendix</h3>
 <p><b>Decoloniality</b></p>
 
