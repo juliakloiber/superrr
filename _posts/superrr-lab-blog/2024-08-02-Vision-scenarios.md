@@ -14,7 +14,7 @@ description: A SUPERRR method - Adding values to the game!
 <img src="/assets/img/blog/Vision-Scenarios.png" alt="A colorful pattern of turqoise and pink shapes, with the headline Vision Scenarios written in the middle of it." width="540" height="540">
 
 
-<p> Coming from an intersectional feminist background, values make up an integral part of the DNA of SUPERRR Lab. We are constantly trying to improve the integration of feminist values into our daily work, such as equity, diversity, creativity and curiosity. Values also play an integral role in the process of working with futures. Not only in our own futuring processes, but generally speaking. Most of the time though, such values are not made explicit. In the everyday futures scenarios by governments or corporations that surround us or the images and stories we see in sci-fi movies, values take up much space, mainly behind the scenes. 
+<p> Coming from an intersectional feminist background, values make up an integral part of the DNA of SUPERRR Lab. We are constantly trying to improve the integration of feminist values into our daily work, such as equity, diversity, creativity and curiosity. Values also play an integral role in the process of working with futures. Not only in our own futuring processes, but generally speaking. Most of the time though, such values are not made explicit. In the everyday futures scenarios by governments or corporations that surround us or the images and stories we see in sci-fi movies, values take up much space, mainly behind the scenes.
 </p>
 
 <p> Just think of the glossy "AI" futures currently being promoted in many areas of society. They depict an automated, seamless and frictionless future of work, consumption or creative output. These futures build on values such as efficiency, productivity, rationality, technological progress, hegemonic power structures (#singularity), economic growth or convenience consumerism. Or take the sci-fi series Star Trek: The Galactic Federation, which is basically the United Nations charter put into space, putting a strong emphasis on humanitarianism, equality, diversity, or individual freedom and rights. Even though both these examples strongly rely on values at their core, they are only made explicit sometimes. This might be due to a near-instinctive skill that we all possess, implicitly noticing values when we come across them. But especially with dominant narratives such as the mentioned future of "AI", values that drive this future are often taken as a given and usually not openly discussed or criticized, leaving little room for altering them.
@@ -69,7 +69,7 @@ SUPERRR Lab's vision scenarios approach aims to do precisely that. With this met
 
 
 <p>
-Several methods can link to this stage of the workshop. One can, for example, use the “News from the Future”  method for participants to further flesh out their vision scenario, writing a newspaper article on how this future came into being. Another can use the results of the backcasting to feed into more granular strategy processes looking at the next ten years. 
+Several methods can link to this stage of the workshop. One can, for example, use the <a href="https://superrr.net/assets/downloads/Vision Scenarios_Step-by-step guide.pdf">News from the Future</a> method for participants to further flesh out their vision scenario, writing a newspaper article on how this future came into being. Another can use the results of the backcasting to feed into more granular strategy processes looking at the next ten years. 
 </p>
 
 
@@ -77,6 +77,8 @@ Several methods can link to this stage of the workshop. One can, for example, us
 
 <p>From working with vision scenarios, we have learned that focusing on values is essential when building alternative futures around technology. In some areas of the tech world, values fortunately play an increasing role, for example, in AI ethics. However, as ethics mainly focus on the present, it is crucial to include values when approaching (tech) futures. This is necessary when we want to strive towards value-based digitization, where power structures are dismantled, discrimination is kept at bay, and sustainability aspects are the norm. </p>
 
-<p><b>For a simple workshop process overview, see here.</b></p>
+<p><b>For a simple workshop process overview, see <a href="https://superrr.net/assets/downloads/Vision Scenarios_Step-by-step guide.pdf">here</a>.</b></p>
+
+
 
 
