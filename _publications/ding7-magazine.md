@@ -6,7 +6,7 @@ layout: project
 teaser_img: "/assets/img/static/projects/square_DING7.png"
 hero_img: "/assets/img/static/projects/banner_DING7.jpg"
 external_link: ""
-link: '/publication/ding-magazine7'
+link: '/publication/ding7-magazine'
 description: "Twelve unfiltered stories of the fight for justice by former content moderators; talking about the harsh conditions, labor organizing & the future."
 
 
