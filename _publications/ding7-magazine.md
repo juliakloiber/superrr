@@ -4,7 +4,7 @@ header_type: lab
 order: 5
 layout: project
 teaser_img: "/assets/img/static/projects/square_DING7.png"
-hero_img: "/assets/img/static/projects/banner_DING7.jpg"
+hero_img: "/assets/img/static/projects/banner_DING7.png"
 external_link: ""
 link: '/publication/ding7-magazine'
 description: "Twelve unfiltered stories of the fight for justice by former content moderators; talking about the harsh conditions, labor organizing & the future."
@@ -14,7 +14,7 @@ description: "Twelve unfiltered stories of the fight for justice by former conte
 ---
 <h2>DING Issue 7</h2>
 <h1>Big Tech's Success: The Untold Exploitation of African Workers</h1>
-<p><i>“It's heartening to know our voices are being heard and amplified.”<i></p>
+<p><i>“It's heartening to know our voices are being heard and amplified.”</i></p>
 <p> For the first time, social media content moderators from Kenya tell their own stories, unfiltered and raw. In our magazine's most recent issue, thirteen of them give us a glimpse into the harsh realities of their work.</p>
 
 <p>To keep us safe, they act as buffers, filtering graphic, explicit content to protect our feeds, sacrificing their own safety and well-being. Despite precarious conditions and ongoing struggles, they refuse to see themselves as victims. Instead, they are organizing for better rights.</p>
