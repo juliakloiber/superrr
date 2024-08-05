@@ -29,7 +29,7 @@ description: "Twelve unfiltered stories of the fight for justice by former conte
 
 <p><i>“And then you had women having miscarriages. Women started losing weight, becoming unkempt... so many things. For the most part, the violence we saw was against women – intimate partner violence, women being stabbed.”</i> – <a hreff= "https://www.linkedin.com/in/kauna-malgwi-104b5b86/">Kauna Malgwi</a> writes about the hidden toll on women in content moderation.</p>
 
-<p><b></b>Big Tech's Success: The Untold Exploitation of African Workers. 
+<p><b>Big Tech's Success: The Untold Exploitation of African Workers. 
 Read their stories and share them widely: <a href="https://dingdingding.org/">https://dingdingding.org/</a></b></p>
 <br>
 <p>This magazine is a collaboration between <a href= "https://superrr.net/">SUPERRR Lab</a>, <a href="https://siasaplace.com/">Siasa Place</a>, and <a href="https://www.foxglove.org.uk/">Foxglove</a>.</p>
