@@ -23,14 +23,14 @@ description: "Twelve unfiltered stories of the fight for justice by former conte
 
 <p><i>I watched these videos constantly until I could no longer bear it. [...] My attempts to describe how the videos affected my relationship with my children fell on deaf ears.”</i> – A mother writes about how this job negatively affected her relationship with her children.</p>
 
-<p><i>“AI cannot be ethical if it is trained immorally.”</i> <a href="https://www.linkedin.com/in/mophat-okinyi/">Mophat Okinyi</a>, a former content moderator for OpenAI, speaks about the human cost of AI.</p>
+<p><i>“AI cannot be ethical if it is trained immorally.”</i> –  <a href="https://www.linkedin.com/in/mophat-okinyi/">Mophat Okinyi</a>, a former content moderator for OpenAI, speaks about the human cost of AI.</p>
 
-<p><i>“In countries like Kenya, where an educated workforce faces chronic unemployment [...] forcing many talented young graduates into the digital economy.”</i> <a href="https://www.linkedin.com/in/nerimawako/">Martha Nerima Selina Wako</a>, from the nonprofit <a href="https://siasaplace.com/">Siasa Place</a>, writes about the silence of Kenyan politicians about the risks and perils involved in digital work.</p>
+<p><i>“In countries like Kenya, where an educated workforce faces chronic unemployment [...] forcing many talented young graduates into the digital economy.”</i> –  <a href="https://www.linkedin.com/in/nerimawako/">Martha Nerima Selina Wako</a>, from the nonprofit <a href="https://siasaplace.com/">Siasa Place</a>, writes about the silence of Kenyan politicians about the risks and perils involved in digital work.</p>
 
 <p><i>“And then you had women having miscarriages. Women started losing weight, becoming unkempt... so many things. For the most part, the violence we saw was against women – intimate partner violence, women being stabbed.”</i> – <a hreff= "https://www.linkedin.com/in/kauna-malgwi-104b5b86/">Kauna Malgwi</a> writes about the hidden toll on women in content moderation.</p>
 
-<p>Big Tech's Success: The Untold Exploitation of African Workers. 
-Read their stories and share them widely: https://dingdingding.org/</p>
+<p><b></b>Big Tech's Success: The Untold Exploitation of African Workers. 
+Read their stories and share them widely: <a href="https://dingdingding.org/">https://dingdingding.org/</a></b></p>
 <br>
 <p>This magazine is a collaboration between <a href= "https://superrr.net/">SUPERRR Lab</a>, <a href="https://siasaplace.com/">Siasa Place</a>, and <a href="https://www.foxglove.org.uk/">Foxglove</a>.</p>
 
