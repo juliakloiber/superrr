@@ -11,7 +11,7 @@ description: Get to know our new team member.
 
 <p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Zara?
 </p>
-<p><b>Zara:</b> The side projects that take up the most of my time are my two small children! They’re a very rewarding project though, haha. And my dream/ambitious side project is actually related to them: together with a friend I’m slowly working on an idea for a children’s book series, which explains key concepts to children in an interesting and fun way, from an abolitionist perspective. Other past times include reading –  I keep a semi-regular track of my favourite books over on Storygraph https://app.thestorygraph.com/profile/zararah  –  and having people over for dinner, I love having a big busy dinner table!</p>
+<p><b>Zara:</b> The side projects that take up the most of my time are my two small children! They’re a very rewarding project though, haha. And my dream/ambitious side project is actually related to them: together with a friend I’m slowly working on an idea for a children’s book series, which explains key concepts to children in an interesting and fun way, from an abolitionist perspective. Other past times include reading –  I keep a semi-regular track of my favourite books over on <a href="https://app.thestorygraph.com/profile/zararah">Storygraph </a>   –  and having people over for dinner, I love having a big busy dinner table!</p>
 
 <p><b>SUPERRR:</b> With Superrr Lab we are thinking a lot about the future(s). What is an object/or application that does not yet exist – but something that you would like to have at your disposal in a preferable digital future? Something you would use every day and cannot imagine living without?
 </p>
@@ -30,11 +30,11 @@ description: Get to know our new team member.
 </p>
 
 <p><b>Zara:</b> 
-<ul><li>My dear friend and feminist activist Subha just published this fantastic report, on fascist and fundamentalist narratives in South Asia and Southeast Asia regions –  https://wearenoor.org/roots-of-hate-ssea/ </li>
+<ul><li>My dear friend and feminist activist Subha just published <a href="https://wearenoor.org/roots-of-hate-ssea/">this fantastic report</a>, on fascist and fundamentalist narratives in South Asia and Southeast Asia regions –   </li>
 
-<li>One of my favourite hopeful projects for the future is the Numun Fund –  https://numun.fund/ –  I’m on the review committee for grants and reading through the applications gives me so so much hope and inspiration!</li>
+<li>One of my favourite hopeful projects for the future is the <a href="https://numun.fund/"> Numun Fund </a> –   –  I’m on the review committee for grants and reading through the applications gives me so so much hope and inspiration!</li>
 
-<li>I love Mimi’s work for many reasons, but in this case, for articulating so eloquently a concept – the “unknowable”–   in a way that makes me rethink the way I think about things: https://www.e-flux.com/architecture/spatial-computing/593493/the-end-of-a-world-as-we-knew-it/</li></ul>
+<li>I love <a href="https://www.e-flux.com/architecture/spatial-computing/593493/the-end-of-a-world-as-we-knew-it/">Mimi’s work </a> for many reasons, but in this case, for articulating so eloquently a concept – the “unknowable”–   in a way that makes me rethink the way I think about things. </li></ul>
 
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
