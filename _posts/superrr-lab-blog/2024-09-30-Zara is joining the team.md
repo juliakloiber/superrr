@@ -40,6 +40,6 @@ description: Get to know our new team member.
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
 <p><b>Zara:</b> ‘be honest’ has been all over my Instagram since their documentary came out! 
 </p>
-<img src="/assets/img/blog/behonest.jpg" alt="behonest_memetemplate" width="500" height="600">
+<img src="/assets/img/blog/behonest.jpg" alt="behonest_memetemplate" width="100">
 
 <p><b>SUPERRR:</b> Thank you so much Zara, and once again: Welcome on board!</p>
