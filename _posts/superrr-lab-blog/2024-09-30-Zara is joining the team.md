@@ -30,11 +30,11 @@ description: Get to know our new team member.
 </p>
 
 <p><b>Zara:</b> 
-<ul><li>My dear friend and feminist activist Subha just published <a href="https://wearenoor.org/roots-of-hate-ssea/">this fantastic report</a>, on fascist and fundamentalist narratives in South Asia and Southeast Asia regions –   </li>
+<ul><li>My dear friend and feminist activist Subha just published <a href="https://wearenoor.org/roots-of-hate-ssea/">this fantastic report</a>, on fascist and fundamentalist narratives in South Asia and Southeast Asia regions.</li>
 
-<li>One of my favourite hopeful projects for the future is the <a href="https://numun.fund/"> Numun Fund </a> –  I’m on the review committee for grants and reading through the applications gives me so so much hope and inspiration!</li>
+<li>One of my favourite hopeful projects for the future is the <a href="https://numun.fund/"> Numun Fund </a>–  I’m on the review committee for grants and reading through the applications gives me so so much hope and inspiration!</li>
 
-<li>I love Mimi’s work for many reasons, but in  <a href="https://www.e-flux.com/architecture/spatial-computing/593493/the-end-of-a-world-as-we-knew-it/">this case</a>, for articulating so eloquently a concept – the “unknowable” –   in a way that makes me rethink the way I think about things. </li></ul>
+<li>I love Mimi’s work for many reasons, but in  <a href="https://www.e-flux.com/architecture/spatial-computing/593493/the-end-of-a-world-as-we-knew-it/">this case</a>, for articulating so eloquently a concept – the “unknowable” – in a way that makes me rethink the way I think about things.</li></ul>
 
 
 <p><b>SUPERRR:</b> Last but not least, what's your favourite Meme?</p>
