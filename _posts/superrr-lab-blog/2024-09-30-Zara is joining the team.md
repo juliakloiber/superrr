@@ -6,7 +6,7 @@ title: SUPERRR Lab is growing – welcome Zara!
 description: Get to know our new team member. 
 ---
 
-<img src="/assets/img/blog/banner_zara.jpg" alt="Portrait of Zara" width="500" height="600">
+<img src="/assets/img/blog/banner_zara2.jpg" alt="Portrait of Zara" width="500" height="600">
 <p><em>We are very excited to announce a new addition to our team! Zara will step us as our Strategic Advisor and help develop and improve the ways we can reach our goals ✨ To introduce and welcome her, we've asked a couple of questions: </em></p>
 
 <p><b>SUPERRR:</b> A good way to get to know someone is via their side projects and hobbies. What are some of your current side projects, Zara?
