@@ -1,7 +1,7 @@
 ---
 title: "ON/OFF"
 header_type: lab
-order: 1
+order: 3
 layout: project
 teaser_img: "assets/img/static/projects/onoff-header.jpg"
 hero_img: "/assets/img/static/projects/onoff-hero.jpg"

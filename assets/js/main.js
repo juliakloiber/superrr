@@ -480,10 +480,6 @@
 
     Controller.prototype.addEventHandlers = function(){
 
-        $('.more-btn').not('.initialized').click(function(e){
-            Logger.log("click -> ", $(this).attr('href'));
-            window.open($(this).attr('href'), "_self");
-        }).addClass('initialized');
 
         /*********************
         scroll event

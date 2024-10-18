@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Infrastructure Playbook"
 header_type: lab
-order: 1
+order: 4
 layout: project
 teaser_img: "/assets/img/static/projects/Playbook-1.png"
 hero_img: "/assets/img/static/projects/Playbook-3.png"
