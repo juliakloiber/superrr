@@ -1,148 +1,127 @@
 ---
-layout: default
-title : SUPERRR Lab
-description : "We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. SUPERRR is playful, visionary and feminist."
-type: lab
+layout: ftf
+title : Feminist Tech Policy
+description : Demanding inclusive and radically diverse digital futures
+type: fellows
 ---
-
 <div class="page-content section fullwidth">
-
-    {% include partials/navigation-left.liquid %}
+    {% include partials/navigation-left-ftf.liquid %}
 
     <div class="content-wrap navigation-left-victim">
-        <div class="section mobile-padded fullwidth home-hero d-flex">
-            <div class="content-wrap-inner full d-flex">
-                <div class="row w-100">
-                    <div class="col-24 col-sm-12 d-block d-md-flex align-items-center align-items-sm-start align-items-xmd-center justify-content-center">
-                        <div class="home-claim fontsize-120 uppercase pr-sm-4 pr-xmd-5">
-                            <span class="outlined-text">Laboratory<br></span>
-                            <span class="outlined-text">for&nbsp;</span><span>feminist<br>digital<br></span>
-                        <span class="outlined-text">futures</span>
-                        </div>
-                    </div>
-                    <div class="col-24 col-sm-12 d-flex align-items-center justify-content-center">
-                        <div class="d-flex flex-wrap home-info">
-                            <div class="home-icon-wrap d-flex justify-content-center my-5 mt-sm-0 mb-sm-3 mb-md-4 mb-slg-5 mb-lg-5">
-                                <a href="/about" class="d-block batch-inner">
-                                    <div class="img-responsive batch-svg">
-                                        {% include svgs/superrr-logo.liquid %}
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="fontsize-40 mt-4 mt-mb-0 mb-5 mb-md-4 mb-lg-5">
-                                <p class="m-0 home-text">
-                                    We develop visions and projects with the goal to create more equitable futures. We do research, build networks and shape narratives. Superrr is playful, visionary and feminist.
-                                </p>
-                            </div>
-                            <div class="more-btn-wrap my-2 mb-sm-0">
-                                <a href="/about" class="event-link more-btn home  fade-in animated fadeInUp full-visible">
-                                    <span class="more-btn-inner"><span>Rrread more!</span></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section fullwidth bg-grey-light">
-            <h3 class="section-headline">Projects</h3>
-            <div class="card-holder" data-category="projects">
-                {% assign projects = site.projects | sort: 'order' %}
-                {% for post in projects %}
-                {% include card.liquid %}
-                {% endfor %}
-            </div>
-        </div>
-        <div class="section fullwidth">
-            <h3 class="section-headline">Publications</h3>
-            <div class="card-holder" data-category="publications">
-                {% assign publications = site.publications | sort: 'order' %}
-                {% for post in publications %}
-                {% include card.liquid %}
-                {% endfor %}
-            </div>
-        </div>
-        <div class="section fullwidth min-fullheight background-lab-community-front padded with-shadow">
+        <div class="section image half bg-white ftf-home">
             <div class="content-wrap-inner">
-                <div class="home-icon-wrap d-flex justify-content-center justify-content-md-start mb-5">
-                    <object class="img-responsive batch-svg" data="" data-src="{{ site.baseurl }}/assets/img/static/batches/Superrr-community-transparent.svg" type="image/svg+xml" ></object>
-                </div>
+                <!-- <a href="deck"> -->
+                    <img src="" class="img-responsive d-none d-md-block lazyload" data-src="{{ site.baseurl }}/assets/img/static/feminist_tech_policy2_landscape.jpg" alt="The Feminist Tech Policy" />
+                    <img src="" class="img-responsive d-block d-md-none lazyload" data-src="{{ site.baseurl }}/assets/img/static/feminist_tech_policy2_portrait.jpg" alt="The Feminist Tech Policy" />
+                <!-- </a> -->
             </div>
+        </div>
+        <div class="section fullwidth bg-white">
             <div class="content-wrap-inner shrinked">
-                <h3 class=" fontsize-70 uppercase">Superrr<br>Community</h3>
-                <p class="fontsize-40">
-                    Superrr Community is a network of female, trans and non-binary people in the arts, in science, tech, journalism, activism and more. We meet on a regular basis in Berlin and London.
-                </p>
-                <div class="more-btn-wrap">
-                    <a href="/community" class="event-link more-btn  fade-in animated fadeInUp full-visible">
-                        <span class="more-btn-inner"><span>Rrread more!</span></span>
-                    </a>
+                <h1 class="text-center">Towards a Feminist Tech Policy</h1>
+                <div class="intro-text text-left text-sm-center">
+                    <p>
+                   To build just and inclusive digital futures it needs a holistic view of digitalization. A Feminist Tech Policy sheds light on power structures, injustices and the environmental aspects of technology. It questions current innovation narratives and examines the value of maintenance, accessibility, openness and care for the digital societies of the future. A feminist approach helps to think and see beyond existing stories and structures.
+
+                    <br><br>Together with activists, educators, writers, technologists and designers SUPERRR Lab has developed a set of Feminist Tech Principles and a Feminist Tech Card Deck. These elements are the first step towards the development of a Feminist Tech Policy that can be used by policy makers, non-profits and other actors. In the upcoming months of the year 2022 we will work on developing the Feminist Tech Policy further. Enjoy this website and stay tuned for more.
+                    </p>
+                 </div>
+                    {% include partials/ftf-button.liquid text='About the project' href='about' %}
+              
+            </div>
+        </div>
+        
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner">
+                <div class="ftf-quote">
+                    <blockquote class="text-left text-sm-center">
+                        »Right now, big tech is shaping what our future technologies look like and how we imagine them. And because we have become so dependent on their products, our reliance upon their visions is closing down avenues for alternative futures.«
+                        <span class="text-left text-sm-center">— Fieke Jansen & Michelle Thorne </span>
+                    </blockquote>
                 </div>
             </div>
         </div>
-        <div class="section fullwidth bg-white padded-organisations">
-            <div class="content-wrap-inner news home">
-                <h3 class="section-headline pt-0">News &<br>Ressources</h3>
-                <div class="posts-holder home">
-                    {% assign index = 0 %}
-                    {% for post in site.posts %}
-                        {% if index < 4 %}
-                            {% if post.type != 'ftf' %}
-                                {% include post-teaser.liquid type='home' %}
-                                {% assign index = index | plus:1 %}
-                            {% endif %}
-                        {% endif %}
+        
+        <!-- <div class="section fullwidth bg-white"> -->
+        <div class="section fellows fullwidth bg-grey-light background-1 padded-top">
+            <div class="content-wrap-inner shrinked">
+                <h1 class="text-center">The Feminist Tech Card Deck</h1>
+                    <div class="intro-text text-left text-sm-center">
+                    <p>
+                        This card deck is designed to help players engage in discussions about feminist tech in a fun way while drawing upon their own experiences and visions.
+                    </p>
+                    </div>
+                
+                <div class="content-wrap-inner">
+                <a href="deck">
+                    <img src="" class="img-responsive d-none d-md-block lazyload" data-src="{{ site.baseurl }}/assets/img/static/feminist_tech_card deck.jpg" alt="The Feminist Tech Card Deck" />
+                    <img src="" class="img-responsive d-block d-md-none lazyload" data-src="{{ site.baseurl }}/assets/img/static/feminist_tech_card deck.jpg" alt="The Feminist Tech Card Deck" />
+                </a>
+            </div>
+                
+                {% include partials/ftf-button.liquid text='To the card deck' href='deck' %}
+            </div>
+        </div>
+
+            
+        <div class="section fullwidth bg-white padded">
+            <div class="content-wrap-inner shrinked">
+                <h1 class="text-center">The Feminist Tech Principles</h1>
+                <p class="text-center">
+                    The Feminist Tech principles are a set of guidelines for tech policy-making and technology creation. They are intended as a responsive work-in-progress that reflect the evolving nature of our digital world. The principles were drafted in a collaborative process between the team at SUPERRR Lab and a group of activists, policymakers, writers, designers, technologists, researchers and educators, that advocate for digital rights and the rights of marginalised groups.
+                </p>
+                <p class="text-center">
+                    These principles take a critical lens to tech, observing and addressing the power structures behind the creation, regulation and use of technology, and offering a framework for creating new, emancipatory structures.
+                </p>
+                <div class="d-flex flex-column flex-sm-row my-5 py-5 align-items-center justify-content-sm-between">
+                    {% include partials/ftf-pill.liquid text='Global' href='/feministtech/principles/#global' classes="mb-3 mb-sm-0" %}
+                    {% include partials/ftf-pill.liquid text='Societal' href='/feministtech/principles/#societal' classes="mb-3 mb-sm-0" %}
+                    {% include partials/ftf-pill.liquid text='Interpersonal' href='/feministtech/principles/#interpersonal' classes="mb-3 mb-sm-0" %}
+                    {% include partials/ftf-pill.liquid text='The Self' href='/feministtech/principles/#the-self' classes="mb-3 mb-sm-0" %}
+                </div>
+                <p class="text-center">
+                    Each principle is supported by a brief overview on why we think the principle is necessary, and a good practice example of people or organizations who are already working on this topic in a feminist way. 
+                </p>
+                {% include partials/ftf-button.liquid text='Read the principles' href='/feministtech/principles' %}
+            </div>
+        </div>
+        <div class="section fellows fullwidth bg-grey-light background-1 padded-top">
+            <div class="content-wrap-inner shrinked intro-wrap">
+                <h1 class="text-center">The Feminist Tech Vision</h1>
+                <p>
+                    To make the Feminist Tech Principles more tangible and accessible to a wider audience, our contributors and us turn to storytelling by developing a set of future narratives. They aim to envision more just technological futures based on selected Principles.
+                </p>
+            </div>
+            <div class="card-holder" data-category="visions">
+                {% assign visions = site.visions | sort: 'order' %}
+                {% for post in visions %}
+                {% include card-vision.liquid %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="section fullwidth bg-white">
+            <div class="content-wrap-inner shrinked intro-wrap">
+                <h1 class="text-center">The Contributors</h1>
+                <p>
+                    To create the feminist tech principles, visions and the card deck, Superrr Lab collaborated with a group of feminist activists, policymakers, writers, designers, technologists and researchers.
+                </p>
+            </div>
+            <div class="content-wrap-inner half">
+                <div class="row contributors-holder mt-3 justify-content-center" >
+                    {% assign contributors = site.contributors | sort: 'title' %}
+                    {% for item in contributors %}
+                    {% include sections/contributor-teaser-small.liquid item=item %}
                     {% endfor %}
                 </div>
-
-            </div>
-            <div class="content-wrap-inner">
-                <div class="more-btn-wrap d-flex">
-                    <a href="/news" class="event-link more-btn  fade-in animated fadeInUp full-visible">
-                        <span class="more-btn-inner"><span>Morrre news</span></span>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div class="section fullwidth bg-grey-light padded-organisations">
-            <div class="content-wrap-inner">
-                <h3 class="section-headline pt-0">Organisations the Lab has worked with</h3>
-            </div>
-                <div class="content-wrap-inner">
-                    <div class="organizations-wrap d-flex flex-wrap justify-content-center mt-4">
-                        <a href="https://superrr.net/2022/05/16/blick-in-die-zukunft.html" target="_blank">    
-                         <img src="{{ site.baseurl }}/assets/img/static/organizations/Stiftung_Mercator_Schwarz_RGB.png" />
-                        </a>
-                            
-                        <a href="https://www.goethe.de/de/index.html" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/goetheinstitut.png" />
-                        </a>
-                        <a href="https://foundation.mozilla.org/" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/mozilla-logo-transparent.png" />
-                        </a>
-                        <a href="https://www.wikimedia.de/" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/wikimedia-deutschland-logo.png" />
-                        </a>
-                        <a href="https://www.bertelsmann-stiftung.de/de/startseite" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/bertelsman-stiftung.png" />
-                        </a>
-                        <a href="https://www.opensocietyfoundations.org/" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/osf.png" />
-                        </a>
-                        <a href="https://www.bosch-stiftung.de/de" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/bosch.png" />
-                        </a>
-                         <a href="https://kulturstiftung.allianz.de/de_DE.html" target="_blank">
-                            <img src="{{ site.baseurl }}/assets/img/static/organizations/allianz.png" />
-                        </a>
-                    </div>
-                </div>
+                {% include partials/ftf-button.liquid text='See all contributors' href='/feministtech/contributors' %}
             </div>
         </div>
     </div>
+
 </div>
 <script>
     var is_large_header_page = true;
-    var is_front_page = true;
 </script>
+
+
+

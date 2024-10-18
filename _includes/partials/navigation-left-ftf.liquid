@@ -12,13 +12,12 @@
         <ul class="main-nav fellows font-headline">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
-            <li {% if base_dir[2] == 'about' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/about">About</a></li>
-            <li {% if base_dir[2] == 'deck' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/deck">The Card Deck</a></li>
-            <li {% if base_dir[2] == 'principles' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/principles">The Principles</a></li>
-            <li {% if base_dir[2] == 'visions' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/visions">Visions</a></li>
-            <li {% if base_dir[2] == 'contributors' %} class="current" {% endif %}><a class="fontsize-50" href="/feministtech/contributors">Contributors</a></li>
-            <li data-dir="{{ base_dir[2] }}" {% if base_dir[2] == 'fellows' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/feministtech/fellows">Fellows</a></li>
-            <li ><a class="fontsize-50" href="/feministtech/contributors">Contributors</a></li>
+            <li {% if base_dir[2] == 'about' %} class="current" {% endif %}><a class="fontsize-50" href="/about">About</a></li>
+            <li {% if base_dir[2] == 'deck' %} class="current" {% endif %}><a class="fontsize-50" href="/deck">The Card Deck</a></li>
+            <li {% if base_dir[2] == 'principles' %} class="current" {% endif %}><a class="fontsize-50" href="/principles">The Principles</a></li>
+            <li {% if base_dir[2] == 'visions' %} class="current" {% endif %}><a class="fontsize-50" href="/visions">Visions</a></li>
+            <li {% if base_dir[2] == 'contributors' %} class="current" {% endif %}><a class="fontsize-50" href="/contributors">Contributors</a></li>
+            <li data-dir="{{ base_dir[2] }}" {% if base_dir[2] == 'fellows' %} class="current" {% endif %}><a class="fontsize-50 rounded-hover" href="/fellows">Fellows</a></li>
         </ul>
         <div class="community-batch-wrap">
                     <a href="{{ site.support_us_link }}" title="{{ site.support_us_text }}" class="batch-inner support">

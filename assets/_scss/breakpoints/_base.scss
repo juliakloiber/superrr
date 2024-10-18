@@ -168,6 +168,14 @@ body.feminist-tech {
     background: $color-ftf-lila;
     color: white;
   }
+
+  .batch-inner.support.footer {
+    .svg-hover path {
+      fill: $secondary-color;
+    }
+  }
+
+
 }
 
 .accordion {
@@ -1243,6 +1251,10 @@ a.bg-hover{
   display: block;
   position: relative;
 
+  &:after {
+    display: none !important;
+  }
+
   img{
     position: absolute;
     top: 0;
@@ -1254,6 +1266,8 @@ a.bg-hover{
 .batch-svg{
   pointer-events: none;
   height: 100%;
+
+
 
   &:hover, &:active {
     svg .svg-hover {
@@ -2333,6 +2347,7 @@ SUPPORT US batch
     fill: #fff;
   }
 }
+
 
 @keyframes marquee {
   0%   { text-indent: 0em }
